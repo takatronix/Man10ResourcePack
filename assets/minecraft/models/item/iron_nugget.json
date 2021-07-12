@@ -1,0 +1,25 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/iron_nugget"
+    },
+    "overrides": [
+		
+		{"predicate": {"custom_model_data":1}, "model": "man10/slot/hihouden/anubis_1"},
+		{"predicate": {"custom_model_data":2}, "model": "man10/slot/hihouden/anubis_2"},
+		{"predicate": {"custom_model_data":3}, "model": "man10/slot/hihouden/anubis_3"},
+		{"predicate": {"custom_model_data":4}, "model": "man10/slot/hihouden/anubis_4"},
+		{"predicate": {"custom_model_data":5}, "model": "man10/slot/hihouden/anubis_5"},
+		{"predicate": {"custom_model_data":6}, "model": "man10/slot/hihouden/anubis_6"},
+		{"predicate": {"custom_model_data":7}, "model": "man10/slot/hihouden/anubis_7"},
+    
+		{"predicate": {"custom_model_data":8}, "model": "man10/slot/man5/man5_bell"},
+		{"predicate": {"custom_model_data":9}, "model": "man10/slot/man5/man5_chance"},
+		{"predicate": {"custom_model_data":10}, "model": "man10/slot/man5/man5_cherry"},
+		{"predicate": {"custom_model_data":11}, "model": "man10/slot/man5/man5_reg"},
+		{"predicate": {"custom_model_data":12}, "model": "man10/slot/man5/man5_replay"},
+		{"predicate": {"custom_model_data":13}, "model": "man10/slot/man5/man5_seven"},
+    
+		{"predicate": {"custom_model_data":14}, "model": "item/iron_nugget"}
+    ]
+}
