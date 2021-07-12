@@ -3,6 +3,23 @@
 
 
 
+| どのアイテムに割りあてるか                               |
+| -------------------------------------------------------- |
+| 被り物: wooden_hoe                                       |
+| 銃火器: iron_hoe                                         |
+| 近接武器: iron_sword                                     |
+| 杖・魔法武器: iron_shovel                                |
+| 飲み物: potion                                           |
+| 食べ物: baked_potato                                     |
+| 設備・家具類: stone_hoe                                  |
+| ガジェット類: golden_hoe                                 |
+| スロット図柄: iron_nugget                                |
+| 文字類: gold_nugget                                      |
+| イミテーションアイテム: diamond_hoe                      |
+| mob装備: diamond_hoe                                     |
+| 換金アイテム・通貨: 〇〇〇_ingot/diamond/emerald(編集済) |
+|                                                          |
+
 #### ディレクトリ構造について
 
 - sounds(音)

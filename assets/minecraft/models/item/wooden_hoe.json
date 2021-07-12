@@ -1,0 +1,14 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/wooden_hoe"
+    },
+    "overrides": [
+		
+		{"predicate": {"custom_model_data":1}, "model": "man10/hat/pienn_emoji"},	
+		{"predicate": {"custom_model_data":2}, "model": "man10/hat/rage_emoji"},
+
+
+		{"predicate": {"custom_model_data":3}, "model": "item/wooden_hoe"}
+    ]
+}
