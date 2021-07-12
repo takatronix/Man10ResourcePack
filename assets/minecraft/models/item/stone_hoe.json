@@ -6,8 +6,9 @@
          "overrides": [
         { "predicate": {"custom_model_data": 1 }, "model": "man10/equipment/atm" },
         { "predicate": {"custom_model_data": 2 }, "model": "man10/equipment/gacha" },
-        { "predicate": {"custom_model_data": 3 }, "model": "man10/equipment/kumanju" },
+        { "predicate": {"custom_model_data": 3 }, "model": "man10/equipment/vending_machine" },
+        { "predicate": {"custom_model_data": 4 }, "model": "man10/equipment/kumanju" },
 
-        { "predicate": {"custom_model_data": 4 }, "model": "item/stone_hoe" }
+        { "predicate": {"custom_model_data": 5 }, "model": "item/stone_hoe" }
         ]
 }
