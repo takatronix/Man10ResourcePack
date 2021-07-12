@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/gray_concrete_powder",
-		"back": "custom/kanranseki/glow_item_frame1"
+		"back": "man10/entity/glow_item_frame1"
 	},
 	"elements": [
 		{
