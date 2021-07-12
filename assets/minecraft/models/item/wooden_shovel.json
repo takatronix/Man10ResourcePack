@@ -6,6 +6,7 @@
     "overrides": [
 		
 		{"predicate": {"custom_model_data":1}, "model": "man10/icon/discord"},	
+		{"predicate": {"custom_model_data":2}, "model": "man10/icon/enderchest"},	
 
 		{"predicate": {"custom_model_data":10}, "model": "item/wooden_shovel"}
     ]
