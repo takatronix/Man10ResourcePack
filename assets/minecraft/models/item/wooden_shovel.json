@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/wooden_shovel"
+    },
+    "overrides": [
+		
+		{"predicate": {"custom_model_data":1}, "model": "man10/icon/discord"},	
+
+		{"predicate": {"custom_model_data":10}, "model": "item/wooden_shovel"}
+    ]
+}
