@@ -1,0 +1,12 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/stone_hoe"
+    },
+         "overrides": [
+        { "predicate": {"custom_model_data": 1 }, "model": "man10/equipment/atm" },
+        { "predicate": {"custom_model_data": 2 }, "model": "man10/equipment/gacha" },
+
+        { "predicate": {"custom_model_data": 3 }, "model": "item/stone_hoe" }
+        ]
+}
