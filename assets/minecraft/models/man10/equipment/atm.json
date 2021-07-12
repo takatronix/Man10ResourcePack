@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "man10/equipment/gacha/logo",
+		"1": "man10/equipment/atm/logo",
 		"2": "block/light_gray_concrete",
 		"3": "block/anvil",
 		"4": "block/white_concrete",
