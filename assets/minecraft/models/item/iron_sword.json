@@ -1,0 +1,11 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/iron_sword"
+    },
+         "overrides": [
+        { "predicate": {"custom_model_data": 1 }, "model": "man10/weapon/sword/long_iron_sword" },
+
+        { "predicate": {"custom_model_data": 3 }, "model": "item/iron_sword" }
+        ]
+}
