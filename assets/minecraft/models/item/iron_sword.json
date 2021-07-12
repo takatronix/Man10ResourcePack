@@ -6,7 +6,8 @@
          "overrides": [
         { "predicate": {"custom_model_data": 1 }, "model": "man10/weapon/sword/long_iron_sword" },
         { "predicate": {"custom_model_data": 2 }, "model": "man10/weapon/sword/normal_scythe" },
+        { "predicate": {"custom_model_data": 3 }, "model": "man10/weapon/sword/bustersword" },
 
-        { "predicate": {"custom_model_data": 3 }, "model": "item/iron_sword" }
+        { "predicate": {"custom_model_data": 4 }, "model": "item/iron_sword" }
         ]
 }
