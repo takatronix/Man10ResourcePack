@@ -1,0 +1,12 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "item/iron_shovel"
+    },
+    "overrides": [
+		
+		{"predicate": {"custom_model_data":1}, "model": "man10/weapon/magic/goblinslayer_wand"},
+
+    {"predicate": {"custom_model_data":2}, "model": "item/iron_shovel"}		
+  ]
+}

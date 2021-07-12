@@ -58,9 +58,10 @@
     - icon(ディスコードアイコンなどのアイコン)
     - other　(あてはまらないもの)
     - weapon
-      - gun
+      - magic (魔法)
+      - gun　(銃)
       - other
-      - sword
+      - sword　
 
 #### ルール
 
@@ -68,7 +69,6 @@
 - textures/ 以下には、pngとmcmetaファイル以外は置かない。
 - modelsとtextureのカテゴリ名は一致させること
 - commons以外のtextureファイルには必ずmodelのフォルダを作り、どのモデルから参照されてるかわかるようにすること
-  
 
 #### 例
 
