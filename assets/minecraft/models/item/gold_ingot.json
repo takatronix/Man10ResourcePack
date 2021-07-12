@@ -6,8 +6,14 @@
     "overrides": [
 		
       {"predicate": {"custom_model_data":1}, "model": "man10/currency/m1000"},
-      {"predicate": {"custom_model_data":2}, "model": "man10/currency/topaz"},		
-      {"predicate": {"custom_model_data":3}, "model": "man10/currency/sapphire"},		
-      {"predicate": {"custom_model_data":4}, "model": "man10/currency/ruby"}		
+    	{"predicate": {"custom_model_data":2}, "model": "man10/currency/goldcoin"},
+    	{"predicate": {"custom_model_data":3}, "model": "man10/currency/goldcoin_mini"},
+
+      {"predicate": {"custom_model_data":5}, "model": "man10/currency/topaz"},		
+      {"predicate": {"custom_model_data":6}, "model": "man10/currency/sapphire"},		
+      {"predicate": {"custom_model_data":7}, "model": "man10/currency/ruby"},
+
+
+      {"predicate": {"custom_model_data":8}, "model": "item/gold_ingot"}		
     ]
 }

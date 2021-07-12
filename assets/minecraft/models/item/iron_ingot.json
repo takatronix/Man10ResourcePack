@@ -1,11 +1,15 @@
 {
-    "parent": "minecraft:item/generated",
+    "parent": "item/generated",
     "textures": {
         "layer0": "item/iron_ingot"
     },
     "overrides": [
 		
 		{"predicate": {"custom_model_data":1}, "model": "man10/currency/m100"},
-    {"predicate": {"custom_model_data":2}, "model": "man10/currency/silvercoin"}		
+    {"predicate": {"custom_model_data":2}, "model": "man10/currency/silvercoin"},
+    {"predicate": {"custom_model_data":3}, "model": "man10/currency/silvercoin_mini"},
+    
+    
+		{"predicate": {"custom_model_data":4}, "model": "item/iron_ingot"}
     ]
 }
