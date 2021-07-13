@@ -14,7 +14,8 @@
         { "predicate": {"custom_model_data": 8 }, "model": "man10/equipment/benchpress" },
         { "predicate": {"custom_model_data": 9 }, "model": "man10/equipment/running-machine" },
         { "predicate": {"custom_model_data": 10 }, "model": "man10/equipment/afternoon_tea_stand" },
+        { "predicate": {"custom_model_data": 11 }, "model": "man10/equipment/blackboard" },
 
-        { "predicate": {"custom_model_data": 11 }, "model": "item/stone_hoe" }
+        { "predicate": {"custom_model_data": 12 }, "model": "item/stone_hoe" }
         ]
 }
