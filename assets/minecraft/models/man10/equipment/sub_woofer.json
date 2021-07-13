@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "man10/common/gray3",
-		"1": "man10/common/gray2",
-		"2": "man10/equipment/sub_woofer/amime",
+		"0": "man10/common/gray14",
+		"1": "man10/common/dimgray",
+		"2": "man10/equipment/spaeker_woofer/amime",
 		"3": "man10/common/black",
-		"4": "man10/common/gray4",
-		"particle": "man10/common/gray3"
+		"4": "man10/common/gray",
+		"particle": "man10/common/gray14"
 	},
 	"elements": [
 		{
