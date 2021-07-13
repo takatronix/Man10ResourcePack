@@ -43,7 +43,7 @@
   - man10
     - currency (通貨アイテム・ガチャコインなど)
     - common (共通化できるテクスチャ)
-    - fishe　(魚)
+    - fish　(魚)
     - food (食べ物)
     - drink(飲み物
     - drug(薬
@@ -85,8 +85,7 @@ pistoldemo というテクスチャを作るときの例です。
 [テクスチャ]　モデル名と一致するフォルダを作る
 
 　* /textures/man10/weapos/guns/pistoldemo/frame.png
-
-- /textures/man10/weapos/guns/pistoldemo/barrel.png
+  * /textures/man10/weapos/guns/pistoldemo/barrel.png
 
 これらの組み合わせをセットとする
 
