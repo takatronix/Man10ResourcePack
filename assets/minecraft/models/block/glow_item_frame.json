@@ -5,14 +5,15 @@
 	},
 	"elements": [
 		{
-			"from": [7.38409, 6.24, 15.5],
-			"to": [8.38409, 7.24, 16.5],
+			"from": [7.5, 7.5, 16],
+			"to": [8.5, 8.5, 17],
 			"faces": {
 				"north": {"uv": [5, 5, 11, 11], "texture": "#back"},
 				"south": {"uv": [3, 2, 13, 14], "texture": "#back"}
 			}
 		}
 	],
+	"display": {},
 	"groups": [
 		{
 			"name": "group",
