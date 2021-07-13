@@ -8,7 +8,8 @@
 		{"predicate": {"custom_model_data":1}, "model": "man10/gadget/mphonex"},		
 		{"predicate": {"custom_model_data":2}, "model": "man10/gadget/macbook"},	
 		{"predicate": {"custom_model_data":3}, "model": "man10/gadget/imac"},	
+		{"predicate": {"custom_model_data":4}, "model": "man10/gadget/ipad"},	
 
-		{"predicate": {"custom_model_data":4}, "model": "item/golden_hoe"}	
+		{"predicate": {"custom_model_data":5}, "model": "item/golden_hoe"}	
     ]
 }
