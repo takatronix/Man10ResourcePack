@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "man10/common/brown2",
+		"0": "man10/common/saddienbrown",
 		"1": "man10/common/silver",
-		"2": "man10/common/black2",
+		"2": "man10/common/siategray",
 		"3": "man10/equipment/metronome/metronome_animation",
-		"particle": "man10/common/brown2"
+		"particle": "man10/common/saddienbrown"
 	},
 	"elements": [
 		{
