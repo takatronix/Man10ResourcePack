@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/golden_shovel"
+    },
+    "overrides": [
+		
+		{"predicate": {"custom_model_data":1}, "model": "man10/vehicle/bicycle"},	
+
+		{"predicate": {"custom_model_data":10}, "model": "item/golden_shovel"}
+    ]
+}

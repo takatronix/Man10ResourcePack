@@ -551,8 +551,8 @@
 			"scale": [0.3, 0.3, 0.3]
 		},
 		"head": {
-			"translation": [2, -13.25, -15.25],
-			"scale": [4, 3, 2.5]
+			"translation": [5, 9, -15.25],
+			"scale": [4, 4, 4]
 		},
 		"fixed": {
 			"translation": [2, 21, -30],
