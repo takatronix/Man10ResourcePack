@@ -11,7 +11,8 @@
         { "predicate": {"custom_model_data": 5 }, "model": "man10/equipment/antique_piano" },
         { "predicate": {"custom_model_data": 6 }, "model": "man10/equipment/sweets_showcase" },
         { "predicate": {"custom_model_data": 7 }, "model": "man10/equipment/grand_piano" },
+        { "predicate": {"custom_model_data": 8 }, "model": "man10/equipment/benchpress" },
 
-        { "predicate": {"custom_model_data": 8 }, "model": "item/stone_hoe" }
+        { "predicate": {"custom_model_data": 9 }, "model": "item/stone_hoe" }
         ]
 }
