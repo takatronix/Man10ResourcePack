@@ -111,6 +111,28 @@ https://man10.red/wiki/doku.php?id=helper:%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E
 
 
 
+## プライマリカラーについて
+
+
+テクスチャパックには共通で使える色のテクスチャがはいっています
+単色で色を使いたい場合は個別にカラーテクスチャを追加のではなくしたのカラーの表から色を選びましょう
+
+
+
+/man10/common/red   ->  <span style="color: red; ">■</span>
+
+/man10/common/springgreen   ->  <span style="color: springgreen; ">■</span>
+
+
+
+
+
+
+
+![primarycolor](./primarycolor.png)
+
+
+
 ## master
 マスターブランチです。正式公開されたバージョンをここにいれます。
 
