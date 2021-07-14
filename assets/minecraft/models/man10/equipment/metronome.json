@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "man10/common/saddienbrown",
-		"1": "man10/common/silver",
-		"2": "man10/common/siategray",
+		"0": "man10/common/saddlebrown",
+		"1": "man10/common/lavender",
+		"2": "man10/common/lemonchiffon",
 		"3": "man10/equipment/metronome/metronome_animation",
 		"particle": "man10/common/saddienbrown"
 	},
