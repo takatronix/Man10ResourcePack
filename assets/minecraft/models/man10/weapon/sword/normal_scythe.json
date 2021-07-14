@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "man10/common/black",
-		"1": "man10/common/gray",
-		"2": "man10/common/gray_light",
+		"1": "man10/common/gray10",
+		"2": "man10/common/gray5",
 		"particle": "man10/common/black"
 	},
 	"elements": [
