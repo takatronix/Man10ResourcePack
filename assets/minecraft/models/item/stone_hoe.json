@@ -18,7 +18,8 @@
         { "predicate": {"custom_model_data": 12 }, "model": "man10/equipment/pa_speaker" },
         { "predicate": {"custom_model_data": 13 }, "model": "man10/equipment/sub_woofer" },
         { "predicate": {"custom_model_data": 14 }, "model": "man10/equipment/metronome" },
+        { "predicate": {"custom_model_data": 15 }, "model": "man10/equipment/antique_clock" },
 
-        { "predicate": {"custom_model_data": 15 }, "model": "item/stone_hoe" }
+        { "predicate": {"custom_model_data": 16 }, "model": "item/stone_hoe" }
         ]
 }
