@@ -2,11 +2,11 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "man10/gadget/imac/imac1",
-		"1": "man10/gadget/imac/imac2",
+		"0": "man10/common/gray2",
+		"1": "man10/common/gray13",
 		"2": "man10/gadget/imac/imac3",
 		"3": "man10/gadget/imac/imac4",
-		"particle": "man10/gadget/imac/imac1"
+		"particle": "man10/common/gray2"
 	},
 	"elements": [
 		{

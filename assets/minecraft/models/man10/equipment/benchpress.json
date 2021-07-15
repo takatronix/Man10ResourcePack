@@ -2,10 +2,10 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "man10/equipment/benchpress/bp1",
-		"1": "man10/equipment/benchpress/bp2",
-		"2": "man10/equipment/benchpress/bp3",
-		"particle": "man10/equipment/benchpress/bp1"
+		"0": "man10/common/seashell",
+		"1": "man10/common/gray13",
+		"2": "man10/common/slategray",
+		"particle": "man10/common/seashell"
 	},
 	"elements": [
 		{

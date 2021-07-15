@@ -19,7 +19,18 @@
         { "predicate": {"custom_model_data": 13 }, "model": "man10/equipment/sub_woofer" },
         { "predicate": {"custom_model_data": 14 }, "model": "man10/equipment/metronome" },
         { "predicate": {"custom_model_data": 15 }, "model": "man10/equipment/antique_clock" },
+        { "predicate": {"custom_model_data": 16 }, "model": "man10/equipment/vending_machine" },
+        { "predicate": {"custom_model_data": 17 }, "model": "man10/equipment/dj_set" },
+        { "predicate": {"custom_model_data": 18 }, "model": "man10/equipment/lanchpad" },
+        { "predicate": {"custom_model_data": 19 }, "model": "man10/equipment/snowdome" },
+        { "predicate": {"custom_model_data": 20 }, "model": "man10/equipment/roulette" },
+        { "predicate": {"custom_model_data": 21 }, "model": "man10/equipment/reversi" },
+        { "predicate": {"custom_model_data": 22 }, "model": "man10/equipment/mahjong" },
+        { "predicate": {"custom_model_data": 23 }, "model": "man10/equipment/dartsboard" },
+        { "predicate": {"custom_model_data": 24 }, "model": "man10/equipment/chess" },
+        { "predicate": {"custom_model_data": 25 }, "model": "man10/equipment/amanzonbox" },
+        { "predicate": {"custom_model_data": 26 }, "model": "man10/icon/poop_emoji" },
 
-        { "predicate": {"custom_model_data": 16 }, "model": "item/stone_hoe" }
+        { "predicate": {"custom_model_data": 27 }, "model": "item/stone_hoe" }
         ]
 }

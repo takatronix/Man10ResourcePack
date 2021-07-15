@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "man10/gadget/macbook/silver1px",
+		"0": "man10/common/gray6",
 		"1": "man10/gadget/macbook/screen",
-		"2": "man10/gadget/macbook/silver1px2",
+		"2": "man10/common/gray8",
 		"4": "man10/common/black",
 		"5": "man10/gadget/macbook/macapple",
-		"particle": "man10/gadget/macbook/silver1px2"
+		"particle": "man10/common/gray8"
 	},
 	"elements": [
 		{
