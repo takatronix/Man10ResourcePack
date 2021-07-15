@@ -29,8 +29,9 @@
         { "predicate": {"custom_model_data": 23 }, "model": "man10/equipment/dartsboard" },
         { "predicate": {"custom_model_data": 24 }, "model": "man10/equipment/chess" },
         { "predicate": {"custom_model_data": 25 }, "model": "man10/equipment/amanzonbox" },
-        { "predicate": {"custom_model_data": 26 }, "model": "man10/icon/poop_emoji" },
+        { "predicate": {"custom_model_data": 26 }, "model": "man10/equipment/kasumiguitar" },
+        { "predicate": {"custom_model_data": 27 }, "model": "man10/equipment/mocaguitar" },
 
-        { "predicate": {"custom_model_data": 27 }, "model": "item/stone_hoe" }
+        { "predicate": {"custom_model_data": 28 }, "model": "item/stone_hoe" }
         ]
 }
