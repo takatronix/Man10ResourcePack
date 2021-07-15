@@ -13,6 +13,8 @@
 		{"predicate": {"custom_model_data":5}, "model": "man10/hat/miniangel_set"},
 		{"predicate": {"custom_model_data":6}, "model": "man10/hat/zombie_doll"},
 		{"predicate": {"custom_model_data":7}, "model": "man10/hat/mankin"},
+    {"predicate": {"custom_model_data":8}, "model": "man10/hat/dokkiri"},
+    {"predicate": {"custom_model_data":9}, "model": "man10/hat/speech_bubble"},
 
 
 		{"predicate": {"custom_model_data":10}, "model": "item/wooden_hoe"}
