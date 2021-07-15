@@ -10,6 +10,7 @@
         { "predicate": {"custom_model_data": 4 }, "model": "man10/weapon/sword/battleaxe" },
         { "predicate": {"custom_model_data": 5 }, "model": "man10/weapon/sword/dan5sword" },
         { "predicate": {"custom_model_data": 6 }, "model": "man10/weapon/sword/homerun_bat" },
+        { "predicate": {"custom_model_data": 6 }, "model": "man10/weapon/other/3dman10spear" },
 
         { "predicate": {"custom_model_data": 7 }, "model": "item/iron_sword" }
         ]
