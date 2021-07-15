@@ -15,9 +15,8 @@
 | ガジェット類: golden_hoe                                 |
 | スロット図柄: iron_nugget                                |
 | 文字類: gold_nugget                                      |
-| イミテーションアイテム: diamond_hoe                      |
-| mob装備: diamond_hoe                                     |
-| 換金アイテム・通貨: 〇〇〇_ingot/diamond/emerald(編集済) |
+| MOB/イミテーションアイテム: diamond_hoe                      |
+| 換金アイテム・通貨: 〇〇〇_ingot/diamond/emerald |
 |                                                          |
 
 #### ディレクトリ構造について
