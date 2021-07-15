@@ -27,7 +27,7 @@
         { "predicate": {"custom_model_data": 21 }, "model": "man10/equipment/mahjong" },
         { "predicate": {"custom_model_data": 22 }, "model": "man10/equipment/dartsboard" },
         { "predicate": {"custom_model_data": 23 }, "model": "man10/equipment/chess" },
-        { "predicate": {"custom_model_data": 34 }, "model": "man10/equipment/amanzonbox" },
+        { "predicate": {"custom_model_data": 24 }, "model": "man10/equipment/amanzonbox" },
         { "predicate": {"custom_model_data": 25 }, "model": "man10/equipment/kasumiguitar" },
         { "predicate": {"custom_model_data": 26 }, "model": "man10/equipment/mocaguitar" },
 
