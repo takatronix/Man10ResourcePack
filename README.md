@@ -26,17 +26,16 @@
   - block(マイクラ従来ブロックを置き換えるとき)
   - item(マイクラ従来のアイテムを置き換えるとき)
 
-- man10(カテゴリはtextureと同等にします)
-  - common
-  - food
-  - fish
-  - item
-  - weapon
-    - gun
-    - other
-    - sword
-- （textureと同じなので省略)
-
+  - man10(カテゴリはtextureと同等にします)
+    - common
+    - food
+    - fish
+    - item
+    - weapon
+      - gun
+      - other
+      - sword
+    (続く,,texturesと同等)
 - textures
   - block (マイクラ本来のテクスチャを置き換えるとき)
   - man10
@@ -57,8 +56,8 @@
     - weapon
       - magic (魔法)
       - gun　(銃)
-      - other
-      - sword　
+      - sword（剣)
+      - other （その他)
 
 #### ルール
 
