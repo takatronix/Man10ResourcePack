@@ -1,0 +1,22 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/gold_nugget"
+    },
+    "overrides": [
+		
+      {"predicate": {"custom_model_data":1}, "model": "man10/icon/7seg/1"},
+    	{"predicate": {"custom_model_data":2}, "model": "man10/icon/7seg/2"},
+    	{"predicate": {"custom_model_data":3}, "model": "man10/icon/7seg/3"},
+      {"predicate": {"custom_model_data":5}, "model": "man10/icon/7seg/4"},		
+      {"predicate": {"custom_model_data":6}, "model": "man10/icon/7seg/5"},		
+      {"predicate": {"custom_model_data":7}, "model": "man10/icon/7seg/6"},
+      {"predicate": {"custom_model_data":8}, "model": "man10/icon/7seg/7"},		
+      {"predicate": {"custom_model_data":9}, "model": "man10/icon/7seg/8"},		
+      {"predicate": {"custom_model_data":10}, "model": "man10/icon/7seg/9"},
+      {"predicate": {"custom_model_data":11}, "model": "man10/icon/7seg/0"},
+
+
+      {"predicate": {"custom_model_data":12}, "model": "item/gold_nugget"}		
+    ]
+}
