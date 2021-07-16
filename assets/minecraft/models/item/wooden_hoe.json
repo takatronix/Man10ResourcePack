@@ -15,8 +15,9 @@
 		{"predicate": {"custom_model_data":7}, "model": "man10/hat/mankin"},
     {"predicate": {"custom_model_data":8}, "model": "man10/hat/dokkiri"},
     {"predicate": {"custom_model_data":9}, "model": "man10/hat/speech_bubble"},
+    {"predicate": {"custom_model_data":10}, "model": "man10/hat/parrot_head"},
 
 
-		{"predicate": {"custom_model_data":10}, "model": "item/wooden_hoe"}
+		{"predicate": {"custom_model_data":13}, "model": "item/wooden_hoe"}
     ]
 }
