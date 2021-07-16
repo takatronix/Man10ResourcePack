@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures": {
-		"layer0": "man10/icon/7seg/5"
+		"layer0": "man10/icon/7seg/red/8"
 	}
 }
