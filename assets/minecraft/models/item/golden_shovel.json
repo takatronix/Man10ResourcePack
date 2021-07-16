@@ -8,12 +8,9 @@
 		{"predicate": {"custom_model_data":1}, "model": "man10/vehicle/bicycle"},	
 		{"predicate": {"custom_model_data":2}, "model": "man10/vehicle/chiron"},	
 		{"predicate": {"custom_model_data":3}, "model": "man10/vehicle/camaro"},	
-		{"predicate": {"custom_model_data":4}, "model": "man10/vehicle/camaro_big"},
-    {"predicate": {"custom_model_data":5}, "model": "man10/vehicle/f12"},
-    {"predicate": {"custom_model_data":6}, "model": "man10/vehicle/f12_small"},
-    {"predicate": {"custom_model_data":7}, "model": "man10/vehicle/battista"},
-    {"predicate": {"custom_model_data":8}, "model": "man10/vehicle/mini_battista"},
-    {"predicate": {"custom_model_data":9}, "model": "man10/vehicle/cybertruck"},
+    {"predicate": {"custom_model_data":4}, "model": "man10/vehicle/f12"},
+    {"predicate": {"custom_model_data":5}, "model": "man10/vehicle/battista"},
+    {"predicate": {"custom_model_data":6}, "model": "man10/vehicle/cybertruck"},
 
 		{"predicate": {"custom_model_data":10}, "model": "item/golden_shovel"}
     ]
