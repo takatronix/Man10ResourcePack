@@ -14,7 +14,8 @@
 | 設備・家具類: stone_hoe                                  |
 | ガジェット類: golden_hoe                                 |
 | スロット図柄: iron_nugget                                |
-| 文字類: gold_nugget                                      |
+| 数字: gold_nugget                                      |
+| 文字: (追って決めます)                                      |
 | MOB/イミテーションアイテム: diamond_hoe                      |
 | 換金アイテム・通貨: 〇〇〇_ingot/diamond/emerald |
 |                                                          |
