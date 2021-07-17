@@ -1,0 +1,8 @@
+{
+  "sound_effect.drinking": {
+    "category": "master",
+    "sounds": [
+      "sound_effect/drinking"
+    ]
+  }
+}
