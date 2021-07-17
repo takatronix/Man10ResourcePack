@@ -1,19 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"back": "man10/entity/glow_item_frame1"
+		"particle": "man10/common/transparent_gray"
 	},
-	"elements": [
-		{
-			"from": [7.5, 7.5, 15.9],
-			"to": [8.5, 8.5, 16.9],
-			"faces": {
-				"north": {"uv": [5, 5, 11, 11], "texture": "#back"},
-				"south": {"uv": [3, 2, 13, 14], "texture": "#back"}
-			}
-		}
-	],
-	"display": {},
 	"groups": [
 		{
 			"name": "group",
