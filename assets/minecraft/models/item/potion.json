@@ -12,7 +12,9 @@
         { "predicate": {"custom_model_data": 5 }, "model": "man10/drink/madbull" },
         { "predicate": {"custom_model_data": 6 }, "model": "man10/drink/macarisweat" },
         { "predicate": {"custom_model_data": 7 }, "model": "man10/drink/maquarius" },
+        { "predicate": {"custom_model_data": 8 }, "model": "man10/drink/greentea" },
+        { "predicate": {"custom_model_data": 9 }, "model": "man10/drink/water" },
 
-        { "predicate": {"custom_model_data": 8 }, "model": "item/potion" }
+        { "predicate": {"custom_model_data": 10 }, "model": "item/potion" }
         ]
 }
