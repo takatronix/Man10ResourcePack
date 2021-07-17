@@ -33,7 +33,8 @@
         { "predicate": {"custom_model_data": 26 }, "model": "man10/equipment/treasurechest_wood" },
         { "predicate": {"custom_model_data": 27 }, "model": "man10/equipment/treasurechest_iron" },
         { "predicate": {"custom_model_data": 28 }, "model": "man10/equipment/treasurechest_gold" },
+        { "predicate": {"custom_model_data": 29 }, "model": "man10/equipment/bank_terminal" },
 
-        { "predicate": {"custom_model_data": 29 }, "model": "item/stone_hoe" }
+        { "predicate": {"custom_model_data": 30 }, "model": "item/stone_hoe" }
         ]
 }
