@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "man10/hat/hammer/hammer_handle",
-		"1": "man10/hat/hammer/hammer_iron1",
-		"2": "man10/hat/hammer/hammer_iron2",
-		"particle": "man10/hat/hammer/hammer_handle"
+		"0": "man10/weapon/other/hammer/hammer_handle",
+		"1": "man10/weapon/other/hammer/hammer_iron1",
+		"2": "man10/weapon/other/hammer/hammer_iron2",
+		"particle": "man10/weapon/other/hammer/hammer_handle"
 	},
 	"elements": [
 		{

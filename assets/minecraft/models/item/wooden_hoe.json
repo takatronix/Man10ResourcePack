@@ -19,7 +19,6 @@
     {"predicate": {"custom_model_data":11}, "model": "man10/hat/big_parrot_head"},
     {"predicate": {"custom_model_data":12}, "model": "man10/hat/chicken_head"},
     {"predicate": {"custom_model_data":13}, "model": "man10/hat/dorango"},
-    {"predicate": {"custom_model_data":14}, "model": "man10/hat/hammer_shake"},
 
 
 		{"predicate": {"custom_model_data":15}, "model": "item/wooden_hoe"}
