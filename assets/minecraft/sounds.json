@@ -2,25 +2,25 @@
   "sound_effect.drinking": {
     "category": "master",
     "sounds": [
-      "sound_effect/drinking"
+      "man10/drinking"
     ]
   },
   "sound_effect.burp": {
     "category": "master",
     "sounds": [
-      "sound_effect/burp"
+      "man10/burp"
     ]
   },
   "sound_effect.burp_drinking": {
     "category": "master",
     "sounds": [
-      "sound_effect/burp_drinking"
+      "man10/burp_drinking"
     ]
   },
   "sound_effect.fart": {
     "category": "master",
     "sounds": [
-      "sound_effect/fart"
+      "man10/fart"
     ]
   }
 }

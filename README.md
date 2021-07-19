@@ -16,6 +16,7 @@
 | スロット図柄: iron_nugget                                |
 | 数字: gold_nugget                                      |
 | 文字: (追って決めます)                                      |
+| 薬: spider_eye                                     |
 | MOB/イミテーションアイテム: diamond_hoe                      |
 | 換金アイテム・通貨: 〇〇〇_ingot/diamond/emerald |
 |                                                          |
@@ -53,6 +54,9 @@
     - equipment(設備 ATMや機械など)
     - gadget(小物、mPhoneとかちょっとしたもの)
     - icon(ディスコードアイコンなどのアイコン)
+    - number(数字)
+    - letter(文字)
+    - drug(薬) 
     - other　(あてはまらないもの)
     - weapon
       - magic (魔法)
