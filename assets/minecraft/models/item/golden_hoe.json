@@ -13,7 +13,8 @@
 		{"predicate": {"custom_model_data":6}, "model": "man10/gadget/otoshidama"},	
 		{"predicate": {"custom_model_data":7}, "model": "man10/gadget/nengajo"},	
 		{"predicate": {"custom_model_data":8}, "model": "man10/gadget/switch"},	
+		{"predicate": {"custom_model_data":9}, "model": "man10/gadget/whoopee_cushion"},	
 
-		{"predicate": {"custom_model_data":9}, "model": "item/golden_hoe"}	
+		{"predicate": {"custom_model_data":10}, "model": "item/golden_hoe"}	
     ]
 }
