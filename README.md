@@ -53,6 +53,8 @@
     - equipment(設備 ATMや機械など)
     - gadget(小物、mPhoneとかちょっとしたもの)
     - icon(ディスコードアイコンなどのアイコン)
+    - number(数字)
+    - letter(文字)
     - other　(あてはまらないもの)
     - weapon
       - magic (魔法)
