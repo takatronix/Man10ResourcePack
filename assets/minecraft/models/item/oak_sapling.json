@@ -1,0 +1,10 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "block/oak_sapling"
+    },
+    "overrides": [
+     { "predicate": {"custom_model_data":1}, "model": "man10/virtualblock/brick"},
+     { "predicate": {"custom_model_data":2}, "model": "man10/virtualblock/luckyblock"}
+    ]
+}
