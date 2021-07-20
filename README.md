@@ -1,24 +1,24 @@
 # Man10 Resource Pack
 シーズン３用リソースパック
 
-| どのアイテムに割りあてるか                               |
-| -------------------------------------------------------- |
-| 被り物: wooden_hoe                                       |
-| 銃火器: iron_hoe                                         |
-| 近接武器: iron_sword                                     |
-| 杖・魔法武器: iron_shovel                                |
-| 飲み物: potion                                           |
-| 食べ物: baked_potato                                     |
-| 設備・家具類: stone_hoe                                  |
-| ガジェット類: golden_hoe                                 |
-| スロット図柄: iron_nugget                                |
-| 数字: gold_nugget                                      |
-| 文字: (追って決めます)                                      |
-| 薬: Fermented Spider Eye(発酵したクモの目)                                     |
-| バーチャルブロック: Oak Sapling（オークの苗木)                                     |
-| MOB/イミテーションアイテム: diamond_hoe                      |
-| 換金アイテム・通貨: 〇〇〇_ingot/diamond/emerald |
-|                                                          |
+
+
+| どのアイテムに割りあてるか | カテゴリ名(modles/texturesの名前) | 用途                                     |
+| -------------------------- | --------------------------------- | ---------------------------------------- |
+| wooden_hoe                 | hat                               | 帽子、頭につけるもの                     |
+| iron_hoe                   | weapon/gun                        | 銃                                       |
+| iron_sword                 | weapon/sword                      | 近接武器、剣など                         |
+| iron_shovel                | weapon/magic                      | 手にもつ魔法武器、杖など                 |
+| potion                     | drink                             | 飲み物                                   |
+| baked_potato               | food                              | 食べ物                                   |
+| stone_hoe                  | equipment                         | 設備・家具類（地面のおくこと前提）       |
+| golden_hoe                 | gadget                            | ガジェット類（地面（額縁）におけること） |
+| iron_nugget                | slot                              | スロット図柄                             |
+| oak_sapling                | virtucalblock                     | バーチャルブロック                       |
+| gold_nugget                | number                            | 数字                                     |
+| golden_shovel              | veheicle                          | 乗り物、自転車、車など                   |
+| wooden_shovel              | icon                              | discrodアイコンなどUIに使うもの          |
+|                            |                                   |                                          |
 
 #### ディレクトリ構造について
 
