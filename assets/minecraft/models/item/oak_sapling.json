@@ -5,6 +5,7 @@
     },
     "overrides": [
      { "predicate": {"custom_model_data":1}, "model": "man10/virtualblock/brick"},
-     { "predicate": {"custom_model_data":2}, "model": "man10/virtualblock/luckyblock"}
+     { "predicate": {"custom_model_data":2}, "model": "man10/virtualblock/luckyblock"},
+     { "predicate": {"custom_model_data":3}, "model": "man10/virtualblock/rainbow_block"}
     ]
 }
