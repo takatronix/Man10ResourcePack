@@ -14,6 +14,13 @@
         { "predicate": {"custom_model_data": 8 }, "model": "man10/weapon/sword/small_sword" },
         { "predicate": {"custom_model_data": 9 }, "model": "man10/weapon/other/hammer_shake" },
 
-        { "predicate": {"custom_model_data": 11 }, "model": "item/iron_sword" }
+        { "predicate": {"custom_model_data": 10 }, "model": "man10/weapon/sword/saver_green" },
+        { "predicate": {"custom_model_data": 11 }, "model": "man10/weapon/sword/saver_blue" },
+        { "predicate": {"custom_model_data": 12 }, "model": "man10/weapon/sword/saver_red" },
+        { "predicate": {"custom_model_data": 13 }, "model": "man10/weapon/sword/emerald_sword" },
+        { "predicate": {"custom_model_data": 14 }, "model": "man10/weapon/sword/nether_sword" },
+        { "predicate": {"custom_model_data": 15 }, "model": "man10/weapon/sword/end_sword" },
+
+        { "predicate": {"custom_model_data": 16 }, "model": "item/iron_sword" }
         ]
 }
