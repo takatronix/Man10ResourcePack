@@ -14,7 +14,8 @@
 | スロット図柄: iron_nugget                                |
 | 数字: gold_nugget                                      |
 | 文字: (追って決めます)                                      |
-| 薬: spider_eye                                     |
+| 薬: Fermented Spider Eye(発酵したクモの目)                                     |
+| バーチャルブロック: Oak Sapling（オークの苗木)                                     |
 | MOB/イミテーションアイテム: diamond_hoe                      |
 | 換金アイテム・通貨: 〇〇〇_ingot/diamond/emerald |
 |                                                          |
@@ -54,6 +55,7 @@
     - icon(ディスコードアイコンなどのアイコン)
     - number(数字)
     - letter(文字)
+    - virtialblock(オークの苗木)
     - drug(薬) 
     - other　(あてはまらないもの)
     - weapon
@@ -123,13 +125,15 @@ https://man10.red/wiki/doku.php?id=helper:%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E
 /man10/common/springgreen   ->  <span style="color: springgreen; ">■</span>
 
 
-
-
-
-
-
 ![primarycolor](./primarycolor.png)
 
+プライマリーカラーのほかにgray0(白) - gray15(黒）やrainbowなど共通して使えそうな色がいろいろはいっています。
+色を追加するまえにまずこのフォルダの中から使える色があるか確認しましょう
+
+## バーチャルブロックについて
+
+バリアブロックに光る看板をつけて、そこにバーチャルブロックをいれると、ブロックとして使えます。
+既存のブロックテクスチャに影響を与えず、ブロックを追加することができます
 
 
 ## master
