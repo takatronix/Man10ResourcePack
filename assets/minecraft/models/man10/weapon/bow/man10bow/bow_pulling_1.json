@@ -1,6 +1,6 @@
 {
-    "parent": "item/bow",
-    "textures": {
-        "layer0": "man10/weapon/bow/man10bow/bow_pulling_1"
-    }
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "man10/weapon/bow/man10bow/bow_pulling_1"
+	}
 }
