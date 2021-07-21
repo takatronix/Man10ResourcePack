@@ -43,8 +43,33 @@
         {"predicate": {"custom_model_data": 2,"pulling": 1,"pull": 0.65},  "model": "man10/weapon/bow/bronzebow/bow_pulling_1"},
         {"predicate": {"custom_model_data": 2,"pulling": 1,"pull": 0.9},   "model": "man10/weapon/bow/bronzebow/bow_pulling_2"},
 
+        {"predicate": {"custom_model_data": 3},                            "model": "man10/weapon/bow/silverbow/bow"},
+        {"predicate": {"custom_model_data": 3,"pulling": 1},               "model": "man10/weapon/bow/silverbow/bow_pulling_0"},
+        {"predicate": {"custom_model_data": 3,"pulling": 1,"pull": 0.65},  "model": "man10/weapon/bow/silverbow/bow_pulling_1"},
+        {"predicate": {"custom_model_data": 3,"pulling": 1,"pull": 0.9},   "model": "man10/weapon/bow/silverbow/bow_pulling_2"},
 
-        {"predicate": {"custom_model_data": 3},               "model": "item/bow"}
+        {"predicate": {"custom_model_data": 4},                            "model": "man10/weapon/bow/goldbow/bow"},
+        {"predicate": {"custom_model_data": 4,"pulling": 1},               "model": "man10/weapon/bow/goldbow/bow_pulling_0"},
+        {"predicate": {"custom_model_data": 4,"pulling": 1,"pull": 0.65},  "model": "man10/weapon/bow/goldbow/bow_pulling_1"},
+        {"predicate": {"custom_model_data": 4,"pulling": 1,"pull": 0.9},   "model": "man10/weapon/bow/goldbow/bow_pulling_2"},
+
+        {"predicate": {"custom_model_data": 5},                            "model": "man10/weapon/bow/diamondbow/bow"},
+        {"predicate": {"custom_model_data": 5,"pulling": 1},               "model": "man10/weapon/bow/diamondbow/bow_pulling_0"},
+        {"predicate": {"custom_model_data": 5,"pulling": 1,"pull": 0.65},  "model": "man10/weapon/bow/diamondbow/bow_pulling_1"},
+        {"predicate": {"custom_model_data": 5,"pulling": 1,"pull": 0.9},   "model": "man10/weapon/bow/diamondbow/bow_pulling_2"},
+
+        {"predicate": {"custom_model_data": 6},                            "model": "man10/weapon/bow/emeraldbow/bow"},
+        {"predicate": {"custom_model_data": 6,"pulling": 1},               "model": "man10/weapon/bow/emeraldbow/bow_pulling_0"},
+        {"predicate": {"custom_model_data": 6,"pulling": 1,"pull": 0.65},  "model": "man10/weapon/bow/emeraldbow/bow_pulling_1"},
+        {"predicate": {"custom_model_data": 6,"pulling": 1,"pull": 0.9},   "model": "man10/weapon/bow/emeraldbow/bow_pulling_2"},
+
+        {"predicate": {"custom_model_data": 7},                            "model": "man10/weapon/bow/crystalbow/bow"},
+        {"predicate": {"custom_model_data": 7,"pulling": 1},               "model": "man10/weapon/bow/crystalbow/bow_pulling_0"},
+        {"predicate": {"custom_model_data": 7,"pulling": 1,"pull": 0.65},  "model": "man10/weapon/bow/crystalbow/bow_pulling_1"},
+        {"predicate": {"custom_model_data": 7,"pulling": 1,"pull": 0.9},   "model": "man10/weapon/bow/crystalbow/bow_pulling_2"},
+
+
+        {"predicate": {"custom_model_data": 8},               "model": "item/bow"}
 
     ]
 }
