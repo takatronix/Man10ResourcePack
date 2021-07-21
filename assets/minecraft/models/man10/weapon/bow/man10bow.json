@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "man10/weapon/bow/man10bow"
+	}
+}
