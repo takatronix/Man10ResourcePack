@@ -1,0 +1,6 @@
+{
+    "parent": "item/bow",
+    "textures": {
+        "layer0": "man10/weapon/bow/silverbow/bow_pulling_0"
+    }
+}
