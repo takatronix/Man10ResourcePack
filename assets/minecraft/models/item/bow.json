@@ -1,5 +1,5 @@
 {
-    "parent": "item/handheld",
+    "parent": "item/generated",
     "textures": {
         "layer0": "item/bow"
     },
@@ -25,47 +25,26 @@
             "scale": [ 0.68, 0.68, 0.68 ]
         }
     },
+
     "overrides": [
-        {
-            "predicate": {
-                "pulling": 1
-            },
-            "model": "item/bow_pulling_0"
-        },
-        {
-            "predicate": {
-                "pulling": 1,
-                "pull": 0.65
-            },
-            "model": "item/bow_pulling_1"
-        },
-        {
-            "predicate": {
-                "pulling": 1,
-                "pull": 0.9
-            },
-            "model": "item/bow_pulling_2"
-        },
-        { "predicate": {"custom_model_data": 1}, "model" : "man10/weapon/bow/man10bow"},
-        {
-            "predicate": {
-                "pulling": 1
-            },
-            "model": "man10/weapon/bow/man10bow_0"
-        },
-        {
-            "predicate": {
-                "pulling": 1,
-                "pull": 0.65
-            },
-            "model": "man10/weapon/bow/man10bow_1"
-        },
-        {
-            "predicate": {
-                "pulling": 1,
-                "pull": 0.9
-            },
-            "model": "man10/weapon/bow/man10bow_2"
-        }
-        ]
-    }
+
+        {"predicate": {"pulling": 1},               "model": "item/bow_pulling_0"},
+        {"predicate": {"pulling": 1,"pull": 0.65},  "model": "item/bow_pulling_1"},
+        {"predicate": {"pulling": 1,"pull": 0.9},   "model": "item/bow_pulling_2"},
+
+        {"predicate": {"custom_model_data": 1},                            "model": "man10/weapon/bow/man10bow/bow"},
+        {"predicate": {"custom_model_data": 1,"pulling": 1},               "model": "man10/weapon/bow/man10bow/bow_pulling_0"},
+        {"predicate": {"custom_model_data": 1,"pulling": 1,"pull": 0.65},  "model": "man10/weapon/bow/man10bow/bow_pulling_1"},
+        {"predicate": {"custom_model_data": 1,"pulling": 1,"pull": 0.9},   "model": "man10/weapon/bow/man10bow/bow_pulling_2"},
+
+
+        {"predicate": {"custom_model_data": 2},                            "model": "man10/weapon/bow/bronzebow/bow"},
+        {"predicate": {"custom_model_data": 2,"pulling": 1},               "model": "man10/weapon/bow/bronzebow/bow_pulling_0"},
+        {"predicate": {"custom_model_data": 2,"pulling": 1,"pull": 0.65},  "model": "man10/weapon/bow/bronzebow/bow_pulling_1"},
+        {"predicate": {"custom_model_data": 2,"pulling": 1,"pull": 0.9},   "model": "man10/weapon/bow/bronzebow/bow_pulling_2"},
+
+
+        {"predicate": {"custom_model_data": 3},               "model": "item/bow"}
+
+    ]
+}
