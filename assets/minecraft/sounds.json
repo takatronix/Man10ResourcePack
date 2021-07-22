@@ -1,23 +1,23 @@
 {
-  "sound_effect.drinking": {
+  "man10.drinking": {
     "category": "master",
     "sounds": [
       "man10/drinking"
     ]
   },
-  "sound_effect.burp": {
+  "man10.burp": {
     "category": "master",
     "sounds": [
       "man10/burp"
     ]
   },
-  "sound_effect.burp_drinking": {
+  "man10.burp_drinking": {
     "category": "master",
     "sounds": [
       "man10/burp_drinking"
     ]
   },
-  "sound_effect.fart": {
+  "man10.fart": {
     "category": "master",
     "sounds": [
       "man10/fart"
