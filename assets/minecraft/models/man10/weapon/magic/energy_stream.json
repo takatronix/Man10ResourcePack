@@ -1,11 +1,11 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "custom/niiku1014/brown6",
-		"1": "custom/niiku1014/gradation5",
-		"2": "custom/niiku1014/magic_spell4",
-		"3": "custom/niiku1014/magic26",
-		"particle": "custom/niiku1014/brown6"
+		"0": "man10/common/darkbrown",
+		"1": "man10/common/blink_red_pink",
+		"2": "man10/weapon/magic/energy_stream/magic_spell4",
+		"3": "man10/weapon/magic/energy_stream/magic26",
+		"particle": "man10/common/brown"
 	},
 	"elements": [
 		{
