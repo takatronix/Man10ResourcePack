@@ -21,7 +21,8 @@
         { "predicate": {"custom_model_data": 14 }, "model": "man10/weapon/sword/nether_sword" },
         { "predicate": {"custom_model_data": 15 }, "model": "man10/weapon/sword/end_sword" },
         { "predicate": {"custom_model_data": 16 }, "model": "man10/weapon/sword/daemonrapier" },
+        { "predicate": {"custom_model_data": 17 }, "model": "man10/weapon/sword/kanabou" },
 
-        { "predicate": {"custom_model_data": 17 }, "model": "item/iron_sword" }
+        { "predicate": {"custom_model_data": 18 }, "model": "item/iron_sword" }
         ]
 }

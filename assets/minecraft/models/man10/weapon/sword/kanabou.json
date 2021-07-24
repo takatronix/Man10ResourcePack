@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "custom/niiku1014/houtai",
-		"3": "custom/niiku1014/gray2",
-		"particle": "custom/niiku1014/houtai"
+		"1": "man10/weapon/sword/kanabou/houtai",
+		"3": "man10/common/gray12",
+		"particle": "man10/weapon/sword/kanabou/houtai"
 	},
 	"elements": [
 		{
