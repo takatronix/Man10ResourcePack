@@ -23,7 +23,9 @@
         { "predicate": {"custom_model_data": 16 }, "model": "man10/weapon/sword/daemonrapier" },
         { "predicate": {"custom_model_data": 17 }, "model": "man10/weapon/sword/kanabou" },
         { "predicate": {"custom_model_data": 18 }, "model": "man10/weapon/sword/dark_blade" },
+        { "predicate": {"custom_model_data": 19 }, "model": "man10/weapon/sword/assasin_blade" },
+        { "predicate": {"custom_model_data": 20 }, "model": "man10/weapon/sword/hiland_axe" },
 
-        { "predicate": {"custom_model_data": 19 }, "model": "item/iron_sword" }
+        { "predicate": {"custom_model_data": 21 }, "model": "item/iron_sword" }
         ]
 }
