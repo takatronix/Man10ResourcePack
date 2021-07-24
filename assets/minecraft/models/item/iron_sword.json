@@ -20,7 +20,8 @@
         { "predicate": {"custom_model_data": 13 }, "model": "man10/weapon/sword/emerald_sword" },
         { "predicate": {"custom_model_data": 14 }, "model": "man10/weapon/sword/nether_sword" },
         { "predicate": {"custom_model_data": 15 }, "model": "man10/weapon/sword/end_sword" },
+        { "predicate": {"custom_model_data": 16 }, "model": "man10/weapon/sword/daemonrapier" },
 
-        { "predicate": {"custom_model_data": 16 }, "model": "item/iron_sword" }
+        { "predicate": {"custom_model_data": 17 }, "model": "item/iron_sword" }
         ]
 }
