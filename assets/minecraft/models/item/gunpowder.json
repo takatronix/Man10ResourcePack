@@ -1,0 +1,14 @@
+{
+   "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "item/gunpowder"
+    },
+    "overrides": [
+		
+		{"predicate": {"custom_model_data":1}, "model": "man10/weapon/ammo/lv1_magazine"},
+
+
+		{"predicate": {"custom_model_data":2}, "model": "item/gunpowder"}
+
+    ]
+}
