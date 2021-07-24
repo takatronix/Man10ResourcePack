@@ -40,7 +40,10 @@
         { "predicate": {"custom_model_data": 33 }, "model": "man10/equipment/moneychanger_100" },
         { "predicate": {"custom_model_data": 34 }, "model": "man10/equipment/moneychanger_1000" },
         { "predicate": {"custom_model_data": 35 }, "model": "man10/equipment/moneychanger_10000" },
+        { "predicate": {"custom_model_data": 36 }, "model": "man10/equipment/moneychanger_100k" },
+        { "predicate": {"custom_model_data": 37 }, "model": "man10/equipment/moneychanger_1m" },
+        { "predicate": {"custom_model_data": 38 }, "model": "man10/equipment/guitar" },
 
-        { "predicate": {"custom_model_data": 36 }, "model": "item/stone_hoe" }
+        { "predicate": {"custom_model_data": 39 }, "model": "item/stone_hoe" }
         ]
 }
