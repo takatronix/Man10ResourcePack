@@ -1,18 +1,18 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "custom/niiku1014/bock_paper2",
-		"1": "custom/niiku1014/book",
-		"2": "custom/niiku1014/magic_monshou3",
-		"3": "custom/niiku1014/bock_page1",
-		"4": "custom/niiku1014/bock_page3",
-		"5": "custom/niiku1014/magic3",
-		"6": "custom/niiku1014/magic_monshou1",
-		"7": "custom/niiku1014/book2",
-		"8": "custom/niiku1014/black",
-		"9": "custom/niiku1014/magic_monshou2",
-		"10": "custom/niiku1014/magic_monshou4",
-		"particle": "custom/niiku1014/bock_paper2"
+		"0": "man10/weapon/magic/magic_book/book_paper2",
+		"1": "man10/weapon/magic/magic_book/book",
+		"2": "man10/weapon/magic/magic_book/magic_monshou3",
+		"3": "man10/weapon/magic/magic_book/book_page1",
+		"4": "man10/weapon/magic/magic_book/book_page3",
+		"5": "man10/weapon/magic/magic_book/magic3",
+		"6": "man10/weapon/magic/magic_book/magic_monshou1",
+		"7": "man10/weapon/magic/magic_book/book2",
+		"8": "man10/common/gray11",
+		"9": "man10/weapon/magic/magic_book/magic_monshou2",
+		"10": "man10/weapon/magic/magic_book/magic_monshou4",
+		"particle": "man10/weapon/magic/magic_book/book_paper2"
 	},
 	"elements": [
 		{

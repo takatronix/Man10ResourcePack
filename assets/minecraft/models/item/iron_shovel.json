@@ -8,7 +8,9 @@
 		{"predicate": {"custom_model_data":1}, "model": "man10/weapon/magic/goblinslayer_wand"},
 		{"predicate": {"custom_model_data":2}, "model": "man10/weapon/magic/skull_meteor"},
 		{"predicate": {"custom_model_data":3}, "model": "man10/weapon/magic/energy_stream"},
+		{"predicate": {"custom_model_data":4}, "model": "man10/weapon/magic/magic_book"},
+		{"predicate": {"custom_model_data":5}, "model": "man10/weapon/magic/magic_book2"},
 
-    {"predicate": {"custom_model_data":4}, "model": "item/iron_shovel"}		
+    {"predicate": {"custom_model_data":6}, "model": "item/iron_shovel"}		
   ]
 }

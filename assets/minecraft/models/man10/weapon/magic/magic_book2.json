@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "custom/niiku1014/bock_paper2",
-		"1": "custom/niiku1014/book",
-		"2": "custom/niiku1014/book2",
-		"3": "custom/niiku1014/yellow",
-		"8": "custom/niiku1014/black",
-		"particle": "custom/niiku1014/bock_paper2"
+		"0": "man10/weapon/magic/magic_book/book_paper2",
+		"1": "man10/weapon/magic/magic_book/book",
+		"2": "man10/weapon/magic/magic_book/book2",
+		"3": "man10/common/gold",
+		"8": "man10/common/gray11",
+		"particle": "man10/weapon/magic/magic_book/bok_paper2"
 	},
 	"elements": [
 		{
