@@ -1,14 +1,14 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "custom/niiku1014/brown2",
-		"1": "custom/niiku1014/gray5",
-		"2": "custom/niiku1014/maseki",
-		"3": "custom/niiku1014/magicstone2",
-		"4": "custom/niiku1014/magic_spell2",
-		"5": "custom/niiku1014/magic5",
-		"8": "custom/niiku1014/gray",
-		"particle": "custom/niiku1014/gray"
+		"0": "man10/common/darkbrown",
+		"1": "man10/common/gray10",
+		"2": "man10/weapon/magic/dark_wand/maseki",
+		"3": "man10/weapon/magic/dark_wand/magicstone2",
+		"4": "man10/weapon/magic/dark_wand/magic_spell2",
+		"5": "man10/weapon/magic/dark_wand/magic5",
+		"8": "man10/common/gray10",
+		"particle": "man10/common/gray10"
 	},
 	"elements": [
 		{
