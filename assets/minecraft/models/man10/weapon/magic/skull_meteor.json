@@ -1,13 +1,13 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "custom/niiku1014/gray5",
-		"1": "custom/niiku1014/yellow2",
-		"2": "custom/niiku1014/brown2",
-		"3": "custom/niiku1014/red4",
-		"4": "custom/niiku1014/gradation8",
-		"5": "custom/niiku1014/magic25",
-		"particle": "custom/niiku1014/brown2"
+		"0": "man10/common/gray12",
+		"1": "man10/common/yellow",
+		"2": "man10/common/saddlebrown",
+		"3": "man10/common/red",
+		"4": "man10/common/blink_red_black",
+		"5": "man10/weapon/magic/skull_meteor/magic25",
+		"particle": "man10/common/brown"
 	},
 	"elements": [
 		{
