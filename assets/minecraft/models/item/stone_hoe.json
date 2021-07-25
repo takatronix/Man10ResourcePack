@@ -29,7 +29,6 @@
         { "predicate": {"custom_model_data": 23 }, "model": "man10/equipment/chess" },
         { "predicate": {"custom_model_data": 24 }, "model": "man10/equipment/amanzonbox" },
         { "predicate": {"custom_model_data": 25 }, "model": "man10/equipment/kasumiguitar" },
-        { "predicate": {"custom_model_data": 26 }, "model": "man10/equipment/mocaguitar" },
         { "predicate": {"custom_model_data": 26 }, "model": "man10/equipment/treasurechest_wood" },
         { "predicate": {"custom_model_data": 27 }, "model": "man10/equipment/treasurechest_iron" },
         { "predicate": {"custom_model_data": 28 }, "model": "man10/equipment/treasurechest_gold" },
@@ -43,7 +42,8 @@
         { "predicate": {"custom_model_data": 36 }, "model": "man10/equipment/moneychanger_100k" },
         { "predicate": {"custom_model_data": 37 }, "model": "man10/equipment/moneychanger_1m" },
         { "predicate": {"custom_model_data": 38 }, "model": "man10/equipment/guitar" },
+        { "predicate": {"custom_model_data": 39 }, "model": "man10/equipment/mocaguitar" },
 
-        { "predicate": {"custom_model_data": 39 }, "model": "item/stone_hoe" }
+        { "predicate": {"custom_model_data": 40 }, "model": "item/stone_hoe" }
         ]
 }

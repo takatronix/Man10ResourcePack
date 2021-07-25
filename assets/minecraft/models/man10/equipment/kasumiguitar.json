@@ -8193,8 +8193,9 @@
 			"scale": [2, 2, 2]
 		},
 		"fixed": {
-			"rotation": [0, 0, 39],
-			"translation": [2, -3.75, 0]
+			"rotation": [0, -59, 60],
+			"translation": [0.75, -1, -21],
+			"scale": [3.04, 3, 3]
 		}
 	}
 }
