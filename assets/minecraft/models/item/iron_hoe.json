@@ -5,14 +5,20 @@
     },
     "overrides": [
 		
-		{"predicate": {"custom_model_data":1}, "model": "man10/weapon/gun/mp_lv0"},
-		{"predicate": {"custom_model_data":2}, "model": "man10/weapon/gun/mr_lv0"},
-		{"predicate": {"custom_model_data":3}, "model": "man10/weapon/gun/ms_lv0"},
-		{"predicate": {"custom_model_data":4}, "model": "man10/weapon/gun/mp_lv1"},
-		{"predicate": {"custom_model_data":5}, "model": "man10/weapon/gun/mr_lv1"},
-		{"predicate": {"custom_model_data":6}, "model": "man10/weapon/gun/ms_lv1"},
+		{"predicate": {"custom_model_data":1},  "model": "man10/weapon/gun/mh_lv0"},
+		{"predicate": {"custom_model_data":2},  "model": "man10/weapon/gun/mh_lv0_aim"},
+		{"predicate": {"custom_model_data":3},  "model": "man10/weapon/gun/mr_lv0"},
+		{"predicate": {"custom_model_data":4},  "model": "man10/weapon/gun/mr_lv0_aim"},
+		{"predicate": {"custom_model_data":5},  "model": "man10/weapon/gun/ms_lv0"},
+		{"predicate": {"custom_model_data":6},  "model": "man10/weapon/gun/ms_lv0_aim"},
+		{"predicate": {"custom_model_data":7},  "model": "man10/weapon/gun/mh_lv1"},
+		{"predicate": {"custom_model_data":8},  "model": "man10/weapon/gun/mh_lv1_aim"},
+		{"predicate": {"custom_model_data":9},  "model": "man10/weapon/gun/mr_lv1"},
+		{"predicate": {"custom_model_data":10}, "model": "man10/weapon/gun/mr_lv1_aim"},
+		{"predicate": {"custom_model_data":11}, "model": "man10/weapon/gun/ms_lv1"},
+		{"predicate": {"custom_model_data":12}, "model": "man10/weapon/gun/ms_lv1_aim"},
 
     
-		{"predicate": {"custom_model_data":7}, "model": "item/iron_hoe"}
+		{"predicate": {"custom_model_data":13}, "model": "item/iron_hoe"}
     ]
 }
