@@ -5,10 +5,11 @@
     },
     "overrides": [
 		
-		{"predicate": {"custom_model_data":1}, "model": "man10/weapon/ammo/lv1_magazine"},
+      {"predicate": {"custom_model_data":1}, "model": "man10/weapon/ammo/lv0_magazine"},
+      {"predicate": {"custom_model_data":2}, "model": "man10/weapon/ammo/lv1_magazine"},
 
 
-		{"predicate": {"custom_model_data":2}, "model": "item/gunpowder"}
+		{"predicate": {"custom_model_data":3}, "model": "item/gunpowder"}
 
     ]
 }
