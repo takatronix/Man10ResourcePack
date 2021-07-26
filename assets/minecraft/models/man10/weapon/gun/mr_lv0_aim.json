@@ -1546,7 +1546,7 @@
 			"scale": [1.21, 1.21, 1.21]
 		},
 		"firstperson_righthand": {
-			"rotation": [-1, 0, 0],
+			"rotation": [-1.5, 0, 0],
 			"translation": [-8.97, 14.9, 7]
 		},
 		"firstperson_lefthand": {
