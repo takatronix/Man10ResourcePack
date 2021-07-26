@@ -7,6 +7,7 @@
 | iron_hoe                   | weapon/gun                        | 銃                                       |
 | iron_sword                 | weapon/sword                      | 近接武器、剣など                         |
 | iron_shovel                | weapon/magic                      | 手にもつ魔法武器、杖など                 |
+| gunpowder                | weapon/ammo                      | 弾薬                |
 | potion                     | drink                             | 飲み物                                   |
 | baked_potato               | food                              | 食べ物                                   |
 | stone_hoe                  | equipment                         | 設備・家具類（地面のおくこと前提）       |
