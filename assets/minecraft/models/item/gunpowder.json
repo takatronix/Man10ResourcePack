@@ -5,11 +5,15 @@
     },
     "overrides": [
 		
-      {"predicate": {"custom_model_data":1}, "model": "man10/weapon/ammo/lv0_magazine"},
-      {"predicate": {"custom_model_data":2}, "model": "man10/weapon/ammo/lv1_magazine"},
+      {"predicate": {"custom_model_data":1}, "model": "man10/weapon/ammo/mh_lv0_ammo"},
+      {"predicate": {"custom_model_data":2}, "model": "man10/weapon/ammo/mh_lv1_ammo"},
+      {"predicate": {"custom_model_data":3}, "model": "man10/weapon/ammo/mr_lv0_ammo"},
+      {"predicate": {"custom_model_data":4}, "model": "man10/weapon/ammo/mr_lv1_ammo"},
+      {"predicate": {"custom_model_data":5}, "model": "man10/weapon/ammo/ms_lv0_ammo"},
+      {"predicate": {"custom_model_data":6}, "model": "man10/weapon/ammo/ms_lv1_ammo"},
 
 
-		{"predicate": {"custom_model_data":3}, "model": "item/gunpowder"}
+		{"predicate": {"custom_model_data":7}, "model": "item/gunpowder"}
 
     ]
 }
