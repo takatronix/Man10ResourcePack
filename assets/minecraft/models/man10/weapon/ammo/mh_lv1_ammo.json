@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "man10/weapon/gun/mh_lv0"
+		"0": "man10/weapon/gun/mh_lv1"
 	},
 	"elements": [
 		{
