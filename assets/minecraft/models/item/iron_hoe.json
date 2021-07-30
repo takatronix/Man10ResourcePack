@@ -17,8 +17,14 @@
 		{"predicate": {"custom_model_data":10}, "model": "man10/weapon/gun/mr_lv1_aim"},
 		{"predicate": {"custom_model_data":11}, "model": "man10/weapon/gun/ms_lv1"},
 		{"predicate": {"custom_model_data":12}, "model": "man10/weapon/gun/ms_lv1_aim"},
+		{"predicate": {"custom_model_data":13},  "model": "man10/weapon/gun/mh_lv2"},
+		{"predicate": {"custom_model_data":14},  "model": "man10/weapon/gun/mh_lv2_aim"},
+		{"predicate": {"custom_model_data":15},  "model": "man10/weapon/gun/mr_lv2"},
+		{"predicate": {"custom_model_data":16}, "model": "man10/weapon/gun/mr_lv2_aim"},
+		{"predicate": {"custom_model_data":17}, "model": "man10/weapon/gun/ms_lv2"},
+		{"predicate": {"custom_model_data":18}, "model": "man10/weapon/gun/ms_lv2_aim"},
 
     
-		{"predicate": {"custom_model_data":13}, "model": "item/iron_hoe"}
+		{"predicate": {"custom_model_data":19}, "model": "item/iron_hoe"}
     ]
 }
