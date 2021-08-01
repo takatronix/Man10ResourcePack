@@ -20,8 +20,12 @@
     {"predicate": {"custom_model_data":12}, "model": "man10/hat/chicken_head"},
     {"predicate": {"custom_model_data":13}, "model": "man10/hat/dorango"},
     {"predicate": {"custom_model_data":14}, "model": "man10/hat/bigrock"},
+    {"predicate": {"custom_model_data":15}, "model": "man10/hat/Head_Axolotl_lucy"},
+    {"predicate": {"custom_model_data":16}, "model": "man10/hat/Head_Axolotl_blue"},
+    {"predicate": {"custom_model_data":17}, "model": "man10/hat/Head_Axolotl_cyan"},
+    {"predicate": {"custom_model_data":18}, "model": "man10/hat/Head_Axolotl_gold"},
+    {"predicate": {"custom_model_data":19}, "model": "man10/hat/Head_Axolotl_wild"},
 
-
-		{"predicate": {"custom_model_data":15}, "model": "item/wooden_hoe"}
+		{"predicate": {"custom_model_data":20}, "model": "item/wooden_hoe"}
     ]
 }
