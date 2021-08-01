@@ -3,7 +3,7 @@
 	"textures": {
 		"1": "block/white_concrete",
 		"3": "block/black_concrete",
-		"4": "man10/equipment/gold_shark_mouth",
+		"4": "man10/equipment/gold_shark/gold_shark_mouth",
 		"5": "block/gold_block",
 		"6": "block/brown_shulker_box",
 		"particle": "block/gold_block"
