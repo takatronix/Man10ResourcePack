@@ -1,7 +1,7 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made with Blockbench.",
 	"textures": {
-		"0": "entity/axolotl/axolotl_wild.",
+		"0": "entity/axolotl/axolotl_wild",
 		"particle": "entity/axolotl/axolotl_wild"
 	},
 	"elements": [
