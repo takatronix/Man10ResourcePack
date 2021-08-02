@@ -5,23 +5,29 @@
     },
     "overrides": [
 		
-		{"predicate": {"custom_model_data":1}, "model": "man10/hat/pienn_emoji"},	
-		{"predicate": {"custom_model_data":2}, "model": "man10/hat/rage_emoji"},
+        {"predicate": {"custom_model_data":1}, "model": "man10/hat/pienn_emoji"},
+        {"predicate": {"custom_model_data":2}, "model": "man10/hat/rage_emoji"},
 
-    {"predicate": {"custom_model_data":3}, "model": "man10/hat/halloween_witch_hat"},
-		{"predicate": {"custom_model_data":4}, "model": "man10/hat/minidevil_set"},
-		{"predicate": {"custom_model_data":5}, "model": "man10/hat/miniangel_set"},
-		{"predicate": {"custom_model_data":6}, "model": "man10/hat/zombie_doll"},
-		{"predicate": {"custom_model_data":7}, "model": "man10/hat/mankin"},
-    {"predicate": {"custom_model_data":8}, "model": "man10/hat/dokkiri"},
-    {"predicate": {"custom_model_data":9}, "model": "man10/hat/speech_bubble"},
-    {"predicate": {"custom_model_data":10}, "model": "man10/hat/parrot_head"},
-    {"predicate": {"custom_model_data":11}, "model": "man10/hat/big_parrot_head"},
-    {"predicate": {"custom_model_data":12}, "model": "man10/hat/chicken_head"},
-    {"predicate": {"custom_model_data":13}, "model": "man10/hat/dorango"},
-    {"predicate": {"custom_model_data":14}, "model": "man10/hat/bigrock"},
+        {"predicate": {"custom_model_data":3}, "model": "man10/hat/halloween_witch_hat"},
+        {"predicate": {"custom_model_data":4}, "model": "man10/hat/minidevil_set"},
+        {"predicate": {"custom_model_data":5}, "model": "man10/hat/miniangel_set"},
+        {"predicate": {"custom_model_data":6}, "model": "man10/hat/zombie_doll"},
+        {"predicate": {"custom_model_data":7}, "model": "man10/hat/mankin"},
+        {"predicate": {"custom_model_data":8}, "model": "man10/hat/dokkiri"},
+        {"predicate": {"custom_model_data":9}, "model": "man10/hat/speech_bubble"},
+        {"predicate": {"custom_model_data":10}, "model": "man10/hat/parrot_head"},
+        {"predicate": {"custom_model_data":11}, "model": "man10/hat/big_parrot_head"},
+        {"predicate": {"custom_model_data":12}, "model": "man10/hat/chicken_head"},
+        {"predicate": {"custom_model_data":13}, "model": "man10/hat/dorango"},
+        {"predicate": {"custom_model_data":14}, "model": "man10/hat/bigrock"},
+        {"predicate": {"custom_model_data":15}, "model": "man10/hat/head_axolotl_lucy"},
+        {"predicate": {"custom_model_data":16}, "model": "man10/hat/head_axolotl_blue"},
+        {"predicate": {"custom_model_data":17}, "model": "man10/hat/head_axolotl_cyan"},
+        {"predicate": {"custom_model_data":18}, "model": "man10/hat/head_axolotl_gold"},
+        {"predicate": {"custom_model_data":19}, "model": "man10/hat/head_axolotl_wild"},
+        {"predicate": {"custom_model_data":20}, "model": "man10/hat/amethyst_ball"},
 
 
-		{"predicate": {"custom_model_data":15}, "model": "item/wooden_hoe"}
+        {"predicate": {"custom_model_data":21}, "model": "item/wooden_hoe"}
     ]
 }
