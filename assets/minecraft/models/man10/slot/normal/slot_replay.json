@@ -1,6 +1,6 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "2d/slot_tex/normal_tex/slot_replay"
+		"layer0": "man10/slot/normal/slot_replay"
 	}
 }

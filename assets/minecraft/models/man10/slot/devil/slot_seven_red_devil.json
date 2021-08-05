@@ -1,6 +1,6 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "2d/slot_tex/devil_tex/slot_seven_red_devil"
+		"layer0": "man10/slot/devil/slot_seven_red_devil"
 	}
 }
