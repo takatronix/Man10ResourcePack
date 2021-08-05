@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "2d/slot_tex/normal_tex/slot_seven_yellow"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "2d/slot_tex/god_tex/slot_purple_seven_god"
+	}
+}

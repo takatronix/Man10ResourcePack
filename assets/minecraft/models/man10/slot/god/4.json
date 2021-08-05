@@ -1,0 +1,44 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "custom/slot/god/4"
+    },
+    "display": {
+  		"thirdperson_righthand": {
+  			"scale": [0.55, 0.55, 0.55],
+  			"rotation": [0, 0, 0],
+  			"translation": [0, 3, 1]
+  		},
+  		"thirdperson_lefthand": {
+  			"scale": [0.55, 0.55, 0.55],
+  			"rotation": [0, 0, 0],
+  			"translation": [0, 3, 1]
+  		},
+  		"firstperson_righthand": {
+  			"scale": [0.68, 0.68, 0.68],
+  			"rotation": [0, 90, 25],
+  			"translation": [0, 1.6, 0]
+  		},
+  		"firstperson_lefthand": {
+  			"scale": [0.68, 0.68, 0.68],
+  			"rotation": [0, -90, -25],
+  			"translation": [0, 1.6, 0]
+  		},
+  		"head": {
+  			"scale": [1, 1, 1],
+  			"rotation": [0, 180, 0],
+  			"translation": [0, 13, 7]
+  		},
+  		"ground": {
+  			"scale": [0.5, 0.5, 0.5],
+  			"rotation": [0, 0, 0],
+  			"translation": [0, 2, 0]
+  		},
+  		"gui": {"scale": [1, 1, 1]}
+  	},
+    "fixed": {
+			"scale": [1, 1, 1],
+			"rotation": [0, 0, 0],
+			"translation": [0, 0, 0]
+		}
+}

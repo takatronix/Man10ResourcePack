@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "2d/slot_tex/seastory_tex/umi7"
+	}
+}
