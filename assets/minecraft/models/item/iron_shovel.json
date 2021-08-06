@@ -14,8 +14,9 @@
 		{"predicate": {"custom_model_data":7}, "model": "man10/weapon/magic/chained_book2"},
 		{"predicate": {"custom_model_data":8}, "model": "man10/weapon/magic/chained_book3"},
 		{"predicate": {"custom_model_data":9}, "model": "man10/weapon/magic/dark_wand"},
+		{"predicate": {"custom_model_data":10}, "model": "man10/weapon/magic/amethyst_wand"},
 
 
-    {"predicate": {"custom_model_data":10}, "model": "item/iron_shovel"}		
+    {"predicate": {"custom_model_data":11}, "model": "item/iron_shovel"}		
   ]
 }
