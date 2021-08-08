@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Kanranseki",
+	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/oak_log",
 		"1": "block/anvil",
@@ -271,25 +271,27 @@
 	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
-			"translation": [-0.25, 13, -0.75]
+			"rotation": [15, 0, 0],
+			"translation": [-0.5, 6.75, 3.25],
+			"scale": [0.65, 0.65, 0.65]
 		},
 		"thirdperson_lefthand": {
 			"translation": [-0.25, 13, -0.75]
 		},
 		"firstperson_righthand": {
 			"rotation": [0, 3, 0],
-			"translation": [1.5, 5, 0],
-			"scale": [0.68, 0.68, 0.68]
+			"translation": [1.5, 4, 0.5],
+			"scale": [0.5, 0.5, 0.5]
 		},
 		"firstperson_lefthand": {
 			"rotation": [0, 3, 0],
-			"translation": [1.5, 5, 0],
-			"scale": [0.68, 0.68, 0.68]
+			"translation": [1.5, 4, 0.5],
+			"scale": [0.5, 0.5, 0.5]
 		},
 		"ground": {
 			"rotation": [45, 0, 0],
 			"translation": [0, 6, 0],
-			"scale": [0.5, 0.5, 0.5]
+			"scale": [0.4, 0.4, 0.4]
 		},
 		"gui": {
 			"rotation": [90, 45, -90],
@@ -297,20 +299,20 @@
 			"scale": [0.35, 0.35, 0.35]
 		},
 		"head": {
-			"rotation": [90, 24, 90],
-			"translation": [1.25, -13, 9.25],
-			"scale": [2.3, 2.3, 2.3]
+			"rotation": [90, 45, 90],
+			"translation": [1.25, -13, 5.25]
 		},
 		"fixed": {
 			"rotation": [90, -45, 90],
-			"translation": [0, -2, -3.75],
-			"scale": [0.55, 0.55, 0.55]
+			"translation": [0.25, -2, -3.75],
+			"scale": [0.45, 0.45, 0.45]
 		}
 	},
 	"groups": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10,
 		{
 			"name": "edge",
 			"origin": [8, 8, 8],
+			"color": 0,
 			"children": [11, 12, 13, 14, 15, 16, 17, 18, 19]
 		}
 	]
