@@ -1,0 +1,12 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "man10/currency/medal_of_honor"
+	},
+	"display": {
+		"head": {
+			"translation": [0, 13.5, 0]
+		}
+	}
+}
