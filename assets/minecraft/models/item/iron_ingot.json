@@ -11,8 +11,8 @@
     {"predicate": {"custom_model_data":4}, "model": "man10/currency/medal_of_honor"},
     {"predicate": {"custom_model_data":5}, "model": "man10/currency/coppercoin_mini"},
     {"predicate": {"custom_model_data":6}, "model": "man10/currency/rainbowcoin"},
+    {"predicate": {"custom_model_data":7}, "model": "man10/currency/mfc_anniversary_medal"},
     
-    
-		{"predicate": {"custom_model_data":7}, "model": "item/iron_ingot"}
+		{"predicate": {"custom_model_data":8}, "model": "item/iron_ingot"}
     ]
 }
