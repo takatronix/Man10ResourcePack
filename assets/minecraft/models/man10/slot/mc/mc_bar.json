@@ -1,6 +1,6 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "2d/slot_tex/mc/mc_bar"
+		"layer0": "man10/slot/mc/mc_bar"
 	}
 }
