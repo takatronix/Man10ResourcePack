@@ -28,7 +28,8 @@
         { "predicate": {"custom_model_data": 21 }, "model": "man10/weapon/sword/hiland_axe" },
         { "predicate": {"custom_model_data": 22 }, "model": "man10/weapon/other/globe_left" },
         { "predicate": {"custom_model_data": 23 }, "model": "man10/weapon/other/globe_right" },
+        { "predicate": {"custom_model_data": 24 }, "model": "man10/weapon/other/rocket_axe" },
 
-        { "predicate": {"custom_model_data": 24 }, "model": "item/iron_sword" }
+        { "predicate": {"custom_model_data": 25 }, "model": "item/iron_sword" }
         ]
 }
