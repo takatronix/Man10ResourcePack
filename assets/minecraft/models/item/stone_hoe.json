@@ -44,7 +44,10 @@
         { "predicate": {"custom_model_data": 38 }, "model": "man10/equipment/guitar" },
         { "predicate": {"custom_model_data": 39 }, "model": "man10/equipment/mocaguitar" },
         { "predicate": {"custom_model_data": 40 }, "model": "man10/equipment/gold_shark" },
+        { "predicate": {"custom_model_data": 41 }, "model": "man10/equipment/electronic_gate" },
+        { "predicate": {"custom_model_data": 42 }, "model": "man10/equipment/electronic_gate_left" },
+        { "predicate": {"custom_model_data": 43 }, "model": "man10/equipment/electronic_gate_right" },
 
-        { "predicate": {"custom_model_data": 41 }, "model": "item/stone_hoe" }
+        { "predicate": {"custom_model_data": 44 }, "model": "item/stone_hoe" }
         ]
 }
