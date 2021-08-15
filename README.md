@@ -13,7 +13,7 @@
 | stone_hoe                  | equipment                         | 設備・家具類（地面のおくこと前提）       |
 | golden_hoe                 | gadget                            | ガジェット類（地面（額縁）におけること） |
 | iron_nugget                | slot                              | スロット図柄                             |
-| oak_sapling                | virtucalblock                     | バーチャルブロック                       |
+| oak_sapling                | vartualblock          | バーチャルブロック                       |
 | gold_nugget                | number                            | 数字                                     |
 | golden_shovel              | veheicle                          | 乗り物、自転車、車など                   |
 | wooden_shovel              | icon                              | discrodアイコンなどUIに使うもの          |
