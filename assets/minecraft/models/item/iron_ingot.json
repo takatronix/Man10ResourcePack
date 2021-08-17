@@ -6,15 +6,22 @@
     "overrides": [
 		
 		{"predicate": {"custom_model_data":1}, "model": "man10/currency/m100"},
-    {"predicate": {"custom_model_data":2}, "model": "man10/currency/silvercoin"},
-    {"predicate": {"custom_model_data":3}, "model": "man10/currency/silvercoin_mini"},
-    {"predicate": {"custom_model_data":4}, "model": "man10/currency/medal_of_honor"},
-    {"predicate": {"custom_model_data":5}, "model": "man10/currency/coppercoin_mini"},
-    {"predicate": {"custom_model_data":6}, "model": "man10/currency/rainbowcoin"},
-    {"predicate": {"custom_model_data":7}, "model": "man10/currency/mfc_anniversary_medal"},
-    {"predicate": {"custom_model_data":8}, "model": "man10/currency/basket_coin"},
-    {"predicate": {"custom_model_data":9}, "model": "man10/currency/newspaper_coin"},
-    
-		{"predicate": {"custom_model_data":10}, "model": "item/iron_ingot"}
+        {"predicate": {"custom_model_data":2}, "model": "man10/currency/silvercoin"},
+        {"predicate": {"custom_model_data":3}, "model": "man10/currency/silvercoin_mini"},
+        {"predicate": {"custom_model_data":4}, "model": "man10/currency/medal_of_honor"},
+        {"predicate": {"custom_model_data":5}, "model": "man10/currency/coppercoin_mini"},
+        {"predicate": {"custom_model_data":6}, "model": "man10/currency/rainbowcoin"},
+
+
+        {"predicate": {"custom_model_data":7}, "model": "man10/anniversary_coin/mfc_anniversary_coin"},
+        {"predicate": {"custom_model_data":8}, "model": "man10/anniversary_coin/mfc_anniversary_coin_special"},
+
+        {"predicate": {"custom_model_data":9}, "model": "man10/anniversary_coin/basket_coin"},
+        {"predicate": {"custom_model_data":10}, "model": "man10/anniversary_coin/basket_coin_special"},
+
+        {"predicate": {"custom_model_data":11}, "model": "man10/anniversary_coin/newspaper_coin"},
+        {"predicate": {"custom_model_data":12}, "model": "man10/anniversary_coin/newspaper_coin_special"},
+
+        {"predicate": {"custom_model_data":13}, "model": "item/iron_ingot"}
     ]
 }
