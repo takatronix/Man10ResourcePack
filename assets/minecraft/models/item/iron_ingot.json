@@ -13,15 +13,13 @@
         {"predicate": {"custom_model_data":6}, "model": "man10/currency/rainbowcoin"},
 
 
-        {"predicate": {"custom_model_data":7}, "model": "man10/anniversary_coin/mfc_anniversary_coin"},
-        {"predicate": {"custom_model_data":8}, "model": "man10/anniversary_coin/mfc_anniversary_coin_special"},
+        {"predicate": {"custom_model_data":7}, "model": "man10/currency/anniversary_coin/mfc_anniversary_coin"},
+        {"predicate": {"custom_model_data":8}, "model": "man10/currency/anniversary_coin/mfc_anniversary_coin_special"},
+        {"predicate": {"custom_model_data":9}, "model": "man10/currency/anniversary_coin/basket_coin"},
+        {"predicate": {"custom_model_data":10}, "model": "man10/currency/anniversary_coin/basket_coin_special"},
+        {"predicate": {"custom_model_data":11}, "model": "man10/currency/anniversary_coin/newspaper_coin"},
+        {"predicate": {"custom_model_data":12}, "model": "man10/currency/anniversary_coin/newspaper_coin_special"},
 
-        {"predicate": {"custom_model_data":9}, "model": "man10/anniversary_coin/basket_coin"},
-        {"predicate": {"custom_model_data":10}, "model": "man10/anniversary_coin/basket_coin_special"},
-
-        {"predicate": {"custom_model_data":11}, "model": "man10/anniversary_coin/newspaper_coin"},
-        {"predicate": {"custom_model_data":12}, "model": "man10/anniversary_coin/newspaper_coin_special"},
-
-        {"predicate": {"custom_model_data":13}, "model": "item/iron_ingot"}
+        {"predicate": {"custom_model_data":13}, "model": "item/currency/iron_ingot"}
     ]
 }
