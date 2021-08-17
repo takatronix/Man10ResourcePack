@@ -40,5 +40,11 @@
     "sounds": [
       "man10/oof"
     ]
+  },
+  "man10.Elektronomia": {
+    "category": "master",
+    "sounds": [
+      "man10/Elektronomia"
+    ]
   }
 }
