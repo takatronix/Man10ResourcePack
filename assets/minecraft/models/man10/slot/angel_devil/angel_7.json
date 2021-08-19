@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "man10/slot/angel_devil/angel_7"
+	}
+}

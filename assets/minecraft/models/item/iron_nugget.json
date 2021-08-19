@@ -41,6 +41,20 @@
         {"predicate": {"custom_model_data":31}, "model": "man10/slot/god/god_8"},
         {"predicate": {"custom_model_data":32}, "model": "man10/slot/god/god_v"},
 
-		{"predicate": {"custom_model_data":33}, "model": "item/iron_nugget"}
+        {"predicate": {"custom_model_data":33}, "model": "man10/slot/angel_devil/angel_7"},
+        {"predicate": {"custom_model_data":34}, "model": "man10/slot/angel_devil/angel_bible"},
+        {"predicate": {"custom_model_data":35}, "model": "man10/slot/angel_devil/angel_pearl"},
+        {"predicate": {"custom_model_data":36}, "model": "man10/slot/angel_devil/angel_ring"},
+        {"predicate": {"custom_model_data":37}, "model": "man10/slot/angel_devil/angel_wing_left"},
+        {"predicate": {"custom_model_data":38}, "model": "man10/slot/angel_devil/angel_wing_right"},
+        {"predicate": {"custom_model_data":39}, "model": "man10/slot/angel_devil/devil_7"},
+        {"predicate": {"custom_model_data":40}, "model": "man10/slot/angel_devil/devil_bible"},
+        {"predicate": {"custom_model_data":41}, "model": "man10/slot/angel_devil/devil_feather"},
+        {"predicate": {"custom_model_data":42}, "model": "man10/slot/angel_devil/devil_pearl"},
+        {"predicate": {"custom_model_data":43}, "model": "man10/slot/angel_devil/devil_trident"},
+        {"predicate": {"custom_model_data":44}, "model": "man10/slot/angel_devil/devil_wing_left"},
+        {"predicate": {"custom_model_data":45}, "model": "man10/slot/angel_devil/devil_wing_right"},
+
+		{"predicate": {"custom_model_data":46}, "model": "item/iron_nugget"}
     ]
 }
