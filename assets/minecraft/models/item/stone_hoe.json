@@ -49,7 +49,9 @@
         { "predicate": {"custom_model_data": 43 }, "model": "man10/equipment/electronic_gate_right" },
         { "predicate": {"custom_model_data": 44 }, "model": "man10/equipment/trap_open" },
         { "predicate": {"custom_model_data": 45 }, "model": "man10/equipment/trap_close" },
+        { "predicate": {"custom_model_data": 46 }, "model": "man10/equipment/trash_can" },
+        { "predicate": {"custom_model_data": 47 }, "model": "man10/equipment/bench" },
 
-        { "predicate": {"custom_model_data": 46 }, "model": "item/stone_hoe" }
+        { "predicate": {"custom_model_data": 48 }, "model": "item/stone_hoe" }
         ]
 }

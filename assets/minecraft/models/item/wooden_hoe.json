@@ -26,8 +26,10 @@
         {"predicate": {"custom_model_data":18}, "model": "man10/hat/head_axolotl_gold"},
         {"predicate": {"custom_model_data":19}, "model": "man10/hat/head_axolotl_wild"},
         {"predicate": {"custom_model_data":20}, "model": "man10/hat/amethyst_ball"},
+        {"predicate": {"custom_model_data":21}, "model": "man10/hat/silkhat"},
+        {"predicate": {"custom_model_data":22}, "model": "man10/hat/santahat"},
 
 
-        {"predicate": {"custom_model_data":21}, "model": "item/wooden_hoe"}
+        {"predicate": {"custom_model_data":23}, "model": "item/wooden_hoe"}
     ]
 }
