@@ -143,10 +143,9 @@ https://man10.red/wiki/doku.php?id=helper:%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E
 プッシュされたものは自動でman10serverに反映されます
 
 
-
 ダウンロード先
 
-https://man10.red/Man10ResourcePack_Season3_master.zip
+https://man10.red/Man10ResourcePack.zip
 
 
 
