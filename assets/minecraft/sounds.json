@@ -40,5 +40,101 @@
     "sounds": [
       "man10/oof"
     ]
+  },
+  "slot.anger": {
+    "category": "master",
+    "sounds": [
+      "slot/anger"
+    ]
+  },
+  "slot.god": {
+    "category": "master",
+    "sounds": [
+      "slot/god"
+    ]
+  },
+  "slot.god1": {
+    "category": "master",
+    "sounds": [
+      "slot/god1"
+    ]
+  },
+  "slot.godsoroi_1": {
+    "category": "master",
+    "sounds": [
+      "slot/godsoroi_1"
+    ]
+  },
+  "slot.godsoroi_2": {
+    "category": "master",
+    "sounds": [
+      "slot/godsoroi_2"
+    ]
+  },
+  "slot.godsoroi_3": {
+    "category": "master",
+    "sounds": [
+      "slot/godsoroi_3"
+    ]
+  },
+  "slot.jag_bonus": {
+    "category": "master",
+    "sounds": [
+      "slot/jag_bonus"
+    ]
+  },
+  "slot.jag_bonus2": {
+    "category": "master",
+    "sounds": [
+      "slot/jag_bonus2"
+    ]
+  },
+  "slot.jag_gunkan": {
+    "category": "master",
+    "sounds": [
+      "slot/jag_gunkan"
+    ]
+  },
+  "slot.jag_pekari": {
+    "category": "master",
+    "sounds": [
+      "slot/jag_pekari"
+    ]
+  },
+  "slot.jag_reel_stop": {
+    "category": "master",
+    "sounds": [
+      "slot/jag_reel_stop"
+    ]
+  },
+  "slot.jag_reel": {
+    "category": "master",
+    "sounds": [
+      "slot/jag_reel"
+    ]
+  },
+  "slot.jag_replay": {
+    "category": "master",
+    "sounds": [
+      "slot/jag_replay"
+    ]
+  },
+  "slot.kyuin": {
+    "category": "master",
+    "sounds": [
+      "slot/kyuin"
+    ]
+  },
+  "slot.kyuin_short": {
+    "category": "master",
+    "sounds": [
+      "slot/kyuin_short"
+    ]
+  },
+  "slot.yorokobi": {
+    "category": "master",
+    "sounds": [
+      "slot/yorokobi"
+    ]
   }
 }
