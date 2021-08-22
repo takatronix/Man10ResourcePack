@@ -143,12 +143,6 @@ https://man10.red/wiki/doku.php?id=helper:%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9%E
 プッシュされたものは自動でman10serverに反映されます
 
 
-ダウンロード先
-
-https://man10.red/Man10ResourcePack.zip
-
-
-
 ## develop
 開発中のブランチです。
 
@@ -160,3 +154,10 @@ https://man10.red/Man10ResourcePack.zip
 MCID/ブランチ名
 
 [例] takatronix/xxxx
+
+# ダウンロード先
+
+masterに上がったものは、サーバーリソースパックで反映されるほか、自動的に以下のアドレスにも保存されます。
+頻繁に更新されるので、基本的にはサーバーリソースパックをご利用ください。
+
+https://man10.red/Man10ResourcePack.zip
