@@ -40,7 +40,8 @@
         {"predicate": {"custom_model_data":32}, "model": "man10/hat/black_cap"},
         {"predicate": {"custom_model_data":33}, "model": "man10/hat/helmet_miner"},
         {"predicate": {"custom_model_data":34}, "model": "man10/hat/dog_filter"},
+        {"predicate": {"custom_model_data":35}, "model": "man10/hat/sunflower_accessory"},
 
-        {"predicate": {"custom_model_data":35}, "model": "item/wooden_hoe"}
+        {"predicate": {"custom_model_data":36}, "model": "item/wooden_hoe"}
     ]
 }

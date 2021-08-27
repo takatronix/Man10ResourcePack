@@ -51,7 +51,8 @@
         { "predicate": {"custom_model_data": 45 }, "model": "man10/equipment/trap_close" },
         { "predicate": {"custom_model_data": 46 }, "model": "man10/equipment/trash_can" },
         { "predicate": {"custom_model_data": 47 }, "model": "man10/equipment/bench" },
+        { "predicate": {"custom_model_data": 48 }, "model": "man10/equipment/golden_statue" },
 
-        { "predicate": {"custom_model_data": 48 }, "model": "item/stone_hoe" }
+        { "predicate": {"custom_model_data": 49 }, "model": "item/stone_hoe" }
         ]
 }
