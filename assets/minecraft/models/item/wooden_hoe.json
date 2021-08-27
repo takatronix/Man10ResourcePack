@@ -41,7 +41,10 @@
         {"predicate": {"custom_model_data":33}, "model": "man10/hat/helmet_miner"},
         {"predicate": {"custom_model_data":34}, "model": "man10/hat/dog_filter"},
         {"predicate": {"custom_model_data":35}, "model": "man10/hat/sunflower_accessory"},
+        {"predicate": {"custom_model_data":36}, "model": "man10/hat/altyn"},
+        {"predicate": {"custom_model_data":37}, "model": "man10/hat/police_hat"},
+        {"predicate": {"custom_model_data":38}, "model": "man10/hat/cutebear_mask"},
 
-        {"predicate": {"custom_model_data":36}, "model": "item/wooden_hoe"}
+        {"predicate": {"custom_model_data":39}, "model": "item/wooden_hoe"}
     ]
 }
