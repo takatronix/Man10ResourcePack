@@ -128,8 +128,10 @@
 			}
 		}
 	],
+	"gui_light": "front",
 	"display": {
 		"ground": {
+			"translation": [0, 6, 0],
 			"scale": [2, 2, 2]
 		},
 		"gui": {
@@ -142,8 +144,9 @@
 			"scale": [4, 4, 4]
 		},
 		"fixed": {
-			"translation": [0, -3, 0],
-			"scale": [1.5, 1.5, 1.5]
+			"rotation": [-90, 0, 0],
+			"translation": [0.25, 1, -17],
+			"scale": [4, 4, 4]
 		}
 	}
 }
