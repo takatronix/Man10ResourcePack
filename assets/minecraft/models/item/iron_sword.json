@@ -30,7 +30,8 @@
         { "predicate": {"custom_model_data": 23 }, "model": "man10/weapon/other/globe_right" },
         { "predicate": {"custom_model_data": 24 }, "model": "man10/weapon/other/rocket_axe" },
         { "predicate": {"custom_model_data": 25 }, "model": "man10/weapon/other/wither_scythe" },
+        { "predicate": {"custom_model_data": 26 }, "model": "man10/weapon/other/chainsow" },
 
-        { "predicate": {"custom_model_data": 26 }, "model": "item/iron_sword" }
+        { "predicate": {"custom_model_data": 27 }, "model": "item/iron_sword" }
         ]
 }
