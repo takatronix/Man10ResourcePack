@@ -20,7 +20,11 @@
         {"predicate": {"custom_model_data":11}, "model": "man10/currency/anniversary_coin/newspaper_coin"},
         {"predicate": {"custom_model_data":12}, "model": "man10/currency/anniversary_coin/newspaper_coin_special"},
         {"predicate": {"custom_model_data":13}, "model": "man10/currency/mfc_mini"},
+        {"predicate": {"custom_model_data":14}, "model": "man10/currency/anniversary_coin/200_coin"},
+        {"predicate": {"custom_model_data":15}, "model": "man10/currency/anniversary_coin/200_coin_special"},
+        {"predicate": {"custom_model_data":16}, "model": "man10/currency/anniversary_coin/trophy_coin"},
+        {"predicate": {"custom_model_data":17}, "model": "man10/currency/anniversary_coin/trophy_coin_special"},
 
-        {"predicate": {"custom_model_data":14}, "model": "item/currency/iron_ingot"}
+        {"predicate": {"custom_model_data":18}, "model": "item/currency/iron_ingot"}
     ]
 }
