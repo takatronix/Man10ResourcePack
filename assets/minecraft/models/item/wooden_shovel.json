@@ -8,7 +8,8 @@
 		{"predicate": {"custom_model_data":1}, "model": "man10/icon/discord"},	
 		{"predicate": {"custom_model_data":2}, "model": "man10/icon/enderchest"},	
 		{"predicate": {"custom_model_data":3}, "model": "man10/icon/diamond_pickaxe"},	
-    {"predicate": {"custom_model_data":3}, "model": "man10/icon/poop_emoji"},	
+        {"predicate": {"custom_model_data":4}, "model": "man10/icon/poop_emoji"},
+        {"predicate": {"custom_model_data":5}, "model": "man10/tool/copper/copper_shovel"},
 
 		{"predicate": {"custom_model_data":10}, "model": "item/wooden_shovel"}
     ]

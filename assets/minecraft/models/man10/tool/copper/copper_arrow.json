@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "man10/tool/copper/copper_arrow"
+  }
+}
