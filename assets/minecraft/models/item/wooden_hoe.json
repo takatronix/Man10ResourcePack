@@ -46,7 +46,19 @@
         {"predicate": {"custom_model_data":38}, "model": "man10/hat/cutebear_mask"},
         {"predicate": {"custom_model_data":39}, "model": "man10/hat/loser_hat"},
         {"predicate": {"custom_model_data":40}, "model": "man10/tool/copper/copper_hoe"},
+        {"predicate": {"custom_model_data":41}, "model": "man10/hat/creeper_doll"},
+        {"predicate": {"custom_model_data":42}, "model": "man10/hat/osyaburi"},
+        {"predicate": {"custom_model_data":43}, "model": "man10/hat/headband"},
+        {"predicate": {"custom_model_data":44}, "model": "man10/hat/headband"},
+        {"predicate": {"custom_model_data":44}, "model": "man10/hat/headphone"},
+        {"predicate": {"custom_model_data":45}, "model": "man10/hat/mask"},
+        {"predicate": {"custom_model_data":46}, "model": "man10/hat/mohikan"},
+        {"predicate": {"custom_model_data":47}, "model": "man10/hat/takekoputa-"},
+        {"predicate": {"custom_model_data":48}, "model": "man10/hat/8bit_glasses"},
+        {"predicate": {"custom_model_data":49}, "model": "man10/hat/3d_glasses"},
+        {"predicate": {"custom_model_data":50}, "model": "man10/hat/afro"},
+        {"predicate": {"custom_model_data":51}, "model": "man10/hat/tensinowa"},
 
-        {"predicate": {"custom_model_data":41}, "model": "item/wooden_hoe"}
+        {"predicate": {"custom_model_data":55}, "model": "item/wooden_hoe"}
     ]
 }

@@ -24,7 +24,9 @@
         {"predicate": {"custom_model_data":15}, "model": "man10/currency/anniversary_coin/200_coin_special"},
         {"predicate": {"custom_model_data":16}, "model": "man10/currency/anniversary_coin/trophy_coin"},
         {"predicate": {"custom_model_data":17}, "model": "man10/currency/anniversary_coin/trophy_coin_special"},
+        {"predicate": {"custom_model_data":18}, "model": "man10/currency/anniversary_coin/potion_coin"},
+        {"predicate": {"custom_model_data":19}, "model": "man10/currency/anniversary_coin/potion_coin_special"},
 
-        {"predicate": {"custom_model_data":18}, "model": "item/currency/iron_ingot"}
+        {"predicate": {"custom_model_data":20}, "model": "item/currency/iron_ingot"}
     ]
 }
