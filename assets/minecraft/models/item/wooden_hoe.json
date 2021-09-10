@@ -53,6 +53,7 @@
         {"predicate": {"custom_model_data":44}, "model": "man10/hat/headphone"},
         {"predicate": {"custom_model_data":45}, "model": "man10/hat/mask"},
         {"predicate": {"custom_model_data":46}, "model": "man10/hat/mohikan"},
+        {"predicate": {"custom_model_data":47}, "model": "man10/hat/takekoputa-"},
 
         {"predicate": {"custom_model_data":50}, "model": "item/wooden_hoe"}
     ]
