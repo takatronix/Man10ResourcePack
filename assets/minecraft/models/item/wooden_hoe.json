@@ -46,7 +46,8 @@
         {"predicate": {"custom_model_data":38}, "model": "man10/hat/cutebear_mask"},
         {"predicate": {"custom_model_data":39}, "model": "man10/hat/loser_hat"},
         {"predicate": {"custom_model_data":40}, "model": "man10/tool/copper/copper_hoe"},
+        {"predicate": {"custom_model_data":41}, "model": "man10/hat/creeper_doll"},
 
-        {"predicate": {"custom_model_data":41}, "model": "item/wooden_hoe"}
+        {"predicate": {"custom_model_data":45}, "model": "item/wooden_hoe"}
     ]
 }
