@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "custom/niiku1014/white",
-		"1": "custom/niiku1014/blueclear",
-		"2": "custom/niiku1014/redclear",
-		"particle": "custom/niiku1014/white"
+		"0": "man10/common/white",
+		"1": "man10/common/blue",
+		"2": "man10/common/red",
+		"particle": "man10/common/white"
 	},
 	"elements": [
 		{
