@@ -5,7 +5,7 @@
     },
          "overrides": [
         { "predicate": {"custom_model_data": 1 }, "model": "man10/weapon/sword/dan5sword" },
-
-        { "predicate": {"custom_model_data": 2 }, "model": "item/stone_sword" }
+        { "predicate": {"custom_model_data": 2 }, "model": "man10/weapon/other/pikopiko" },
+        { "predicate": {"custom_model_data": 3 }, "model": "item/stone_sword" }
         ]
 }
