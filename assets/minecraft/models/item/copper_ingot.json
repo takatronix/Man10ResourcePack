@@ -5,6 +5,7 @@
     },
     "overrides": [
 		
-		{"predicate": {"custom_model_data":1}, "model": "man10/currency/m10"}		
+		{"predicate": {"custom_model_data":1}, "model": "man10/currency/m10"},
+        {"predicate": {"custom_model_data":2}, "model": "man10/currency/bronze_ticket"}	
     ]
 }
