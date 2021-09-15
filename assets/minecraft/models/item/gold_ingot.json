@@ -21,7 +21,7 @@
       {"predicate": {"custom_model_data":13}, "model": "man10/currency/star_peridot"},
       {"predicate": {"custom_model_data":14}, "model": "man10/currency/star_ruby"},
       {"predicate": {"custom_model_data":15}, "model": "man10/currency/star_tanzanite"},
-      {"predicate": {"custom_model_data":16}, "model": "man10/currency/glod_ticket"},
+      {"predicate": {"custom_model_data":16}, "model": "man10/currency/gold_ticket"},
 
       {"predicate": {"custom_model_data":17}, "model": "item/gold_ingot"}		
     ]
