@@ -1,10 +1,11 @@
+  
 {
     "targets": [
         "swap"
     ],
     "passes": [
         {
-            "name": "wobble",
+            "name": "sample",
             "intarget": "minecraft:main",
             "outtarget": "swap"
         },
