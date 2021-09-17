@@ -60,7 +60,7 @@
         { "predicate": {"custom_model_data": 53 }, "model": "man10/equipment/bonfire_cook" },
         { "predicate": {"custom_model_data": 54 }, "model": "man10/equipment/camp_chair" },
         { "predicate": {"custom_model_data": 55 }, "model": "man10/equipment/forklift" },
-        { "predicate": {"custom_model_data": 56 }, "model": "man10/equipment/japane_umbrella" },
+        { "predicate": {"custom_model_data": 56 }, "model": "man10/equipment/japanese_umbrella" },
         { "predicate": {"custom_model_data": 57 }, "model": "man10/equipment/pylon" },
         { "predicate": {"custom_model_data": 58 }, "model": "man10/equipment/register" },
         { "predicate": {"custom_model_data": 59 }, "model": "man10/equipment/tent" },
