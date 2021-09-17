@@ -69,6 +69,6 @@
         { "predicate": {"custom_model_data": 62 }, "model": "man10/equipment/wood_burning_stove" },
         { "predicate": {"custom_model_data": 63 }, "model": "man10/equipment/wood_table" },
 
-        { "predicate": {"custom_model_data": 51 }, "model": "item/stone_hoe" }
+        { "predicate": {"custom_model_data": 64 }, "model": "item/stone_hoe" }
         ]
 }
