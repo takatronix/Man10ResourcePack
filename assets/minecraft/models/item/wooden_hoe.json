@@ -59,6 +59,13 @@
         {"predicate": {"custom_model_data":50}, "model": "man10/hat/afro"},
         {"predicate": {"custom_model_data":51}, "model": "man10/hat/tensinowa"},
 
-        {"predicate": {"custom_model_data":55}, "model": "item/wooden_hoe"}
+        {"predicate": {"custom_model_data":52}, "model": "man10/hat/banana_peel"},
+        {"predicate": {"custom_model_data":53}, "model": "man10/hat/darkangel_wing"},
+        {"predicate": {"custom_model_data":54}, "model": "man10/hat/duralimin"},
+        {"predicate": {"custom_model_data":55}, "model": "man10/hat/ogre_horn"},
+        {"predicate": {"custom_model_data":56}, "model": "man10/hat/paperbag"},
+        {"predicate": {"custom_model_data":57}, "model": "man10/hat/robe_of_feathers"},
+
+        {"predicate": {"custom_model_data":58}, "model": "item/wooden_hoe"}
     ]
 }
