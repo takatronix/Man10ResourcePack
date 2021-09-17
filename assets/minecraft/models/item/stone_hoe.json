@@ -58,17 +58,16 @@
         { "predicate": {"custom_model_data": 51 }, "model": "man10/equipment/bbq_grill" },
         { "predicate": {"custom_model_data": 52 }, "model": "man10/equipment/bicycle" },
         { "predicate": {"custom_model_data": 53 }, "model": "man10/equipment/bonfire_cook" },
-        { "predicate": {"custom_model_data": 54 }, "model": "man10/equipment/cake" },
-        { "predicate": {"custom_model_data": 55 }, "model": "man10/equipment/camp_chair" },
-        { "predicate": {"custom_model_data": 56 }, "model": "man10/equipment/forklift" },
-        { "predicate": {"custom_model_data": 57 }, "model": "man10/equipment/japane_umbrella" },
-        { "predicate": {"custom_model_data": 58 }, "model": "man10/equipment/pylon" },
-        { "predicate": {"custom_model_data": 59 }, "model": "man10/equipment/register" },
-        { "predicate": {"custom_model_data": 60 }, "model": "man10/equipment/tent" },
-        { "predicate": {"custom_model_data": 61 }, "model": "man10/equipment/washing_machine" },
-        { "predicate": {"custom_model_data": 62 }, "model": "man10/equipment/wood_burning_stove" },
-        { "predicate": {"custom_model_data": 63 }, "model": "man10/equipment/wood_table" },
+        { "predicate": {"custom_model_data": 54 }, "model": "man10/equipment/camp_chair" },
+        { "predicate": {"custom_model_data": 55 }, "model": "man10/equipment/forklift" },
+        { "predicate": {"custom_model_data": 56 }, "model": "man10/equipment/japane_umbrella" },
+        { "predicate": {"custom_model_data": 57 }, "model": "man10/equipment/pylon" },
+        { "predicate": {"custom_model_data": 58 }, "model": "man10/equipment/register" },
+        { "predicate": {"custom_model_data": 59 }, "model": "man10/equipment/tent" },
+        { "predicate": {"custom_model_data": 60 }, "model": "man10/equipment/washing_machine" },
+        { "predicate": {"custom_model_data": 61 }, "model": "man10/equipment/wood_burning_stove" },
+        { "predicate": {"custom_model_data": 62 }, "model": "man10/equipment/wood_table" },
 
-        { "predicate": {"custom_model_data": 64 }, "model": "item/stone_hoe" }
+        { "predicate": {"custom_model_data": 63 }, "model": "item/stone_hoe" }
         ]
 }

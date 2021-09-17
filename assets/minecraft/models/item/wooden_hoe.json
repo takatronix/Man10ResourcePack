@@ -61,7 +61,7 @@
 
         {"predicate": {"custom_model_data":52}, "model": "man10/hat/banana_peel"},
         {"predicate": {"custom_model_data":53}, "model": "man10/hat/darkangel_wing"},
-        {"predicate": {"custom_model_data":54}, "model": "man10/hat/duralmin"},
+        {"predicate": {"custom_model_data":54}, "model": "man10/hat/duralumin"},
         {"predicate": {"custom_model_data":55}, "model": "man10/hat/ogre_horn"},
         {"predicate": {"custom_model_data":56}, "model": "man10/hat/paperbag"},
         {"predicate": {"custom_model_data":57}, "model": "man10/hat/robe_of_feathers"},
