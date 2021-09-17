@@ -3397,11 +3397,13 @@
 			"scale": [0.8, 0.8, 0.8]
 		},
 		"head": {
-			"translation": [0, 25, 0],
-			"scale": [2.5, 2.3, 2.5]
+			"translation": [0, 17, 0],
+			"scale": [1.25, 1.25, 1.25]
 		},
 		"fixed": {
-			"translation": [0, 0, -1.5]
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -16.5],
+			"scale": [2, 2, 2]
 		}
 	},
 	"groups": [

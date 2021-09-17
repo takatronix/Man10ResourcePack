@@ -12278,7 +12278,9 @@
 			"scale": [3.4, 3.4, 3.4]
 		},
 		"fixed": {
-			"translation": [0, 2, 0]
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -53],
+			"scale": [4, 4, 4]
 		}
 	},
 	"groups": [

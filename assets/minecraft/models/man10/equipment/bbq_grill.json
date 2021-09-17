@@ -3386,13 +3386,12 @@
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"head": {
-			"translation": [0, -3.5, 0],
-			"scale": [1.5, 1.5, 1.5]
+			"translation": [0, 18, 0]
 		},
 		"fixed": {
-			"rotation": [-24, 0, 0],
-			"translation": [0, 7, -6],
-			"scale": [0.7, 0.7, 0.7]
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0.5, -39],
+			"scale": [1.5, 1.5, 1.5]
 		}
 	},
 	"groups": [
