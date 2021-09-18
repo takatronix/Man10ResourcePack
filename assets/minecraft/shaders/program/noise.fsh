@@ -19,10 +19,12 @@ float random (vec2 st) {
 
 
 void main(){
-    vec2 st = texCoord.xy/ScreenSize.xy;
+    vec2 st = texCoord.xy;
 
-    float rnd = random( st);
+    float r = random( st );
+    float g = random( st * Time);
+    float b = random( st * Time * 13333);
 
-    fragColor = vec4(vec3(rnd),1.0);
+    fragColor = vec4(r,g,b,1.0);
 
 }
