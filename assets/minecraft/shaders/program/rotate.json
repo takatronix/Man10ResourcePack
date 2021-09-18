@@ -5,7 +5,7 @@
         "dstrgb": "zero"
     },
     "vertex": "blit",
-    "fragment": "noise",
+    "fragment": "rotate",
     "attributes": [ "Position" ],
     "samplers": [
         { "name": "DiffuseSampler" }

@@ -5,7 +5,7 @@
     ],
     "passes": [
         {
-            "name": "noise",
+            "name": "rotate",
             "intarget": "minecraft:main",
             "outtarget": "swap"
         },
