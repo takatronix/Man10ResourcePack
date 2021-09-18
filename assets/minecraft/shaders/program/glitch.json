@@ -5,7 +5,7 @@
         "dstrgb": "zero"
     },
     "vertex": "blit",
-    "fragment": "rotate",
+    "fragment": "glitch",
     "attributes": [ "Position" ],
     "samplers": [
         { "name": "DiffuseSampler" }

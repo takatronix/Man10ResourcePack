@@ -5,7 +5,7 @@
     ],
     "passes": [
         {
-            "name": "rotate",
+            "name": "glitch",
             "intarget": "minecraft:main",
             "outtarget": "swap"
         },
