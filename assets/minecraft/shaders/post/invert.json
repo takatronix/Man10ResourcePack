@@ -5,7 +5,7 @@
     ],
     "passes": [
         {
-            "name": "colorshift",
+            "name": "flip",
             "intarget": "minecraft:main",
             "outtarget": "swap"
         },
