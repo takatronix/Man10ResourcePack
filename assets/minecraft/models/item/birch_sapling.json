@@ -1,0 +1,68 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "block/birch_sapling"
+	},
+	
+	"overrides": [
+
+		{"predicate": {"custom_model_data":1}, "model": "man10/playing_cards/card_spade_1"},
+		{"predicate": {"custom_model_data":2}, "model": "man10/playing_cards/card_spade_2"},
+		{"predicate": {"custom_model_data":3}, "model": "man10/playing_cards/card_spade_3"},
+		{"predicate": {"custom_model_data":4}, "model": "man10/playing_cards/card_spade_4"},
+		{"predicate": {"custom_model_data":5}, "model": "man10/playing_cards/card_spade_5"},
+		{"predicate": {"custom_model_data":6}, "model": "man10/playing_cards/card_spade_6"},
+		{"predicate": {"custom_model_data":7}, "model": "man10/playing_cards/card_spade_7"},
+		{"predicate": {"custom_model_data":8}, "model": "man10/playing_cards/card_spade_8"},
+		{"predicate": {"custom_model_data":9}, "model": "man10/playing_cards/card_spade_9"},
+		{"predicate": {"custom_model_data":10}, "model": "man10/playing_cards/card_spade_10"},
+		{"predicate": {"custom_model_data":11}, "model": "man10/playing_cards/card_spade_11"},
+		{"predicate": {"custom_model_data":12}, "model": "man10/playing_cards/card_spade_12"},
+		{"predicate": {"custom_model_data":13}, "model": "man10/playing_cards/card_spade_13"},
+
+		{"predicate": {"custom_model_data":14}, "model": "man10/playing_cards/card_diamond_1"},
+		{"predicate": {"custom_model_data":15}, "model": "man10/playing_cards/card_diamond_2"},
+		{"predicate": {"custom_model_data":16}, "model": "man10/playing_cards/card_diamond_3"},
+		{"predicate": {"custom_model_data":17}, "model": "man10/playing_cards/card_diamond_4"},
+		{"predicate": {"custom_model_data":18}, "model": "man10/playing_cards/card_diamond_5"},
+		{"predicate": {"custom_model_data":19}, "model": "man10/playing_cards/card_diamond_6"},
+		{"predicate": {"custom_model_data":20}, "model": "man10/playing_cards/card_diamond_7"},
+		{"predicate": {"custom_model_data":21}, "model": "man10/playing_cards/card_diamond_8"},
+		{"predicate": {"custom_model_data":22}, "model": "man10/playing_cards/card_diamond_9"},
+		{"predicate": {"custom_model_data":23}, "model": "man10/playing_cards/card_diamond_10"},
+		{"predicate": {"custom_model_data":24}, "model": "man10/playing_cards/card_diamond_11"},
+		{"predicate": {"custom_model_data":25}, "model": "man10/playing_cards/card_diamond_12"},
+		{"predicate": {"custom_model_data":26}, "model": "man10/playing_cards/card_diamond_13"},
+
+		{"predicate": {"custom_model_data":27}, "model": "man10/playing_cards/card_hearts_1"},
+		{"predicate": {"custom_model_data":28}, "model": "man10/playing_cards/card_hearts_2"},
+		{"predicate": {"custom_model_data":29}, "model": "man10/playing_cards/card_hearts_3"},
+		{"predicate": {"custom_model_data":30}, "model": "man10/playing_cards/card_hearts_4"},
+		{"predicate": {"custom_model_data":31}, "model": "man10/playing_cards/card_hearts_5"},
+		{"predicate": {"custom_model_data":32}, "model": "man10/playing_cards/card_hearts_6"},
+		{"predicate": {"custom_model_data":33}, "model": "man10/playing_cards/card_hearts_7"},
+		{"predicate": {"custom_model_data":34}, "model": "man10/playing_cards/card_hearts_8"},
+		{"predicate": {"custom_model_data":35}, "model": "man10/playing_cards/card_hearts_9"},
+		{"predicate": {"custom_model_data":36}, "model": "man10/playing_cards/card_hearts_10"},
+		{"predicate": {"custom_model_data":37}, "model": "man10/playing_cards/card_hearts_11"},
+		{"predicate": {"custom_model_data":38}, "model": "man10/playing_cards/card_hearts_12"},
+		{"predicate": {"custom_model_data":39}, "model": "man10/playing_cards/card_hearts_13"},
+
+		{"predicate": {"custom_model_data":40}, "model": "man10/playing_cards/card_club_1"},
+		{"predicate": {"custom_model_data":41}, "model": "man10/playing_cards/card_club_2"},
+		{"predicate": {"custom_model_data":42}, "model": "man10/playing_cards/card_club_3"},
+		{"predicate": {"custom_model_data":43}, "model": "man10/playing_cards/card_club_4"},
+		{"predicate": {"custom_model_data":44}, "model": "man10/playing_cards/card_club_5"},
+		{"predicate": {"custom_model_data":45}, "model": "man10/playing_cards/card_club_6"},
+		{"predicate": {"custom_model_data":46}, "model": "man10/playing_cards/card_club_7"},
+		{"predicate": {"custom_model_data":47}, "model": "man10/playing_cards/card_club_8"},
+		{"predicate": {"custom_model_data":48}, "model": "man10/playing_cards/card_club_9"},
+		{"predicate": {"custom_model_data":49}, "model": "man10/playing_cards/card_club_10"},
+		{"predicate": {"custom_model_data":50}, "model": "man10/playing_cards/card_club_11"},
+		{"predicate": {"custom_model_data":51}, "model": "man10/playing_cards/card_club_12"},
+		{"predicate": {"custom_model_data":52}, "model": "man10/playing_cards/card_club_13"},
+
+		{"predicate": {"custom_model_data":53}, "model": "man10/playing_cards/facedowncard"}
+		
+	]
+}
