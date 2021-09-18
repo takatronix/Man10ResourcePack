@@ -17,7 +17,7 @@ out vec4 fragColor;
 void main(){
     float x = texCoord.x;
     float y = 1-texCoord.y;
-    vec4 samplerColor = texture2D(DiffuseSampler, vec2(x,y));
+    vec4 samplerColor = texture(DiffuseSampler, vec2(x,y));
     fragColor = samplerColor;
    //fragColor = vec4(1,0,0,1);
 }
