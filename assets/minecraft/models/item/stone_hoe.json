@@ -67,7 +67,9 @@
         { "predicate": {"custom_model_data": 60 }, "model": "man10/equipment/washing_machine" },
         { "predicate": {"custom_model_data": 61 }, "model": "man10/equipment/wood_burning_stove" },
         { "predicate": {"custom_model_data": 62 }, "model": "man10/equipment/wood_table" },
+        { "predicate": {"custom_model_data": 63 }, "model": "man10/equipment/watertank" },
+        { "predicate": {"custom_model_data": 64 }, "model": "man10/equipment/watertank_big" },
 
-        { "predicate": {"custom_model_data": 63 }, "model": "item/stone_hoe" }
+        { "predicate": {"custom_model_data": 65 }, "model": "item/stone_hoe" }
         ]
 }
