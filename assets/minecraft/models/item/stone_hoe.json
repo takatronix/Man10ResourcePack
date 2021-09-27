@@ -69,7 +69,8 @@
         { "predicate": {"custom_model_data": 62 }, "model": "man10/equipment/wood_table" },
         { "predicate": {"custom_model_data": 63 }, "model": "man10/equipment/watertank" },
         { "predicate": {"custom_model_data": 64 }, "model": "man10/equipment/watertank_big" },
+        { "predicate": {"custom_model_data": 65 }, "model": "man10/equipment/note_pc" },
 
-        { "predicate": {"custom_model_data": 65 }, "model": "item/stone_hoe" }
+        { "predicate": {"custom_model_data": 66 }, "model": "item/stone_hoe" }
         ]
 }
