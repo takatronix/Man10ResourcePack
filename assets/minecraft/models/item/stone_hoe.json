@@ -80,6 +80,9 @@
         { "predicate": {"custom_model_data": 74 }, "model": "man10/equipment/witch_kettle" },
         { "predicate": {"custom_model_data": 75 }, "model": "man10/equipment/witch_broom" },
 
-        { "predicate": {"custom_model_data": 76 }, "model": "item/stone_hoe" }
+        { "predicate": {"custom_model_data": 76 }, "model": "man10/equipment/pc_display_desktop_black" },
+        { "predicate": {"custom_model_data": 77 }, "model": "man10/equipment/tenkeylesskeyboard_black" },
+
+        { "predicate": {"custom_model_data": 78 }, "model": "item/stone_hoe" }
         ]
 }
