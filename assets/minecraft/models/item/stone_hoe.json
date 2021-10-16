@@ -76,7 +76,8 @@
         { "predicate": {"custom_model_data": 69 }, "model": "man10/equipment/showcase_iron" },
         { "predicate": {"custom_model_data": 70 }, "model": "man10/equipment/showcase_gold" },
         { "predicate": {"custom_model_data": 71 }, "model": "man10/equipment/showcase_netherite" },
+        { "predicate": {"custom_model_data": 72 }, "model": "man10/equipment/xylophone" },
 
-        { "predicate": {"custom_model_data": 72 }, "model": "item/stone_hoe" }
+        { "predicate": {"custom_model_data": 73 }, "model": "item/stone_hoe" }
         ]
 }
