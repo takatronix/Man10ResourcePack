@@ -35,6 +35,8 @@
     	{"predicate": {"custom_model_data":45}, "model": "man10/weapon/gun/flame_thrower"},
 		{"predicate": {"custom_model_data":46}, "model": "man10/weapon/other/frag_grenade"},
 		{"predicate": {"custom_model_data":47}, "model": "man10/weapon/other/stun_grenade"},
+		{"predicate": {"custom_model_data":48}, "model": "man10/weapon/gun/m4a1"},
+		{"predicate": {"custom_model_data":49}, "model": "man10/weapon/gun/m4a1_ads"},
 
     
 		{"predicate": {"custom_model_data":150}, "model": "item/iron_hoe"}
