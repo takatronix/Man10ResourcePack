@@ -37,6 +37,10 @@
 		{"predicate": {"custom_model_data":47}, "model": "man10/weapon/other/stun_grenade"},
 		{"predicate": {"custom_model_data":48}, "model": "man10/weapon/gun/m4a1"},
 		{"predicate": {"custom_model_data":49}, "model": "man10/weapon/gun/m4a1_ads"},
+		{"predicate": {"custom_model_data":50},  "model": "man10/weapon/gun/laser"},
+		{"predicate": {"custom_model_data":51},  "model": "man10/weapon/gun/laser_aim"},
+		{"predicate": {"custom_model_data":52},  "model": "man10/weapon/gun/Mininglaser"},
+		{"predicate": {"custom_model_data":53},  "model": "man10/weapon/gun/Mininglaser_aim"},
 
     
 		{"predicate": {"custom_model_data":150}, "model": "item/iron_hoe"}
