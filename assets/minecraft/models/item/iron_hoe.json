@@ -41,6 +41,8 @@
 		{"predicate": {"custom_model_data":51},  "model": "man10/weapon/gun/laser_aim"},
 		{"predicate": {"custom_model_data":52},  "model": "man10/weapon/gun/mininglaser"},
 		{"predicate": {"custom_model_data":53},  "model": "man10/weapon/gun/mininglaser_aim"},
+		{"predicate": {"custom_model_data":54},  "model": "man10/weapon/gun/p320"},
+		{"predicate": {"custom_model_data":55},  "model": "man10/weapon/gun/p320_ads"},
 
     
 		{"predicate": {"custom_model_data":150}, "model": "item/iron_hoe"}
