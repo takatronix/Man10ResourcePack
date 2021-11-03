@@ -66,7 +66,7 @@
         {"predicate": {"custom_model_data":56}, "model": "man10/hat/paperbag"},
         {"predicate": {"custom_model_data":57}, "model": "man10/hat/robe_of_feathers"},
         {"predicate": {"custom_model_data":58}, "model": "man10/hat/witch_hat"},
-        {"predicate": {"custom_model_data":59}, "model": "man10/armor/ruins_helmet/ruins_helmet"},
+        {"predicate": {"custom_model_data":59}, "model": "man10/armor/ruins/ruins_helmet"},
 
         {"predicate": {"custom_model_data":60}, "model": "item/wooden_hoe"}
     ]

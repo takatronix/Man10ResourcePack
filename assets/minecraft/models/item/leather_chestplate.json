@@ -5,6 +5,7 @@
         "layer1": "item/leather_chestplate_overlay"
     },
     "overrides": [
-        { "predicate": {"custom_model_data": 10 }, "model" : "man10/tool/copper/copper_chestplate"}
+        { "predicate": {"custom_model_data": 10 }, "model" : "man10/tool/copper/copper_chestplate"},
+        { "predicate": {"custom_model_data": 11 }, "model" : "man10/armor/ruins/ruins_chestplate"}
     ]
 }

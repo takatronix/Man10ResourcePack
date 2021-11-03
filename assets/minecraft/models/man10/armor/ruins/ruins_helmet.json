@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"2": "man10/armor/ruins_helmet/ruins_helmet",
-		"particle": "man10/armor/ruins_helmet/ruins_helmet"
+		"2": "man10/armor/ruins/ruins_helmet",
+		"particle": "man10/armor/ruins/ruins_helmet"
 	},
 	"elements": [
 		{
