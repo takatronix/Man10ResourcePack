@@ -28,7 +28,10 @@
         {"predicate": {"custom_model_data":19}, "model": "man10/currency/anniversary_coin/potion_coin_special"},
         {"predicate": {"custom_model_data":20}, "model": "man10/currency/anniversary_coin/10k_coin"},
         {"predicate": {"custom_model_data":21}, "model": "man10/currency/anniversary_coin/10k_coin_special"},
+        {"predicate": {"custom_model_data":22}, "model": "man10/currency/anniversary_coin/raid_ruins"},
+        {"predicate": {"custom_model_data":23}, "model": "man10/currency/anniversary_coin/raid_ruins_special"},
 
-        {"predicate": {"custom_model_data":22}, "model": "item/currency/iron_ingot"}
+
+        {"predicate": {"custom_model_data":24}, "model": "item/currency/iron_ingot"}
     ]
 }
