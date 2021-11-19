@@ -81,8 +81,10 @@
         { "predicate": {"custom_model_data": 75 }, "model": "man10/equipment/witch_broom" },
         { "predicate": {"custom_model_data": 76 }, "model": "man10/equipment/pc_display_desktop_black" },
         { "predicate": {"custom_model_data": 77 }, "model": "man10/equipment/tenkeylesskeyboard_black" },
-        { "predicate": {"custom_model_data": 78 }, "model": "man10/equipment/rockyhand_trophy" },
+        { "predicate": {"custom_model_data": 78 }, "model": "man10/equipment/rockyhands_trophy" },
+        { "predicate": {"custom_model_data": 79 }, "model": "man10/equipment/righthand_trophy" },
+        { "predicate": {"custom_model_data": 80 }, "model": "man10/equipment/lefthand_trophy" },
 
-        { "predicate": {"custom_model_data": 79 }, "model": "item/stone_hoe" }
+        { "predicate": {"custom_model_data": 81 }, "model": "item/stone_hoe" }
         ]
 }
