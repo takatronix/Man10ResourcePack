@@ -58,7 +58,6 @@
         {"predicate": {"custom_model_data":49}, "model": "man10/hat/3d_glasses"},
         {"predicate": {"custom_model_data":50}, "model": "man10/hat/afro"},
         {"predicate": {"custom_model_data":51}, "model": "man10/hat/tensinowa"},
-
         {"predicate": {"custom_model_data":52}, "model": "man10/hat/banana_peel"},
         {"predicate": {"custom_model_data":53}, "model": "man10/hat/darkangel_wing"},
         {"predicate": {"custom_model_data":54}, "model": "man10/hat/duralumin_case"},
@@ -67,7 +66,15 @@
         {"predicate": {"custom_model_data":57}, "model": "man10/hat/robe_of_feathers"},
         {"predicate": {"custom_model_data":58}, "model": "man10/hat/witch_hat"},
         {"predicate": {"custom_model_data":59}, "model": "man10/armor/ruins/ruins_helmet"},
+        {"predicate": {"custom_model_data":60}, "model": "man10/hat/fedora"},
+        {"predicate": {"custom_model_data":61}, "model": "man10/hat/graduate_cap"},
+        {"predicate": {"custom_model_data":62}, "model": "man10/hat/knit_hat"},
+        {"predicate": {"custom_model_data":63}, "model": "man10/hat/shamrock_hat"},
+        {"predicate": {"custom_model_data":64}, "model": "man10/hat/beret"},
+        {"predicate": {"custom_model_data":65}, "model": "man10/hat/cute_knit"},
+        {"predicate": {"custom_model_data":66}, "model": "man10/hat/snapback_cap"},
+        {"predicate": {"custom_model_data":67}, "model": "man10/hat/sun_hat"},
 
-        {"predicate": {"custom_model_data":60}, "model": "item/wooden_hoe"}
+        {"predicate": {"custom_model_data":68}, "model": "item/wooden_hoe"}
     ]
 }
