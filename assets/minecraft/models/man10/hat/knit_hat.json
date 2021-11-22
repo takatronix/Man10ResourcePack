@@ -1,0 +1,73 @@
+{
+	"credit": "Created by sedona1029",
+	"ambientocclusion": false,
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "man10/hat/knit_hat/knit_hat"
+	},
+	"elements": [
+		{
+			"from": [4.25, 2, 4.25],
+			"to": [11.75, 6.75, 11.75],
+			"faces": {
+				"north": {"uv": [4.5, 0, 8.5, 2.5], "texture": "#0"},
+				"east": {"uv": [8.5, 0, 12.5, 2.5], "texture": "#0"},
+				"south": {"uv": [8.5, 2.5, 12.5, 5], "texture": "#0"},
+				"west": {"uv": [8.5, 0, 12.5, 2.5], "texture": "#0"},
+				"up": {"uv": [4.5, 2.5, 8.5, 6.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [3.5, 0, 3.5],
+			"to": [12.5, 3, 12.5],
+			"faces": {
+				"north": {"uv": [0, 0, 4.5, 1.5], "texture": "#0"},
+				"east": {"uv": [0, 1.5, 4.5, 3], "texture": "#0"},
+				"south": {"uv": [0, 3, 4.5, 4.5], "texture": "#0"},
+				"west": {"uv": [0, 1.5, 4.5, 3], "texture": "#0"},
+				"up": {"uv": [0, 4.5, 4.5, 9], "texture": "#0"},
+				"down": {"uv": [0, 9, 4.5, 13.5], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [60, 0, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [60, 0, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [-10, 30, 10],
+			"translation": [0, 5, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-10, 30, 10],
+			"translation": [0, 5, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"gui": {
+			"rotation": [30, 45, 0],
+			"translation": [0, 5, 0],
+			"scale": [1.2, 1.2, 1.2]
+		},
+		"head": {
+			"rotation": [12, 0, 0],
+			"translation": [0, 15.5, 3.25],
+			"scale": [2, 2, 2]
+		},
+		"fixed": {
+			"rotation": [-30, 45, 0],
+			"translation": [0, 8, -18],
+			"scale": [2, 2, 2]
+		}
+	}
+}
