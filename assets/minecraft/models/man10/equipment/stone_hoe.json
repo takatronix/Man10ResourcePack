@@ -92,9 +92,9 @@
         { "predicate": {"custom_model_data": 85 }, "model": "man10/equipment/xmas_box_r" },
         { "predicate": {"custom_model_data": 86 }, "model": "man10/equipment/xmas_box_s" },
         { "predicate": {"custom_model_data": 87 }, "model": "man10/equipment/xmas_candle" },
-        { "predicate": {"custom_model_data": 88 }, "model": "man10/equipment/snow_globe" },
-        { "predicate": {"custom_model_data": 89 }, "model": "man10/equipment/merrychristmas" },
-        
+        { "predicate": {"custom_model_data": 88 }, "model": "man10/equipment/xmas_scarf" },
+        { "predicate": {"custom_model_data": 89 }, "model": "man10/equipment/xmas_snowman_hat" },
+
         { "predicate": {"custom_model_data": 90 }, "model": "item/stone_hoe" }
         ]
 }
