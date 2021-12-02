@@ -76,7 +76,8 @@
         {"predicate": {"custom_model_data":67}, "model": "man10/hat/sun_hat"},
         {"predicate": {"custom_model_data":68}, "model": "man10/hat/xmas_scarf"},
         {"predicate": {"custom_model_data":69}, "model": "man10/hat/xmas_bee"},
+        {"predicate": {"custom_model_data":70}, "model": "man10/hat/snow_hair_ornaments"},
 
-        {"predicate": {"custom_model_data":70}, "model": "item/wooden_hoe"}
+        {"predicate": {"custom_model_data":71}, "model": "item/wooden_hoe"}
     ]
 }

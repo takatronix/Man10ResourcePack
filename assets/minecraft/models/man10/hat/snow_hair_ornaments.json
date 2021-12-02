@@ -1221,6 +1221,7 @@
 			}
 		}
 	],
+	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [0, 92, 0],
@@ -1262,34 +1263,63 @@
 		{
 			"name": "group",
 			"origin": [8, 8, 8],
+			"color": 0,
 			"children": [
 				{
 					"name": "group",
 					"origin": [8, 8, 8],
-					"children": [0, 1, 2, 3, 4, 5,
+					"color": 0,
+					"children": [
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
 						{
 							"name": "group",
 							"origin": [8, 8, 8],
-							"children": [6, 7, 8, 9, 10, 11,
+							"color": 0,
+							"children": [
+								6,
+								7,
+								8,
+								9,
+								10,
+								11,
 								{
 									"name": "group",
 									"origin": [8, 8, 8],
-									"children": [12, 13, 14,
+									"color": 0,
+									"children": [
+										12,
+										13,
+										14,
 										{
 											"name": "group",
 											"origin": [8, 8, 8],
-											"children": [15, 16, 17,
+											"color": 0,
+											"children": [
+												15,
+												16,
+												17,
 												{
 													"name": "group",
 													"origin": [8, 8, 8],
+													"color": 0,
 													"children": [
 														{
 															"name": "group",
 															"origin": [8, 8, 8],
-															"children": [18, 19, 20,
+															"color": 0,
+															"children": [
+																18,
+																19,
+																20,
 																{
 																	"name": "group",
 																	"origin": [8, 8, 8],
+																	"color": 0,
 																	"children": [21, 22, 23, 24, 25, 26]
 																}
 															]
@@ -1307,56 +1337,67 @@
 				{
 					"name": "group",
 					"origin": [8, 8, 8],
+					"color": 0,
 					"children": [27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38]
 				},
 				{
 					"name": "group",
 					"origin": [8, 8, 8],
+					"color": 0,
 					"children": [39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50]
 				},
 				{
 					"name": "group",
 					"origin": [8, 8, 8],
+					"color": 0,
 					"children": [51, 52, 53, 54]
 				},
 				{
 					"name": "group",
 					"origin": [8, 8, 8],
+					"color": 0,
 					"children": [55, 56, 57, 58]
 				},
 				{
 					"name": "group",
 					"origin": [8, 8, 8],
+					"color": 0,
 					"children": [59, 60, 61, 62]
 				},
 				{
 					"name": "group",
 					"origin": [8, 8, 8],
+					"color": 0,
 					"children": [63, 64, 65, 66]
 				},
 				{
 					"name": "group",
 					"origin": [8, 8, 8],
+					"color": 0,
 					"children": [67, 68, 69, 70]
 				},
 				{
 					"name": "group",
 					"origin": [8, 8, 8],
+					"color": 0,
 					"children": [71, 72, 73, 74, 75, 76]
 				},
 				{
 					"name": "group",
 					"origin": [8, 8, 8],
+					"color": 0,
 					"children": [77, 78, 79, 80]
 				},
 				{
 					"name": "group",
 					"origin": [8, 8, 8],
+					"color": 0,
 					"children": [81, 82, 83, 84, 85, 86, 87, 88, 89, 90]
 				},
 				{
 					"name": "group",
 					"origin": [8, 8, 8],
+					"color": 0,
 					"children": [91, 92, 93]
 				}
 			]

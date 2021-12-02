@@ -45,8 +45,9 @@
 		{"predicate": {"custom_model_data":55},  "model": "man10/weapon/gun/p320_ads"},
 		{"predicate": {"custom_model_data":56},  "model": "man10/weapon/gun/rpg7"},
 		{"predicate": {"custom_model_data":57},  "model": "man10/weapon/gun/sawed_off_shotgun"},
+		{"predicate": {"custom_model_data":58},  "model": "man10/weapon/gun/frostlaser"},
 
     
-		{"predicate": {"custom_model_data":150}, "model": "item/iron_hoe"}
+		{"predicate": {"custom_model_data":59}, "model": "item/iron_hoe"}
     ]
 }
