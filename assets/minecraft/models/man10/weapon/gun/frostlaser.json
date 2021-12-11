@@ -4782,8 +4782,8 @@
 		},
 		"firstperson_righthand": {
 			"rotation": [0, -7, 0],
-			"translation": [0, 1.5, 0],
-			"scale": [1.2, 1.2, 1.2]
+			"translation": [0.75, 1.5, 2],
+			"scale": [2.53, 2.53, 2.53]
 		},
 		"firstperson_lefthand": {
 			"rotation": [0, -7, 0],
