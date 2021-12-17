@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "採用予定:block/grass_block_side",
-		"2": "採用予定:entity/enderman/enderman",
-		"3": "採用予定:entity/enderman/enderman_eyes"
+		"1": "block/grass_block_side",
+		"2": "entity/enderman/enderman",
+		"3": "entity/enderman/enderman_eyes"
 	},
 	"elements": [
 		{
