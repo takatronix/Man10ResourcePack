@@ -96,7 +96,26 @@
         { "predicate": {"custom_model_data": 89 }, "model": "man10/equipment/merrychristmas" },
         { "predicate": {"custom_model_data": 90 }, "model": "man10/equipment/sleigh" },
         { "predicate": {"custom_model_data": 91 }, "model": "man10/equipment/mini_santa"},
+        { "predicate": {"custom_model_data": 92 }, "model": "man10/equipment/japanese_umbrella_blue"},
+        { "predicate": {"custom_model_data": 93 }, "model": "man10/equipment/japanese_bench"},
+        { "predicate": {"custom_model_data": 94 }, "model": "man10/equipment/lantern_magenta"},
+        { "predicate": {"custom_model_data": 95 }, "model": "man10/equipment/lantern_lime"},
+        { "predicate": {"custom_model_data": 96 }, "model": "man10/equipment/lantern_white"},
+        { "predicate": {"custom_model_data": 97 }, "model": "man10/equipment/lantern_rainbow"},
+        { "predicate": {"custom_model_data": 98 }, "model": "man10/equipment/tankcat_black"},
+        { "predicate": {"custom_model_data": 99 }, "model": "man10/equipment/tankcat_calico"},
+        { "predicate": {"custom_model_data": 100 }, "model": "man10/equipment/tankcat_fox"},
+        { "predicate": {"custom_model_data": 101 }, "model": "man10/equipment/tankcat_snowfox_sleep"},
+        { "predicate": {"custom_model_data": 102 }, "model": "man10/equipment/tankcat_wolf"},
+        { "predicate": {"custom_model_data": 103 }, "model": "man10/equipment/hanging_board_close"},
+        { "predicate": {"custom_model_data": 104 }, "model": "man10/equipment/hanging_board_open"},
+        { "predicate": {"custom_model_data": 105 }, "model": "man10/equipment/standing_sign"},
+        { "predicate": {"custom_model_data": 106 }, "model": "man10/equipment/buy_sign"},
+        { "predicate": {"custom_model_data": 107 }, "model": "man10/equipment/sell_sign"},
+        { "predicate": {"custom_model_data": 108 }, "model": "man10/equipment/shop_sign_a"},
+        { "predicate": {"custom_model_data": 109 }, "model": "man10/equipment/shop_sign_b"},
+        { "predicate": {"custom_model_data": 110 }, "model": "man10/equipment/shop_sign_c"},
         
-        { "predicate": {"custom_model_data": 92 }, "model": "item/stone_hoe" }
+        { "predicate": {"custom_model_data": 111 }, "model": "item/stone_hoe" }
         ]
 }
