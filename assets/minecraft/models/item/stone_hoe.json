@@ -117,8 +117,9 @@
         { "predicate": {"custom_model_data": 110 }, "model": "man10/equipment/shop_sign_b"},
         { "predicate": {"custom_model_data": 111 }, "model": "man10/equipment/shop_sign_c"},
         { "predicate": {"custom_model_data": 112 }, "model": "man10/equipment/trophy_plate"},
-        { "predicate": {"custom_model_data": 113 }, "model": "man10/equipment/texture_trophy"},   
+        { "predicate": {"custom_model_data": 113 }, "model": "man10/equipment/texture_trophy"},
+        { "predicate": {"custom_model_data": 114 }, "model": "man10/equipment/snow_globe_sp"},   
 
-        { "predicate": {"custom_model_data": 114 }, "model": "item/stone_hoe" }
+        { "predicate": {"custom_model_data": 115 }, "model": "item/stone_hoe" }
         ]
 }
