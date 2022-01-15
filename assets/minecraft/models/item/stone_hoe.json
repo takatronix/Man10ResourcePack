@@ -121,7 +121,8 @@
         { "predicate": {"custom_model_data": 114 }, "model": "man10/equipment/snow_globe_sp"},   
         { "predicate": {"custom_model_data": 115 }, "model": "man10/equipment/trophy_plate_texture_contest"},
         { "predicate": {"custom_model_data": 116 }, "model": "man10/equipment/kotatsu"}, 
+        { "predicate": {"custom_model_data": 117 }, "model": "man10/equipment/showcase"}, 
 
-        { "predicate": {"custom_model_data": 117 }, "model": "item/stone_hoe" }
+        { "predicate": {"custom_model_data": 118 }, "model": "item/stone_hoe" }
         ]
 }

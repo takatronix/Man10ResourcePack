@@ -80,7 +80,10 @@
         {"predicate": {"custom_model_data":71}, "model": "man10/hat/endermandoll"},
         {"predicate": {"custom_model_data":72}, "model": "man10/hat/tiger_mask"},
         {"predicate": {"custom_model_data":73}, "model": "man10/hat/whitetiger_mask"},
+        {"predicate": {"custom_model_data":74}, "model": "man10/hat/foxhat"},
+        {"predicate": {"custom_model_data":75}, "model": "man10/hat/harmonica"},
+        {"predicate": {"custom_model_data":76}, "model": "man10/hat/tote_bag"},
 
-        {"predicate": {"custom_model_data":74}, "model": "item/wooden_hoe"}
+        {"predicate": {"custom_model_data":77}, "model": "item/wooden_hoe"}
     ]
 }
