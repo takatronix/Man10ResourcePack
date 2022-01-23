@@ -122,7 +122,28 @@
         { "predicate": {"custom_model_data": 115 }, "model": "man10/equipment/trophy_plate_texture_contest"},
         { "predicate": {"custom_model_data": 116 }, "model": "man10/equipment/kotatsu"}, 
         { "predicate": {"custom_model_data": 117 }, "model": "man10/equipment/showcase"}, 
+        { "predicate": {"custom_model_data": 119 }, "model": "man10/equipment/clock_brown"},
+        { "predicate": {"custom_model_data": 120 }, "model": "man10/equipment/clock_darkblue"},
+        { "predicate": {"custom_model_data": 121 }, "model": "man10/equipment/clock_white"},
+        { "predicate": {"custom_model_data": 122 }, "model": "man10/equipment/shelf_book"},
+        { "predicate": {"custom_model_data": 123 }, "model": "man10/equipment/shelf_cat"},
+        { "predicate": {"custom_model_data": 124 }, "model": "man10/equipment/shelf_bottle"},
+        { "predicate": {"custom_model_data": 125 }, "model": "man10/equipment/shelf_collect"},
+        { "predicate": {"custom_model_data": 126 }, "model": "man10/equipment/shelf_l_book"},
+        { "predicate": {"custom_model_data": 127 }, "model": "man10/equipment/shelf_l"},
+        { "predicate": {"custom_model_data": 128 }, "model": "man10/equipment/shelf_picture"},
+        { "predicate": {"custom_model_data": 129 }, "model": "man10/equipment/shelf"},
+        { "predicate": {"custom_model_data": 130 }, "model": "man10/equipment/syouzi"},
+        { "predicate": {"custom_model_data": 131 }, "model": "man10/equipment/tatami"},
+        { "predicate": {"custom_model_data": 132 }, "model": "man10/equipment/tourou"},
+        { "predicate": {"custom_model_data": 133 }, "model": "man10/equipment/husuma"},
+        { "predicate": {"custom_model_data": 134 }, "model": "man10/equipment/irori"},
+        { "predicate": {"custom_model_data": 135 }, "model": "man10/equipment/isidourou"},
+        { "predicate": {"custom_model_data": 136 }, "model": "man10/equipment/botan"},
+        { "predicate": {"custom_model_data": 137 }, "model": "man10/equipment/bara"},
+        { "predicate": {"custom_model_data": 138 }, "model": "man10/equipment/lilac"},
+        { "predicate": {"custom_model_data": 139 }, "model": "man10/equipment/byoubu"},
 
-        { "predicate": {"custom_model_data": 118 }, "model": "item/stone_hoe" }
+        { "predicate": {"custom_model_data": 140 }, "model": "item/stone_hoe" }
         ]
 }
