@@ -50,8 +50,10 @@
 		{"predicate": {"custom_model_data":60},  "model": "man10/weapon/other/clawshot"},
 		{"predicate": {"custom_model_data":61},  "model": "man10/weapon/other/claw_body"},
 		{"predicate": {"custom_model_data":62},  "model": "man10/weapon/other/claw_head"},
+		{"predicate": {"custom_model_data":63},  "model": "man10/weapon/other/pon_close"},
+		{"predicate": {"custom_model_data":64},  "model": "man10/weapon/other/pon_open"},
 
     
-		{"predicate": {"custom_model_data":63}, "model": "item/iron_hoe"}
+		{"predicate": {"custom_model_data":65}, "model": "item/iron_hoe"}
     ]
 }
