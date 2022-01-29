@@ -143,7 +143,20 @@
         { "predicate": {"custom_model_data": 137 }, "model": "man10/equipment/bara"},
         { "predicate": {"custom_model_data": 138 }, "model": "man10/equipment/lilac"},
         { "predicate": {"custom_model_data": 139 }, "model": "man10/equipment/byoubu"},
+        { "predicate": {"custom_model_data": 140 }, "model": "man10/equipment/stool_1" },
+        { "predicate": {"custom_model_data": 141 }, "model": "man10/equipment/stool_2" },
+        { "predicate": {"custom_model_data": 142 }, "model": "man10/equipment/stool_3" },
+        { "predicate": {"custom_model_data": 143 }, "model": "man10/equipment/stool_1_p" },
+        { "predicate": {"custom_model_data": 144 }, "model": "man10/equipment/stool_2_p" },
+        { "predicate": {"custom_model_data": 145 }, "model": "man10/equipment/stool_3_p" },
+        { "predicate": {"custom_model_data": 146 }, "model": "man10/equipment/playcoin_clock_brown" },
+        { "predicate": {"custom_model_data": 147 }, "model": "man10/equipment/playcoin_clock_white" },
+        { "predicate": {"custom_model_data": 148 }, "model": "man10/equipment/reward_medal_clock_darkblue" },
+        { "predicate": {"custom_model_data": 149 }, "model": "man10/equipment/reward_medal_clock_white" },
+        { "predicate": {"custom_model_data": 150 }, "model": "man10/equipment/playcoin_showcase1" },
+        { "predicate": {"custom_model_data": 151 }, "model": "man10/equipment/playcoin_showcase2" },
+        
 
-        { "predicate": {"custom_model_data": 140 }, "model": "item/stone_hoe" }
+        { "predicate": {"custom_model_data": 152 }, "model": "item/stone_hoe" }
         ]
 }

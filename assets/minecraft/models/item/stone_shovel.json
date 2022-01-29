@@ -1,0 +1,12 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/stone_shovel"
+    },
+         "overrides": [
+        { "predicate": {"custom_model_data": 1 }, "model": "man10/toy/cracker" },
+        { "predicate": {"custom_model_data": 2 }, "model": "man10/toy/cracker_p" },
+
+        { "predicate": {"custom_model_data": 3 }, "model": "item/stone_shovel" }
+        ]
+}

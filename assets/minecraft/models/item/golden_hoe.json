@@ -17,8 +17,10 @@
 		{"predicate": {"custom_model_data":10}, "model": "man10/gadget/empty_exp_bottle"},
 		{"predicate": {"custom_model_data":11}, "model": "man10/gadget/exp_bottle_phase1"},
 		{"predicate": {"custom_model_data":12}, "model": "man10/gadget/exp_bottle_phase2"},
-		{"predicate": {"custom_model_data":13}, "model": "man10/gadget/exp_bottle"},	
+		{"predicate": {"custom_model_data":13}, "model": "man10/gadget/exp_bottle"},
+		{"predicate": {"custom_model_data":14}, "model": "man10/gadget/piggybank"},
+		{"predicate": {"custom_model_data":15}, "model": "man10/gadget/piggybank2"},	
 
-		{"predicate": {"custom_model_data":14}, "model": "item/golden_hoe"}	
+		{"predicate": {"custom_model_data":16}, "model": "item/golden_hoe"}	
     ]
 }
