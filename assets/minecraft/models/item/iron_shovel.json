@@ -20,8 +20,9 @@
 		{"predicate": {"custom_model_data":13}, "model": "man10/weapon/magic/sedona_wand_lv3"},
 		{"predicate": {"custom_model_data":14}, "model": "man10/weapon/magic/engel_wand"},
 		{"predicate": {"custom_model_data":15}, "model": "man10/weapon/magic/devil_wand"},
+		{"predicate": {"custom_model_data":16}, "model": "man10/weapon/magic/burn_arm"},
 
 
-    {"predicate": {"custom_model_data":16}, "model": "item/iron_shovel"}		
+    {"predicate": {"custom_model_data":17}, "model": "item/iron_shovel"}		
   ]
 }
