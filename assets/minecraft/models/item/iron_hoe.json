@@ -52,8 +52,10 @@
 		{"predicate": {"custom_model_data":62},  "model": "man10/weapon/other/claw_head"},
 		{"predicate": {"custom_model_data":63},  "model": "man10/weapon/other/pon_close"},
 		{"predicate": {"custom_model_data":64},  "model": "man10/weapon/other/pon_open"},
+		{"predicate": {"custom_model_data":65},  "model": "man10/weapon/gun/playcoingun"},
+		{"predicate": {"custom_model_data":66},  "model": "man10/weapon/gun/playcoingun_reload"},
 
     
-		{"predicate": {"custom_model_data":65}, "model": "item/iron_hoe"}
+		{"predicate": {"custom_model_data":67}, "model": "item/iron_hoe"}
     ]
 }
