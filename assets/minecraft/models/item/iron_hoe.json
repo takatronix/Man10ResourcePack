@@ -54,8 +54,9 @@
 		{"predicate": {"custom_model_data":64},  "model": "man10/weapon/other/pon_open"},
 		{"predicate": {"custom_model_data":65},  "model": "man10/weapon/gun/playcoingun"},
 		{"predicate": {"custom_model_data":66},  "model": "man10/weapon/gun/playcoingun_reload"},
+		{"predicate": {"custom_model_data":67},  "model": "man10/weapon/gun/man10beam"},
 
     
-		{"predicate": {"custom_model_data":67}, "model": "item/iron_hoe"}
+		{"predicate": {"custom_model_data":68}, "model": "item/iron_hoe"}
     ]
 }
