@@ -53,11 +53,12 @@
         {"predicate": {"custom_model_data":42}, "model": "man10/slot/angel_devil/devil_pearl"},
         {"predicate": {"custom_model_data":43}, "model": "man10/slot/angel_devil/devil_trident"},
         {"predicate": {"custom_model_data":44}, "model": "man10/slot/angel_devil/devil_wing_left"},
-        {"predicate": {"custom_model_data":45}, "model": "man10/slot/spring_event/sakura_hana"},
-        {"predicate": {"custom_model_data":46}, "model": "man10/slot/spring_event/sakura_hanabira"},
-        {"predicate": {"custom_model_data":47}, "model": "man10/slot/spring_event/tsubaki"},
-        {"predicate": {"custom_model_data":48}, "model": "man10/slot/spring_event/syaka"},
+        {"predicate": {"custom_model_data":45}, "model": "man10/slot/angel_devil/devil_wing_right"},
+        {"predicate": {"custom_model_data":46}, "model": "man10/slot/spring_event/sakura_hana"},
+        {"predicate": {"custom_model_data":47}, "model": "man10/slot/spring_event/sakura_hanabira"},
+        {"predicate": {"custom_model_data":48}, "model": "man10/slot/spring_event/tsubaki"},
+        {"predicate": {"custom_model_data":49}, "model": "man10/slot/spring_event/syaka"},
 
-		{"predicate": {"custom_model_data":49}, "model": "item/iron_nugget"}
+		{"predicate": {"custom_model_data":50}, "model": "item/iron_nugget"}
     ]
 }
