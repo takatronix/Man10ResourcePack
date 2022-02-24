@@ -155,8 +155,11 @@
         { "predicate": {"custom_model_data": 149 }, "model": "man10/equipment/reward_medal_clock_white" },
         { "predicate": {"custom_model_data": 150 }, "model": "man10/equipment/playcoin_showcase1" },
         { "predicate": {"custom_model_data": 151 }, "model": "man10/equipment/playcoin_showcase2" },
+        { "predicate": {"custom_model_data": 152 }, "model": "man10/equipment/easter" },
+        { "predicate": {"custom_model_data": 153 }, "model": "man10/equipment/hinadan" },
+        { "predicate": {"custom_model_data": 154 }, "model": "man10/equipment/hinadan_red" },
         
 
-        { "predicate": {"custom_model_data": 152 }, "model": "item/stone_hoe" }
+        { "predicate": {"custom_model_data": 155 }, "model": "item/stone_hoe" }
         ]
 }

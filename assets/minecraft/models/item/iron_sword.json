@@ -35,7 +35,8 @@
         { "predicate": {"custom_model_data": 28 }, "model": "man10/weapon/sword/white_katana" },
         { "predicate": {"custom_model_data": 29 }, "model": "man10/weapon/other/tight_drum" },
         { "predicate": {"custom_model_data": 30 }, "model": "man10/weapon/other/shadow_scythe" },
+        { "predicate": {"custom_model_data": 31 }, "model": "man10/weapon/sword/black_blossom_blade" },
 
-        { "predicate": {"custom_model_data": 31 }, "model": "item/iron_sword" }
+        { "predicate": {"custom_model_data": 32 }, "model": "item/iron_sword" }
         ]
 }
