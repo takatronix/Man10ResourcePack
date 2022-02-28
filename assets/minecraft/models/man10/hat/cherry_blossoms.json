@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench, a free, modern block model editor by JannisX11",
 	"textures": {
-		"0": "block/concrete_powder_pink",
-		"1": "block/concrete_powder_yellow",
-		"2": "block/concrete_powder_white",
+		"0": "block/pink_concrete_powder",
+		"1": "block/yellow_concrete_powder",
+		"2": "block/white_concrete_powder",
 		"particle": "block/concrete_powder_pink"
 	},
 	"elements": [
