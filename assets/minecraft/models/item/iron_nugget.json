@@ -58,7 +58,10 @@
         {"predicate": {"custom_model_data":47}, "model": "man10/slot/spring_event/sakura_hanabira"},
         {"predicate": {"custom_model_data":48}, "model": "man10/slot/spring_event/tsubaki"},
         {"predicate": {"custom_model_data":49}, "model": "man10/slot/spring_event/syaka"},
+        {"predicate": {"custom_model_data":50}, "model": "man10/slot/spring_event/sakura_5_bloom"},
+        {"predicate": {"custom_model_data":51}, "model": "man10/slot/spring_event/sakura_7_bloom"},
+        {"predicate": {"custom_model_data":52}, "model": "man10/slot/spring_event/sakura_full_bloom"},
 
-		{"predicate": {"custom_model_data":50}, "model": "item/iron_nugget"}
+		{"predicate": {"custom_model_data":53}, "model": "item/iron_nugget"}
     ]
 }
