@@ -42,6 +42,7 @@
         { "predicate": {"custom_model_data":36}, "model": "man10/twenty_one_game/sp_shield_plus"},
         { "predicate": {"custom_model_data":37}, "model": "man10/twenty_one_game/sp_trump_switch"},
         { "predicate": {"custom_model_data":38}, "model": "man10/twenty_one_game/sp_trump_switch_plus"},
-        { "predicate": {"custom_model_data":39}, "model": "man10/twenty_one_game/sp_ultimate_draw"}
+        { "predicate": {"custom_model_data":39}, "model": "man10/twenty_one_game/sp_ultimate_draw"},
+        { "predicate": {"custom_model_data":40}, "model": "man10/twenty_one_game/sp_happiness"}
     ]
 }
