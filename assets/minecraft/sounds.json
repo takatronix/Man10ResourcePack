@@ -136,5 +136,17 @@
     "sounds": [
       "slot/yorokobi"
     ]
+  },
+  "gun.m4a1_shot": {
+    "category": "master",
+    "sounds": [
+      "gun/m4a1_shot"
+    ]
+  },
+  "gun.pon_open": {
+    "category": "master",
+    "sounds": [
+      "gun/pon_open"
+    ]
   }
 }

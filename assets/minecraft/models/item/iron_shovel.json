@@ -15,8 +15,16 @@
 		{"predicate": {"custom_model_data":8}, "model": "man10/weapon/magic/chained_book3"},
 		{"predicate": {"custom_model_data":9}, "model": "man10/weapon/magic/dark_wand"},
 		{"predicate": {"custom_model_data":10}, "model": "man10/weapon/magic/amethyst_wand"},
+		{"predicate": {"custom_model_data":11}, "model": "man10/weapon/magic/sedona_wand_lv1"},
+		{"predicate": {"custom_model_data":12}, "model": "man10/weapon/magic/sedona_wand_lv2"},
+		{"predicate": {"custom_model_data":13}, "model": "man10/weapon/magic/sedona_wand_lv3"},
+		{"predicate": {"custom_model_data":14}, "model": "man10/weapon/magic/engel_wand"},
+		{"predicate": {"custom_model_data":15}, "model": "man10/weapon/magic/devil_wand"},
+		{"predicate": {"custom_model_data":16}, "model": "man10/weapon/magic/burn_arm"},
+		{"predicate": {"custom_model_data":17}, "model": "man10/weapon/magic/closed_magical_sun_book"},
+		{"predicate": {"custom_model_data":18}, "model": "man10/weapon/magic/opened_magical_sun_book"},
 
 
-    {"predicate": {"custom_model_data":11}, "model": "item/iron_shovel"}		
+    {"predicate": {"custom_model_data":19}, "model": "item/iron_shovel"}		
   ]
 }
