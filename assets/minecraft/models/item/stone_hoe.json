@@ -163,8 +163,22 @@
         { "predicate": {"custom_model_data": 157 }, "model": "man10/equipment/tankcat_springfox" },
         { "predicate": {"custom_model_data": 158 }, "model": "man10/equipment/writing_desk" },
         { "predicate": {"custom_model_data": 159 }, "model": "man10/equipment/board_black" },
-        
+        { "predicate": {"custom_model_data": 160 }, "model": "man10/equipment/planter_blue_orchid" },
+        { "predicate": {"custom_model_data": 161 }, "model": "man10/equipment/planter_lily_of_the_valley" },
+        { "predicate": {"custom_model_data": 162 }, "model": "man10/equipment/planter_peony" },
+        { "predicate": {"custom_model_data": 163 }, "model": "man10/equipment/planter_rose_bush" },
+        { "predicate": {"custom_model_data": 164 }, "model": "man10/equipment/katanagake" },
+        { "predicate": {"custom_model_data": 165 }, "model": "man10/equipment/arcade_game1" },
+        { "predicate": {"custom_model_data": 166 }, "model": "man10/equipment/arcade_game2" },
+        { "predicate": {"custom_model_data": 167 }, "model": "man10/equipment/arcade_game3" },
+        { "predicate": {"custom_model_data": 168 }, "model": "man10/equipment/case_black" },
+        { "predicate": {"custom_model_data": 169 }, "model": "man10/equipment/case_red" },
+        { "predicate": {"custom_model_data": 170 }, "model": "man10/equipment/case_stone" },
+        { "predicate": {"custom_model_data": 171 }, "model": "man10/equipment/case_white" },
+        { "predicate": {"custom_model_data": 172 }, "model": "man10/equipment/router" },
+        { "predicate": {"custom_model_data": 173 }, "model": "man10/equipment/abrams_turret" },
+        { "predicate": {"custom_model_data": 174 }, "model": "man10/equipment/abrams_body" },
 
-        { "predicate": {"custom_model_data": 160 }, "model": "item/stone_hoe" }
+        { "predicate": {"custom_model_data": 175 }, "model": "item/stone_hoe" }
         ]
 }
