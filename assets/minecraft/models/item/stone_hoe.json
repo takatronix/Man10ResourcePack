@@ -178,7 +178,9 @@
         { "predicate": {"custom_model_data": 172 }, "model": "man10/equipment/router" },
         { "predicate": {"custom_model_data": 173 }, "model": "man10/equipment/abrams_turret" },
         { "predicate": {"custom_model_data": 174 }, "model": "man10/equipment/abrams_body" },
+        { "predicate": {"custom_model_data": 175 }, "model": "man10/equipment/f22_wing_airintake" },
+        { "predicate": {"custom_model_data": 176 }, "model": "man10/equipment/f22_body" },
 
-        { "predicate": {"custom_model_data": 175 }, "model": "item/stone_hoe" }
+        { "predicate": {"custom_model_data": 177 }, "model": "item/stone_hoe" }
         ]
 }
