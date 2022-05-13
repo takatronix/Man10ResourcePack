@@ -180,16 +180,16 @@
         { "predicate": {"custom_model_data": 174 }, "model": "man10/equipment/abrams_body" },
         { "predicate": {"custom_model_data": 175 }, "model": "man10/equipment/f22_wing_airintake" },
         { "predicate": {"custom_model_data": 176 }, "model": "man10/equipment/f22_body" },
-        { "predicate": {"custom_model_data": 175 }, "model": "man10/equipment/center_table1" },
-        { "predicate": {"custom_model_data": 176 }, "model": "man10/equipment/center_table2" },
-        { "predicate": {"custom_model_data": 177 }, "model": "man10/equipment/tv_stand_side1" },
-        { "predicate": {"custom_model_data": 178 }, "model": "man10/equipment/tv_stand" },
-        { "predicate": {"custom_model_data": 179 }, "model": "man10/equipment/flat_tv" },
-        { "predicate": {"custom_model_data": 180 }, "model": "man10/equipment/pc_chair" },
-        { "predicate": {"custom_model_data": 181 }, "model": "man10/equipment/pc_side_chest" },
-        { "predicate": {"custom_model_data": 182 }, "model": "man10/equipment/pc_desk" },
+        { "predicate": {"custom_model_data": 177 }, "model": "man10/equipment/center_table1" },
+        { "predicate": {"custom_model_data": 178 }, "model": "man10/equipment/center_table2" },
+        { "predicate": {"custom_model_data": 179 }, "model": "man10/equipment/tv_stand_side1" },
+        { "predicate": {"custom_model_data": 180 }, "model": "man10/equipment/tv_stand" },
+        { "predicate": {"custom_model_data": 181 }, "model": "man10/equipment/flat_tv" },
+        { "predicate": {"custom_model_data": 182 }, "model": "man10/equipment/pc_chair" },
+        { "predicate": {"custom_model_data": 183 }, "model": "man10/equipment/pc_side_chest" },
+        { "predicate": {"custom_model_data": 184 }, "model": "man10/equipment/pc_desk" },
 
 
-        { "predicate": {"custom_model_data": 183 }, "model": "item/stone_hoe" }
+        { "predicate": {"custom_model_data": 185 }, "model": "item/stone_hoe" }
         ]
 }
