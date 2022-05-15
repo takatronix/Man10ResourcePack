@@ -188,8 +188,18 @@
         { "predicate": {"custom_model_data": 182 }, "model": "man10/equipment/pc_chair" },
         { "predicate": {"custom_model_data": 183 }, "model": "man10/equipment/pc_side_chest" },
         { "predicate": {"custom_model_data": 184 }, "model": "man10/equipment/pc_desk" },
+        { "predicate": {"custom_model_data": 185 }, "model": "man10/equipment/1seat_sofa" },
+        { "predicate": {"custom_model_data": 186 }, "model": "man10/equipment/2seat_sofa" },
+        { "predicate": {"custom_model_data": 187 }, "model": "man10/equipment/3seat_sofa" },
+        { "predicate": {"custom_model_data": 188 }, "model": "man10/equipment/attache_case" },
+        { "predicate": {"custom_model_data": 189 }, "model": "man10/equipment/rickshaw" },
+        { "predicate": {"custom_model_data": 190 }, "model": "man10/equipment/torii" },
+        { "predicate": {"custom_model_data": 191 }, "model": "man10/equipment/center_table3" },
+        { "predicate": {"custom_model_data": 192 }, "model": "man10/equipment/floor_light1" },
+        { "predicate": {"custom_model_data": 193 }, "model": "man10/equipment/floor_light2" },
 
 
-        { "predicate": {"custom_model_data": 185 }, "model": "item/stone_hoe" }
+
+        { "predicate": {"custom_model_data": 194 }, "model": "item/stone_hoe" }
         ]
 }
