@@ -197,9 +197,17 @@
         { "predicate": {"custom_model_data": 191 }, "model": "man10/equipment/center_table3" },
         { "predicate": {"custom_model_data": 192 }, "model": "man10/equipment/floor_light1" },
         { "predicate": {"custom_model_data": 193 }, "model": "man10/equipment/floor_light2" },
+        { "predicate": {"custom_model_data": 194 }, "model": "man10/equipment/dyning_table" },
+        { "predicate": {"custom_model_data": 195 }, "model": "man10/equipment/dyning_table2" },
+        { "predicate": {"custom_model_data": 196 }, "model": "man10/equipment/dyning_table_chair1" },
+        { "predicate": {"custom_model_data": 197 }, "model": "man10/equipment/dyning_table_chair2" },
+        { "predicate": {"custom_model_data": 198 }, "model": "man10/equipment/dyning_table_chair3" },
+        { "predicate": {"custom_model_data": 199 }, "model": "man10/equipment/dyning_table_chair4" },
+        { "predicate": {"custom_model_data": 200 }, "model": "man10/equipment/cafe_table" },
+        { "predicate": {"custom_model_data": 201 }, "model": "man10/equipment/cafe_table2" },
 
 
 
-        { "predicate": {"custom_model_data": 194 }, "model": "item/stone_hoe" }
+        { "predicate": {"custom_model_data": 202 }, "model": "item/stone_hoe" }
         ]
 }
