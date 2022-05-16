@@ -208,9 +208,12 @@
         { "predicate": {"custom_model_data": 202 }, "model": "man10/equipment/lattice_object1" },
         { "predicate": {"custom_model_data": 203 }, "model": "man10/equipment/lattice_object2" },
         { "predicate": {"custom_model_data": 204 }, "model": "man10/equipment/lattice_object3" },
+        { "predicate": {"custom_model_data": 205 }, "model": "man10/equipment/showcase_type_a" },
+        { "predicate": {"custom_model_data": 206 }, "model": "man10/equipment/showcase_type_b" },
+        { "predicate": {"custom_model_data": 207 }, "model": "man10/equipment/showcase_type_c" },
 
 
 
-        { "predicate": {"custom_model_data": 205 }, "model": "item/stone_hoe" }
+        { "predicate": {"custom_model_data": 208 }, "model": "item/stone_hoe" }
         ]
 }
