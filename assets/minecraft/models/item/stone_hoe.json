@@ -205,9 +205,12 @@
         { "predicate": {"custom_model_data": 199 }, "model": "man10/equipment/dyning_table_chair4" },
         { "predicate": {"custom_model_data": 200 }, "model": "man10/equipment/cafe_table" },
         { "predicate": {"custom_model_data": 201 }, "model": "man10/equipment/cafe_table2" },
+        { "predicate": {"custom_model_data": 202 }, "model": "man10/equipment/lattice_object1" },
+        { "predicate": {"custom_model_data": 203 }, "model": "man10/equipment/lattice_object2" },
+        { "predicate": {"custom_model_data": 204 }, "model": "man10/equipment/lattice_object3" },
 
 
 
-        { "predicate": {"custom_model_data": 202 }, "model": "item/stone_hoe" }
+        { "predicate": {"custom_model_data": 205 }, "model": "item/stone_hoe" }
         ]
 }
