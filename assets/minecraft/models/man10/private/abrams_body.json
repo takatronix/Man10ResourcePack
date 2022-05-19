@@ -1,8 +1,8 @@
 {
 	"credit": "Made by Nothingness2",
 	"textures": {
-		"particle": "man10/equipment/abrams/abrams",
-		"1_3": "man10/equipment/abrams/abrams"
+		"particle": "man10/private/abrams/abrams",
+		"1_3": "man10/private/abrams/abrams"
 	},
 	"elements": [
 		{

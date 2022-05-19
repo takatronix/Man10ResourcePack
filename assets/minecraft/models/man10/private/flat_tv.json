@@ -1,7 +1,7 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Nothingness2",
 	"textures": {
-		"1": "man10/equipment/flat_tv/flat_tv"
+		"1": "man10/private/flat_tv/flat_tv"
 	},
 	"elements": [
 		{
@@ -12,7 +12,7 @@
 				"north": {"uv": [0, 0, 1, 1], "texture": "#1"},
 				"east": {"uv": [0, 0, 5, 2.75], "texture": "#1"},
 				"south": {"uv": [0, 0, 1, 1], "texture": "#1"},
-				"west": {"uv": [11, 0, 16, 2.75], "texture": "#1"},
+				"west": {"uv": [5.25, 0, 16, 5.25], "texture": "#1"},
 				"up": {"uv": [0, 0, 1, 1], "texture": "#1"},
 				"down": {"uv": [0, 0, 1, 1], "texture": "#1"}
 			}
@@ -220,7 +220,6 @@
 		{
 			"name": "本体",
 			"origin": [8, 8, 8],
-			"color": 0,
 			"children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
 		}
 	]

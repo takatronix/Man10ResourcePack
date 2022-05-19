@@ -1,10 +1,10 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Nothingness2",
 	"textures": {
-		"3": "man10/equipment/showcase_type_a/marble1",
-		"4": "man10/equipment/showcase_type_a/glass",
-		"5": "man10/equipment/showcase_type_a/price",
-		"particle": "man10/equipment/showcase_type_a/price"
+		"3": "man10/private/showcase_type_a/marble1",
+		"4": "man10/private/showcase_type_a/glass",
+		"5": "man10/private/showcase_type_a/price",
+		"particle": "man10/private/showcase_type_a/price"
 	},
 	"elements": [
 		{
@@ -353,49 +353,34 @@
 		{
 			"name": "group",
 			"origin": [0, 0, 0],
-			"color": 0,
 			"children": [
 				{
 					"name": "外ガラス",
 					"origin": [0, 0, 0],
-					"color": 0,
 					"children": [0, 1, 2, 3]
-				},
-				4,
-				5,
-				6,
-				7,
-				8,
-				9,
+				}, 4, 5, 6, 7, 8, 9,
 				{
 					"name": "室内棚",
 					"origin": [0, 0, 0],
-					"color": 0,
-					"children": [
-						10,
-						11,
+					"children": [10, 11,
 						{
 							"name": "値札",
 							"origin": [0, 0.15, 0],
-							"color": 0,
 							"children": [12, 13, 14]
 						},
 						{
 							"name": "値札",
 							"origin": [0, 0.15, 0],
-							"color": 0,
 							"children": [15, 16, 17]
 						},
 						{
 							"name": "値札",
 							"origin": [0, 0.15, 0],
-							"color": 0,
 							"children": [18, 19, 20]
 						},
 						{
 							"name": "値札",
 							"origin": [0, 0.15, 0],
-							"color": 0,
 							"children": [21, 22, 23]
 						}
 					]

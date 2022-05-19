@@ -1,9 +1,9 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Made by Nothingness2",
 	"textures": {
 		"0": "block/water_still",
-		"1": "man10/equipment/center_table1/glass",
-		"2": "man10/equipment/cypress_bath/hinoki",
+		"1": "man10/private/center_table1/glass",
+		"2": "man10/private/cypress_bath/hinoki",
 		"3": "block/water_flow",
 		"particle": "block/water_still"
 	},
@@ -391,43 +391,28 @@
 			"scale": [2.1, 2, 3.15]
 		}
 	},
-	"groups": [
-		0,
+	"groups": [0,
 		{
 			"name": "水",
 			"origin": [0, 0, 0],
-			"color": 0,
 			"children": [1, 2, 3, 4, 5, 6]
 		},
 		{
 			"name": "外枠",
 			"origin": [0, 0, 0],
-			"color": 0,
-			"children": [
-				7,
-				8,
-				9,
-				10,
+			"children": [7, 8, 9, 10,
 				{
 					"name": "お湯を注ぐところ",
 					"origin": [0, 0, 0],
-					"color": 0,
 					"children": [
 						{
 							"name": "group",
 							"origin": [0, 0, 0],
-							"color": 0,
 							"children": [11, 12, 13]
-						},
-						14,
-						15,
-						16,
-						17,
-						18,
+						}, 14, 15, 16, 17, 18,
 						{
 							"name": "水",
 							"origin": [0, 0, 0],
-							"color": 0,
 							"children": [19, 20, 21, 22, 23, 24, 25, 26]
 						}
 					]
