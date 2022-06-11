@@ -55,11 +55,31 @@
     	{ "predicate": {"custom_model_data":49}, "model": "man10/food/sushi9"},
     	{ "predicate": {"custom_model_data":50}, "model": "man10/food/sushi10"},
     	{ "predicate": {"custom_model_data":51}, "model": "man10/food/tacos"},
-    	{ "predicate": {"custom_model_data":52}, "model": "man10/food/taiyaki"},
-    	{ "predicate": {"custom_model_data":53}, "model": "man10/food/takoyaki"},
+    	{ "predicate": {"custom_model_data":52}, "model": "man10/food/tacos"},
+    	{ "predicate": {"custom_model_data":53}, "model": "man10/food/tacos"},
     	{ "predicate": {"custom_model_data":54}, "model": "man10/food/uman1"},
     	{ "predicate": {"custom_model_data":55}, "model": "man10/food/uman2"},
 
-    	{ "predicate": {"custom_model_data":56}, "model": "item/baked_potato"}
+		{ "predicate": {"custom_model_data":56}, "model": "man10/food/tukune"},
+    	{ "predicate": {"custom_model_data":57}, "model": "man10/food/yakitori"},
+    	{ "predicate": {"custom_model_data":58}, "model": "man10/food/baby_castella"},
+    	{ "predicate": {"custom_model_data":59}, "model": "man10/food/frankfurter"},
+    	{ "predicate": {"custom_model_data":60}, "model": "man10/food/french_fries"},
+    	{ "predicate": {"custom_model_data":61}, "model": "man10/food/grilled_ayu"},
+    	{ "predicate": {"custom_model_data":62}, "model": "man10/food/grilled_squid"},
+    	{ "predicate": {"custom_model_data":63}, "model": "man10/food/kakigoori"},
+    	{ "predicate": {"custom_model_data":64}, "model": "man10/food/karaage"},
+    	{ "predicate": {"custom_model_data":65}, "model": "man10/food/nikumaki_onigiri"},
+    	{ "predicate": {"custom_model_data":66}, "model": "man10/food/ningyou_yaki"},
+    	{ "predicate": {"custom_model_data":67}, "model": "man10/food/okonomiyaki"},
+    	{ "predicate": {"custom_model_data":68}, "model": "man10/food/rakugaki_senbei"},
+    	{ "predicate": {"custom_model_data":69}, "model": "man10/food/ramen_1"},
+    	{ "predicate": {"custom_model_data":70}, "model": "man10/food/ramen_2"},
+    	{ "predicate": {"custom_model_data":71}, "model": "man10/food/taiyaki"},
+    	{ "predicate": {"custom_model_data":72}, "model": "man10/food/takoyaki"},
+    	{ "predicate": {"custom_model_data":73}, "model": "man10/food/yakisoba"},
+
+
+    	{ "predicate": {"custom_model_data":74}, "model": "item/baked_potato"}
     ]
 }
