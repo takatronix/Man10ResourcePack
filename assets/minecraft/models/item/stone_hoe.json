@@ -105,6 +105,7 @@
         { "predicate": {"custom_model_data": 98 }, "model": "man10/equipment/lantern_rainbow"},
         { "predicate": {"custom_model_data": 99 }, "model": "man10/equipment/tankcat_black"},
         { "predicate": {"custom_model_data": 100 }, "model": "man10/equipment/tankcat_calico"},
+
         { "predicate": {"custom_model_data": 101 }, "model": "man10/equipment/tankcat_fox"},
         { "predicate": {"custom_model_data": 102 }, "model": "man10/equipment/tankcat_snowfox_sleep"},
         { "predicate": {"custom_model_data": 103 }, "model": "man10/equipment/tankcat_wolf"},
@@ -154,6 +155,7 @@
         { "predicate": {"custom_model_data": 148 }, "model": "man10/equipment/reward_medal_clock_darkblue" },
         { "predicate": {"custom_model_data": 149 }, "model": "man10/equipment/reward_medal_clock_white" },
         { "predicate": {"custom_model_data": 150 }, "model": "man10/equipment/playcoin_showcase1" },
+
         { "predicate": {"custom_model_data": 151 }, "model": "man10/equipment/playcoin_showcase2" },
         { "predicate": {"custom_model_data": 152 }, "model": "man10/equipment/easter" },
         { "predicate": {"custom_model_data": 153 }, "model": "man10/equipment/hinadan" },
@@ -163,7 +165,6 @@
         { "predicate": {"custom_model_data": 157 }, "model": "man10/equipment/tankcat_springfox" },
         { "predicate": {"custom_model_data": 158 }, "model": "man10/equipment/writing_desk" },
         { "predicate": {"custom_model_data": 159 }, "model": "man10/equipment/board_black" },
-
         { "predicate": {"custom_model_data": 160 }, "model": "man10/private/planter_blue_orchid" },
         { "predicate": {"custom_model_data": 161 }, "model": "man10/private/planter_lily_of_the_valley" },
         { "predicate": {"custom_model_data": 162 }, "model": "man10/private/planter_peony" },
@@ -205,6 +206,7 @@
         { "predicate": {"custom_model_data": 198 }, "model": "man10/private/frenchtoast" },
         { "predicate": {"custom_model_data": 199 }, "model": "man10/private/louver_window" },
         { "predicate": {"custom_model_data": 200 }, "model": "man10/private/cypress_bath" },
+
         { "predicate": {"custom_model_data": 201 }, "model": "man10/private/cypress_bath2" },
         { "predicate": {"custom_model_data": 202 }, "model": "man10/private/hamburg_steak" },
         { "predicate": {"custom_model_data": 203 }, "model": "man10/private/cafe_table" },
@@ -222,8 +224,20 @@
         { "predicate": {"custom_model_data": 215 }, "model": "man10/private/showcase_type_b" },
         { "predicate": {"custom_model_data": 216 }, "model": "man10/private/showcase_type_c" },
         { "predicate": {"custom_model_data": 217 }, "model": "man10/private/pudding" },
+        { "predicate": {"custom_model_data": 218 }, "model": "man10/private/horse" },
+        { "predicate": {"custom_model_data": 219 }, "model": "man10/private/candle_stand_black" },
+        { "predicate": {"custom_model_data": 220 }, "model": "man10/private/candle_stand_white" },
+        { "predicate": {"custom_model_data": 221 }, "model": "man10/private/sandwich" },
+        { "predicate": {"custom_model_data": 222 }, "model": "man10/private/ikebana" },
+        { "predicate": {"custom_model_data": 223 }, "model": "man10/private/breakfast_table" },
+        { "predicate": {"custom_model_data": 224 }, "model": "man10/private/matcha_dango" },
+        { "predicate": {"custom_model_data": 225 }, "model": "man10/private/ramen" },
+        { "predicate": {"custom_model_data": 226 }, "model": "man10/private/wall_mounted_shelf" },
+        { "predicate": {"custom_model_data": 227 }, "model": "man10/private/bordertable_white" },
+        { "predicate": {"custom_model_data": 228 }, "model": "man10/private/bordertable_wood" },
+        { "predicate": {"custom_model_data": 229 }, "model": "man10/private/bordertable_black" },
 
 
-        { "predicate": {"custom_model_data": 218 }, "model": "item/stone_hoe" }
+        { "predicate": {"custom_model_data": 230 }, "model": "item/stone_hoe" }
         ]
 }
