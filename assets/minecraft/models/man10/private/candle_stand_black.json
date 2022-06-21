@@ -1,8 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": ":block/black_shulker_box",
-		"2": ":block/deepslate_redstone_ore"
+		"1": "block/black_shulker_box",
+		"2": "block/deepslate_redstone_ore",
+		"particle": "block/black_shulker_box"
 	},
 	"elements": [
 		{
