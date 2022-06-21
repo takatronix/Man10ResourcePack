@@ -9,7 +9,7 @@
 		"5": "entity/creeper/creeper",
 		"6": "painting/alban",
 		"7": "block/cornflower",
-		"particle": "creeper"
+		"particle": "block/cornflower"
 	},
 	"elements": [
 		{
