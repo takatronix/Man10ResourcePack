@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"3": ":block/white_shulker_box",
-		"4": ":block/lapis_ore",
-		"particle": ":block/white_shulker_box"
+		"3": "block/white_shulker_box",
+		"4": "block/lapis_ore",
+		"particle": "block/white_shulker_box"
 	},
 	"elements": [
 		{
