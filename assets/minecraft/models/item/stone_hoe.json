@@ -236,8 +236,9 @@
         { "predicate": {"custom_model_data": 227 }, "model": "man10/private/bordertable_white" },
         { "predicate": {"custom_model_data": 228 }, "model": "man10/private/bordertable_wood" },
         { "predicate": {"custom_model_data": 229 }, "model": "man10/private/bordertable_black" },
+	{ "predicate": {"custom_model_data": 230 }, "model": "man10/private/pancake" },
 
 
-        { "predicate": {"custom_model_data": 230 }, "model": "item/stone_hoe" }
+        { "predicate": {"custom_model_data": 231 }, "model": "item/stone_hoe" }
         ]
 }
