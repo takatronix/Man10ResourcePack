@@ -60,8 +60,10 @@
 		{"predicate": {"custom_model_data":70},  "model": "man10/weapon/gun/minigun"},
 		{"predicate": {"custom_model_data":71},  "model": "man10/weapon/gun/water_gun"},
 		{"predicate": {"custom_model_data":72},  "model": "man10/weapon/gun/water_gun_reload"},
-
+		{"predicate": {"custom_model_data":73},  "model": "man10/weapon/gun/water_barrage"},
+		{"predicate": {"custom_model_data":74},  "model": "man10/weapon/gun/cork_launcher"},
+		{"predicate": {"custom_model_data":75},  "model": "man10/weapon/gun/cork_launcher_reroad"},
     
-		{"predicate": {"custom_model_data":73}, "model": "item/iron_hoe"}
+		{"predicate": {"custom_model_data":76}, "model": "item/iron_hoe"}
     ]
 }

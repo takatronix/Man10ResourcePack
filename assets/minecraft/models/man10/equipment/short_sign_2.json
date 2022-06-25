@@ -1,0 +1,8 @@
+{
+	"parent": "man10/equipment/short_sign_1",
+	"textures": {
+		"front": "man10/equipment/sign/short_sign_front_2",
+		"behind": "man10/equipment/sign/short_sign_behind"
+	},
+	"anchor": "coppele"
+}
