@@ -237,8 +237,36 @@
         { "predicate": {"custom_model_data": 228 }, "model": "man10/private/bordertable_wood" },
         { "predicate": {"custom_model_data": 229 }, "model": "man10/private/bordertable_black" },
 	{ "predicate": {"custom_model_data": 230 }, "model": "man10/private/pancake" },
+	{ "predicate": {"custom_model_data": 231 }, "model": "man10/equipment/ice_banner"},
+	{ "predicate": {"custom_model_data": 232 }, "model": "man10/equipment/short_sign_1"},
+	{ "predicate": {"custom_model_data": 233 }, "model": "man10/equipment/short_sign_2"},
+	{ "predicate": {"custom_model_data": 234 }, "model": "man10/equipment/beach_chair"},
+	{ "predicate": {"custom_model_data": 235 }, "model": "man10/equipment/beach_parasol"},
+	{ "predicate": {"custom_model_data": 236 }, "model": "man10/equipment/beach_table"},
+	{ "predicate": {"custom_model_data": 237 }, "model": "man10/equipment/palm_tree"},
+	{ "predicate": {"custom_model_data": 238 }, "model": "man10/equipment/sand_castle"},
+	{ "predicate": {"custom_model_data": 239 }, "model": "man10/equipment/surfboard"},
+	{ "predicate": {"custom_model_data": 240 }, "model": "man10/equipment/water_donut"},
+	{ "predicate": {"custom_model_data": 241 }, "model": "man10/equipment/wind_bell"},
+	{ "predicate": {"custom_model_data": 242 }, "model": "man10/equipment/yatai_dango"},
+	{ "predicate": {"custom_model_data": 243 }, "model": "man10/equipment/yatai_shaved"},
+	{ "predicate": {"custom_model_data": 244 }, "model": "man10/equipment/yatai_takoyaki"},
+	{ "predicate": {"custom_model_data": 245 }, "model": "man10/equipment/yatai_yakisoba"},
+	{ "predicate": {"custom_model_data": 246 }, "model": "man10/equipment/goldfish_bag"},
+	{ "predicate": {"custom_model_data": 247 }, "model": "man10/equipment/goldfish_tank"},
+	{ "predicate": {"custom_model_data": 248 }, "model": "man10/equipment/sparklers"},
+	{ "predicate": {"custom_model_data": 249 }, "model": "man10/equipment/bottle_ship"},
+	{ "predicate": {"custom_model_data": 250 }, "model": "man10/equipment/boyfriend"},
+	{ "predicate": {"custom_model_data": 251 }, "model": "man10/equipment/cotton_candy"},
+	{ "predicate": {"custom_model_data": 252 }, "model": "man10/equipment/frog"},
+	{ "predicate": {"custom_model_data": 253 }, "model": "man10/equipment/girlfriend"},
+	{ "predicate": {"custom_model_data": 254 }, "model": "man10/equipment/japanese_drum"},
+	{ "predicate": {"custom_model_data": 255 }, "model": "man10/equipment/kabutomushi"},
+	{ "predicate": {"custom_model_data": 256 }, "model": "man10/equipment/leaf_umbrella"},
+	{ "predicate": {"custom_model_data": 257 }, "model": "man10/equipment/mikoshi"},
+	{ "predicate": {"custom_model_data": 258 }, "model": "man10/equipment/tomato_festival"},
+	{ "predicate": {"custom_model_data": 259 }, "model": "man10/equipment/sky_rockets"},
 
-
-        { "predicate": {"custom_model_data": 231 }, "model": "item/stone_hoe" }
+        { "predicate": {"custom_model_data": 260 }, "model": "item/stone_hoe" }
         ]
 }

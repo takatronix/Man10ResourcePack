@@ -11,6 +11,7 @@
     {"predicate": {"custom_model_data":4}, "model": "man10/vehicle/f12"},
     {"predicate": {"custom_model_data":5}, "model": "man10/vehicle/battista"},
     {"predicate": {"custom_model_data":6}, "model": "man10/vehicle/cybertruck"},
+    {"predicate": {"custom_model_data":7}, "model": "man10/vehicle/food_truck"},
 
 		{"predicate": {"custom_model_data":10}, "model": "item/golden_shovel"}
     ]

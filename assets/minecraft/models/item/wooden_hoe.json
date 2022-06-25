@@ -90,7 +90,8 @@
         {"predicate": {"custom_model_data":81}, "model": "man10/hat/school_backpack_red"},
         {"predicate": {"custom_model_data":82}, "model": "man10/hat/easterhat"},
         {"predicate": {"custom_model_data":83}, "model": "man10/hat/dan5"},
+        {"predicate": {"custom_model_data":84}, "model": "man10/hat/diving_kit"},
 
-        {"predicate": {"custom_model_data":84}, "model": "item/wooden_hoe"}
+        {"predicate": {"custom_model_data":85}, "model": "item/wooden_hoe"}
     ]
 }
