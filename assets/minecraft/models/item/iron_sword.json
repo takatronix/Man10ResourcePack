@@ -38,10 +38,12 @@
         { "predicate": {"custom_model_data": 31 }, "model": "man10/weapon/sword/black_blossom_blade" },
 
         { "predicate": {"custom_model_data": 32 }, "model": "man10/weapon/sword/lagoon_sword"},
-	{ "predicate": {"custom_model_data": 33 }, "model": "man10/weapon/sword/hydrangea_scythe"},
-	{ "predicate": {"custom_model_data": 34 }, "model": "man10/weapon/sword/watermelon_ice_bar"},
+	    { "predicate": {"custom_model_data": 33 }, "model": "man10/weapon/other/hydrangea_scythe"},
+        { "predicate": {"custom_model_data": 34 }, "model": "man10/weapon/other/hydrangea_scythe_blue"},
+        { "predicate": {"custom_model_data": 35 }, "model": "man10/weapon/other/hydrangea_scythe_red"},
+	    { "predicate": {"custom_model_data": 36 }, "model": "man10/weapon/sword/watermelon_ice_bar"},
 
 
-        { "predicate": {"custom_model_data": 35 }, "model": "item/iron_sword" }
+        { "predicate": {"custom_model_data": 37 }, "model": "item/iron_sword" }
         ]
 }
