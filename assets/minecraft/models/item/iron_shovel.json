@@ -23,8 +23,8 @@
 		{"predicate": {"custom_model_data":16}, "model": "man10/weapon/magic/burn_arm"},
 		{"predicate": {"custom_model_data":17}, "model": "man10/weapon/magic/closed_magical_sun_book"},
 		{"predicate": {"custom_model_data":18}, "model": "man10/weapon/magic/opened_magical_sun_book"},
+		{"predicate": {"custom_model_data":19}, "model": "man10/weapon/magic/redrod"},
 
-
-    {"predicate": {"custom_model_data":19}, "model": "item/iron_shovel"}		
+    {"predicate": {"custom_model_data":20}, "model": "item/iron_shovel"}		
   ]
 }
