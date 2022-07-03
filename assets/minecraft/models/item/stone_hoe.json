@@ -267,6 +267,16 @@
 	{ "predicate": {"custom_model_data": 258 }, "model": "man10/equipment/tomato_festival"},
 	{ "predicate": {"custom_model_data": 259 }, "model": "man10/equipment/sky_rockets"},
 
-        { "predicate": {"custom_model_data": 260 }, "model": "item/stone_hoe" }
+	{ "predicate": {"custom_model_data": 260 }, "model": "man10/private/latte_g_wagen"},
+	{ "predicate": {"custom_model_data": 261 }, "model": "man10/private/shortcake_melonsoda"},
+	{ "predicate": {"custom_model_data": 262 }, "model": "man10/private/surveillance_camera"},
+	{ "predicate": {"custom_model_data": 263 }, "model": "man10/private/vending_machine_blue"},
+	{ "predicate": {"custom_model_data": 264 }, "model": "man10/private/vending_machine_red"},
+	{ "predicate": {"custom_model_data": 265 }, "model": "man10/private/latte_white_car"},
+	{ "predicate": {"custom_model_data": 266 }, "model": "man10/private/cat_car_black"},
+	{ "predicate": {"custom_model_data": 267 }, "model": "man10/private/cat_car_tricolor"},
+	{ "predicate": {"custom_model_data": 268 }, "model": "man10/private/cat_car_white"},
+
+        { "predicate": {"custom_model_data": 269 }, "model": "item/stone_hoe" }
         ]
 }
