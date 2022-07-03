@@ -61,8 +61,17 @@
         {"predicate": {"custom_model_data":50}, "model": "man10/slot/spring_event/sakura_5_bloom"},
         {"predicate": {"custom_model_data":51}, "model": "man10/slot/spring_event/sakura_7_bloom"},
         {"predicate": {"custom_model_data":52}, "model": "man10/slot/spring_event/sakura_full_bloom"},
-        {"predicate": {"custom_model_data":53}, "model": "man10/slot/summer_event/JP_1"},
+        {"predicate": {"custom_model_data":53}, "model": "man10/slot/summer_event/jp_1"},
+        {"predicate": {"custom_model_data":54}, "model": "man10/slot/summer_event/summer_shell_red"},
+        {"predicate": {"custom_model_data":55}, "model": "man10/slot/summer_event/summer_shell_orange"},
+        {"predicate": {"custom_model_data":56}, "model": "man10/slot/summer_event/summer_shell_yellow"},
+        {"predicate": {"custom_model_data":57}, "model": "man10/slot/summer_event/summer_shell_lightgreen"},
+        {"predicate": {"custom_model_data":58}, "model": "man10/slot/summer_event/summer_shell_lightblue"},
+        {"predicate": {"custom_model_data":59}, "model": "man10/slot/summer_event/summer_shell_blue"},
+        {"predicate": {"custom_model_data":60}, "model": "man10/slot/summer_event/summer_shell_purple"},
+        {"predicate": {"custom_model_data":61}, "model": "man10/slot/summer_event/summer_shell_silver"},
+        {"predicate": {"custom_model_data":62}, "model": "man10/slot/summer_event/summer_shell_pink"},
 
-		{"predicate": {"custom_model_data":54}, "model": "item/iron_nugget"}
+	{"predicate": {"custom_model_data":63}, "model": "item/iron_nugget"}
     ]
 }
