@@ -24,8 +24,9 @@
       {"predicate": {"custom_model_data":16}, "model": "man10/currency/gold_ticket"},
       {"predicate": {"custom_model_data":17}, "model": "man10/currency/fosill_1"},
       {"predicate": {"custom_model_data":18}, "model": "man10/currency/fosill_2"},
+      {"predicate": {"custom_model_data":19}, "model": "man10/currency/fossil_fish"},
 
 
-      {"predicate": {"custom_model_data":19}, "model": "item/gold_ingot"}		
+      {"predicate": {"custom_model_data":20}, "model": "item/gold_ingot"}		
     ]
 }
