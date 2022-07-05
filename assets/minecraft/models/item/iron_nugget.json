@@ -83,7 +83,7 @@
     	{"predicate": {"custom_model_data":70}, "model": "minecraft:item/sn_8"},
     	{"predicate": {"custom_model_data":71}, "model": "minecraft:item/sn_9"},
     	{"predicate": {"custom_model_data":72}, "model": "minecraft:item/sn_jpchance"},
-    	{"predicate": {"custom_model_data":73}, "model": "minecraft:item/sn_jackpot"}
+    	{"predicate": {"custom_model_data":73}, "model": "minecraft:item/sn_jackpot"},
 
 
 	{"predicate": {"custom_model_data":74}, "model": "item/iron_nugget"}
