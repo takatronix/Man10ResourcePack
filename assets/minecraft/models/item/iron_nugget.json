@@ -73,17 +73,17 @@
         {"predicate": {"custom_model_data":61}, "model": "man10/slot/summer_event/summer_shell_silver"},
         {"predicate": {"custom_model_data":62}, "model": "man10/slot/summer_event/summer_shell_pink"},
 
-    	{"predicate": {"custom_model_data":63}, "model": "minecraft:item/sn_1"},
-    	{"predicate": {"custom_model_data":64}, "model": "minecraft:item/sn_2"},
-    	{"predicate": {"custom_model_data":65}, "model": "minecraft:item/sn_3"},
-    	{"predicate": {"custom_model_data":66}, "model": "minecraft:item/sn_4"},
-    	{"predicate": {"custom_model_data":67}, "model": "minecraft:item/sn_5"},
-    	{"predicate": {"custom_model_data":68}, "model": "minecraft:item/sn_6"},
-    	{"predicate": {"custom_model_data":69}, "model": "minecraft:item/sn_7"},
-    	{"predicate": {"custom_model_data":70}, "model": "minecraft:item/sn_8"},
-    	{"predicate": {"custom_model_data":71}, "model": "minecraft:item/sn_9"},
-    	{"predicate": {"custom_model_data":72}, "model": "minecraft:item/sn_jpchance"},
-    	{"predicate": {"custom_model_data":73}, "model": "minecraft:item/sn_jackpot"},
+    	{"predicate": {"custom_model_data":63}, "model": "man10/slot/summer_event/sn_1"},
+    	{"predicate": {"custom_model_data":64}, "model": "man10/slot/summer_event/sn_2"},
+    	{"predicate": {"custom_model_data":65}, "model": "man10/slot/summer_event/sn_3"},
+    	{"predicate": {"custom_model_data":66}, "model": "man10/slot/summer_event/sn_4"},
+    	{"predicate": {"custom_model_data":67}, "model": "man10/slot/summer_event/sn_5"},
+    	{"predicate": {"custom_model_data":68}, "model": "man10/slot/summer_event/sn_6"},
+    	{"predicate": {"custom_model_data":69}, "model": "man10/slot/summer_event/sn_7"},
+    	{"predicate": {"custom_model_data":70}, "model": "man10/slot/summer_event/sn_8"},
+    	{"predicate": {"custom_model_data":71}, "model": "man10/slot/summer_event/sn_9"},
+    	{"predicate": {"custom_model_data":72}, "model": "man10/slot/summer_event/sn_jpchance"},
+    	{"predicate": {"custom_model_data":73}, "model": "man10/slot/summer_event/sn_jackpot"},
 
 
 	{"predicate": {"custom_model_data":74}, "model": "item/iron_nugget"}
