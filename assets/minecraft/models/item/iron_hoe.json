@@ -63,7 +63,8 @@
 		{"predicate": {"custom_model_data":73},  "model": "man10/weapon/gun/water_barrage"},
 		{"predicate": {"custom_model_data":74},  "model": "man10/weapon/gun/cork_launcher"},
 		{"predicate": {"custom_model_data":75},  "model": "man10/weapon/gun/cork_launcher_reroad"},
+		{"predicate": {"custom_model_data":76},  "model": "man10/weapon/gun/man10beam_gray"},
     
-		{"predicate": {"custom_model_data":76}, "model": "item/iron_hoe"}
+		{"predicate": {"custom_model_data":77}, "model": "item/iron_hoe"}
     ]
 }
