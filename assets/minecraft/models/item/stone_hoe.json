@@ -277,7 +277,17 @@
 	{ "predicate": {"custom_model_data": 267 }, "model": "man10/private/cat_car_tricolor"},
 	{ "predicate": {"custom_model_data": 268 }, "model": "man10/private/cat_car_white"},
 	{ "predicate": {"custom_model_data": 269 }, "model": "man10/equipment/food_truck"},
-	{ "predicate": {"custom_model_data": 270 }, "model": "man10/private/right_piano"},
-        { "predicate": {"custom_model_data": 271 }, "model": "item/stone_hoe" }
+
+	{ "predicate": {"custom_model_data": 270 }, "model": "man10/equipment/dried_cod"},
+	{ "predicate": {"custom_model_data": 271 }, "model": "man10/equipment/dried_salmon"},
+	{ "predicate": {"custom_model_data": 272 }, "model": "man10/equipment/phone_booth"},
+
+        { "predicate": {"custom_model_data": 273 }, "model": "item/stone_hoe" },
+
+
+
+        { "predicate": {"custom_model_data": 2250 }, "model": "man10/private/micro_wave_c" },
+        { "predicate": {"custom_model_data": 2251 }, "model": "man10/private/right_piano" },
+        { "predicate": {"custom_model_data": 2252 }, "model": "item/stone_hoe" }
         ]
 }

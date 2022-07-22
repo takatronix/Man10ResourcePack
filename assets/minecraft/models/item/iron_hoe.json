@@ -64,7 +64,13 @@
 		{"predicate": {"custom_model_data":74},  "model": "man10/weapon/gun/cork_launcher"},
 		{"predicate": {"custom_model_data":75},  "model": "man10/weapon/gun/cork_launcher_reroad"},
 		{"predicate": {"custom_model_data":76},  "model": "man10/weapon/gun/man10beam_gray"},
+		{"predicate": {"custom_model_data":77},  "model": "man10/weapon/gun/rifel_bayonet"},
+		{"predicate": {"custom_model_data":78},  "model": "man10/weapon/gun/rifel_bayonet_ads"},
+		{"predicate": {"custom_model_data":79},  "model": "man10/weapon/gun/thompson"},
+		{"predicate": {"custom_model_data":80},  "model": "man10/weapon/gun/thompson_ads"},
+		{"predicate": {"custom_model_data":81},  "model": "man10/weapon/gun/m1911a1"},
+
     
-		{"predicate": {"custom_model_data":77}, "model": "item/iron_hoe"}
+		{"predicate": {"custom_model_data":82}, "model": "item/iron_hoe"}
     ]
 }

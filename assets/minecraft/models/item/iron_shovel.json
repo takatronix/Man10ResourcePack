@@ -25,7 +25,8 @@
 		{"predicate": {"custom_model_data":18}, "model": "man10/weapon/magic/opened_magical_sun_book"},
 		{"predicate": {"custom_model_data":19}, "model": "man10/weapon/magic/redrod"},
 		{"predicate": {"custom_model_data":20}, "model": "man10/weapon/magic/paranoia_wand"},
+		{"predicate": {"custom_model_data":21}, "model": "man10/weapon/magic/durian_rod"},
 
-    {"predicate": {"custom_model_data":21}, "model": "item/iron_shovel"}		
+    {"predicate": {"custom_model_data":22}, "model": "item/iron_shovel"}		
   ]
 }
