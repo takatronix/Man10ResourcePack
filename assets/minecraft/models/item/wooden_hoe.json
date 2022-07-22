@@ -91,7 +91,8 @@
         {"predicate": {"custom_model_data":82}, "model": "man10/hat/easterhat"},
         {"predicate": {"custom_model_data":83}, "model": "man10/hat/dan5"},
         {"predicate": {"custom_model_data":84}, "model": "man10/hat/diving_kit"},
+        {"predicate": {"custom_model_data":85}, "model": "man10/hat/purple_ring"},
 
-        {"predicate": {"custom_model_data":85}, "model": "item/wooden_hoe"}
+        {"predicate": {"custom_model_data":86}, "model": "item/wooden_hoe"}
     ]
 }
