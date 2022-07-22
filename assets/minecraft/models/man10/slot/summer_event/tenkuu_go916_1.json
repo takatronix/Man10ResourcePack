@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "man10/slot/summer_event/tenkuu_go916_1"
+  }
+}
