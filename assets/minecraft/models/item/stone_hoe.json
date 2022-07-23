@@ -281,8 +281,17 @@
 	{ "predicate": {"custom_model_data": 270 }, "model": "man10/equipment/dried_cod"},
 	{ "predicate": {"custom_model_data": 271 }, "model": "man10/equipment/dried_salmon"},
 	{ "predicate": {"custom_model_data": 272 }, "model": "man10/equipment/phone_booth"},
+    { "predicate": {"custom_model_data": 273 }, "model": "man10/equipment/acacia_log"},
+	{ "predicate": {"custom_model_data": 274 }, "model": "man10/equipment/biggest_oak_log"},
+	{ "predicate": {"custom_model_data": 275 }, "model": "man10/equipment/birch_log"},
+    { "predicate": {"custom_model_data": 276 }, "model": "man10/equipment/crimson_stem"},
+	{ "predicate": {"custom_model_data": 277 }, "model": "man10/equipment/dark_oak_log"},
+	{ "predicate": {"custom_model_data": 278 }, "model": "man10/equipment/jungle_log_top"},
+    { "predicate": {"custom_model_data": 279 }, "model": "man10/equipment/spruce_log"},
+    { "predicate": {"custom_model_data": 280 }, "model": "man10/equipment/warped_stem"},
 
-        { "predicate": {"custom_model_data": 273 }, "model": "item/stone_hoe" },
+
+        { "predicate": {"custom_model_data": 281 }, "model": "item/stone_hoe" },
 
 
 
