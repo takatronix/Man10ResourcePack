@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "man10/weapon/sword/mayfly/SW",
-		"particle": "man10/weapon/sword/mayfly/SW"
+		"0": "man10/weapon/sword/mayfly/mayfly",
+		"particle": "man10/weapon/sword/mayfly/mayfly"
 	},
 	"elements": [
 		{
