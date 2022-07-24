@@ -78,8 +78,13 @@
     	{ "predicate": {"custom_model_data":71}, "model": "man10/food/taiyaki"},
     	{ "predicate": {"custom_model_data":72}, "model": "man10/food/takoyaki"},
     	{ "predicate": {"custom_model_data":73}, "model": "man10/food/yakisoba"},
+		{ "predicate": {"custom_model_data":74}, "model": "man10/food/kakigoori_yellow"},
+		{ "predicate": {"custom_model_data":75}, "model": "man10/food/kakigoori_green"},
+		{ "predicate": {"custom_model_data":76}, "model": "man10/food/kakigoori_blue"},
+		{ "predicate": {"custom_model_data":77}, "model": "man10/food/kakigoori_blue_hawaii"},
+		{ "predicate": {"custom_model_data":78}, "model": "man10/food/kakigoori_man10_color"},
 
 
-    	{ "predicate": {"custom_model_data":74}, "model": "item/baked_potato"}
+    	{ "predicate": {"custom_model_data":79}, "model": "item/baked_potato"}
     ]
 }
