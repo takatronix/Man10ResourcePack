@@ -289,9 +289,10 @@
 	{ "predicate": {"custom_model_data": 278 }, "model": "man10/equipment/jungle_log_top"},
     { "predicate": {"custom_model_data": 279 }, "model": "man10/equipment/spruce_log"},
     { "predicate": {"custom_model_data": 280 }, "model": "man10/equipment/warped_stem"},
+    { "predicate": {"custom_model_data": 281 }, "model": "man10/equipment/golden_kabutomushi"},
 
 
-        { "predicate": {"custom_model_data": 281 }, "model": "item/stone_hoe" },
+        { "predicate": {"custom_model_data": 282 }, "model": "item/stone_hoe" },
 
 
 
