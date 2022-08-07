@@ -290,9 +290,13 @@
     { "predicate": {"custom_model_data": 279 }, "model": "man10/equipment/spruce_log"},
     { "predicate": {"custom_model_data": 280 }, "model": "man10/equipment/warped_stem"},
     { "predicate": {"custom_model_data": 281 }, "model": "man10/equipment/golden_kabutomushi"},
+    { "predicate": {"custom_model_data": 282 }, "model": "man10/equipment/iron_kabutomushi"},
+    { "predicate": {"custom_model_data": 283 }, "model": "man10/equipment/copper_kabutomushi"},
+    { "predicate": {"custom_model_data": 284 }, "model": "man10/equipment/redstone_kabutomushi"},
+    { "predicate": {"custom_model_data": 285 }, "model": "man10/equipment/lapis_kabutomushi"},
 
 
-        { "predicate": {"custom_model_data": 282 }, "model": "item/stone_hoe" },
+        { "predicate": {"custom_model_data": 286 }, "model": "item/stone_hoe" },
 
 
 
