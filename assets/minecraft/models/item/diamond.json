@@ -7,6 +7,7 @@
     	{ "predicate": {"custom_model_data":1}, "model": "man10/currency/m10000"},
     	{ "predicate": {"custom_model_data":2}, "model": "man10/currency/rainbow_diamond"},
     	{ "predicate": {"custom_model_data":3}, "model": "man10/currency/ender_pearl_rainbow"},
-        { "predicate": {"custom_model_data":4}, "model": "man10/currency/diamond_ticket"}     
+      { "predicate": {"custom_model_data":4}, "model": "man10/currency/diamond_ticket"},
+      { "predicate": {"custom_model_data":5}, "model": "item/bundle"}
     ]
 }
