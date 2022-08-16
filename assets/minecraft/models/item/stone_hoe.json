@@ -294,9 +294,9 @@
     { "predicate": {"custom_model_data": 283 }, "model": "man10/equipment/copper_kabutomushi"},
     { "predicate": {"custom_model_data": 284 }, "model": "man10/equipment/redstone_kabutomushi"},
     { "predicate": {"custom_model_data": 285 }, "model": "man10/equipment/lapis_kabutomushi"},
+    { "predicate": {"custom_model_data": 286 }, "model": "man10/equipment/wooded_box"},
 
-
-        { "predicate": {"custom_model_data": 286 }, "model": "item/stone_hoe" },
+        { "predicate": {"custom_model_data": 287 }, "model": "item/stone_hoe" },
 
 
 

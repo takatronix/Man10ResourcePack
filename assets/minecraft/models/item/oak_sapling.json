@@ -8,6 +8,7 @@
      { "predicate": {"custom_model_data":2}, "model": "man10/virtualblock/luckyblock"},
      { "predicate": {"custom_model_data":3}, "model": "man10/virtualblock/rainbow_block"},
      { "predicate": {"custom_model_data":4}, "model": "man10/virtualblock/dummy_dirt"},
-     { "predicate": {"custom_model_data":5}, "model": "man10/virtualblock/dummy_oak_planks"}
+     { "predicate": {"custom_model_data":5}, "model": "man10/virtualblock/dummy_oak_planks"},
+     { "predicate": {"custom_model_data":6}, "model": "man10/virtualblock/wooded_box_dummy"}
     ]
 }
