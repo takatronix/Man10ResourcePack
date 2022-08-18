@@ -9,7 +9,8 @@
       {"predicate": {"custom_model_data":2}, "model": "man10/currency/debtbill"},
       {"predicate": {"custom_model_data":3}, "model": "man10/food/bread_pattern"},
       {"predicate": {"custom_model_data":4}, "model": "man10/food/dough_filled_molds"},
+      {"predicate": {"custom_model_data":5}, "model": "man10/food/suribachi"},
 
-      {"predicate": {"custom_model_data":5}, "model": "item/paper"}
+      {"predicate": {"custom_model_data":6}, "model": "item/paper"}
     ]
 }
