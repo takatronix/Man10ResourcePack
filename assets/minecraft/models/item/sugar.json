@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/sugar"
+    },
+    "overrides": [
+    	{ "predicate": {"custom_model_data":1}, "model": "man10/food/flour"},
+
+    	{ "predicate": {"custom_model_data":4}, "model": "item/sugar"}
+    ]
+}
