@@ -15,7 +15,8 @@
         { "predicate": {"custom_model_data": 8 }, "model": "man10/drink/greentea" },
         { "predicate": {"custom_model_data": 9 }, "model": "man10/drink/crystal_mayser" },
         { "predicate": {"custom_model_data": 10 }, "model": "man10/drink/beer" },
+        { "predicate": {"custom_model_data": 11 }, "model": "man10/drink/manpirytus" },
 
-        { "predicate": {"custom_model_data": 11 }, "model": "item/potion" }
+        { "predicate": {"custom_model_data": 12 }, "model": "item/potion" }
         ]
 }
