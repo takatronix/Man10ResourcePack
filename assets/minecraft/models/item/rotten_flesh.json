@@ -7,7 +7,29 @@
     	{ "predicate": {"custom_model_data":1}, "model": "man10/food/dough"},
     	{ "predicate": {"custom_model_data":2}, "model": "man10/food/white_bread_dough"},
     	{ "predicate": {"custom_model_data":3}, "model": "man10/food/baguette_dough"},
+    	{ "predicate": {"custom_model_data":4}, "model": "man10/food/chocolate_cornet_dough"},
+    	{ "predicate": {"custom_model_data":5}, "model": "man10/food/coppe_bread_dough"},
+    	{ "predicate": {"custom_model_data":6}, "model": "man10/food/doughnut_dough"},
+    	{ "predicate": {"custom_model_data":7}, "model": "man10/food/croissant_dough"},
+    	{ "predicate": {"custom_model_data":8}, "model": "man10/food/melon_bread_dough"},
+    	{ "predicate": {"custom_model_data":9}, "model": "man10/food/ground_beef"},
+    	{ "predicate": {"custom_model_data":10}, "model": "man10/food/ground_beef_imitated_hamburg"},
+    	{ "predicate": {"custom_model_data":11}, "model": "man10/food/beef_sausage"},
+    	{ "predicate": {"custom_model_data":12}, "model": "man10/food/ground_mutton"},
+    	{ "predicate": {"custom_model_data":13}, "model": "man10/food/ground_mutton_imitated_hamburg"},
+    	{ "predicate": {"custom_model_data":14}, "model": "man10/food/mutton_sausage"},
+    	{ "predicate": {"custom_model_data":15}, "model": "man10/food/ground_porkchop"},
+    	{ "predicate": {"custom_model_data":16}, "model": "man10/food/ground_porkchop_imitated_hamburg"},
+    	{ "predicate": {"custom_model_data":17}, "model": "man10/food/porkchop_sausage"},
+    	{ "predicate": {"custom_model_data":18}, "model": "man10/food/ground_checken"},
+    	{ "predicate": {"custom_model_data":19}, "model": "man10/food/ground_checken_imitated_hamburg"},
+    	{ "predicate": {"custom_model_data":20}, "model": "man10/food/chicken_sausage"},
+    	{ "predicate": {"custom_model_data":21}, "model": "man10/food/ground_rabbit"},
+    	{ "predicate": {"custom_model_data":22}, "model": "man10/food/ground_rabbit_imitated_hamburg"},
+    	{ "predicate": {"custom_model_data":23}, "model": "man10/food/rabbit_sausage"},
+    	{ "predicate": {"custom_model_data":24}, "model": "man10/food/peppercorn"},
+    	{ "predicate": {"custom_model_data":25}, "model": "man10/food/pepper"},
 
-    	{ "predicate": {"custom_model_data":4}, "model": "item/bread"}
+    	{ "predicate": {"custom_model_data":26}, "model": "item/bread"}
     ]
 }

@@ -1,0 +1,17 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/golden_carrot"
+    },
+    "overrides": [
+	{ "predicate": {"custom_model_data":1}, "model": "man10/food/butter_toast"},
+	{ "predicate": {"custom_model_data":2}, "model": "man10/food/apple_toast"},
+	{ "predicate": {"custom_model_data":3}, "model": "man10/food/grape_toast"},
+	{ "predicate": {"custom_model_data":4}, "model": "man10/food/lime_toast"},
+	{ "predicate": {"custom_model_data":5}, "model": "man10/food/mandarin_toast"},
+	{ "predicate": {"custom_model_data":6}, "model": "man10/food/pear_toast"},
+	{ "predicate": {"custom_model_data":7}, "model": "man10/food/pizza_toast"},
+
+	{ "predicate": {"custom_model_data":8}, "model": "item/golden_carrot"}
+    ]
+}
