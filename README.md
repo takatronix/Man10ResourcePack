@@ -17,6 +17,7 @@
 | gold_nugget                | number                            | 数字                                     |
 | golden_shovel              | veheicle                          | 乗り物、自転車、車など                   |
 | wooden_shovel              | icon                              | discrodアイコンなどUIに使うもの          |
+| cod                        | fish                              | 魚（すべてローマ字、伸ばし棒はアンダーバー）|
 |                            |                                   |                                          |
 
 #### ディレクトリ構造について
