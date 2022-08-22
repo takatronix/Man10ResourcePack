@@ -1,0 +1,20 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/beetroot"
+    },
+    "overrides": [
+	{ "predicate": {"custom_model_data":1}, "model": "man10/food/a_slice_of_white_bread"},
+	{ "predicate": {"custom_model_data":2}, "model": "man10/food/bin_milk_butter"},
+	{ "predicate": {"custom_model_data":3}, "model": "man10/food/breadcrumbs"},
+	{ "predicate": {"custom_model_data":4}, "model": "man10/food/butter"},
+	{ "predicate": {"custom_model_data":5}, "model": "man10/food/crustless_bread"},
+	{ "predicate": {"custom_model_data":6}, "model": "man10/food/sausage_sequence"},
+	{ "predicate": {"custom_model_data":7}, "model": "man10/food/apple_jam"},
+	{ "predicate": {"custom_model_data":8}, "model": "man10/food/carrot_jam"},
+	{ "predicate": {"custom_model_data":9}, "model": "man10/food/golden_apple_jam"},
+	{ "predicate": {"custom_model_data":10}, "model": "man10/food/strawberry_jam"},
+
+	{ "predicate": {"custom_model_data":11}, "model": "item/beetroot"}
+    ]
+}

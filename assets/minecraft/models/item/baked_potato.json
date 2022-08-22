@@ -83,8 +83,9 @@
 		{ "predicate": {"custom_model_data":76}, "model": "man10/food/kakigoori_blue"},
 		{ "predicate": {"custom_model_data":77}, "model": "man10/food/kakigoori_blue_hawaii"},
 		{ "predicate": {"custom_model_data":78}, "model": "man10/food/kakigoori_man10_color"},
+		{ "predicate": {"custom_model_data":79}, "model": "man10/food/tomato_soup"},
 
 
-    	{ "predicate": {"custom_model_data":79}, "model": "item/baked_potato"}
+    	{ "predicate": {"custom_model_data":80}, "model": "item/baked_potato"}
     ]
 }
