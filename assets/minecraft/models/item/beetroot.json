@@ -14,7 +14,8 @@
 	{ "predicate": {"custom_model_data":8}, "model": "man10/food/carrot_jam"},
 	{ "predicate": {"custom_model_data":9}, "model": "man10/food/golden_apple_jam"},
 	{ "predicate": {"custom_model_data":10}, "model": "man10/food/strawberry_jam"},
+	{ "predicate": {"custom_model_data":11}, "model": "man10/food/tomato"},
 
-	{ "predicate": {"custom_model_data":11}, "model": "item/beetroot"}
+	{ "predicate": {"custom_model_data":12}, "model": "item/beetroot"}
     ]
 }
