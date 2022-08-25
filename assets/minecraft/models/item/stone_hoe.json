@@ -305,31 +305,29 @@
     { "predicate": {"custom_model_data": 294 }, "model": "man10/equipment/cat_fly"},
     { "predicate": {"custom_model_data": 295 }, "model": "man10/equipment/cat_lupin"},
     { "predicate": {"custom_model_data": 296 }, "model": "man10/equipment/cat_soup"},
-    { "predicate": {"custom_model_data": 297 }, "model": "man10/equipment/chocolate"},
-    { "predicate": {"custom_model_data": 298 }, "model": "man10/equipment/flower_drift"},
-    { "predicate": {"custom_model_data": 299 }, "model": "man10/equipment/fruit_box"},
-    { "predicate": {"custom_model_data": 300 }, "model": "man10/equipment/horse_equipment"},
-    { "predicate": {"custom_model_data": 301 }, "model": "man10/equipment/humanbody_model"},
-    { "predicate": {"custom_model_data": 302 }, "model": "man10/equipment/man10_lunchbox"},
-    { "predicate": {"custom_model_data": 303 }, "model": "man10/equipment/mill"},
-    { "predicate": {"custom_model_data": 304 }, "model": "man10/equipment/ofuton"},
-    { "predicate": {"custom_model_data": 305 }, "model": "man10/equipment/pestle"},
-    { "predicate": {"custom_model_data": 306 }, "model": "man10/equipment/rice"},
-    { "predicate": {"custom_model_data": 307 }, "model": "man10/equipment/rubiks_cube"},
-    { "predicate": {"custom_model_data": 308 }, "model": "man10/equipment/snowshovel"},
-    { "predicate": {"custom_model_data": 309 }, "model": "man10/equipment/stone_cutting_boad"},
-    { "predicate": {"custom_model_data": 310 }, "model": "man10/equipment/pail"},
-    { "predicate": {"custom_model_data": 311 }, "model": "man10/equipment/espresso_machine"},
-    { "predicate": {"custom_model_data": 312 }, "model": "man10/equipment/coffee_cup"},
-    { "predicate": {"custom_model_data": 313 }, "model": "man10/equipment/100m_yen"},
-    { "predicate": {"custom_model_data": 314 }, "model": "man10/equipment/golden_bar"},
+    { "predicate": {"custom_model_data": 297 }, "model": "man10/equipment/flower_drift"},
+    { "predicate": {"custom_model_data": 298 }, "model": "man10/equipment/fruit_box"},
+    { "predicate": {"custom_model_data": 299 }, "model": "man10/equipment/horse_equipment"},
+    { "predicate": {"custom_model_data": 300 }, "model": "man10/equipment/humanbody_model"},
+    { "predicate": {"custom_model_data": 301}, "model": "man10/equipment/man10_lunchbox"},
+    { "predicate": {"custom_model_data": 302 }, "model": "man10/equipment/mill"},
+    { "predicate": {"custom_model_data": 303 }, "model": "man10/equipment/ofuton"},
+    { "predicate": {"custom_model_data": 304 }, "model": "man10/equipment/pestle"},
+    { "predicate": {"custom_model_data": 305 }, "model": "man10/equipment/rice"},
+    { "predicate": {"custom_model_data": 306 }, "model": "man10/equipment/rubiks_cube"},
+    { "predicate": {"custom_model_data": 307 }, "model": "man10/equipment/snowshovel"},
+    { "predicate": {"custom_model_data": 308 }, "model": "man10/equipment/stone_cutting_boad"},
+    { "predicate": {"custom_model_data": 309 }, "model": "man10/equipment/pail"},
+    { "predicate": {"custom_model_data": 310 }, "model": "man10/equipment/espresso_machine"},
+    { "predicate": {"custom_model_data": 311 }, "model": "man10/equipment/coffee_cup"},
+    { "predicate": {"custom_model_data": 312 }, "model": "man10/equipment/100m_yen"},
 
 
 
 
 
 
-        { "predicate": {"custom_model_data": 315 }, "model": "item/stone_hoe" },
+        { "predicate": {"custom_model_data": 313 }, "model": "item/stone_hoe" },
 
 
 
