@@ -7,18 +7,19 @@
 | iron_hoe                   | weapon/gun                        | 銃                                       |
 | iron_sword                 | weapon/sword                      | 近接武器、剣など                         |
 | iron_shovel                | weapon/magic                      | 手にもつ魔法武器、杖など                 |
-| gunpowder                | weapon/ammo                      | 弾薬                |
+| stone_shovel               | toy                               | パーティーグッズ、おもちゃ                 |
+| gunpowder                  | weapon/ammo                       | 弾薬                                     |
 | potion                     | drink                             | 飲み物                                   |
 | baked_potato               | food                              | 食べ物                                   |
-| stone_hoe                  | equipment                         | 設備・家具類（地面のおくこと前提）       |
-| golden_hoe                 | gadget                            | ガジェット類（地面（額縁）におけること） |
+| stone_hoe                  | equipment                         | 設備・家具類（地面のおくこと前提）          |
+| golden_hoe                 | gadget                            | ガジェット類（地面（額縁）におけること）    |
 | iron_nugget                | slot                              | スロット図柄                             |
-| oak_sapling                | virtualblock          | バーチャルブロック                       |
+| oak_sapling                | virtualblock                      | バーチャルブロック                       |
 | gold_nugget                | number                            | 数字                                     |
 | golden_shovel              | veheicle                          | 乗り物、自転車、車など                   |
 | wooden_shovel              | icon                              | discrodアイコンなどUIに使うもの          |
 | cod                        | fish                              | 魚（すべてローマ字、伸ばし棒はアンダーバー）|
-|                            |                                   |                                          |
+| flint                      | shigen                            | 鉱石(粉末)                              |
 
 #### ディレクトリ構造について
 
@@ -44,11 +45,13 @@
     - common (共通化できるテクスチャ)
     - fish　(魚)
     - food (食べ物)
-    - drink(飲み物
-    - drug(薬
+    - drink(飲み物)
+    - drug(薬)
     - tool（ペンチとか手にもつ道具)
+    - toy(パーティーグッズ、おもちゃ)
     - hat(頭にかぶるもの)
     - glasses(眼鏡とか)
+    - shigen(鉱石、鉱物粉末)
     - slot(カジノのスロットとか)
     - equipment(設備 ATMや機械など)
     - gadget(小物、mPhoneとかちょっとしたもの)
