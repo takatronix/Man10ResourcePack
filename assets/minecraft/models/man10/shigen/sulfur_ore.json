@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+      "all": "man10/shigen/sulfur_ore"
+      }
+  }
