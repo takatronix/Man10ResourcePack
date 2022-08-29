@@ -5,7 +5,12 @@
     },
     "overrides": [
     	{ "predicate": {"custom_model_data":1}, "model": "man10/food/flour"},
+        { "predicate": {"custom_model_data":2}, "model": "man10/food/sugar"},
+        { "predicate": {"custom_model_data":3}, "model": "man10/food/salt"},
+        { "predicate": {"custom_model_data":4}, "model": "man10/food/rising"},
+        { "predicate": {"custom_model_data":5}, "model": "man10/food/soybean"},
+        { "predicate": {"custom_model_data":6}, "model": "man10/food/boiled_soybean"},
 
-    	{ "predicate": {"custom_model_data":4}, "model": "item/sugar"}
+    	{ "predicate": {"custom_model_data":7}, "model": "item/sugar"}
     ]
 }
