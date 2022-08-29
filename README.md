@@ -20,6 +20,7 @@
 | wooden_shovel              | icon                              | discrodアイコンなどUIに使うもの          |
 | cod                        | fish                              | 魚（すべてローマ字、伸ばし棒はアンダーバー）|
 | flint                      | shigen                            | 鉱石(粉末)                              |
+| nether_wart                | drug                              | ポーションレシピ(上)                      |
 
 #### ディレクトリ構造について
 
