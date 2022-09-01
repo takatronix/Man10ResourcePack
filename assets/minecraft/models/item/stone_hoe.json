@@ -320,13 +320,15 @@
     { "predicate": {"custom_model_data": 309 }, "model": "man10/equipment/espresso_machine"},
     { "predicate": {"custom_model_data": 310 }, "model": "man10/equipment/coffee_cup"},
     { "predicate": {"custom_model_data": 311 }, "model": "man10/equipment/100m_yen"},
+    { "predicate": {"custom_model_data": 312 }, "model": "man10/equipment/apple_barrel"},
+    { "predicate": {"custom_model_data": 313 }, "model": "man10/equipment/barrel"},
 
 
 
 
 
 
-        { "predicate": {"custom_model_data": 312 }, "model": "item/stone_hoe" },
+        { "predicate": {"custom_model_data": 314 }, "model": "item/stone_hoe" },
 
 
 

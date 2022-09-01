@@ -94,7 +94,9 @@
         {"predicate": {"custom_model_data":85}, "model": "man10/hat/purple_ring"},
         {"predicate": {"custom_model_data":86}, "model": "man10/hat/purple_ring"},
         {"predicate": {"custom_model_data":87}, "model": "man10/hat/flower_drift"},
+        {"predicate": {"custom_model_data":88}, "model": "man10/hat/trunk"},
+        {"predicate": {"custom_model_data":89}, "model": "man10/hat/trunk_sticker"},
 
-        {"predicate": {"custom_model_data":88}, "model": "item/wooden_hoe"}
+        {"predicate": {"custom_model_data":90}, "model": "item/wooden_hoe"}
     ]
 }

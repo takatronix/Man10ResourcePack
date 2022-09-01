@@ -8,7 +8,23 @@
     	{ "predicate": {"custom_model_data":2}, "model": "man10/drug/red_reagent_bottle"},
     	{ "predicate": {"custom_model_data":3}, "model": "man10/drug/green_reagent_bottle"},
     	{ "predicate": {"custom_model_data":4}, "model": "man10/drug/yellow_reagent_bottle"},
+        { "predicate": {"custom_model_data":5}, "model": "item/black_dye"},
+        { "predicate": {"custom_model_data":6}, "model": "item/gray_dye"},
+        { "predicate": {"custom_model_data":7}, "model": "item/green_dye"},
+        { "predicate": {"custom_model_data":8}, "model": "item/orange_dye"},
+        { "predicate": {"custom_model_data":9}, "model": "item/pink_dye"},
+        { "predicate": {"custom_model_data":10}, "model": "item/red_dye"},
+        { "predicate": {"custom_model_data":11}, "model": "item/white_dye"},
+        { "predicate": {"custom_model_data":12}, "model": "item/blue_dye"},
+        { "predicate": {"custom_model_data":13}, "model": "item/brown_dye"},
+        { "predicate": {"custom_model_data":14}, "model": "item/cyan_dye"},
+        { "predicate": {"custom_model_data":15}, "model": "item/light_blue_dye"},
+        { "predicate": {"custom_model_data":16}, "model": "item/light_gray_dye"},
+        { "predicate": {"custom_model_data":17}, "model": "item/lime_dye"},
+        { "predicate": {"custom_model_data":18}, "model": "item/magenta_dye"},
+        { "predicate": {"custom_model_data":19}, "model": "item/purple_dye"},
+        { "predicate": {"custom_model_data":20}, "model": "item/yellow_dye"},
 
-    	{ "predicate": {"custom_model_data":5}, "model": "item/nether_wart"}
+    	{ "predicate": {"custom_model_data":21}, "model": "item/nether_wart"}
     ]
 }
