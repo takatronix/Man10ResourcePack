@@ -10,20 +10,7 @@
       { "predicate": {"custom_model_data": 4 }, "model" : "man10/currency/m10000"},
       { "predicate": {"custom_model_data": 5 }, "model" : "man10/currency/m100k"},
       { "predicate": {"custom_model_data": 6 }, "model" : "man10/currency/m1m"},
-      { "predicate": {"custom_model_data": 7 }, "model" : "man10/fossil/beef_fossil"},
-      { "predicate": {"custom_model_data": 8 }, "model" : "man10/fossil/blaze_rod_fossil"},
-      { "predicate": {"custom_model_data": 9 }, "model" : "man10/fossil/chicken_fossil"},
-      { "predicate": {"custom_model_data": 10 }, "model" : "man10/fossil/cod_fossil"},
-      { "predicate": {"custom_model_data": 11 }, "model" : "man10/fossil/egg_fossil"},
-      { "predicate": {"custom_model_data": 12 }, "model" : "man10/fossil/mutton_fossil"},
-      { "predicate": {"custom_model_data": 13 }, "model" : "man10/fossil/porkchop_fossil"},
-      { "predicate": {"custom_model_data": 14 }, "model" : "man10/fossil/pufferfish_fossil"},
-      { "predicate": {"custom_model_data": 15 }, "model" : "man10/fossil/rabbit_fossil"},
-      { "predicate": {"custom_model_data": 16 }, "model" : "man10/fossil/rotten_flesh_fossil"},
-      { "predicate": {"custom_model_data": 17 }, "model" : "man10/fossil/salmon_fossil"},
-      { "predicate": {"custom_model_data": 18 }, "model" : "man10/fossil/spider_eye_fossil"},
-      { "predicate": {"custom_model_data": 19 }, "model" : "man10/fossil/tropical_fish_fossil"},
 
-      { "predicate": {"custom_model_data":20}, "model": "item/stick"}
+      { "predicate": {"custom_model_data":7}, "model": "item/stick"}
   ]
 }
