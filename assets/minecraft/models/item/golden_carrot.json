@@ -11,7 +11,10 @@
 	{ "predicate": {"custom_model_data":5}, "model": "man10/food/mandarin_toast"},
 	{ "predicate": {"custom_model_data":6}, "model": "man10/food/pear_toast"},
 	{ "predicate": {"custom_model_data":7}, "model": "man10/food/pizza_toast"},
+	{ "predicate": {"custom_model_data":8}, "model": "man10/food/assorted_sweets"},
+	{ "predicate": {"custom_model_data":9}, "model": "man10/food/halloween_lollipop"},
+	{ "predicate": {"custom_model_data":10}, "model": "man10/food/pumpkin_pie"},
 
-	{ "predicate": {"custom_model_data":8}, "model": "item/golden_carrot"}
+	{ "predicate": {"custom_model_data":11}, "model": "item/golden_carrot"}
     ]
 }

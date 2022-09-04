@@ -29,7 +29,9 @@
     	{ "predicate": {"custom_model_data":23}, "model": "man10/food/rabbit_sausage"},
     	{ "predicate": {"custom_model_data":24}, "model": "man10/food/peppercorn"},
     	{ "predicate": {"custom_model_data":25}, "model": "man10/food/pepper"},
+		{ "predicate": {"custom_model_data":26}, "model": "man10/food/pie_dough"},
+		{ "predicate": {"custom_model_data":27}, "model": "man10/food/pumpkin_pie_dough"},
 
-    	{ "predicate": {"custom_model_data":26}, "model": "item/bread"}
+    	{ "predicate": {"custom_model_data":28}, "model": "item/rotten_flesh"}
     ]
 }
