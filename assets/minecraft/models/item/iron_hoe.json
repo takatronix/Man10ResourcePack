@@ -73,8 +73,10 @@
 		{"predicate": {"custom_model_data":83},  "model": "man10/weapon/gun/rifel_gun"},
 		{"predicate": {"custom_model_data":84},  "model": "man10/weapon/gun/rifel_knife"},
 		{"predicate": {"custom_model_data":85},  "model": "man10/weapon/gun/rifel_gun_ads"},
+		{"predicate": {"custom_model_data":86},  "model": "man10/weapon/gun/sniper_rifle"},
+		{"predicate": {"custom_model_data":87},  "model": "man10/weapon/gun/sniper_rifle_ads"},
 
     
-		{"predicate": {"custom_model_data":86}, "model": "item/iron_hoe"}
+		{"predicate": {"custom_model_data":88}, "model": "item/iron_hoe"}
     ]
 }
