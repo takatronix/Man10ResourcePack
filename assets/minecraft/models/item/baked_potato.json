@@ -85,8 +85,10 @@
 		{ "predicate": {"custom_model_data":78}, "model": "man10/food/kakigoori_man10_color"},
 		{ "predicate": {"custom_model_data":79}, "model": "man10/food/tomato_soup"},
 		{ "predicate": {"custom_model_data":80}, "model": "man10/food/normal_chocolate"},
+		{ "predicate": {"custom_model_data":81}, "model": "man10/food/candy_green"},
+		{ "predicate": {"custom_model_data":82}, "model": "man10/food/candy_orange"},
+		{ "predicate": {"custom_model_data":83}, "model": "man10/food/candy_purple"},
 
-
-    	{ "predicate": {"custom_model_data":80}, "model": "item/baked_potato"}
+    	{ "predicate": {"custom_model_data":84}, "model": "item/baked_potato"}
     ]
 }

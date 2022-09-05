@@ -10,7 +10,12 @@
         { "predicate": {"custom_model_data":4}, "model": "man10/food/rising"},
         { "predicate": {"custom_model_data":5}, "model": "man10/food/soybean"},
         { "predicate": {"custom_model_data":6}, "model": "man10/food/boiled_soybean"},
+        { "predicate": {"custom_model_data":7}, "model": "man10/food/cocoa_powder"},
+        { "predicate": {"custom_model_data":8}, "model": "man10/food/roast_cocoa_beans"},
+        { "predicate": {"custom_model_data":9}, "model": "man10/food/sugar_green"},
+        { "predicate": {"custom_model_data":10}, "model": "man10/food/sugar_orange"},
+        { "predicate": {"custom_model_data":11}, "model": "man10/food/sugar_purple"},
 
-    	{ "predicate": {"custom_model_data":7}, "model": "item/sugar"}
+    	{ "predicate": {"custom_model_data":12}, "model": "item/sugar"}
     ]
 }

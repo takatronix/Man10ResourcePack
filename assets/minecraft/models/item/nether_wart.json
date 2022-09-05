@@ -24,6 +24,7 @@
         { "predicate": {"custom_model_data":18}, "model": "item/magenta_dye"},
         { "predicate": {"custom_model_data":19}, "model": "item/purple_dye"},
         { "predicate": {"custom_model_data":20}, "model": "item/yellow_dye"},
+        { "predicate": {"custom_model_data":20}, "model": "item/apple"},
 
     	{ "predicate": {"custom_model_data":21}, "model": "item/nether_wart"}
     ]
