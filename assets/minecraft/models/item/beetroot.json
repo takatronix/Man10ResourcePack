@@ -31,7 +31,16 @@
 	{ "predicate": {"custom_model_data":25}, "model": "man10/food/palm_fruit"},
 	{ "predicate": {"custom_model_data":26}, "model": "man10/food/peach_16"},
 	{ "predicate": {"custom_model_data":27}, "model": "man10/food/pear"},
+	{ "predicate": {"custom_model_data":28}, "model": "man10/food/asparagus"},
+	{ "predicate": {"custom_model_data":29}, "model": "man10/food/cabbage"},
+	{ "predicate": {"custom_model_data":30}, "model": "man10/food/canora_flower"},
+	{ "predicate": {"custom_model_data":31}, "model": "man10/food/cucumber"},
+	{ "predicate": {"custom_model_data":32}, "model": "man10/food/eggplant"},
+	{ "predicate": {"custom_model_data":33}, "model": "man10/food/horseradish"},
+	{ "predicate": {"custom_model_data":34}, "model": "man10/food/lettuce"},
+	{ "predicate": {"custom_model_data":35}, "model": "man10/food/lotus_root"},
+	{ "predicate": {"custom_model_data":36}, "model": "man10/food/spinach"},
 
-	{ "predicate": {"custom_model_data":28}, "model": "item/beetroot"}
+	{ "predicate": {"custom_model_data":37}, "model": "item/beetroot"}
     ]
 }
