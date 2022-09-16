@@ -14,9 +14,15 @@
       {"predicate": {"custom_model_data":7}, "model": "man10/weapon/ammo/mh_lv2_ammo"},
       {"predicate": {"custom_model_data":8}, "model": "man10/weapon/ammo/mr_lv2_ammo"},
       {"predicate": {"custom_model_data":9}, "model": "man10/weapon/ammo/ms_lv2_ammo"},
+      {"predicate": {"custom_model_data":10}, "model": "man10/weapon/ammo/mh_lv3_ammo"},
+      {"predicate": {"custom_model_data":11}, "model": "man10/weapon/ammo/mr_lv3_ammo"},
+      {"predicate": {"custom_model_data":12}, "model": "man10/weapon/ammo/ms_lv3_ammo"},
+      {"predicate": {"custom_model_data":13}, "model": "man10/weapon/ammo/mh_lv4_ammo"},
+      {"predicate": {"custom_model_data":14}, "model": "man10/weapon/ammo/mr_lv4_ammo"},
+      {"predicate": {"custom_model_data":15}, "model": "man10/weapon/ammo/ms_lv4_ammo"},
 
 
-		{"predicate": {"custom_model_data":10}, "model": "item/gunpowder"}
+		{"predicate": {"custom_model_data":16}, "model": "item/gunpowder"}
 
     ]
 }

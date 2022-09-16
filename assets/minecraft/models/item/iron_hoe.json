@@ -29,6 +29,12 @@
 		{"predicate": {"custom_model_data":22}, "model": "man10/weapon/gun/mr_lv3_aim"},
 		{"predicate": {"custom_model_data":23}, "model": "man10/weapon/gun/ms_lv3"},
 		{"predicate": {"custom_model_data":24}, "model": "man10/weapon/gun/ms_lv3_aim"},
+		{"predicate": {"custom_model_data":25}, "model": "man10/weapon/gun/mh_lv4"},
+		{"predicate": {"custom_model_data":26}, "model": "man10/weapon/gun/mh_lv4_aim"},
+		{"predicate": {"custom_model_data":27}, "model": "man10/weapon/gun/mr_lv4"},
+		{"predicate": {"custom_model_data":28}, "model": "man10/weapon/gun/mr_lv4_aim"},
+		{"predicate": {"custom_model_data":29}, "model": "man10/weapon/gun/ms_lv4"},
+		{"predicate": {"custom_model_data":30}, "model": "man10/weapon/gun/ms_lv4_aim"},
 
 		{"predicate": {"custom_model_data":43}, "model": "man10/weapon/gun/revolver"},
 		{"predicate": {"custom_model_data":44}, "model": "man10/weapon/gun/revolver_ads"},
