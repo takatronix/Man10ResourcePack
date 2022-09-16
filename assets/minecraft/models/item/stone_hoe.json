@@ -322,13 +322,14 @@
     { "predicate": {"custom_model_data": 311 }, "model": "man10/equipment/100m_yen"},
     { "predicate": {"custom_model_data": 312 }, "model": "man10/equipment/apple_barrel"},
     { "predicate": {"custom_model_data": 313 }, "model": "man10/equipment/barrel"},
+    { "predicate": {"custom_model_data": 314 }, "model": "man10/equipment/hydroponics"},
 
 
 
 
 
 
-        { "predicate": {"custom_model_data": 314 }, "model": "item/stone_hoe" },
+        { "predicate": {"custom_model_data": 315 }, "model": "item/stone_hoe" },
 
 
 
