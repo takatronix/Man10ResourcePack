@@ -17,7 +17,8 @@
         { "predicate": {"custom_model_data": 11 }, "model" : "man10/fossil/salmon_fossil"},
         { "predicate": {"custom_model_data": 12 }, "model" : "man10/fossil/spider_eye_fossil"},
         { "predicate": {"custom_model_data": 13 }, "model" : "man10/fossil/tropical_fish_fossil"},
+        { "predicate": {"custom_model_data": 14 }, "model" : "man10/fossil/ghast_tear_fossill"},
   
-        { "predicate": {"custom_model_data":14}, "model": "item/bowl"}
+        { "predicate": {"custom_model_data":15}, "model": "item/bowl"}
     ]
   }
