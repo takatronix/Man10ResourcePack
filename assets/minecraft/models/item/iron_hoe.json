@@ -83,8 +83,12 @@
 		{"predicate": {"custom_model_data":87},  "model": "man10/weapon/gun/sniper_rifle_ads"},
 		{"predicate": {"custom_model_data":88},  "model": "man10/weapon/gun/m16"},
 		{"predicate": {"custom_model_data":89},  "model": "man10/weapon/gun/m16_ads"},
+        {"predicate": {"custom_model_data":90},  "model": "man10/weapon/gun/sw_m29"},
+        {"predicate": {"custom_model_data":91},  "model": "man10/weapon/gun/sw_m29_ads"},
+        {"predicate": {"custom_model_data":92},  "model": "man10/weapon/gun/m37"},
+        {"predicate": {"custom_model_data":93},  "model": "man10/weapon/gun/m37_ads"},
 
     
-		{"predicate": {"custom_model_data":90}, "model": "item/iron_hoe"}
+		{"predicate": {"custom_model_data":94}, "model": "item/iron_hoe"}
     ]
 }
