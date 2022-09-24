@@ -11,7 +11,12 @@
       {"predicate": {"custom_model_data":4}, "model": "man10/shigen/sulfur_powder"},
       {"predicate": {"custom_model_data":5}, "model": "man10/shigen/rusty_iron_ingot"},
       {"predicate": {"custom_model_data":6}, "model": "man10/shigen/charcoal_powder"},
+      {"predicate": {"custom_model_data":7}, "model": "man10/shigen/few_platinum_powder"},
+      {"predicate": {"custom_model_data":8}, "model": "man10/shigen/platinum_ingot"},
+      {"predicate": {"custom_model_data":9}, "model": "man10/shigen/platinum_nugget"},
+      {"predicate": {"custom_model_data":10}, "model": "man10/shigen/platinum_ore"},
+      {"predicate": {"custom_model_data":11}, "model": "man10/shigen/platinum_powder"},
 
-      {"predicate": {"custom_model_data":7}, "model": "item/flint"}		
+      {"predicate": {"custom_model_data":12}, "model": "item/flint"}		
     ]
 }
