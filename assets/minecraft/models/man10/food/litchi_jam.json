@@ -3,13 +3,13 @@
 	"textures": {
 		"0": "block/glass",
 		"1": "block/gold_block",
-		"2": "man10/common/firebrick",
-		"3": "man10/food/strawberry_jam",
+		"2": "man10/common/indianred",
+		"3": "man10/food/litchi_jam",
 		"4": "block/pink_wool",
 		"5": "block/white_wool",
 		"6": "block/lime_wool",
 		"7": "block/oak_planks",
-		"particle": "man10/common/firebrick"
+		"particle": "man10/common/indianred"
 	},
 	"elements": [
 		{

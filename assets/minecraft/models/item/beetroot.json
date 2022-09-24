@@ -13,7 +13,7 @@
 	{ "predicate": {"custom_model_data":7}, "model": "man10/food/apple_jam"},
 	{ "predicate": {"custom_model_data":8}, "model": "man10/food/carrot_jam"},
 	{ "predicate": {"custom_model_data":9}, "model": "man10/food/golden_apple_jam"},
-	{ "predicate": {"custom_model_data":10}, "model": "man10/food/strawberry_jam"},
+	{ "predicate": {"custom_model_data":10}, "model": "man10/food/berry_jam"},
 	{ "predicate": {"custom_model_data":11}, "model": "man10/food/tomato"},
 	{ "predicate": {"custom_model_data":12}, "model": "man10/food/banana_jam"},
 	{ "predicate": {"custom_model_data":13}, "model": "man10/food/cherry_jam"},
@@ -40,7 +40,31 @@
 	{ "predicate": {"custom_model_data":34}, "model": "man10/food/lettuce"},
 	{ "predicate": {"custom_model_data":35}, "model": "man10/food/lotus_root"},
 	{ "predicate": {"custom_model_data":36}, "model": "man10/food/spinach"},
+	{ "predicate": {"custom_model_data":37}, "model": "man10/food/pomegranate"},
+	{ "predicate": {"custom_model_data":38}, "model": "man10/food/plum"},
+	{ "predicate": {"custom_model_data":39}, "model": "man10/food/persimmon"},
+	{ "predicate": {"custom_model_data":40}, "model": "man10/food/dragon_fruit"},
+	{ "predicate": {"custom_model_data":41}, "model": "man10/food/chestnut"},
+	{ "predicate": {"custom_model_data":42}, "model": "man10/food/dorian"},
+	{ "predicate": {"custom_model_data":43}, "model": "man10/food/fig"},
+	{ "predicate": {"custom_model_data":44}, "model": "man10/food/litchi"},
+	{ "predicate": {"custom_model_data":45}, "model": "man10/food/mango"},
+	{ "predicate": {"custom_model_data":46}, "model": "man10/food/strewberry"},
+	{ "predicate": {"custom_model_data":47}, "model": "man10/food/acerola"},
+	
+	{ "predicate": {"custom_model_data":48}, "model": "man10/food/acerola_jam"},
+	{ "predicate": {"custom_model_data":49}, "model": "man10/food/strawberry_jam"},
+	{ "predicate": {"custom_model_data":50}, "model": "man10/food/chestnut_jam"},
+	{ "predicate": {"custom_model_data":51}, "model": "man10/food/dorian_jam"},
+	{ "predicate": {"custom_model_data":52}, "model": "man10/food/dragon_fruit_jam"},
+	{ "predicate": {"custom_model_data":53}, "model": "man10/food/fig_jam"},
+	{ "predicate": {"custom_model_data":54}, "model": "man10/food/glow_berry_jam"},
+	{ "predicate": {"custom_model_data":55}, "model": "man10/food/litchi_jam"},
+	{ "predicate": {"custom_model_data":56}, "model": "man10/food/mango_jam"},
+	{ "predicate": {"custom_model_data":57}, "model": "man10/food/persimmon_jam"},
+	{ "predicate": {"custom_model_data":58}, "model": "man10/food/pomegranate_jam"},
+	{ "predicate": {"custom_model_data":59}, "model": "man10/food/pulm_jam"},
 
-	{ "predicate": {"custom_model_data":37}, "model": "item/beetroot"}
+	{ "predicate": {"custom_model_data":60}, "model": "item/beetroot"}
     ]
 }
