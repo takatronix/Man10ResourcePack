@@ -87,8 +87,9 @@
         {"predicate": {"custom_model_data":91},  "model": "man10/weapon/gun/sw_m29_ads"},
         {"predicate": {"custom_model_data":92},  "model": "man10/weapon/gun/m37"},
         {"predicate": {"custom_model_data":93},  "model": "man10/weapon/gun/m37_ads"},
-
+		{"predicate": {"custom_model_data":93},  "model": "man10/weapon/gun/pumpkin_gun"},
+		{"predicate": {"custom_model_data":94},  "model": "man10/weapon/gun/pumpkin_gun_ads"},
     
-		{"predicate": {"custom_model_data":94}, "model": "item/iron_hoe"}
+		{"predicate": {"custom_model_data":95}, "model": "item/iron_hoe"}
     ]
 }
