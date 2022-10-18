@@ -17,7 +17,14 @@
         { "predicate": {"custom_model_data": 10 }, "model": "man10/drink/beer" },
         { "predicate": {"custom_model_data": 11 }, "model": "man10/drink/manpirytus" },
         { "predicate": {"custom_model_data": 12 }, "model": "man10/food/bin_milk" },
+        { "predicate": {"custom_model_data": 13 }, "model": "man10/drink/miner7_black" },
+        { "predicate": {"custom_model_data": 14 }, "model": "man10/drink/miner7_blue" },
+        { "predicate": {"custom_model_data": 15 }, "model": "man10/drink/miner7_green" },
+        { "predicate": {"custom_model_data": 16 }, "model": "man10/drink/miner7_purple" },
+        { "predicate": {"custom_model_data": 17 }, "model": "man10/drink/miner7_rainbow" },
+        { "predicate": {"custom_model_data": 18 }, "model": "man10/drink/miner7_red" },
+        { "predicate": {"custom_model_data": 19 }, "model": "man10/drink/miner7_yellow" },
 
-        { "predicate": {"custom_model_data": 13 }, "model": "item/potion" }
+        { "predicate": {"custom_model_data": 20 }, "model": "item/potion" }
         ]
 }
