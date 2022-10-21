@@ -16,7 +16,9 @@
     	{ "predicate": {"custom_model_data":10}, "model": "man10/food/a_loaf_of_white_bread"},
     	{ "predicate": {"custom_model_data":11}, "model": "man10/food/baked_chocolate_cornet"},
     	{ "predicate": {"custom_model_data":12}, "model": "man10/food/toast_bread"},
+		{ "predicate": {"custom_model_data":13}, "model": "man10/food/sliced_bun"},
+    	{ "predicate": {"custom_model_data":14}, "model": "man10/food/bun"},
 
-    	{ "predicate": {"custom_model_data":13}, "model": "item/bread"}
+    	{ "predicate": {"custom_model_data":15}, "model": "item/bread"}
     ]
 }

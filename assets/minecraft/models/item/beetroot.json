@@ -67,6 +67,39 @@
 
 	{ "predicate": {"custom_model_data":60}, "model": "man10/food/ketchup"},
 
-	{ "predicate": {"custom_model_data":61}, "model": "item/beetroot"}
+	{ "predicate": {"custom_model_data":60}, "model": "man10/food/bitter_melon"},
+	{ "predicate": {"custom_model_data":61}, "model": "man10/food/broccoli"},
+	{ "predicate": {"custom_model_data":62}, "model": "man10/food/chive"},
+	{ "predicate": {"custom_model_data":63}, "model": "man10/food/corn"},
+	{ "predicate": {"custom_model_data":64}, "model": "man10/food/garlic"},
+	{ "predicate": {"custom_model_data":65}, "model": "man10/food/ginger"},
+	{ "predicate": {"custom_model_data":66}, "model": "man10/food/green_pepper"},
+	{ "predicate": {"custom_model_data":67}, "model": "man10/food/greenpeace"},
+	{ "predicate": {"custom_model_data":68}, "model": "man10/food/hot_pepper"},
+	{ "predicate": {"custom_model_data":69}, "model": "man10/food/matsutake"},
+	{ "predicate": {"custom_model_data":70}, "model": "man10/food/mountain_yam"},
+	{ "predicate": {"custom_model_data":71}, "model": "man10/food/myoga"},
+	{ "predicate": {"custom_model_data":72}, "model": "man10/food/onion"},
+	{ "predicate": {"custom_model_data":73}, "model": "man10/food/perilla"},
+	{ "predicate": {"custom_model_data":74}, "model": "man10/food/red_perilla"},
+	{ "predicate": {"custom_model_data":75}, "model": "man10/food/scallion"},
+	{ "predicate": {"custom_model_data":76}, "model": "man10/food/ume"},
+	{ "predicate": {"custom_model_data":77}, "model": "man10/food/winter_melon"},
+	{ "predicate": {"custom_model_data":78}, "model": "man10/food/zucchini"},
+	{ "predicate": {"custom_model_data":79}, "model": "man10/food/bittern"},
+	{ "predicate": {"custom_model_data":80}, "model": "man10/food/canora_oil"},
+	{ "predicate": {"custom_model_data":81}, "model": "man10/food/miso"},
+	{ "predicate": {"custom_model_data":82}, "model": "man10/food/soy_milk"},
+	{ "predicate": {"custom_model_data":83}, "model": "man10/food/soy_sauge"},
+	{ "predicate": {"custom_model_data":84}, "model": "man10/food/pickled_ume"},
+	{ "predicate": {"custom_model_data":85}, "model": "man10/food/crab"},
+	{ "predicate": {"custom_model_data":86}, "model": "man10/food/crab_meat"},
+	{ "predicate": {"custom_model_data":87}, "model": "man10/food/ayu"},
+	{ "predicate": {"custom_model_data":88}, "model": "man10/food/soybean_curd"},
+	{ "predicate": {"custom_model_data":89}, "model": "man10/food/sliced_soybean_curd"},
+	{ "predicate": {"custom_model_data":90}, "model": "man10/food/fried_soybean"},
+	{ "predicate": {"custom_model_data":91}, "model": "man10/food/pasted_horseradish"},
+
+	{ "predicate": {"custom_model_data":92}, "model": "item/beetroot"}
     ]
 }

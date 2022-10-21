@@ -10,7 +10,10 @@
       {"predicate": {"custom_model_data":3}, "model": "man10/food/bread_pattern"},
       {"predicate": {"custom_model_data":4}, "model": "man10/food/dough_filled_molds"},
       {"predicate": {"custom_model_data":5}, "model": "man10/food/suribachi"},
+      {"predicate": {"custom_model_data":6}, "model": "man10/food/grating"},
+      {"predicate": {"custom_model_data":7}, "model": "man10/food/kitchen_knife"},
+      {"predicate": {"custom_model_data":8}, "model": "man10/food/pickle_jar"},
 
-      {"predicate": {"custom_model_data":6}, "model": "item/paper"}
+      {"predicate": {"custom_model_data":9}, "model": "item/paper"}
     ]
 }

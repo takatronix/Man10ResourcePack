@@ -31,7 +31,17 @@
     	{ "predicate": {"custom_model_data":25}, "model": "man10/food/pepper"},
 		{ "predicate": {"custom_model_data":26}, "model": "man10/food/pie_dough"},
 		{ "predicate": {"custom_model_data":27}, "model": "man10/food/pumpkin_pie_dough"},
+		{ "predicate": {"custom_model_data":28}, "model": "man10/food/dough_bun"},
+		{ "predicate": {"custom_model_data":29}, "model": "man10/food/battered_french_fries"},
+		{ "predicate": {"custom_model_data":30}, "model": "man10/food/pasted_fish"},
+		{ "predicate": {"custom_model_data":31}, "model": "man10/food/pink_kamaboko"},
+		{ "predicate": {"custom_model_data":32}, "model": "man10/food/kamaboko"},
+		{ "predicate": {"custom_model_data":33}, "model": "man10/food/battered_pork_cutlet"},
+		{ "predicate": {"custom_model_data":34}, "model": "man10/food/battered_croquette"},
+		{ "predicate": {"custom_model_data":35}, "model": "man10/food/battered_cream_croquette"},
+		{ "predicate": {"custom_model_data":36}, "model": "man10/food/battered_crab_cream_croquette"},
+		{ "predicate": {"custom_model_data":37}, "model": "man10/food/battered_chicken"},
 
-    	{ "predicate": {"custom_model_data":28}, "model": "item/rotten_flesh"}
+    	{ "predicate": {"custom_model_data":38}, "model": "item/rotten_flesh"}
     ]
 }

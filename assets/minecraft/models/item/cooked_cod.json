@@ -1,0 +1,18 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/cooked_cod"
+    },
+    "overrides": [
+	{ "predicate": {"custom_model_data":1}, "model": "man10/food/black_hanpen"},
+	{ "predicate": {"custom_model_data":2}, "model": "man10/food/chikuwa"},
+	{ "predicate": {"custom_model_data":3}, "model": "man10/food/cooked_kamaboko"},
+	{ "predicate": {"custom_model_data":4}, "model": "man10/food/cooked_pink_kamaboko"},
+    { "predicate": {"custom_model_data":5}, "model": "man10/food/fish_sausage"},
+	{ "predicate": {"custom_model_data":6}, "model": "man10/food/hanpen"},
+	{ "predicate": {"custom_model_data":7}, "model": "man10/food/satsuma_age"},
+    { "predicate": {"custom_model_data":8}, "model": "man10/food/fish_hamburger"},
+
+	{ "predicate": {"custom_model_data":9}, "model": "item/cooked_chicken"}
+    ]
+}
