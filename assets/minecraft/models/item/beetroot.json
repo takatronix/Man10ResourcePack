@@ -99,7 +99,8 @@
 	{ "predicate": {"custom_model_data":89}, "model": "man10/food/sliced_soybean_curd"},
 	{ "predicate": {"custom_model_data":90}, "model": "man10/food/fried_soybean"},
 	{ "predicate": {"custom_model_data":91}, "model": "man10/food/pasted_horseradish"},
+	{ "predicate": {"custom_model_data":92}, "model": "man10/food/ketchup"},
 
-	{ "predicate": {"custom_model_data":92}, "model": "item/beetroot"}
+	{ "predicate": {"custom_model_data":93}, "model": "item/beetroot"}
     ]
 }
