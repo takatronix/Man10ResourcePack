@@ -9,8 +9,9 @@
 	{ "predicate": {"custom_model_data":3}, "model": "man10/food/chicken_sandwich"},
 	{ "predicate": {"custom_model_data":4}, "model": "man10/food/hot_dog"},
 	{ "predicate": {"custom_model_data":5}, "model": "man10/food/fried_chicken"},
-    { "predicate": {"custom_model_data":5}, "model": "man10/food/roast_chicken"},
+    { "predicate": {"custom_model_data":6}, "model": "man10/food/hamburger"},
+    { "predicate": {"custom_model_data":7}, "model": "man10/food/roast_chicken"},
 
-	{ "predicate": {"custom_model_data":6}, "model": "item/cooked_chicken"}
+	{ "predicate": {"custom_model_data":8}, "model": "item/cooked_chicken"}
     ]
 }
