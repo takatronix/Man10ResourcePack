@@ -10,7 +10,8 @@
       { "predicate": {"custom_model_data": 4 }, "model" : "man10/currency/m10000"},
       { "predicate": {"custom_model_data": 5 }, "model" : "man10/currency/m100k"},
       { "predicate": {"custom_model_data": 6 }, "model" : "man10/currency/m1m"},
+      { "predicate": {"custom_model_data": 7 }, "model" : "item/gold_nugget"},
 
-      { "predicate": {"custom_model_data":7}, "model": "item/stick"}
+      { "predicate": {"custom_model_data":8}, "model": "item/stick"}
   ]
 }
