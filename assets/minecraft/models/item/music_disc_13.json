@@ -1,0 +1,16 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/music_disc_13"
+    },
+    "overrides": [
+    	{ "predicate": {"custom_model_data":1001}, "model": "man10/weapon/gun/mk47"},
+    	{ "predicate": {"custom_model_data":1002}, "model": "man10/weapon/gun/mk47_ads"},
+    	{ "predicate": {"custom_model_data":1003}, "model": "man10/weapon/gun/mk47_optical"},
+        { "predicate": {"custom_model_data":1004}, "model": "man10/weapon/gun/mk47_optical_ads"},
+        { "predicate": {"custom_model_data":1005}, "model": "man10/weapon/gun/mk47_4x"},
+        { "predicate": {"custom_model_data":1006}, "model": "man10/weapon/gun/mk47_4x_ads"},
+
+        { "predicate": {"custom_model_data":1007}, "model": "item/music_disc_13"}
+    ]
+}
