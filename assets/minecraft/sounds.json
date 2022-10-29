@@ -149,6 +149,18 @@
       "gun/pon_open"
     ]
   },
+  "gun.suppressor": {
+    "category": "master",
+    "sounds": [
+      "gun/suppressor"
+    ]
+  },
+  "gun.mk47": {
+    "category": "master",
+    "sounds": [
+      "gun/mk47"
+    ]
+  },
   "event.summer_bgm": {
     "category": "ambient",
     "sounds": [
