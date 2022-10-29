@@ -18,6 +18,7 @@
         { "predicate": {"custom_model_data": 1012 }, "model": "man10/attachment/rapidfire" },
         { "predicate": {"custom_model_data": 1013 }, "model": "man10/attachment/smallcaliber" },
         { "predicate": {"custom_model_data": 1014 }, "model": "man10/attachment/suppressor" },
-        { "predicate": {"custom_model_data": 1015 }, "model": "man10/attachment/iron_axe" }
+
+        { "predicate": {"custom_model_data": 1015 }, "model": "item/iron_axe" }
         ]
 }
