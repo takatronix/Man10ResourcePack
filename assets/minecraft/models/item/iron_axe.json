@@ -1,0 +1,23 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/iron_axe"
+    },
+         "overrides": [
+        { "predicate": {"custom_model_data": 1001 }, "model": "man10/attachment/4x_scope" },
+        { "predicate": {"custom_model_data": 1002 }, "model": "man10/attachment/ergogrip" },
+        { "predicate": {"custom_model_data": 1003 }, "model": "man10/attachment/extendmagazine" },
+        { "predicate": {"custom_model_data": 1004 }, "model": "man10/attachment/fastmagazine" },
+        { "predicate": {"custom_model_data": 1005 }, "model": "man10/attachment/heavybarrel" },
+        { "predicate": {"custom_model_data": 1006 }, "model": "man10/attachment/hollowpoint" },
+        { "predicate": {"custom_model_data": 1007 }, "model": "man10/attachment/largecaliber" },
+        { "predicate": {"custom_model_data": 1008 }, "model": "man10/attachment/lightweightstock" },
+        { "predicate": {"custom_model_data": 1009 }, "model": "man10/attachment/muzzlebrake" },
+        { "predicate": {"custom_model_data": 1010 }, "model": "man10/attachment/opticalsight" },
+        { "predicate": {"custom_model_data": 1011 }, "model": "man10/attachment/recoilgrip" },
+        { "predicate": {"custom_model_data": 1012 }, "model": "man10/attachment/rapidfire" },
+        { "predicate": {"custom_model_data": 1013 }, "model": "man10/attachment/smallcaliber" },
+        { "predicate": {"custom_model_data": 1014 }, "model": "man10/attachment/suppressor" },
+        { "predicate": {"custom_model_data": 1015 }, "model": "man10/attachment/iron_axe" }
+        ]
+}
