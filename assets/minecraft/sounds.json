@@ -161,6 +161,12 @@
       "gun/mk47"
     ]
   },
+  "gun.mlock": {
+    "category": "master",
+    "sounds": [
+      "gun/mlock"
+    ]
+  },
   "event.summer_bgm": {
     "category": "ambient",
     "sounds": [

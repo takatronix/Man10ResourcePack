@@ -1,0 +1,14 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/music_disc_13"
+    },
+    "overrides": [
+    	{ "predicate": {"custom_model_data":1001}, "model": "man10/weapon/gun/mlock18"},
+    	{ "predicate": {"custom_model_data":1002}, "model": "man10/weapon/gun/mlock18_ads"},
+    	{ "predicate": {"custom_model_data":1003}, "model": "man10/weapon/gun/mlock18_optical"},
+        { "predicate": {"custom_model_data":1004}, "model": "man10/weapon/gun/mlock18_optical_ads"},
+
+        { "predicate": {"custom_model_data":1007}, "model": "item/music_disc_13"}
+    ]
+}
