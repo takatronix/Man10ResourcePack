@@ -73,42 +73,8 @@
         {"predicate": {"custom_model_data":61}, "model": "man10/slot/summer_event/summer_shell_silver"},
         {"predicate": {"custom_model_data":62}, "model": "man10/slot/summer_event/summer_shell_pink"},
 
-    	{"predicate": {"custom_model_data":63}, "model": "man10/slot/summer_event/sn_1"},
-    	{"predicate": {"custom_model_data":64}, "model": "man10/slot/summer_event/sn_2"},
-    	{"predicate": {"custom_model_data":65}, "model": "man10/slot/summer_event/sn_3"},
-    	{"predicate": {"custom_model_data":66}, "model": "man10/slot/summer_event/sn_4"},
-    	{"predicate": {"custom_model_data":67}, "model": "man10/slot/summer_event/sn_5"},
-    	{"predicate": {"custom_model_data":68}, "model": "man10/slot/summer_event/sn_6"},
-    	{"predicate": {"custom_model_data":69}, "model": "man10/slot/summer_event/sn_7"},
-    	{"predicate": {"custom_model_data":70}, "model": "man10/slot/summer_event/sn_8"},
-    	{"predicate": {"custom_model_data":71}, "model": "man10/slot/summer_event/sn_9"},
-    	{"predicate": {"custom_model_data":72}, "model": "man10/slot/summer_event/sn_jpchance"},
-    	{"predicate": {"custom_model_data":73}, "model": "man10/slot/summer_event/sn_jackpot"},
+    	{"predicate": {"custom_model_data":63}, "model": "man10/slot/summer_event/tenkuu_go916_fail"},
 
-        {"predicate": {"custom_model_data":74}, "model": "man10/slot/summer_event/tenkuu_go916_fail"},
-        {"predicate": {"custom_model_data":75}, "model": "man10/slot/summer_event/tenkuu_go916_0"},
-        {"predicate": {"custom_model_data":76}, "model": "man10/slot/summer_event/tenkuu_go916_1"},
-        {"predicate": {"custom_model_data":77}, "model": "man10/slot/summer_event/tenkuu_go916_2"},
-        {"predicate": {"custom_model_data":78}, "model": "man10/slot/summer_event/tenkuu_go916_3"},
-        {"predicate": {"custom_model_data":79}, "model": "man10/slot/summer_event/tenkuu_go916_4"},
-        {"predicate": {"custom_model_data":80}, "model": "man10/slot/summer_event/tenkuu_go916_5"},
-        {"predicate": {"custom_model_data":81}, "model": "man10/slot/summer_event/tenkuu_go916_6"},
-        {"predicate": {"custom_model_data":82}, "model": "man10/slot/summer_event/tenkuu_go916_8"},
-        {"predicate": {"custom_model_data":83}, "model": "man10/slot/summer_event/tenkuu_go916_special6"},
-        {"predicate": {"custom_model_data":84}, "model": "man10/slot/summer_event/tenkuu_go916_special0"},
-        {"predicate": {"custom_model_data":85}, "model": "man10/slot/summer_event/tenkuu_go916_go_normal"},
-        {"predicate": {"custom_model_data":86}, "model": "man10/slot/summer_event/tenkuu_go916_go_rush"},
-        {"predicate": {"custom_model_data":87}, "model": "man10/slot/summer_event/tenkuu_go916_go_srush"},
-        {"predicate": {"custom_model_data":88}, "model": "man10/slot/summer_event/tenkuu_go916_go_jp"},
-        {"predicate": {"custom_model_data":89}, "model": "man10/slot/summer_event/tenkuu_go916_go_sjp"},
-        {"predicate": {"custom_model_data":90}, "model": "man10/slot/summer_event/tenkuu_go916_jp_1"},
-        {"predicate": {"custom_model_data":91}, "model": "man10/slot/summer_event/tenkuu_go916_jp_2"},
-        {"predicate": {"custom_model_data":92}, "model": "man10/slot/summer_event/tenkuu_go916_jp_3"},
-        {"predicate": {"custom_model_data":93}, "model": "man10/slot/summer_event/tenkuu_go916_jp_4"},
-        {"predicate": {"custom_model_data":94}, "model": "man10/slot/summer_event/tenkuu_go916_rush"},
-        {"predicate": {"custom_model_data":95}, "model": "man10/slot/summer_event/tenkuu_go916_srush"},
-
-
-	{"predicate": {"custom_model_data":96}, "model": "item/iron_nugget"}
+	{"predicate": {"custom_model_data":64}, "model": "item/iron_nugget"}
     ]
 }
