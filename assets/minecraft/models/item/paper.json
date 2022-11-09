@@ -13,7 +13,10 @@
       {"predicate": {"custom_model_data":6}, "model": "man10/food/grating"},
       {"predicate": {"custom_model_data":7}, "model": "man10/food/kitchen_knife"},
       {"predicate": {"custom_model_data":8}, "model": "man10/food/pickle_jar"},
+      {"predicate": {"custom_model_data":9}, "model": "man10/currency/cobblestone_ticket"},
+      {"predicate": {"custom_model_data":10}, "model": "man10/currency/netherrack_ticket"},
+      {"predicate": {"custom_model_data":11}, "model": "man10/currency/deepslate_ticket"},
 
-      {"predicate": {"custom_model_data":9}, "model": "item/paper"}
+      {"predicate": {"custom_model_data":12}, "model": "item/paper"}
     ]
 }
