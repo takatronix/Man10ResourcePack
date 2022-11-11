@@ -325,12 +325,13 @@
     { "predicate": {"custom_model_data": 314 }, "model": "man10/equipment/hydroponics"},
     { "predicate": {"custom_model_data": 315 }, "model": "man10/equipment/hot_sandwich_maker"},
     { "predicate": {"custom_model_data": 316 }, "model": "man10/equipment/retro_radio"},
+    { "predicate": {"custom_model_data": 317 }, "model": "man10/equipment/snow_shower"},
 
 
 
 
 
-        { "predicate": {"custom_model_data": 317 }, "model": "item/stone_hoe" },
+        { "predicate": {"custom_model_data": 318 }, "model": "item/stone_hoe" },
 
 
 
