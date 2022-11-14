@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "snow_shower/snow_shower",
-		"particle": "snow_shower/snow_shower"
+		"0": "man10/equipment/snow_shower/snow_shower",
+		"particle": "man10/equipment/snow_shower/snow_shower"
 	},
 	"elements": [
 		{
