@@ -89,7 +89,11 @@
 		{ "predicate": {"custom_model_data":82}, "model": "man10/food/candy_orange"},
 		{ "predicate": {"custom_model_data":83}, "model": "man10/food/candy_purple"},
 		{ "predicate": {"custom_model_data":84}, "model": "man10/food/pumpkin_pudding"},
+		{"predicate": {"custom_model_data":85}, "model": "minecraft:man10/food/white_choko"},
+		{"predicate": {"custom_model_data":86}, "model": "minecraft:man10/food/snow_ball"},
+		{"predicate": {"custom_model_data":87}, "model": "minecraft:man10/food/cheese_cake"},
+		{"predicate": {"custom_model_data":88}, "model": "minecraft:man10/food/christmas_donut"},
 
-    	{ "predicate": {"custom_model_data":85}, "model": "item/baked_potato"}
+    	{ "predicate": {"custom_model_data":89}, "model": "item/baked_potato"}
     ]
 }
