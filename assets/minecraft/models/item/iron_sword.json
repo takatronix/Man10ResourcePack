@@ -47,7 +47,10 @@
 	    { "predicate": {"custom_model_data": 39 }, "model": "man10/weapon/sword/brush"},
 	    { "predicate": {"custom_model_data": 40 }, "model": "man10/weapon/sword/big_axe"},
         { "predicate": {"custom_model_data": 41 }, "model": "man10/weapon/sword/wave_sword"},
+        { "predicate": {"custom_model_data": 42 }, "model": "man10/weapon/sword/ice_axe"},
+        { "predicate": {"custom_model_data": 43 }, "model": "man10/weapon/sword/frost_blade_1"},
+        { "predicate": {"custom_model_data": 44 }, "model": "man10/weapon/sword/frost_blade_2"},
 
-        { "predicate": {"custom_model_data": 42 }, "model": "item/iron_sword" }
+        { "predicate": {"custom_model_data": 45 }, "model": "item/iron_sword" }
         ]
 }
