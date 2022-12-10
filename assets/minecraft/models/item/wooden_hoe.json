@@ -97,7 +97,11 @@
         {"predicate": {"custom_model_data":88}, "model": "man10/hat/trunk"},
         {"predicate": {"custom_model_data":89}, "model": "man10/hat/trunk_sticker"},
         {"predicate": {"custom_model_data":90}, "model": "man10/hat/pumpkin_doll"},
+        {"predicate": {"custom_model_data":91}, "model": "man10/hat/ski_set_headset"},
+        {"predicate": {"custom_model_data":92}, "model": "man10/hat/ski_set_lefthand"},
+        {"predicate": {"custom_model_data":93}, "model": "man10/hat/ski_set_righthand"},
+        {"predicate": {"custom_model_data":94}, "model": "man10/hat/bear_hat"},
 
-        {"predicate": {"custom_model_data":91}, "model": "item/wooden_hoe"}
+        {"predicate": {"custom_model_data":95}, "model": "item/wooden_hoe"}
     ]
 }
