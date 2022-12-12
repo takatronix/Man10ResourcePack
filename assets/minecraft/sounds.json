@@ -167,6 +167,24 @@
       "gun/mlock"
     ]
   },
+  "gun.axmc": {
+    "category": "master",
+    "sounds": [
+      "gun/axmc"
+    ]
+  },
+  "gun.g28": {
+    "category": "master",
+    "sounds": [
+      "gun/g28"
+    ]
+  },
+  "gun.saiga12": {
+    "category": "master",
+    "sounds": [
+      "gun/saiga12"
+    ]
+  },
   "event.summer_bgm": {
     "category": "ambient",
     "sounds": [
