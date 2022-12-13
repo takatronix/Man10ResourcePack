@@ -185,6 +185,12 @@
       "gun/saiga12"
     ]
   },
+  "gun.m1911": {
+    "category": "master",
+    "sounds": [
+      "gun/m1911"
+    ]
+  },
   "event.summer_bgm": {
     "category": "ambient",
     "sounds": [
