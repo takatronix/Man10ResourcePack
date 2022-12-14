@@ -191,6 +191,12 @@
       "gun/m1911"
     ]
   },
+  "gun.sv98": {
+    "category": "master",
+    "sounds": [
+      "gun/sv98"
+    ]
+  },
   "event.summer_bgm": {
     "category": "ambient",
     "sounds": [
