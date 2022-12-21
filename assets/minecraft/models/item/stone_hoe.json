@@ -333,12 +333,13 @@
     { "predicate": {"custom_model_data": 322 }, "model": "man10/equipment/mining_trophy_iron"},
     { "predicate": {"custom_model_data": 323 }, "model": "man10/equipment/mining_trophy_gold"},
     { "predicate": {"custom_model_data": 324 }, "model": "man10/equipment/mining_trophy_crystal"},
+    { "predicate": {"custom_model_data": 325 }, "model": "man10/equipment/demon_trophy"},
 
 
 
 
 
-        { "predicate": {"custom_model_data": 325 }, "model": "item/stone_hoe" },
+        { "predicate": {"custom_model_data": 326 }, "model": "item/stone_hoe" },
 
 
 
