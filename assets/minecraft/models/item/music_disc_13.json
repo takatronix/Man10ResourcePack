@@ -44,6 +44,8 @@
         { "predicate": {"custom_model_data":38}, "model": "man10/weapon/heist/vector_ads"},
         { "predicate": {"custom_model_data":39}, "model": "man10/weapon/heist/vector_custom"},
         { "predicate": {"custom_model_data":40}, "model": "man10/weapon/heist/vector_custom_ads"},
+        { "predicate": {"custom_model_data":41}, "model": "man10/heist/armor_plate_light"},
+        { "predicate": {"custom_model_data":42}, "model": "man10/heist/armor_plate_heavy"},
 
     	{ "predicate": {"custom_model_data":1001}, "model": "man10/weapon/gun/mk47"},
     	{ "predicate": {"custom_model_data":1002}, "model": "man10/weapon/gun/mk47_ads"},
