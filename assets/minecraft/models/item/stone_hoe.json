@@ -336,11 +336,11 @@
     { "predicate": {"custom_model_data": 325 }, "model": "man10/equipment/demon_trophy"},
     { "predicate": {"custom_model_data": 326 }, "model": "man10/equipment/mfx_trophy"},  
     { "predicate": {"custom_model_data": 327 }, "model": "man10/equipment/sandbag"},
+    { "predicate": {"custom_model_data": 328 }, "model": "man10/equipment/camouflage_net"},
 
 
 
-
-        { "predicate": {"custom_model_data": 328 }, "model": "item/stone_hoe" },
+        { "predicate": {"custom_model_data": 329 }, "model": "item/stone_hoe" },
 
 
 
