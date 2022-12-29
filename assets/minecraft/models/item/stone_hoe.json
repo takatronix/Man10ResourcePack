@@ -337,10 +337,15 @@
     { "predicate": {"custom_model_data": 326 }, "model": "man10/equipment/mfx_trophy"},  
     { "predicate": {"custom_model_data": 327 }, "model": "man10/equipment/sandbag"},
     { "predicate": {"custom_model_data": 328 }, "model": "man10/equipment/camouflage_net"},
+    { "predicate": {"custom_model_data": 329 }, "model": "man10/equipment/minisimenawa"},
+    { "predicate": {"custom_model_data": 330 }, "model": "man10/equipment/kagamimochi_dodai"},
+    { "predicate": {"custom_model_data": 331 }, "model": "man10/equipment/kagamimochi_kazari"},
+    { "predicate": {"custom_model_data": 332 }, "model": "man10/equipment/kagamimochi"},
+    { "predicate": {"custom_model_data": 333 }, "model": "man10/equipment/mini_kagamimochi"},
 
 
 
-        { "predicate": {"custom_model_data": 329 }, "model": "item/stone_hoe" },
+        { "predicate": {"custom_model_data": 334 }, "model": "item/stone_hoe" },
 
 
 
