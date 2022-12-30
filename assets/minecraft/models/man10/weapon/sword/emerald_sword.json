@@ -1,6 +1,1 @@
-{
-	"parent": "item/handheld",
-	"textures": {
-		"layer0": "man10/weapon/sword/emerald_sword"
-	}
-}
+{"credit":"Made with Blockbench","parent":"item/handheld","textures":{"layer0":"man10/weapon/sword/emerald_sword"}}
