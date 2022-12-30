@@ -1,6 +1,1 @@
-{
-	"parent": "item/handheld",
-	"textures": {
-		"layer0": "man10/weapon/sword/homerun_bat"
-	}
-}
+{"credit":"Made with Blockbench","parent":"item/handheld","textures":{"layer0":"man10/weapon/sword/homerun_bat"}}

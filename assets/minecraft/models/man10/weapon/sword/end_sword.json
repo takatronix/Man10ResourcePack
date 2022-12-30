@@ -1,6 +1,1 @@
-{
-	"parent": "item/handheld",
-	"textures": {
-		"layer0": "man10/weapon/sword/end_sword"
-	}
-}
+{"credit":"Made with Blockbench","parent":"item/handheld","textures":{"layer0":"man10/weapon/sword/end_sword"}}
