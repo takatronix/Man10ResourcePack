@@ -54,14 +54,14 @@
       {"predicate": {"custom_model_data":47}, "model": "man10/fish/ishidai"},
       {"predicate": {"custom_model_data":48}, "model": "man10/fish/kandhiru"},
       {"predicate": {"custom_model_data":49}, "model": "man10/fish/karei"},
-      {"predicate": {"custom_model_data":51}, "model": "man10/fish/katsuo"},
-      {"predicate": {"custom_model_data":52}, "model": "man10/fish/kingyo"},
-      {"predicate": {"custom_model_data":53}, "model": "man10/fish/maguro"},
-      {"predicate": {"custom_model_data":54}, "model": "man10/fish/manbou"},
-      {"predicate": {"custom_model_data":55}, "model": "man10/fish/medaka"},
-      {"predicate": {"custom_model_data":56}, "model": "man10/fish/shiira"},
-      {"predicate": {"custom_model_data":57}, "model": "man10/fish/tatsunootoshigo"},
+      {"predicate": {"custom_model_data":50}, "model": "man10/fish/katsuo"},
+      {"predicate": {"custom_model_data":51}, "model": "man10/fish/kingyo"},
+      {"predicate": {"custom_model_data":52}, "model": "man10/fish/maguro"},
+      {"predicate": {"custom_model_data":53}, "model": "man10/fish/manbou"},
+      {"predicate": {"custom_model_data":54}, "model": "man10/fish/medaka"},
+      {"predicate": {"custom_model_data":55}, "model": "man10/fish/shiira"},
+      {"predicate": {"custom_model_data":56}, "model": "man10/fish/tatsunootoshigo"},
 
-      {"predicate": {"custom_model_data":58}, "model": "item/cod"}		
+      {"predicate": {"custom_model_data":57}, "model": "item/cod"}		
     ]
 }
