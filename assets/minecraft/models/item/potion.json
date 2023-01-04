@@ -27,8 +27,10 @@
         { "predicate": {"custom_model_data": 20 }, "model": "man10/drink/wine_bottle_red" },
         { "predicate": {"custom_model_data": 21 }, "model": "man10/drink/wine_bottle_white" },
         { "predicate": {"custom_model_data": 22 }, "model": "man10/food/rum" },
+        { "predicate": {"custom_model_data": 23 }, "model": "man10/potion/slash" },
+        { "predicate": {"custom_model_data": 24 }, "model": "man10/potion/slash_2" },
+        { "predicate": {"custom_model_data": 25 }, "model": "man10/potion/slash_3" },
 
-
-        { "predicate": {"custom_model_data": 23 }, "model": "item/potion" }
+        { "predicate": {"custom_model_data": 26 }, "model": "item/potion" }
         ]
 }
