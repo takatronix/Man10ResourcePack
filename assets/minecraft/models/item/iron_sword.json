@@ -50,8 +50,7 @@
         { "predicate": {"custom_model_data": 42 }, "model": "man10/weapon/sword/ice_axe"},
         { "predicate": {"custom_model_data": 43 }, "model": "man10/weapon/sword/frost_blade_1"},
         { "predicate": {"custom_model_data": 44 }, "model": "man10/weapon/sword/frost_blade_2"},
-        { "predicate": {"custom_model_data": 44 }, "model": "man10/weapon/sword/frost_blade_2"},
-        { "predicate": {"custom_model_data": 45 }, "model": "man10/weapon/sword/darkknight"},
-        { "predicate": {"custom_model_data": 46 }, "model": "item/iron_sword" }
+
+        { "predicate": {"custom_model_data": 45 }, "model": "item/iron_sword" }
         ]
 }
