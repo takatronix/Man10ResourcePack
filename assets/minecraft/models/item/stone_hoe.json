@@ -343,10 +343,10 @@
     { "predicate": {"custom_model_data": 332 }, "model": "man10/equipment/kagamimochi"},
     { "predicate": {"custom_model_data": 333 }, "model": "man10/equipment/kadomatsu_nomal_size"},
     { "predicate": {"custom_model_data": 334 }, "model": "man10/equipment/kadomatsu_big_size"},
+    { "predicate": {"custom_model_data": 335 }, "model": "man10/equipment/ukulele"},
 
 
-
-        { "predicate": {"custom_model_data": 335 }, "model": "item/stone_hoe" },
+        { "predicate": {"custom_model_data": 336 }, "model": "item/stone_hoe" },
 
 
 
