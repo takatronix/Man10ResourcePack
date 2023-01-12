@@ -52,8 +52,6 @@
         { "predicate": {"custom_model_data": 44 }, "model": "man10/weapon/sword/frost_blade_2"},
         { "predicate": {"custom_model_data": 44 }, "model": "man10/weapon/sword/frost_blade_2"},
         { "predicate": {"custom_model_data": 45 }, "model": "man10/weapon/sword/darkknight"},
-        { "predicate": {"custom_model_data": 46 }, "model": "man10/weapon/sword/hagoita"},
-        { "predicate": {"custom_model_data": 47 }, "model": "man10/weapon/sword/hane"},
-        { "predicate": {"custom_model_data": 48 }, "model": "item/iron_sword" }
+        { "predicate": {"custom_model_data": 46 }, "model": "item/iron_sword" }
         ]
 }
