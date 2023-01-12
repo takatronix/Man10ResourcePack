@@ -19,7 +19,8 @@
       {"predicate": {"custom_model_data":12}, "model": "man10/food/maron_mlpha"},
       {"predicate": {"custom_model_data":13}, "model": "man10/food/bond"},
       {"predicate": {"custom_model_data":14}, "model": "man10/currency/nengajo/nengajo_rabbit"},
+      {"predicate": {"custom_model_data":15}, "model": "man10/currency/omikuji"},
 
-      {"predicate": {"custom_model_data":15}, "model": "item/paper"}
+      {"predicate": {"custom_model_data":16}, "model": "item/paper"}
     ]
 }
