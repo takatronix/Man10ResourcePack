@@ -18,7 +18,18 @@
         { "predicate": {"custom_model_data": 12 }, "model" : "man10/fossil/spider_eye_fossil"},
         { "predicate": {"custom_model_data": 13 }, "model" : "man10/fossil/tropical_fish_fossil"},
         { "predicate": {"custom_model_data": 14 }, "model" : "man10/fossil/ghast_tear_fossil"},
-  
-        { "predicate": {"custom_model_data":15}, "model": "item/bowl"}
+        { "predicate": {"custom_model_data": 15 }, "model" : "man10/currency/compression_cobblestone3"},
+        { "predicate": {"custom_model_data": 16 }, "model" : "man10/currency/compression_cobblestone4"},
+        { "predicate": {"custom_model_data": 17 }, "model" : "man10/currency/compression_cobblestone5"},
+        { "predicate": {"custom_model_data": 18 }, "model" : "man10/currency/compression_cobblestone6"},
+        { "predicate": {"custom_model_data": 19 }, "model" : "man10/currency/compression_deepslate3"},
+        { "predicate": {"custom_model_data": 20 }, "model" : "man10/currency/compression_deepslate4"},
+        { "predicate": {"custom_model_data": 21 }, "model" : "man10/currency/compression_deepslate5"},
+        { "predicate": {"custom_model_data": 22 }, "model" : "man10/currency/compression_deepslate6"},
+        { "predicate": {"custom_model_data": 23 }, "model" : "man10/currency/compression_netherrack3"},
+        { "predicate": {"custom_model_data": 24 }, "model" : "man10/currency/compression_netherrack4"},
+        { "predicate": {"custom_model_data": 25 }, "model" : "man10/currency/compression_netherrack5"},
+        { "predicate": {"custom_model_data": 26 }, "model" : "man10/currency/compression_netherrack6"},
+        { "predicate": {"custom_model_data":27}, "model": "item/bowl"}
     ]
   }
