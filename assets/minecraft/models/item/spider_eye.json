@@ -11,6 +11,7 @@
       {"predicate": {"custom_model_data":4}, "model": "man10/drug/injector_regeneration"},
       {"predicate": {"custom_model_data":5}, "model": "man10/drug/injector_speed"},
       {"predicate": {"custom_model_data":6}, "model": "man10/drug/injector_watar_breathing"},
+      {"predicate": {"custom_model_data":7}, "model": "man10/farm/shag"},
       
       {"predicate": {"custom_model_data":22}, "model": "item/spider_eye"}
 

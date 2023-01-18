@@ -6,7 +6,8 @@
     "overrides": [
 		
       {"predicate": {"custom_model_data":1}, "model": "man10/shigen/copper_battery"},
+      {"predicate": {"custom_model_data":2}, "model": "man10/farm/biomass_fuel"},
 
-      {"predicate": {"custom_model_data":2}, "model": "item/charcoal"}		
+      {"predicate": {"custom_model_data":3}, "model": "item/charcoal"}		
     ]
 }
