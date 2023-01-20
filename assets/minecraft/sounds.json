@@ -208,6 +208,12 @@
     "sounds": [
       "man10/ooatari1"
     ]
+  },
+  "slot.ooatari2": {
+    "category": "master",
+    "sounds": [
+      "man10/ooatari2"
+    ]
   }
     
 }
