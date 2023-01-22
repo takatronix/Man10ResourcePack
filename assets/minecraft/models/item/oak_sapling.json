@@ -11,7 +11,10 @@
      { "predicate": {"custom_model_data":5}, "model": "man10/virtualblock/dummy_oak_planks"},
      { "predicate": {"custom_model_data":6}, "model": "man10/virtualblock/wooded_box_dummy"},
      { "predicate": {"custom_model_data":7}, "model": "man10/virtualblock/dummy_snow_block"},
+     { "predicate": {"custom_model_data":8}, "model": "man10/virtualblock/wool_colored_red_small"},
+     { "predicate": {"custom_model_data":9}, "model": "man10/virtualblock/wool_colored_black_small"},
+     { "predicate": {"custom_model_data":10}, "model": "man10/virtualblock/emerald_block_small"},
 
-     {"predicate": {"custom_model_data":8}, "model": "item/oak_sapling"}
+     {"predicate": {"custom_model_data":11}, "model": "item/oak_sapling"}
     ]
 }
