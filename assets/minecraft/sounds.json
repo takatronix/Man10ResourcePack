@@ -202,5 +202,24 @@
     "sounds": [
       "event/summer_bgm"
     ]
+  },
+  "slot.ooatari1": {
+    "category": "master",
+    "sounds": [
+      "man10/ooatari1"
+    ]
+  },
+  "slot.ooatari2": {
+    "category": "master",
+    "sounds": [
+      "man10/ooatari2"
+    ]
+  },
+  "man10.famiman": {
+    "category": "master",
+    "sounds": [
+      "man10/famiman"
+    ]
   }
+    
 }

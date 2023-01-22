@@ -29,7 +29,9 @@
 		{"predicate": {"custom_model_data":22}, "model": "man10/weapon/magic/pumpkin_wand"},
 		{"predicate": {"custom_model_data":23}, "model": "man10/weapon/magic/ice_wand"},
 		{"predicate": {"custom_model_data":24}, "model": "man10/weapon/other/ice_block"},
+		{"predicate": {"custom_model_data":25}, "model": "man10/weapon/sword/dragon_blossom1"},
+		{"predicate": {"custom_model_data":26}, "model": "man10/weapon/sword/dragon_blossom2"},
 
-    {"predicate": {"custom_model_data":25}, "model": "item/iron_shovel"}		
+    {"predicate": {"custom_model_data":27}, "model": "item/iron_shovel"}		
   ]
 }
