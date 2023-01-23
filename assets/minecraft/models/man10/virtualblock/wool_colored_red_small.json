@@ -19,5 +19,15 @@
 			}
 		}
 	],
-	"display": {}
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"translation": [0, 8, 0],
+			"scale": [2, 2, 2]
+		},
+		"head": {
+			"translation": [0, 12, 0],
+			"scale": [1.39, 1.39, 1.39]
+		}
+	}
 }
