@@ -12,7 +12,6 @@
         {"predicate": {"custom_model_data":5}, "model": "man10/currency/coppercoin_mini"},
         {"predicate": {"custom_model_data":6}, "model": "man10/currency/rainbowcoin"},
 
-
         {"predicate": {"custom_model_data":7}, "model": "man10/currency/anniversary_coin/mfc_anniversary_coin"},
         {"predicate": {"custom_model_data":8}, "model": "man10/currency/anniversary_coin/mfc_anniversary_coin_special"},
         {"predicate": {"custom_model_data":9}, "model": "man10/currency/anniversary_coin/basket_coin"},
@@ -35,8 +34,9 @@
         {"predicate": {"custom_model_data":26}, "model": "man10/currency/anniversary_coin/christmas_coin_special"},
         {"predicate": {"custom_model_data":27}, "model": "man10/currency/anniversary_coin/new_year_coin"},
         {"predicate": {"custom_model_data":28}, "model": "man10/currency/anniversary_coin/new_year_coin_special"},
+        {"predicate": {"custom_model_data":29}, "model": "man10/currency/shimacoin"},
 
 
-        {"predicate": {"custom_model_data":29}, "model": "item/currency/iron_ingot"}
+        {"predicate": {"custom_model_data":30}, "model": "item/currency/iron_ingot"}
     ]
 }
