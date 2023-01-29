@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/nether_star"
+    },
+    "overrides": [
+    	{ "predicate": {"custom_model_data":1}, "model": "man10/currency/100m_currency"},
+
+    	{ "predicate": {"custom_model_data":2}, "model": "item/nether_star"}
+    ]
+}
