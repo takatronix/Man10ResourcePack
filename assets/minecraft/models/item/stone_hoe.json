@@ -345,9 +345,13 @@
     { "predicate": {"custom_model_data": 334 }, "model": "man10/equipment/kadomatsu_big_size"},
     { "predicate": {"custom_model_data": 335 }, "model": "man10/equipment/ukulele"},
     { "predicate": {"custom_model_data": 336 }, "model": "man10/equipment/roulette_table"},
+    { "predicate": {"custom_model_data": 337 }, "model": "man10/equipment/mc_table"},
+    { "predicate": {"custom_model_data": 338 }, "model": "man10/equipment/bjp_table"},
+    { "predicate": {"custom_model_data": 339 }, "model": "man10/equipment/poker_table_1"},
+    { "predicate": {"custom_model_data": 340 }, "model": "man10/equipment/poker_table_2"},
 
 
-        { "predicate": {"custom_model_data": 337 }, "model": "item/stone_hoe" },
+        { "predicate": {"custom_model_data": 341 }, "model": "item/stone_hoe" },
 
 
 
