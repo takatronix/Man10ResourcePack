@@ -35,8 +35,10 @@
         {"predicate": {"custom_model_data":27}, "model": "man10/currency/anniversary_coin/new_year_coin"},
         {"predicate": {"custom_model_data":28}, "model": "man10/currency/anniversary_coin/new_year_coin_special"},
         {"predicate": {"custom_model_data":29}, "model": "man10/currency/shimacoin"},
+        {"predicate": {"custom_model_data":30}, "model": "man10/currency/old_coins/s1_gold_1"},
+        {"predicate": {"custom_model_data":31}, "model": "man10/currency/old_coins/s1_gold_man10"},
 
 
-        {"predicate": {"custom_model_data":30}, "model": "item/currency/iron_ingot"}
+        {"predicate": {"custom_model_data":32}, "model": "item/currency/iron_ingot"}
     ]
 }
