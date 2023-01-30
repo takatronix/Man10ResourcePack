@@ -220,6 +220,13 @@
     "sounds": [
       "man10/famiman"
     ]
+  },
+  "man10.casino": {
+    "category": "master",
+    "sounds": [
+      "man10/music/revelations"
+    ]
   }
+    
     
 }
