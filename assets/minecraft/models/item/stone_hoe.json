@@ -350,9 +350,10 @@
     { "predicate": {"custom_model_data": 339 }, "model": "man10/equipment/poker_table_1"},
     { "predicate": {"custom_model_data": 340 }, "model": "man10/equipment/poker_table_2"},
     { "predicate": {"custom_model_data": 341 }, "model": "man10/equipment/mcr_table"},
+    { "predicate": {"custom_model_data": 342 }, "model": "man10/equipment/dosu"},
 
 
-        { "predicate": {"custom_model_data": 342 }, "model": "item/stone_hoe" },
+        { "predicate": {"custom_model_data": 343 }, "model": "item/stone_hoe" },
 
 
 
