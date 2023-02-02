@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "man10/heist/nmf_thor_integrated_carrier_body_armor"
+	}
+}

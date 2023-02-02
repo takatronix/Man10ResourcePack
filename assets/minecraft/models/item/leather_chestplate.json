@@ -6,6 +6,10 @@
     },
     "overrides": [
         { "predicate": {"custom_model_data": 10 }, "model" : "man10/tool/copper/copper_chestplate"},
-        { "predicate": {"custom_model_data": 11 }, "model" : "man10/armor/ruins/ruins_chestplate"}
+        { "predicate": {"custom_model_data": 11 }, "model" : "man10/armor/ruins/ruins_chestplate"},
+        { "predicate": {"custom_model_data": 12 }, "model" : "man10/heist/bnti_gzhel_k_body_armor"},
+        { "predicate": {"custom_model_data": 13 }, "model" : "man10/heist/nmf_thor_integrated_carrier_body_armor"},
+        { "predicate": {"custom_model_data": 14 }, "model" : "man10/heist/slick_plate_carrier"},
+        { "predicate": {"custom_model_data": 15 }, "model" : "man10/heist/paca_soft_armor"}
     ]
 }
