@@ -352,8 +352,10 @@
     { "predicate": {"custom_model_data": 341 }, "model": "man10/equipment/mcr_table"},
     { "predicate": {"custom_model_data": 342 }, "model": "man10/equipment/dosu"},
     { "predicate": {"custom_model_data": 343 }, "model": "man10/equipment/donjara_table"},
+    { "predicate": {"custom_model_data": 344 }, "model": "man10/equipment/terminal_youtube"},
+    { "predicate": {"custom_model_data": 345 }, "model": "man10/equipment/terminal_web"},
 
-        { "predicate": {"custom_model_data": 344 }, "model": "item/stone_hoe" },
+        { "predicate": {"custom_model_data": 346 }, "model": "item/stone_hoe" },
 
 
 
