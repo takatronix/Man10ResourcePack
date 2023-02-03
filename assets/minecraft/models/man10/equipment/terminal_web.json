@@ -72,7 +72,7 @@
 			"translation": [0, 0.75, -0.25]
 		},
 		"fixed": {
-			"rotation": [-90, 0, 0],
+			"rotation": [-90, 180, 0],
 			"translation": [0, 0, -15],
 			"scale": [2, 2, 2]
 		}
