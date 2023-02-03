@@ -38,8 +38,9 @@
         {"predicate": {"custom_model_data":30}, "model": "man10/currency/old_coins/s1_gold_1"},
         {"predicate": {"custom_model_data":31}, "model": "man10/currency/old_coins/s1_gold_man10"},
         {"predicate": {"custom_model_data":32}, "model": "man10/currency/old_coins/s1_1000"},
+        {"predicate": {"custom_model_data":32}, "model": "man10/currency/youtube"},
 
 
-        {"predicate": {"custom_model_data":33}, "model": "item/currency/iron_ingot"}
+        {"predicate": {"custom_model_data":33}, "model": "item/iron_ingot"}
     ]
 }
