@@ -41,6 +41,12 @@
       "man10/oof"
     ]
   },
+  "man10.seki": {
+    "category": "master",
+    "sounds": [
+      "man10/seki"
+    ]
+  },
   "slot.anger": {
     "category": "master",
     "sounds": [
