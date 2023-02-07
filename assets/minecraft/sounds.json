@@ -250,6 +250,12 @@
     "sounds": [
       "man10/music/revelations"
     ]
+  },
+  "man10.march": {
+    "category": "master",
+    "sounds": [
+      "man10/music/march"
+    ]
   }
     
     
