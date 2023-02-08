@@ -61,7 +61,8 @@
       {"predicate": {"custom_model_data":54}, "model": "man10/fish/medaka"},
       {"predicate": {"custom_model_data":55}, "model": "man10/fish/shiira"},
       {"predicate": {"custom_model_data":56}, "model": "man10/fish/tatsunootoshigo"},
+      {"predicate": {"custom_model_data":57}, "model": "man10/fish/100man_kingyo"},
 
-      {"predicate": {"custom_model_data":57}, "model": "item/cod"}		
+      {"predicate": {"custom_model_data":58}, "model": "item/cod"}		
     ]
 }
