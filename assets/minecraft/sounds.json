@@ -239,6 +239,24 @@
       "man10/vibration2"
     ]
   },
+  "slot.maturi1": {
+    "category": "master",
+    "sounds": [
+      "man10/maturi1"
+    ]
+  },
+  "slot.maturi2": {
+    "category": "master",
+    "sounds": [
+      "man10/maturi2"
+    ]
+  },
+  "slot.freeze1": {
+    "category": "master",
+    "sounds": [
+      "man10/freeze1"
+    ]
+  },
   "man10.famiman": {
     "category": "master",
     "sounds": [
