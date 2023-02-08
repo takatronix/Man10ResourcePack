@@ -354,8 +354,10 @@
     { "predicate": {"custom_model_data": 343 }, "model": "man10/equipment/donjara_table"},
     { "predicate": {"custom_model_data": 344 }, "model": "man10/equipment/terminal_youtube"},
     { "predicate": {"custom_model_data": 345 }, "model": "man10/equipment/terminal_web"},
+    { "predicate": {"custom_model_data": 346 }, "model": "man10/equipment/mj_jackpot"},
 
-        { "predicate": {"custom_model_data": 346 }, "model": "item/stone_hoe" },
+
+        { "predicate": {"custom_model_data": 347 }, "model": "item/stone_hoe" },
 
 
 
