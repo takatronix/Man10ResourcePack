@@ -203,6 +203,12 @@
       "gun/sv98"
     ]
   },
+  "gun.cas_shoot": {
+    "category": "master",
+    "sounds": [
+      "gun/cas_shoot"
+    ]
+  },
   "event.summer_bgm": {
     "category": "ambient",
     "sounds": [
