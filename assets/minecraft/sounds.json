@@ -263,6 +263,12 @@
       "man10/freeze1"
     ]
   },
+  "slot.tetsudou": {
+    "category": "master",
+    "sounds": [
+      "man10/tetsudou"
+    ]
+  },
   "man10.famiman": {
     "category": "master",
     "sounds": [
