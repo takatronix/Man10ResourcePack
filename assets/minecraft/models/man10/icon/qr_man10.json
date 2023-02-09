@@ -1,6 +1,13 @@
 {
+	"credit": "Made by Nothingness2",
 	"parent": "item/generated",
 	"textures": {
 		"layer0": "man10/icon/qr_man10"
+	},
+	"display": {
+		"fixed": {
+			"translation": [0, 0, 1.75],
+			"scale": [2, 2, 2]
+		}
 	}
 }
