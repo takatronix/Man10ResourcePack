@@ -12,7 +12,10 @@
         {"predicate": {"custom_model_data":5}, "model": "man10/tool/copper/copper_shovel"},
         {"predicate": {"custom_model_data":6}, "model": "item/bundle"},
         {"predicate": {"custom_model_data":7}, "model": "man10/icon/youtube"},
+        {"predicate": {"custom_model_data":8}, "model": "man10/icon/icon_man10"},
+        {"predicate": {"custom_model_data":9}, "model": "man10/icon/qr_man10"},
+        {"predicate": {"custom_model_data":10}, "model": "man10/icon/qr_serial"},
 
-		{"predicate": {"custom_model_data":10}, "model": "item/wooden_shovel"}
+		{"predicate": {"custom_model_data":11}, "model": "item/wooden_shovel"}
     ]
 }
