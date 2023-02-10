@@ -11,7 +11,12 @@
       { "predicate": {"custom_model_data": 5 }, "model" : "man10/currency/m100k"},
       { "predicate": {"custom_model_data": 6 }, "model" : "man10/currency/m1m"},
       { "predicate": {"custom_model_data": 7 }, "model" : "item/gold_nugget"},
+      { "predicate": {"custom_model_data": 8 }, "model" : "man10/heist/tier_1"},
+      { "predicate": {"custom_model_data": 9 }, "model" : "man10/heist/tier_2"},
+      { "predicate": {"custom_model_data": 10 }, "model" : "man10/heist/tier_3"},
+      { "predicate": {"custom_model_data": 11 }, "model" : "man10/heist/tier_4"},
+      { "predicate": {"custom_model_data": 12 }, "model" : "man10/heist/tier_5"},
 
-      { "predicate": {"custom_model_data":8}, "model": "item/stick"}
+      { "predicate": {"custom_model_data":13}, "model": "item/stick"}
   ]
 }

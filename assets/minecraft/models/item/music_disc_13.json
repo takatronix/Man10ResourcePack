@@ -52,6 +52,11 @@
         { "predicate": {"custom_model_data":46}, "model": "man10/heist/medikit_big"},
         { "predicate": {"custom_model_data":47}, "model": "man10/heist/medikit_middle"},
         { "predicate": {"custom_model_data":48}, "model": "man10/heist/medikit_small"},
+        { "predicate": {"custom_model_data":49}, "model": "man10/heist/medikit_mini"},
+        { "predicate": {"custom_model_data":50}, "model": "man10/heist/grenede"},
+        { "predicate": {"custom_model_data":51}, "model": "man10/heist/cluster_grenade"},
+        { "predicate": {"custom_model_data":52}, "model": "man10/heist/impact_grenade"},
+        { "predicate": {"custom_model_data":53}, "model": "man10/heist/invisible_cloak"},
 
     	{ "predicate": {"custom_model_data":1001}, "model": "man10/weapon/gun/mk47"},
     	{ "predicate": {"custom_model_data":1002}, "model": "man10/weapon/gun/mk47_ads"},
