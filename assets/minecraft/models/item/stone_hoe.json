@@ -356,9 +356,10 @@
     { "predicate": {"custom_model_data": 345 }, "model": "man10/equipment/terminal_web"},
     { "predicate": {"custom_model_data": 346 }, "model": "man10/equipment/mj_jackpot"},
     { "predicate": {"custom_model_data": 347 }, "model": "man10/equipment/serial"},
+    { "predicate": {"custom_model_data": 348 }, "model": "man10/equipment/mj_roulette"},
 
 
-        { "predicate": {"custom_model_data": 348 }, "model": "item/stone_hoe" },
+        { "predicate": {"custom_model_data": 349 }, "model": "item/stone_hoe" },
 
 
 
