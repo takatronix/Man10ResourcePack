@@ -263,6 +263,18 @@
       "man10/freeze1"
     ]
   },
+  "slot.freeze2": {
+    "category": "master",
+    "sounds": [
+      "man10/freeze2"
+    ]
+  },
+  "slot.kyuin1": {
+    "category": "master",
+    "sounds": [
+      "man10/kyuin1"
+    ]
+  },
   "slot.tetsudou": {
     "category": "master",
     "sounds": [
