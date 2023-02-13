@@ -233,6 +233,12 @@
       "man10/ooatari3"
     ]
   },
+    "slot.ooatari4": {
+    "category": "master",
+    "sounds": [
+      "man10/ooatari4"
+    ]
+  },
   "slot.vibration1": {
     "category": "master",
     "sounds": [
