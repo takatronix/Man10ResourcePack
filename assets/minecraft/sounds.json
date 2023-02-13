@@ -293,6 +293,41 @@
       "man10/music/revelations"
     ]
   },
+  
+  "man10.killstreak1": {
+    "category": "master",
+    "sounds": [
+      "man10/killstreak1"
+    ]
+  },
+  
+  "man10.killstreak2": {
+    "category": "master",
+    "sounds": [
+      "man10/killstreak2"
+    ]
+  },
+  
+  "man10.killstreak3": {
+    "category": "master",
+    "sounds": [
+      "man10/killstreak3"
+    ]
+  },
+  
+  "man10.killstreak4": {
+    "category": "master",
+    "sounds": [
+      "man10/killstreak4"
+    ]
+  },
+  
+  "man10.killstreak5": {
+    "category": "master",
+    "sounds": [
+      "man10/killstreak5"
+    ]
+  },
   "man10.march": {
     "category": "master",
     "sounds": [
