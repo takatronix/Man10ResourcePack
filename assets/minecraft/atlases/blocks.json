@@ -27,6 +27,16 @@
             "type": "directory",
             "source": "man10",
             "prefix": "man10/"
+        },
+        {
+            "type": "directory",
+            "source": "entity",
+            "prefix": "entity/"
+        },
+        {
+            "type": "directory",
+            "source": "font",
+            "prefix": "font/"
         }
     ]
 }
