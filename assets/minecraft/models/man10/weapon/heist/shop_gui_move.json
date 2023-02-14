@@ -1,0 +1,262 @@
+{
+	"credit": "Made by Nothingness2",
+	"textures": {
+		"4": "man10/heist/heist_gui_1"
+	},
+	"elements": [
+		{
+			"from": [7, -5, 0],
+			"to": [16, 31, 0],
+			"faces": {
+				"north": {"uv": [13.5, 0, 15.75, 9], "texture": "#4"},
+				"east": {"uv": [13.5, 0, 15.5, 9], "texture": "#4"},
+				"south": {"uv": [15.5, 0, 13.5, 9], "texture": "#4"},
+				"west": {"uv": [13.5, 0, 15.5, 9], "texture": "#4"},
+				"up": {"uv": [13.5, 0, 15.5, 9], "texture": "#4"},
+				"down": {"uv": [13.5, 0, 15.5, 9], "texture": "#4"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 2.25, 0.25]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 2.25, 0.25]
+		},
+		"firstperson_righthand": {
+			"translation": [-5.5, 7.75, 0.75],
+			"scale": [1.58, 1.58, 1.58]
+		},
+		"firstperson_lefthand": {
+			"translation": [-5.5, 7.75, 0.75],
+			"scale": [1.58, 1.58, 1.58]
+		},
+		"ground": {
+			"translation": [0, 3.5, 0],
+			"scale": [0.82, 0.82, 0.82]
+		},
+		"gui": {
+			"rotation": [0, -180, 0],
+			"translation": [6.9, -19.1, 0],
+			"scale": [2, 2, 2]
+		},
+		"head": {
+			"scale": [0, 0, 0]
+		},
+		"fixed": {
+			"rotation": [90, -90, 90],
+			"translation": [-3.5, 5.5, -2],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "group",
+			"origin": [7.925, 2.27822, 6.34147],
+			"children": []
+		},
+		{
+			"name": "hexadecagon",
+			"origin": [8, 8, 8],
+			"children": []
+		},
+		{
+			"name": "hexadecagon",
+			"origin": [8, 8, 8],
+			"children": []
+		},
+		{
+			"name": "hexadecagon",
+			"origin": [8, 8, 8],
+			"children": []
+		},
+		{
+			"name": "hexadecagon",
+			"origin": [8, 8, 8],
+			"children": []
+		},
+		{
+			"name": "octagon",
+			"origin": [8, 8, 8],
+			"children": [
+				{
+					"name": "group",
+					"origin": [-0.03125, 0, 0],
+					"children": []
+				},
+				{
+					"name": "group",
+					"origin": [-0.03125, 0, 0],
+					"children": []
+				}
+			]
+		},
+		{
+			"name": "octagon",
+			"origin": [8, 8, 8],
+			"children": []
+		},
+		{
+			"name": "octagon",
+			"origin": [8, 8, 8],
+			"children": []
+		},
+		{
+			"name": "octagon",
+			"origin": [8, 8, 8],
+			"children": []
+		},
+		{
+			"name": "optical",
+			"origin": [8, 8, 8],
+			"children": [
+				{
+					"name": "sight",
+					"origin": [8, 8, 8],
+					"children": [
+						{
+							"name": "group",
+							"origin": [9.7, 16.05, 9.965],
+							"children": []
+						},
+						{
+							"name": "group",
+							"origin": [7.975, 1.04708, 8.76747],
+							"children": [
+								{
+									"name": "group",
+									"origin": [8.43923, 15.85625, 8.19528],
+									"children": []
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "group",
+			"origin": [0, 0, 0],
+			"children": [
+				{
+					"name": "octagon",
+					"origin": [8, 8, 8],
+					"children": [
+						{
+							"name": "group",
+							"origin": [7.96094, 5.6891, -0.72113],
+							"children": []
+						},
+						{
+							"name": "group",
+							"origin": [7.96094, 5.6891, -0.72113],
+							"children": [
+								{
+									"name": "group",
+									"origin": [7.96094, 5.6891, 1.59918],
+									"children": []
+								},
+								{
+									"name": "group",
+									"origin": [7.96094, 5.6891, 1.59918],
+									"children": []
+								},
+								{
+									"name": "group",
+									"origin": [7.96094, 5.6891, 1.59918],
+									"children": []
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "group",
+					"origin": [0, 0, 0],
+					"children": [
+						{
+							"name": "octagon",
+							"origin": [8, 8, 8],
+							"children": [
+								{
+									"name": "group",
+									"origin": [7.96094, 5.6891, -0.72113],
+									"children": []
+								},
+								{
+									"name": "group",
+									"origin": [7.96094, 5.6891, -0.72113],
+									"children": [
+										{
+											"name": "group",
+											"origin": [7.96094, 5.6891, 1.59918],
+											"children": []
+										},
+										{
+											"name": "group",
+											"origin": [7.96094, 5.6891, 1.59918],
+											"children": []
+										},
+										{
+											"name": "group",
+											"origin": [7.96094, 5.6891, 1.59918],
+											"children": []
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "octagon",
+			"origin": [8, 8, 8],
+			"children": []
+		},
+		{
+			"name": "m4aaaaaaaaaaaa1_custom",
+			"origin": [8, 8, 8],
+			"children": [
+				{
+					"name": "group",
+					"origin": [8.07011, 7.58934, 14.50625],
+					"children": []
+				}
+			]
+		},
+		{
+			"name": "octagon",
+			"origin": [8, 8, 8],
+			"children": []
+		},
+		{
+			"name": "octagon",
+			"origin": [8, 8, 8],
+			"children": [
+				{
+					"name": "group",
+					"origin": [8.05859, 0.8875, 5.5],
+					"children": []
+				},
+				{
+					"name": "group",
+					"origin": [8.05859, 0.8875, 5.5],
+					"children": []
+				}
+			]
+		},
+		{
+			"name": "octagon",
+			"origin": [8, 8, 8],
+			"children": []
+		},
+		{
+			"name": "octagon",
+			"origin": [8, 8, 8],
+			"children": []
+		}, 0]
+}
