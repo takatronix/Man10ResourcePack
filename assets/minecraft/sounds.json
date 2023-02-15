@@ -239,6 +239,24 @@
       "man10/ooatari4"
     ]
   },
+    "slot.funfare1": {
+    "category": "master",
+    "sounds": [
+      "man10/funfare1"
+    ]
+  },
+    "slot.funfare2": {
+    "category": "master",
+    "sounds": [
+      "man10/funfare2"
+    ]
+  },
+    "slot.kusakeiba1": {
+    "category": "master",
+    "sounds": [
+      "man10/kusakeiba1"
+    ]
+  },
   "slot.vibration1": {
     "category": "master",
     "sounds": [
