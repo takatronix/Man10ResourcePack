@@ -18,7 +18,9 @@
      { "predicate": {"custom_model_data":11}, "model": "man10/virtualblock/yellow_gradation"},
      { "predicate": {"custom_model_data":12}, "model": "man10/virtualblock/light_blue_gradation"},
      {"predicate": {"custom_model_data":13}, "model": "item/barrier"},
+     { "predicate": {"custom_model_data":14}, "model": "man10/virtualblock/invisible_block"},
 
-     {"predicate": {"custom_model_data":14}, "model": "item/oak_sapling"}
+
+     {"predicate": {"custom_model_data":15}, "model": "item/oak_sapling"}
     ]
 }
