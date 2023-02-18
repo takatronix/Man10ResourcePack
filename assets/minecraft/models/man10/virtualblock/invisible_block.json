@@ -1,8 +1,8 @@
 {
 	"credit": "Made by Nothingness2",
 	"textures": {
-		"0": "man10/virtualblock/invisible_block",
-		"particle": "man10/virtualblock/invisible_block"
+		"0": "invisible_block",
+		"particle": "invisible_block"
 	},
 	"elements": [
 		{
@@ -20,8 +20,8 @@
 	],
 	"display": {
 		"head": {
-			"translation": [0, -14.4, 0],
-			"scale": [1.2, 1.2, 1.2]
+			"translation": [0, -6.65, 0],
+			"scale": [1.54, 1.54, 1.54]
 		}
 	}
 }
