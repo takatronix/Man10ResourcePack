@@ -357,6 +357,12 @@
     "sounds": [
       "man10/music/march"
     ]
+  },
+  "man10.darkweb": {
+    "category": "master",
+    "sounds": [
+      "man10/music/darkweb"
+    ]
   }
     
     
