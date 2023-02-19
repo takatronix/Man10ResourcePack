@@ -209,6 +209,12 @@
       "gun/cas_shoot"
     ]
   },
+  "gun.guiter_01": {
+    "category": "master",
+    "sounds": [
+      "gun/guiter_01"
+    ]
+  },
   "event.summer_bgm": {
     "category": "ambient",
     "sounds": [
