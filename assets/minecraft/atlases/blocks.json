@@ -37,6 +37,11 @@
             "type": "directory",
             "source": "font",
             "prefix": "font/"
+        },
+        {
+            "type": "directory",
+            "source": "painting",
+            "prefix": "painting/"
         }
     ]
 }
