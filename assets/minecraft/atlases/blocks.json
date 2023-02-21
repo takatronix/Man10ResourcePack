@@ -42,6 +42,16 @@
             "type": "directory",
             "source": "painting",
             "prefix": "painting/"
+        },
+        {
+            "type": "directory",
+            "source": "misc",
+            "prefix": "misc/"
+        },
+        {
+            "type": "directory",
+            "source": "gui",
+            "prefix": "gui/"
         }
     ]
 }
