@@ -85,7 +85,13 @@
         {"predicate": {"custom_model_data":73}, "model": "man10/slot/xmas_event/xmas_go916_boot"},
         {"predicate": {"custom_model_data":74}, "model": "man10/slot/xmas_event/xmas_go916_present"},
         {"predicate": {"custom_model_data":75}, "model": "man10/slot/xmas_event/xmas_go916_star"},
+	    
+	{"predicate": {"custom_model_data":76}, "model": "man10/slot/slot_effects/dango_chance"},
+	{"predicate": {"custom_model_data":77}, "model": "man10/slot/slot_effects/dango_chance_pekari"},
+	{"predicate": {"custom_model_data":78}, "model": "man10/slot/slot_effects/gekiatsu"},
+	{"predicate": {"custom_model_data":79}, "model": "man10/slot/slot_effects/next"},
+	{"predicate": {"custom_model_data":80}, "model": "man10/slot/slot_effects/push"},
 
-	{"predicate": {"custom_model_data":76}, "model": "item/iron_nugget"}
+	{"predicate": {"custom_model_data":81}, "model": "item/iron_nugget"}
     ]
 }
