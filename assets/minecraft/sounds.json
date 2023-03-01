@@ -143,6 +143,12 @@
       "slot/yorokobi"
     ]
   },
+  "slot.reelstart": {
+    "category": "master",
+    "sounds": [
+      "slot/reelstart"
+    ]
+  },
   "gun.m4a1_shot": {
     "category": "master",
     "sounds": [
