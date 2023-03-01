@@ -146,7 +146,7 @@
   "slot.reelstart": {
     "category": "master",
     "sounds": [
-      "slot/reelstart"
+      "man10/reelstart"
     ]
   },
   "gun.m4a1_shot": {
