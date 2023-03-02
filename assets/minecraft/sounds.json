@@ -149,6 +149,12 @@
       "man10/reelstart"
     ]
   },
+  "slot.marchshort": {
+    "category": "master",
+    "sounds": [
+      "man10/gunkan-march"
+    ]
+  },
   "gun.m4a1_shot": {
     "category": "master",
     "sounds": [
