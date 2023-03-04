@@ -360,9 +360,11 @@
     { "predicate": {"custom_model_data": 349 }, "model": "man10/equipment/pato_lamp"},
     { "predicate": {"custom_model_data": 350 }, "model": "man10/equipment/pato_lamp_idle"},
     { "predicate": {"custom_model_data": 351 }, "model": "man10/equipment/planter"},
+    { "predicate": {"custom_model_data": 352 }, "model": "man10/equipment/scarecrow"},
+    { "predicate": {"custom_model_data": 353 }, "model": "man10/equipment/lawnmower"},
 
 
-        { "predicate": {"custom_model_data": 352 }, "model": "item/stone_hoe" },
+        { "predicate": {"custom_model_data": 354 }, "model": "item/stone_hoe" },
 
 
 
