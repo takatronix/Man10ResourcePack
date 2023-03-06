@@ -362,9 +362,12 @@
     { "predicate": {"custom_model_data": 351 }, "model": "man10/equipment/planter"},
     { "predicate": {"custom_model_data": 352 }, "model": "man10/equipment/scarecrow"},
     { "predicate": {"custom_model_data": 353 }, "model": "man10/equipment/lawnmower"},
+    { "predicate": {"custom_model_data": 354 }, "model": "man10/equipment/terminal_mce_buy"},
+    { "predicate": {"custom_model_data": 355 }, "model": "man10/equipment/terminal_mce_sell"},
+    { "predicate": {"custom_model_data": 356 }, "model": "man10/equipment/terminal_mib"},
 
 
-        { "predicate": {"custom_model_data": 354 }, "model": "item/stone_hoe" },
+        { "predicate": {"custom_model_data": 357 }, "model": "item/stone_hoe" },
 
 
 
