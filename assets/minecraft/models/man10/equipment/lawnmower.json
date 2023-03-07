@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "lawnmower",
 	"textures": {
-		"0": "/man10/equipment/lawnmower/lawnmower",
-		"particle": "/man10/equipment/lawnmower/lawnmower"
+		"0": "man10/equipment/lawnmower/lawnmower",
+		"particle": "man10/equipment/lawnmower/lawnmower"
 	},
 	"elements": [
 		{
