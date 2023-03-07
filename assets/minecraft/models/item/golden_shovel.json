@@ -17,7 +17,8 @@
     {"predicate": {"custom_model_data":10}, "model": "man10/vehicle/riding_drone"},
     {"predicate": {"custom_model_data":11}, "model": "man10/vehicle/mavicpro"},
     {"predicate": {"custom_model_data":12}, "model": "man10/vehicle/tractor"},
+    {"predicate": {"custom_model_data":13}, "model": "man10/vehicle/farmdrone"},
 
-		{"predicate": {"custom_model_data":13}, "model": "item/golden_shovel"}
+		{"predicate": {"custom_model_data":14}, "model": "item/golden_shovel"}
     ]
 }
