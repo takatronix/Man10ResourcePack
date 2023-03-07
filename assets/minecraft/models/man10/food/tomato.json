@@ -1,44 +1,40 @@
 {
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "man10/food/tomato"
-    },
-    "display": {
-      "thirdperson_righthand": {
-        "scale": [0.55, 0.55, 0.55],
-        "rotation": [0, 0, 0],
-        "translation": [0, 3, 1]
-      },
-      "thirdperson_lefthand": {
-        "scale": [0.55, 0.55, 0.55],
-        "rotation": [0, 0, 0],
-        "translation": [0, 3, 1]
-      },
-      "firstperson_righthand": {
-        "scale": [0.68, 0.68, 0.68],
-        "rotation": [0, -90, -25],
-        "translation": [0, 1.6, 0]
-      },
-      "firstperson_lefthand": {
-        "scale": [0.68, 0.68, 0.68],
-        "rotation": [0, 90, 25],
-        "translation": [0, 1.6, 0]
-      },
-      "head": {
-        "scale": [1, 1, 1],
-        "rotation": [0, 180, 0],
-        "translation": [0, 13, 7]
-      },
-      "ground": {
-        "scale": [0.5, 0.5, 0.5],
-        "rotation": [0, 0, 0],
-        "translation": [0, 2, 0]
-      },
-      "gui": {"scale": [1, 1, 1]}
-    },
-    "fixed": {
-      "scale": [1, 1, 1],
-      "rotation": [0, 0, 0],
-      "translation": [0, 0, 0]
-    }
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "man10/food/tomato"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [1, 2.75, 0],
+			"scale": [0.45, 0.45, 0.45]
+		},
+		"thirdperson_lefthand": {
+			"translation": [1, 2.75, 0],
+			"scale": [0.45, 0.45, 0.45]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -55, 0],
+			"translation": [0.25, 1.85, 0],
+			"scale": [0.68, 0.68, 0.68]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -55, 0],
+			"translation": [1.25, 1.85, 0],
+			"scale": [0.68, 0.68, 0.68]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"head": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 12.5, -1.5]
+		}
+	},
+	"fixed": {
+		"scale": [1, 1, 1],
+		"rotation": [0, 0, 0],
+		"translation": [0, 0, 0]
+	}
 }
