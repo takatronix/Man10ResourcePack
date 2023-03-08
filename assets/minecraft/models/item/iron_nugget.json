@@ -91,7 +91,10 @@
 	{"predicate": {"custom_model_data":78}, "model": "man10/slot/slot_effects/gekiatsu"},
 	{"predicate": {"custom_model_data":79}, "model": "man10/slot/slot_effects/next"},
 	{"predicate": {"custom_model_data":80}, "model": "man10/slot/slot_effects/push"},
+    {"predicate": {"custom_model_data":81}, "model": "man10/slot/spring_event/sakura_branch"},
+	{"predicate": {"custom_model_data":82}, "model": "man10/slot/spring_event/sakura_branch_bloom"},
+	{"predicate": {"custom_model_data":83}, "model": "man10/slot/spring_event/sakura_branch_full_bloom"},
 
-	{"predicate": {"custom_model_data":81}, "model": "item/iron_nugget"}
+	{"predicate": {"custom_model_data":84}, "model": "item/iron_nugget"}
     ]
 }
