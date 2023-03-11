@@ -34,7 +34,9 @@
 		{"predicate": {"custom_model_data":27}, "model": "man10/weapon/magic/magicbook_star_close"},
 		{"predicate": {"custom_model_data":28}, "model": "man10/weapon/magic/magicbook_star_open"},
 		{"predicate": {"custom_model_data":29}, "model": "man10/weapon/other/blossom_wing"},
+		{"predicate": {"custom_model_data":30}, "model": "man10/weapon/magic/pickel_wand"},
+		{"predicate": {"custom_model_data":31}, "model": "man10/weapon/magic/car_key_wand"},
 
-    {"predicate": {"custom_model_data":30}, "model": "item/iron_shovel"}		
+    {"predicate": {"custom_model_data":32}, "model": "item/iron_shovel"}		
   ]
 }
