@@ -101,7 +101,10 @@
         {"predicate": {"custom_model_data":92}, "model": "man10/hat/ski_set_lefthand"},
         {"predicate": {"custom_model_data":93}, "model": "man10/hat/ski_set_righthand"},
         {"predicate": {"custom_model_data":94}, "model": "man10/hat/bear_hat"},
+        {"predicate": {"custom_model_data":95}, "model": "man10/hat/labybird_bag"},
+        {"predicate": {"custom_model_data":96}, "model": "man10/hat/strawberry_beret"},
+        {"predicate": {"custom_model_data":97}, "model": "man10/hat/rabbit_mask"},
 
-        {"predicate": {"custom_model_data":95}, "model": "item/wooden_hoe"}
+        {"predicate": {"custom_model_data":98}, "model": "item/wooden_hoe"}
     ]
 }
