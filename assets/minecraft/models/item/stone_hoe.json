@@ -366,9 +366,17 @@
     { "predicate": {"custom_model_data": 355 }, "model": "man10/equipment/terminal_mce_sell"},
     { "predicate": {"custom_model_data": 356 }, "model": "man10/equipment/terminal_mib"},
     { "predicate": {"custom_model_data": 357 }, "model": "man10/equipment/paper_lanterns"},
+    { "predicate": {"custom_model_data": 358 }, "model": "man10/equipment/copper_dwarf"},
+    { "predicate": {"custom_model_data": 359 }, "model": "man10/equipment/diamond_dwarf"},
+    { "predicate": {"custom_model_data": 360 }, "model": "man10/equipment/emerald_dwarf"},
+    { "predicate": {"custom_model_data": 361 }, "model": "man10/equipment/gold_dwarf"},
+    { "predicate": {"custom_model_data": 362 }, "model": "man10/equipment/iron_dwarf"},
+    { "predicate": {"custom_model_data": 363 }, "model": "man10/equipment/lapis_dwarf"},
+    { "predicate": {"custom_model_data": 364 }, "model": "man10/equipment/netherite_dwarf"},
+    { "predicate": {"custom_model_data": 365 }, "model": "man10/equipment/redstone_dwarf"},
 
 
-        { "predicate": {"custom_model_data": 358 }, "model": "item/stone_hoe" },
+        { "predicate": {"custom_model_data": 366 }, "model": "item/stone_hoe" },
 
 
 
