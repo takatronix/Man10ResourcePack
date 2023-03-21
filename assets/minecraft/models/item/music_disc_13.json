@@ -100,9 +100,11 @@
         { "predicate": {"custom_model_data":94}, "model": "man10/weapon/heist/shop_gui_choice_5"},
         { "predicate": {"custom_model_data":95}, "model": "man10/weapon/heist/shop_gui_choice_6"},
         { "predicate": {"custom_model_data":96}, "model": "man10/weapon/heist/shop_gui_choice_7"},
+        { "predicate": {"custom_model_data":97}, "model": "man10/weapon/heist/epd_shield_"},
+        { "predicate": {"custom_model_data":98}, "model": "man10/weapon/heist/epd_shield_gui"},
 
         
-        { "predicate": {"custom_model_data":97}, "model": "item/music_disc_13"},
+        { "predicate": {"custom_model_data":99}, "model": "item/music_disc_13"},
 
     	{ "predicate": {"custom_model_data":1001}, "model": "man10/weapon/gun/mk47"},
     	{ "predicate": {"custom_model_data":1002}, "model": "man10/weapon/gun/mk47_ads"},
