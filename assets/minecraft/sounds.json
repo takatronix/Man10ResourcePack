@@ -376,6 +376,12 @@
       "man10/music/march"
     ]
   },
+  "gun.heist_killsound": {
+    "category": "master",
+    "sounds": [
+      "gun/heist_killsound"
+    ]
+  },
   "man10.darkweb": {
     "category": "master",
     "sounds": [
