@@ -375,8 +375,9 @@
     { "predicate": {"custom_model_data": 364 }, "model": "man10/equipment/netherite_dwarf"},
     { "predicate": {"custom_model_data": 365 }, "model": "man10/equipment/redstone_dwarf"},
     { "predicate": {"custom_model_data": 366 }, "model": "man10/equipment/cherry_dwarf"},
+    { "predicate": {"custom_model_data": 367 }, "model": "man10/equipment/manbo"},
 
-        { "predicate": {"custom_model_data": 367 }, "model": "item/stone_hoe" },
+        { "predicate": {"custom_model_data": 368 }, "model": "item/stone_hoe" },
 
 
 
