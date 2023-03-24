@@ -31,7 +31,8 @@
 	{ "predicate": {"custom_model_data":24}, "model": "man10/food/omelette"},
 	{ "predicate": {"custom_model_data":25}, "model": "man10/food/christmas_pudding"},
 	{ "predicate": {"custom_model_data":26}, "model": "man10/food/mini_kagamimochi"},
+	{ "predicate": {"custom_model_data":27}, "model": "man10/food/carrot_pudding"},
 
-	{ "predicate": {"custom_model_data":27}, "model": "item/golden_carrot"}
+	{ "predicate": {"custom_model_data":28}, "model": "item/golden_carrot"}
     ]
 }
