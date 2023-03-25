@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:man10/slot/spring_event/kusatu_senn"
+  }
+}
