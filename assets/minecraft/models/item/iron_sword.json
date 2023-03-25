@@ -44,7 +44,7 @@
 	    { "predicate": {"custom_model_data": 36 }, "model": "man10/weapon/sword/watermelon_ice_bar"},
 	    { "predicate": {"custom_model_data": 37 }, "model": "man10/weapon/sword/mayfly"},
 	    { "predicate": {"custom_model_data": 38 }, "model": "man10/weapon/sword/churros"},
-	    { "predicate": {"custom_model_data": 39 }, "model": "man10/weapon/sword/brush"},
+	    { "predicate": {"custom_model_data": 39 }, "model": "man10/weapon/other/writing_brush"},
 	    { "predicate": {"custom_model_data": 40 }, "model": "man10/weapon/sword/big_axe"},
         { "predicate": {"custom_model_data": 41 }, "model": "man10/weapon/sword/wave_sword"},
         { "predicate": {"custom_model_data": 42 }, "model": "man10/weapon/sword/ice_axe"},
