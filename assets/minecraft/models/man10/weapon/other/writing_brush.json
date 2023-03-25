@@ -2005,6 +2005,9 @@
 			"rotation": [-14, 0, 0],
 			"translation": [0, 5.25, 3]
 		},
+		"ground": {
+			"translation": [0, 15.25, 0]
+		},
 		"gui": {
 			"rotation": [0, 0, 137],
 			"translation": [-2.25, -2.5, 0]
