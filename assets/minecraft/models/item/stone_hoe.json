@@ -377,8 +377,19 @@
     { "predicate": {"custom_model_data": 366 }, "model": "man10/equipment/cherry_dwarf"},
     { "predicate": {"custom_model_data": 367 }, "model": "man10/equipment/manbo"},
     { "predicate": {"custom_model_data": 368 }, "model": "man10/equipment/manbo_rage"},
+    { "predicate": {"custom_model_data": 369 }, "model": "man10/equipment/easter_egg_blue"},
+    { "predicate": {"custom_model_data": 370 }, "model": "man10/equipment/easter_egg_white"},
+    { "predicate": {"custom_model_data": 371 }, "model": "man10/equipment/easter_egg_pink"},
+    { "predicate": {"custom_model_data": 372 }, "model": "man10/equipment/easter_egg_yellow"},
+    { "predicate": {"custom_model_data": 373 }, "model": "man10/equipment/easter_sofa"},
+    { "predicate": {"custom_model_data": 374 }, "model": "man10/equipment/easter_chair"},
+    { "predicate": {"custom_model_data": 375 }, "model": "man10/equipment/easter_lamp"},
+    { "predicate": {"custom_model_data": 376 }, "model": "man10/equipment/easter_table"},
+    { "predicate": {"custom_model_data": 377 }, "model": "man10/equipment/sleeping _rabbit"},
+    { "predicate": {"custom_model_data": 378 }, "model": "man10/equipment/easter_bed"},
+    { "predicate": {"custom_model_data": 379 }, "model": "man10/equipment/easter_carpet"},
 
-        { "predicate": {"custom_model_data": 369 }, "model": "item/stone_hoe" },
+        { "predicate": {"custom_model_data": 380 }, "model": "item/stone_hoe" },
 
 
 
