@@ -1,8 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "man10/equipment/easter_furniture/eastersofa",
-		"particle": "man10/equipment/eastersofa"
+		"0": "man10/equipment/easter_furniture/eastersofa"
 	},
 	"elements": [
 		{
@@ -122,8 +121,8 @@
 			"scale": [0.31, 0.31, 0.31]
 		},
 		"fixed": {
-			"rotation": [-90, -2, 0],
-			"translation": [-0.25, -1.75, 20.25],
+			"rotation": [0, 180, 0],
+			"translation": [0, -2.75, 25.75],
 			"scale": [1.66, 1.66, 1.66]
 		}
 	},
