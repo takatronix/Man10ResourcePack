@@ -323,6 +323,18 @@
       "man10/tetsudou"
     ]
   },
+  "slot.ichinensei": {
+    "category": "master",
+    "sounds": [
+      "man10/ichinensei"
+    ]
+  },
+  "slot.sakurasakura": {
+    "category": "master",
+    "sounds": [
+      "man10/sakurasakura"
+    ]
+  },
   "man10.famiman": {
     "category": "master",
     "sounds": [
