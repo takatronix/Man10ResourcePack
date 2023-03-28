@@ -388,8 +388,10 @@
     { "predicate": {"custom_model_data": 377 }, "model": "man10/equipment/sleeping_rabbit"},
     { "predicate": {"custom_model_data": 378 }, "model": "man10/equipment/easter_bed"},
     { "predicate": {"custom_model_data": 379 }, "model": "man10/equipment/easter_carpet"},
+    { "predicate": {"custom_model_data": 380 }, "model": "man10/equipment/eastertv_off"},
+    { "predicate": {"custom_model_data": 381 }, "model": "man10/equipment/eastertv_on"},
 
-        { "predicate": {"custom_model_data": 380 }, "model": "item/stone_hoe" },
+        { "predicate": {"custom_model_data": 382 }, "model": "item/stone_hoe" },
 
 
 
