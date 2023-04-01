@@ -9,6 +9,8 @@
     	{ "predicate": {"custom_model_data":3}, "model": "man10/fish/joke/nagagutsu"},
     	{ "predicate": {"custom_model_data":4}, "model": "man10/fish/joke/pettobotoru"},
     	{ "predicate": {"custom_model_data":5}, "model": "man10/fish/joke/yakijake"},
-      { "predicate": {"custom_model_data":6}, "model": "item/raw_iron"}
+    	{ "predicate": {"custom_model_data":6}, "model": "man10/fish/joke/akikan"},
+    	{ "predicate": {"custom_model_data":7}, "model": "man10/fish/joke/lure"},
+      { "predicate": {"custom_model_data":8}, "model": "item/raw_iron"}
     ]
 }
