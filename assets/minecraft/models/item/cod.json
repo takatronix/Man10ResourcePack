@@ -153,9 +153,30 @@
       {"predicate": {"custom_model_data":144}, "model": "man10/fish/tubugai"},
       {"predicate": {"custom_model_data":145}, "model": "man10/fish/umiushi"},
       {"predicate": {"custom_model_data":146}, "model": "man10/fish/white_fin"},
+      {"predicate": {"custom_model_data":147}, "model": "man10/fish/antyobi"},
+      {"predicate": {"custom_model_data":148}, "model": "man10/fish/aodai"},
+      {"predicate": {"custom_model_data":149}, "model": "man10/fish/beniteguri"},
+      {"predicate": {"custom_model_data":150}, "model": "man10/fish/hamahuehuki"},
+      {"predicate": {"custom_model_data":151}, "model": "man10/fish/hamo"},
+      {"predicate": {"custom_model_data":152}, "model": "man10/fish/highfinamberjack"},
+      {"predicate": {"custom_model_data":153}, "model": "man10/fish/indopacificsailfish"},
+      {"predicate": {"custom_model_data":154}, "model": "man10/fish/kinmedai"},
+      {"predicate": {"custom_model_data":155}, "model": "man10/fish/kinubari"},
+      {"predicate": {"custom_model_data":156}, "model": "man10/fish/kurosagi"},
+      {"predicate": {"custom_model_data":157}, "model": "man10/fish/kusayaromo"},
+      {"predicate": {"custom_model_data":158}, "model": "man10/fish/mandarafish"},
+      {"predicate": {"custom_model_data":159}, "model": "man10/fish/mangyo"},
+      {"predicate": {"custom_model_data":160}, "model": "man10/fish/needlefish"},
+      {"predicate": {"custom_model_data":161}, "model": "man10/fish/peacockmantisshrimp"},
+      {"predicate": {"custom_model_data":162}, "model": "man10/fish/playcoin_fish"},
+      {"predicate": {"custom_model_data":163}, "model": "man10/fish/purpleseaurchins"},
+      {"predicate": {"custom_model_data":164}, "model": "man10/fish/sakuramasu"},
+      {"predicate": {"custom_model_data":165}, "model": "man10/fish/sanbasou"},
+      {"predicate": {"custom_model_data":166}, "model": "man10/fish/takabe"},
+      {"predicate": {"custom_model_data":167}, "model": "man10/fish/tokubire"},
+      {"predicate": {"custom_model_data":168}, "model": "man10/fish/tsumuburi"},
 
 
-
-      {"predicate": {"custom_model_data":147}, "model": "item/cod"}		
+      {"predicate": {"custom_model_data":169}, "model": "item/cod"}		
     ]
 }
