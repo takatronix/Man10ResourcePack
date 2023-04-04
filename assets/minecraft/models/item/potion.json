@@ -30,7 +30,9 @@
         { "predicate": {"custom_model_data": 23 }, "model": "man10/potion/slash" },
         { "predicate": {"custom_model_data": 24 }, "model": "man10/potion/slash_2" },
         { "predicate": {"custom_model_data": 25 }, "model": "man10/potion/slash_3" },
+        { "predicate": {"custom_model_data": 26 }, "model": "man10/potion/effect_ice" },
+        { "predicate": {"custom_model_data": 27 }, "model": "man10/potion/effect_ice_2" },
 
-        { "predicate": {"custom_model_data": 26 }, "model": "item/potion" }
+        { "predicate": {"custom_model_data": 28 }, "model": "item/potion" }
         ]
 }
