@@ -38,7 +38,7 @@
 		{"predicate": {"custom_model_data":31}, "model": "man10/weapon/magic/car_key_wand"},
 		{"predicate": {"custom_model_data":32}, "model": "man10/weapon/gun/water_barrage"},
 		{"predicate": {"custom_model_data":33}, "model": "man10/weapon/magic/book"},
-]		{"predicate": {"custom_model_data":34}, "model": "man10/weapon/magic/bookfire"},
+		{"predicate": {"custom_model_data":34}, "model": "man10/weapon/magic/bookfire"},
 		{"predicate": {"custom_model_data":35}, "model": "man10/weapon/magic/bookice"},
 		{"predicate": {"custom_model_data":36}, "model": "man10/weapon/magic/bookpickaxe"},
 		{"predicate": {"custom_model_data":37}, "model": "man10/weapon/magic/booksand"},
