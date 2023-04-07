@@ -42,8 +42,9 @@
 		{"predicate": {"custom_model_data":35}, "model": "man10/weapon/magic/bookice"},
 		{"predicate": {"custom_model_data":36}, "model": "man10/weapon/magic/bookpickaxe"},
 		{"predicate": {"custom_model_data":37}, "model": "man10/weapon/magic/booksand"},
+		{"predicate": {"custom_model_data":38}, "model": "man10/weapon/magic/easter_wand"},
 
 
-    {"predicate": {"custom_model_data":38}, "model": "item/iron_shovel"}		
+    {"predicate": {"custom_model_data":39}, "model": "item/iron_shovel"}		
   ]
 }

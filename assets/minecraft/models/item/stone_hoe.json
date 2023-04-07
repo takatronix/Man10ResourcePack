@@ -390,8 +390,13 @@
     { "predicate": {"custom_model_data": 379 }, "model": "man10/equipment/easter_carpet"},
     { "predicate": {"custom_model_data": 380 }, "model": "man10/equipment/eastertv_off"},
     { "predicate": {"custom_model_data": 381 }, "model": "man10/equipment/eastertv_on"},
+    { "predicate": {"custom_model_data": 382 }, "model": "man10/equipment/easter_sofa_2"},
+    { "predicate": {"custom_model_data": 383 }, "model": "man10/equipment/easter_sofa_3"},
+    { "predicate": {"custom_model_data": 384 }, "model": "man10/equipment/easter_sofa_eru"},
+    { "predicate": {"custom_model_data": 385 }, "model": "man10/equipment/easter_egg_purple"},
+    { "predicate": {"custom_model_data": 386 }, "model": "man10/equipment/easter_egg_green"},
 
-        { "predicate": {"custom_model_data": 382 }, "model": "item/stone_hoe" },
+        { "predicate": {"custom_model_data": 387 }, "model": "item/stone_hoe" },
 
 
 
