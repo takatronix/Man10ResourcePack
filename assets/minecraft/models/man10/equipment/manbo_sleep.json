@@ -3,16 +3,16 @@
 	"parent": "manbo",
 	"textures": {
 		"0": "man10/equipment/manbo/manbo",
-		"1": "man10/equipment/manbo/manboaspect1",
+		"1": "man10/equipment/manbo/manboaspect3",
 		"particle": "man10/equipment/manbo/manbo"
 	},
 	"elements": [
 		{
 			"name": "aspect",
-			"from": [5.25781, 9.94531, 5.3125],
-			"to": [10.99609, 13, 5.3125],
+			"from": [4.67578, 9.94531, 5.3125],
+			"to": [10.83203, 13, 5.3125],
 			"faces": {
-				"north": {"uv": [0, 0, 16, 8], "texture": "#1"},
+				"north": {"uv": [0, 8, 16, 16], "texture": "#1"},
 				"east": {"uv": [0, 0, 0.5, 1], "texture": "#1"},
 				"south": {"uv": [0, 0, 0.5, 1], "texture": "#1"},
 				"west": {"uv": [0, 0, 0.5, 1], "texture": "#1"},

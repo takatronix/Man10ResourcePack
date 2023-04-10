@@ -3,9 +3,23 @@
 	"parent": "manbo",
 	"textures": {
 		"0": "man10/equipment/manbo/manbo",
+		"1": "man10/equipment/manbo/manboaspect1",
 		"particle": "man10/equipment/manbo/manbo"
 	},
 	"elements": [
+		{
+			"name": "aspect",
+			"from": [5.25781, 9.94531, 5.3125],
+			"to": [10.99609, 13, 5.3125],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 8], "texture": "#1"},
+				"east": {"uv": [0, 0, 0.5, 1], "texture": "#1"},
+				"south": {"uv": [0, 0, 0.5, 1], "texture": "#1"},
+				"west": {"uv": [0, 0, 0.5, 1], "texture": "#1"},
+				"up": {"uv": [0, 0, 0.5, 1], "texture": "#1"},
+				"down": {"uv": [0, 0, 0.5, 1], "texture": "#1"}
+			}
+		},
 		{
 			"from": [7.41766, 0.05828, 6.73797],
 			"to": [8.77766, 1.41828, 8.09797],
@@ -780,6 +794,12 @@
 	},
 	"groups": [
 		{
+			"name": "aspect",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0]
+		},
+		{
 			"name": "body",
 			"origin": [0, 0, 0],
 			"color": 0,
@@ -789,13 +809,13 @@
 					"origin": [8.15299, 18.53519, 8.79313],
 					"color": 0,
 					"children": [
-						0,
 						1,
+						2,
 						{
 							"name": "group",
 							"origin": [8.15299, 18.53519, 8.79313],
 							"color": 0,
-							"children": [2, 3]
+							"children": [3, 4]
 						}
 					]
 				},
@@ -803,51 +823,51 @@
 					"name": "group",
 					"origin": [8.15299, 18.53519, 8.79313],
 					"color": 0,
-					"children": [4, 5, 6]
+					"children": [5, 6, 7]
 				},
 				{
 					"name": "hexadecagon",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"children": [7, 8, 9, 10, 11, 12, 13, 14]
+					"children": [8, 9, 10, 11, 12, 13, 14, 15]
 				},
 				{
 					"name": "hexadecagon",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"children": [15, 16, 17]
+					"children": [16, 17, 18]
 				},
 				{
 					"name": "hexadecagon",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"children": [18, 19, 20]
+					"children": [19, 20, 21]
 				},
 				{
 					"name": "hexadecagon",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"children": [21, 22, 23, 24, 25, 26, 27, 28, 29]
+					"children": [22, 23, 24, 25, 26, 27, 28, 29, 30]
 				},
 				{
 					"name": "hexadecagon",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"children": [30, 31, 32, 33, 34, 35, 36, 37]
+					"children": [31, 32, 33, 34, 35, 36, 37, 38]
 				},
 				{
 					"name": "hexadecagon",
 					"origin": [8, 8, 8],
 					"color": 0,
-					"children": [38, 39, 40, 41, 42, 43, 44, 45, 46]
+					"children": [39, 40, 41, 42, 43, 44, 45, 46, 47]
 				}
 			]
 		},
 		{
-			"name": "group",
+			"name": "face",
 			"origin": [8, 8, 8],
 			"color": 0,
-			"children": [47, 48, 49, 50, 51, 52, 53]
+			"children": [48, 49, 50, 51, 52, 53, 54]
 		}
 	]
 }

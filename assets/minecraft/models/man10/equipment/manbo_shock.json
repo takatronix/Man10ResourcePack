@@ -3,7 +3,7 @@
 	"parent": "manbo",
 	"textures": {
 		"0": "man10/equipment/manbo/manbo",
-		"1": "man10/equipment/manbo/manboaspect1",
+		"1": "man10/equipment/manbo/manboaspect2",
 		"particle": "man10/equipment/manbo/manbo"
 	},
 	"elements": [
