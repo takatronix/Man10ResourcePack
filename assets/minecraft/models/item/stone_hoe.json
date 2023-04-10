@@ -405,8 +405,9 @@
     { "predicate": {"custom_model_data": 394 }, "model": "man10/equipment/manbo_question"},
     { "predicate": {"custom_model_data": 395 }, "model": "man10/equipment/manbo_love"},
     { "predicate": {"custom_model_data": 396 }, "model": "man10/equipment/manbo_sleep"},
+    { "predicate": {"custom_model_data": 397 }, "model": "man10/equipment/manbo_death"},
 
-        { "predicate": {"custom_model_data": 397 }, "model": "item/stone_hoe" },
+        { "predicate": {"custom_model_data": 398 }, "model": "item/stone_hoe" },
 
 
 
