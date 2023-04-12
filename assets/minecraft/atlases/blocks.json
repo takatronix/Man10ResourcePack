@@ -52,6 +52,11 @@
             "type": "directory",
             "source": "gui",
             "prefix": "gui/"
+        },
+        {
+            "type": "directory",
+            "source": "mob_effect",
+            "prefix": "mob_effect/"
         }
     ]
 }
