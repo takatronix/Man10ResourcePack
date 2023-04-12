@@ -1,9 +1,9 @@
 {
 	"credit": "Made by Nothingness2",
 	"textures": {
-		"0": "man10/weapon/other/blossom_wing/blossom_wing",
+		"0": "man10/weapon/wing/blossom_wing/blossom_wing",
 		"1": "man10/currency/concentrated_minerals/crystal_4",
-		"particle": "man10/weapon/other/blossom_wing/blossom_wing"
+		"particle": "man10/weapon/wing/blossom_wing/blossom_wing"
 	},
 	"elements": [
 		{
