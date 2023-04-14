@@ -93,7 +93,8 @@
 		{"predicate": {"custom_model_data":97},  "model": "man10/weapon/gun/deepslate_wave_cannon"},
 		{"predicate": {"custom_model_data":98},  "model": "man10/weapon/gun/hellfire_wave_cannon"},
 		{"predicate": {"custom_model_data":99},  "model": "man10/weapon/other/snowball_canon"},
-    
-		{"predicate": {"custom_model_data":100}, "model": "item/iron_hoe"}
+		{"predicate": {"custom_model_data":100},  "model": "man10/weapon/gun/future_gun_2"},
+
+		{"predicate": {"custom_model_data":101}, "model": "item/iron_hoe"}
     ]
 }

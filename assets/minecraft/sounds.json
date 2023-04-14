@@ -143,6 +143,18 @@
       "slot/yorokobi"
     ]
   },
+  "slot.reelstart": {
+    "category": "master",
+    "sounds": [
+      "man10/reelstart"
+    ]
+  },
+  "slot.marchshort": {
+    "category": "master",
+    "sounds": [
+      "man10/gunkan-march"
+    ]
+  },
   "gun.m4a1_shot": {
     "category": "master",
     "sounds": [
@@ -209,6 +221,12 @@
       "gun/cas_shoot"
     ]
   },
+  "gun.guiter_01": {
+    "category": "master",
+    "sounds": [
+      "gun/guiter_01"
+    ]
+  },
   "event.summer_bgm": {
     "category": "ambient",
     "sounds": [
@@ -237,6 +255,24 @@
     "category": "master",
     "sounds": [
       "man10/ooatari4"
+    ]
+  },
+    "slot.funfare1": {
+    "category": "master",
+    "sounds": [
+      "man10/funfare1"
+    ]
+  },
+    "slot.funfare2": {
+    "category": "master",
+    "sounds": [
+      "man10/funfare2"
+    ]
+  },
+    "slot.kusakeiba1": {
+    "category": "master",
+    "sounds": [
+      "man10/kusakeiba1"
     ]
   },
   "slot.vibration1": {
@@ -285,6 +321,18 @@
     "category": "master",
     "sounds": [
       "man10/tetsudou"
+    ]
+  },
+  "slot.ichinensei": {
+    "category": "master",
+    "sounds": [
+      "man10/ichinensei"
+    ]
+  },
+  "slot.sakurasakura": {
+    "category": "master",
+    "sounds": [
+      "man10/sakurasakura"
     ]
   },
   "man10.famiman": {
@@ -338,6 +386,18 @@
     "category": "master",
     "sounds": [
       "man10/music/march"
+    ]
+  },
+  "gun.heist_killsound": {
+    "category": "master",
+    "sounds": [
+      "gun/heist_killsound"
+    ]
+  },
+  "man10.darkweb": {
+    "category": "master",
+    "sounds": [
+      "man10/music/darkweb"
     ]
   }
     

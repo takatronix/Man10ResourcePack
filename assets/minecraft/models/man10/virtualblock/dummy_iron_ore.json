@@ -1,0 +1,38 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"2": "block/iron_ore",
+		"particle": "block/iron_ore"
+	},
+	"elements": [
+		{
+			"from": [-4.5, -4.5, -4.5],
+			"to": [20.5, 20.5, 20.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [3.275, 12, 12]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 15.925], "texture": "#2"},
+				"east": {"uv": [0, 0, 16, 15.925], "texture": "#2"},
+				"south": {"uv": [0, 0, 16, 15.925], "texture": "#2"},
+				"west": {"uv": [0, 0, 16, 15.925], "texture": "#2"},
+				"up": {"uv": [0, 0, 16, 15.925], "texture": "#2"},
+				"down": {"uv": [0, 0, 16, 15.925], "texture": "#2"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [-9.75, -26.5, 18.25],
+			"scale": [4, 4, 4]
+		},
+		"gui": {
+			"scale": [0.31, 0.31, 0.31]
+		},
+		"head": {
+			"translation": [0, -32.5, 0]
+		},
+		"fixed": {
+			"translation": [0, 0, -14],
+			"scale": [1.28, 1.28, 1.28]
+		}
+	}
+}

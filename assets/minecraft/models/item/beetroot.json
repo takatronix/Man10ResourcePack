@@ -100,7 +100,14 @@
 	{ "predicate": {"custom_model_data":90}, "model": "man10/food/fried_soybean"},
 	{ "predicate": {"custom_model_data":91}, "model": "man10/food/pasted_horseradish"},
 	{ "predicate": {"custom_model_data":92}, "model": "man10/food/ketchup"},
+	{ "predicate": {"custom_model_data":93}, "model": "man10/food/easter_egg_yellow"},
+	{ "predicate": {"custom_model_data":94}, "model": "man10/food/easter_egg_blue"},
+	{ "predicate": {"custom_model_data":95}, "model": "man10/food/easter_egg_purple"},
+	{ "predicate": {"custom_model_data":96}, "model": "man10/food/easter_egg_pink"},
+	{ "predicate": {"custom_model_data":97}, "model": "man10/food/easter_egg_green"},
+	{ "predicate": {"custom_model_data":98}, "model": "man10/food/easter_egg_red"},
+	{ "predicate": {"custom_model_data":99}, "model": "man10/food/easter_egg_rainbow"},
 
-	{ "predicate": {"custom_model_data":93}, "model": "item/beetroot"}
+	{ "predicate": {"custom_model_data":100}, "model": "item/beetroot"}
     ]
 }

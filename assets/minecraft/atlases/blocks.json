@@ -37,6 +37,26 @@
             "type": "directory",
             "source": "font",
             "prefix": "font/"
+        },
+        {
+            "type": "directory",
+            "source": "painting",
+            "prefix": "painting/"
+        },
+        {
+            "type": "directory",
+            "source": "misc",
+            "prefix": "misc/"
+        },
+        {
+            "type": "directory",
+            "source": "gui",
+            "prefix": "gui/"
+        },
+        {
+            "type": "directory",
+            "source": "mob_effect",
+            "prefix": "mob_effect/"
         }
     ]
 }
