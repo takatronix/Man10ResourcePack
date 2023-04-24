@@ -408,8 +408,9 @@
     { "predicate": {"custom_model_data": 397 }, "model": "man10/equipment/manbo_death"},
     { "predicate": {"custom_model_data": 398 }, "model": "man10/equipment/evil_egg"},
     { "predicate": {"custom_model_data": 399 }, "model": "man10/equipment/terminal_auction"},
+    { "predicate": {"custom_model_data": 400 }, "model": "man10/equipment/chandelier"},
 
-        { "predicate": {"custom_model_data": 400 }, "model": "item/stone_hoe" },
+        { "predicate": {"custom_model_data": 401 }, "model": "item/stone_hoe" },
 
 
 
