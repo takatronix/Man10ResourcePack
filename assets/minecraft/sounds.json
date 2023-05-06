@@ -125,18 +125,6 @@
       "slot/jag_replay"
     ]
   },
-  "slot.kyuin": {
-    "category": "master",
-    "sounds": [
-      "slot/kyuin"
-    ]
-  },
-  "slot.kyuin_short": {
-    "category": "master",
-    "sounds": [
-      "slot/kyuin_short"
-    ]
-  },
   "slot.yorokobi": {
     "category": "master",
     "sounds": [
