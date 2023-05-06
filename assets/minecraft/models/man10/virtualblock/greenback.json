@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"parent": "greenscreen",
 	"textures": {
-		"2": "man10/common/greenyellow",
-		"particle": "man10/common/greenyellow"
+		"2": "man10/common/green",
+		"particle": "man10/common/green"
 	},
 	"elements": [
 		{
