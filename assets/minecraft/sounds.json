@@ -399,7 +399,36 @@
     "sounds": [
       "man10/music/darkweb"
     ]
-  }
-    
+  },
+  "man10.ukulele1": {
+    "category": "master",
+    "sounds": [
+      "man10/ukulele1"
+    ]
+  },
+  "man10.ukulele2": {
+    "category": "master",
+    "sounds": [
+      "man10/ukulele2"
+    ]
+  },
+  "man10.ukulele3": {
+    "category": "master",
+    "sounds": [
+      "man10/ukulele3"
+    ]
+  },
+  "man10.manbo1": {
+    "category": "master",
+    "sounds": [
+      "man10/manbo1"
+    ]
+  },
+  "man10.manbo2": {
+    "category": "master",
+    "sounds": [
+      "man10/manbo2"
+    ]
+  } 
     
 }
