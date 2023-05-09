@@ -411,8 +411,14 @@
     { "predicate": {"custom_model_data": 400 }, "model": "man10/equipment/chandelier"},
     { "predicate": {"custom_model_data": 401 }, "model": "man10/equipment/spotlight"},
     { "predicate": {"custom_model_data": 402 }, "model": "man10/equipment/terminal_museum"},
+    { "predicate": {"custom_model_data": 403 }, "model": "man10/equipment/b_manbo"},
+    { "predicate": {"custom_model_data": 404 }, "model": "man10/equipment/b_manbo_cry"},
+    { "predicate": {"custom_model_data": 405 }, "model": "man10/equipment/b_manbo_shock"},
+    { "predicate": {"custom_model_data": 406 }, "model": "man10/equipment/b_manbo_love"},
+    { "predicate": {"custom_model_data": 407 }, "model": "man10/equipment/b_manbo_rage"},
+    { "predicate": {"custom_model_data": 408 }, "model": "man10/equipment/b_manbo_death"},
 
-        { "predicate": {"custom_model_data": 403 }, "model": "item/stone_hoe" },
+        { "predicate": {"custom_model_data": 409 }, "model": "item/stone_hoe" },
 
 
 
