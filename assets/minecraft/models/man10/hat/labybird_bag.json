@@ -14,7 +14,7 @@
 			"from": [8, 13, 0],
 			"to": [15, 18, 14],
 			"faces": {
-				"north": {"uv": [14, 14, 21, 19], "texture": "#1"},
+				"north": {"uv": [9, 11, 16, 16], "texture": "#1"},
 				"east": {"uv": [3, 6, 13, 16], "texture": "#8"},
 				"south": {"uv": [3, 6, 13, 16], "texture": "#8"},
 				"west": {"uv": [21, 14, 35, 19], "texture": "#missing"},
@@ -594,43 +594,36 @@
 		{
 			"name": "group",
 			"origin": [0, 0, 0],
-			"color": 0,
 			"children": [0, 1]
 		},
 		{
 			"name": "group",
 			"origin": [8, 8, 8],
-			"color": 0,
 			"children": [2, 3]
 		},
 		{
 			"name": "group",
 			"origin": [8, 8, 8],
-			"color": 0,
 			"children": [4, 5]
 		},
 		{
 			"name": "group",
 			"origin": [8, 8, 8],
-			"color": 0,
 			"children": [6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]
 		},
 		{
 			"name": "group",
 			"origin": [8, 8, 8],
-			"color": 0,
 			"children": [23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34]
 		},
 		{
 			"name": "group",
 			"origin": [12.99, 10.5, -6.5],
-			"color": 0,
 			"children": [35, 36]
 		},
 		{
 			"name": "group",
 			"origin": [8, 8, 8],
-			"color": 0,
 			"children": [37, 38, 39, 40, 41, 42]
 		}
 	]
