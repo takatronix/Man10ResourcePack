@@ -382,6 +382,12 @@
       "gun/heist_killsound"
     ]
   },
+  "gun.missile": {
+    "category": "master",
+    "sounds": [
+      "gun/missile"
+    ]
+  },
   "man10.darkweb": {
     "category": "master",
     "sounds": [
