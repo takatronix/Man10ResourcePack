@@ -125,6 +125,9 @@
     {"predicate": {"custom_model_data":111}, "model": "minecraft:man10/slot/spring_event/od_sign_2"},
     {"predicate": {"custom_model_data":112}, "model": "minecraft:man10/slot/spring_event/od_sign_3"},
     {"predicate": {"custom_model_data":113}, "model": "minecraft:man10/slot/spring_event/od_sign_4"},
+	{"predicate": {"custom_model_data":114}, "model": "man10/slot/slot_effects/pink7"},
+	{"predicate": {"custom_model_data":115}, "model": "man10/slot/slot_effects/white7"},
+	{"predicate": {"custom_model_data":116}, "model": "man10/slot/slot_effects/green7"},
 
 
 	{"predicate": {"custom_model_data":117}, "model": "item/iron_nugget"}
