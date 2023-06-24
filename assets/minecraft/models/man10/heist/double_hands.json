@@ -1,0 +1,23 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "man10/heist/kit/double_hands",
+		"particle": "man10/heist/kit/double_hands"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 7.5625],
+			"to": [16, 16, 7.5625],
+			"faces": {
+				"north": {"uv": [0, 0, 15.5, 15.5], "texture": "#1"},
+				"east": {"uv": [0, 0, 15.5, 15.5], "texture": "#1"},
+				"south": {"uv": [0, 0, 15.5, 15.5], "texture": "#1"},
+				"west": {"uv": [0, 0, 15.5, 15.5], "texture": "#1"},
+				"up": {"uv": [0, 0, 15.5, 15.5], "texture": "#1"},
+				"down": {"uv": [0, 0, 15.5, 15.5], "texture": "#1"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {}
+}
