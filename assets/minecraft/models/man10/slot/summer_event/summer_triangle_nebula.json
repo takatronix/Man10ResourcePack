@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "man10/slot/summer_event/summer_triangle_nebula"
+	}
+}
