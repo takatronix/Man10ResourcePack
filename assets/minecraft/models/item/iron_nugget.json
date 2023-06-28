@@ -128,8 +128,20 @@
 	{"predicate": {"custom_model_data":114}, "model": "man10/slot/slot_effects/pink7"},
 	{"predicate": {"custom_model_data":115}, "model": "man10/slot/slot_effects/white7"},
 	{"predicate": {"custom_model_data":116}, "model": "man10/slot/slot_effects/green7"},
+        {"predicate": {"custom_model_data":117}, "model": "man10/slot/summer_event/summer_triangle_0"},
+        {"predicate": {"custom_model_data":118}, "model": "man10/slot/summer_event/summer_triangle_1"},
+        {"predicate": {"custom_model_data":119}, "model": "man10/slot/summer_event/summer_triangle_2"},
+        {"predicate": {"custom_model_data":120}, "model": "man10/slot/summer_event/summer_triangle_3"},
+        {"predicate": {"custom_model_data":121}, "model": "man10/slot/summer_event/summer_triangle_5"},
+        {"predicate": {"custom_model_data":122}, "model": "man10/slot/summer_event/summer_triangle_10"},
+        {"predicate": {"custom_model_data":123}, "model": "man10/slot/summer_event/summer_triangle_s_bonus"},
+        {"predicate": {"custom_model_data":124}, "model": "man10/slot/summer_event/summer_triangle_blackhole"},
+        {"predicate": {"custom_model_data":125}, "model": "man10/slot/summer_event/summer_triangle_nebula"},
+        {"predicate": {"custom_model_data":126}, "model": "man10/slot/summer_event/summer_triangle_lyra"},
+        {"predicate": {"custom_model_data":127}, "model": "man10/slot/summer_event/summer_triangle_cygnus"},
+        {"predicate": {"custom_model_data":128}, "model": "man10/slot/summer_event/summer_triangle_aquila"},
+        {"predicate": {"custom_model_data":129}, "model": "man10/slot/summer_event/summer_triangle_asteroid"},
 
-
-	{"predicate": {"custom_model_data":117}, "model": "item/iron_nugget"}
+	{"predicate": {"custom_model_data":130}, "model": "item/iron_nugget"}
     ]
 }
