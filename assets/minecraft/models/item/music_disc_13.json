@@ -119,9 +119,10 @@
         { "predicate": {"custom_model_data":113}, "model": "man10/heist/recon"},
         { "predicate": {"custom_model_data":114}, "model": "man10/heist/rifleman"},
         { "predicate": {"custom_model_data":115}, "model": "man10/heist/tactical_sniper"},
+        { "predicate": {"custom_model_data":116}, "model": "man10/heist/assault_rifleman_selected"},
 
         
-        { "predicate": {"custom_model_data":116}, "model": "item/music_disc_13"},
+        { "predicate": {"custom_model_data":117}, "model": "item/music_disc_13"},
 
     	{ "predicate": {"custom_model_data":1001}, "model": "man10/weapon/gun/mk47"},
     	{ "predicate": {"custom_model_data":1002}, "model": "man10/weapon/gun/mk47_ads"},
