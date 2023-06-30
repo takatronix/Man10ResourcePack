@@ -120,9 +120,22 @@
         { "predicate": {"custom_model_data":114}, "model": "man10/heist/rifleman"},
         { "predicate": {"custom_model_data":115}, "model": "man10/heist/tactical_sniper"},
         { "predicate": {"custom_model_data":116}, "model": "man10/heist/assault_rifleman_selected"},
+        { "predicate": {"custom_model_data":117}, "model": "man10/heist/combat_engineer_selected"},
+        { "predicate": {"custom_model_data":118}, "model": "man10/heist/commander_selected"},
+        { "predicate": {"custom_model_data":119}, "model": "man10/heist/double_hands_selected"},
+        { "predicate": {"custom_model_data":120}, "model": "man10/heist/elite_recon_selected"},
+        { "predicate": {"custom_model_data":121}, "model": "man10/heist/fast_fast_selected"},
+        { "predicate": {"custom_model_data":122}, "model": "man10/heist/fire_support_selected"},
+        { "predicate": {"custom_model_data":123}, "model": "man10/heist/fortress_selected"},
+        { "predicate": {"custom_model_data":124}, "model": "man10/heist/fragment_selected"},
+        { "predicate": {"custom_model_data":125}, "model": "man10/heist/ghost_sniper_selected"},
+        { "predicate": {"custom_model_data":126}, "model": "man10/heist/machine_gunner_selected"},
+        { "predicate": {"custom_model_data":127}, "model": "man10/heist/recon_selected"},
+        { "predicate": {"custom_model_data":128}, "model": "man10/heist/rifleman_selected"},
+        { "predicate": {"custom_model_data":129}, "model": "man10/heist/tactical_sniper_selected"},
 
         
-        { "predicate": {"custom_model_data":117}, "model": "item/music_disc_13"},
+        { "predicate": {"custom_model_data":130}, "model": "item/music_disc_13"},
 
     	{ "predicate": {"custom_model_data":1001}, "model": "man10/weapon/gun/mk47"},
     	{ "predicate": {"custom_model_data":1002}, "model": "man10/weapon/gun/mk47_ads"},
