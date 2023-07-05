@@ -141,7 +141,10 @@
         {"predicate": {"custom_model_data":127}, "model": "man10/slot/summer_event/summer_triangle_cygnus"},
         {"predicate": {"custom_model_data":128}, "model": "man10/slot/summer_event/summer_triangle_aquila"},
         {"predicate": {"custom_model_data":129}, "model": "man10/slot/summer_event/summer_triangle_asteroid"},
+        {"predicate": {"custom_model_data":130}, "model": "man10/slot/summer_event/normalpink7"},
+        {"predicate": {"custom_model_data":131}, "model": "man10/slot/summer_event/normalwhite7"},
+        {"predicate": {"custom_model_data":132}, "model": "man10/slot/summer_event/normalgreen7"},
 
-	{"predicate": {"custom_model_data":130}, "model": "item/iron_nugget"}
+	{"predicate": {"custom_model_data":133}, "model": "item/iron_nugget"}
     ]
 }
