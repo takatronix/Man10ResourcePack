@@ -18,7 +18,8 @@
         {"predicate": {"custom_model_data":11}, "model": "man10/icon/auction"},
         {"predicate": {"custom_model_data":12}, "model": "man10/icon/mcr"},
         {"predicate": {"custom_model_data":13}, "model": "man10/icon/apart"},
+        {"predicate": {"custom_model_data":14}, "model": "man10/icon/mc"},
 
-		{"predicate": {"custom_model_data":14}, "model": "item/wooden_shovel"}
+		{"predicate": {"custom_model_data":15}, "model": "item/wooden_shovel"}
     ]
 }
