@@ -144,7 +144,10 @@
         {"predicate": {"custom_model_data":130}, "model": "man10/slot/slot_effects/normalpink7"},
         {"predicate": {"custom_model_data":131}, "model": "man10/slot/slot_effects/normalwhite7"},
         {"predicate": {"custom_model_data":132}, "model": "man10/slot/slot_effects/normalgreen7"},
+        {"predicate": {"custom_model_data":133}, "model": "man10/slot/summer_event/purple_sazae"},
+        {"predicate": {"custom_model_data":134}, "model": "man10/slot/summer_event/yellow_sazae"},
+        {"predicate": {"custom_model_data":135}, "model": "man10/slot/summer_event/orange_sazae"},
 
-	{"predicate": {"custom_model_data":133}, "model": "item/iron_nugget"}
+	{"predicate": {"custom_model_data":136}, "model": "item/iron_nugget"}
     ]
 }

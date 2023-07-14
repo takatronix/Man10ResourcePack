@@ -420,8 +420,13 @@
     { "predicate": {"custom_model_data": 409 }, "model": "man10/equipment/b_manbo_money"},
     { "predicate": {"custom_model_data": 410 }, "model": "man10/equipment/manbo_camera"},
     { "predicate": {"custom_model_data": 411 }, "model": "man10/equipment/b_manbo_camera"},
+    { "predicate": {"custom_model_data": 412 }, "model": "man10/equipment/mosquito_coil2"},
+    { "predicate": {"custom_model_data": 413 }, "model": "man10/equipment/wind_chime"},
+    { "predicate": {"custom_model_data": 414 }, "model": "man10/equipment/pitcher"},
+    { "predicate": {"custom_model_data": 415 }, "model": "man10/equipment/chest_drawers"},
+    { "predicate": {"custom_model_data": 416 }, "model": "man10/equipment/shaved_ice_machine"},
 
-        { "predicate": {"custom_model_data": 412 }, "model": "item/stone_hoe" },
+        { "predicate": {"custom_model_data": 417 }, "model": "item/stone_hoe" },
 
 
 

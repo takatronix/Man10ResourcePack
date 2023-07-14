@@ -92,8 +92,14 @@
 	{"predicate": {"custom_model_data":86}, "model": "minecraft:man10/food/snow_ball"},
 	{"predicate": {"custom_model_data":87}, "model": "minecraft:man10/food/cheese_cake"},
 	{"predicate": {"custom_model_data":88}, "model": "minecraft:man10/food/christmas_donut"},
+	{"predicate": {"custom_model_data":89}, "model": "minecraft:man10/food/red_sazae"},
+	{"predicate": {"custom_model_data":90}, "model": "minecraft:man10/food/green_sazae"},
+	{"predicate": {"custom_model_data":91}, "model": "minecraft:man10/food/blue_sazae"},
+	{"predicate": {"custom_model_data":92}, "model": "minecraft:man10/food/bake_sazae"},
+	{"predicate": {"custom_model_data":93}, "model": "minecraft:man10/food/mino"},
+	{"predicate": {"custom_model_data":94}, "model": "minecraft:man10/food/mino2"},
 
 	
-	{ "predicate": {"custom_model_data":89}, "model": "item/baked_potato"}
+	{ "predicate": {"custom_model_data":95}, "model": "item/baked_potato"}
     ]
 }
