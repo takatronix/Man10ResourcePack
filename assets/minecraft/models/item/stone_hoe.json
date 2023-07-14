@@ -425,8 +425,10 @@
     { "predicate": {"custom_model_data": 414 }, "model": "man10/equipment/pitcher"},
     { "predicate": {"custom_model_data": 415 }, "model": "man10/equipment/chest_drawers"},
     { "predicate": {"custom_model_data": 416 }, "model": "man10/equipment/shaved_ice_machine"},
+    { "predicate": {"custom_model_data": 417 }, "model": "man10/equipment/display_frame_right_"},
+    { "predicate": {"custom_model_data": 418 }, "model": "man10/equipment/display_frame_left_"},
 
-        { "predicate": {"custom_model_data": 417 }, "model": "item/stone_hoe" },
+        { "predicate": {"custom_model_data": 419 }, "model": "item/stone_hoe" },
 
 
 
