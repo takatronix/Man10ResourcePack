@@ -1,0 +1,10 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "man10/map/map_on"
+    },
+         "overrides": [
+        { "predicate": {"custom_model_data": 1 }, "model": "man10/map/map_picture" },
+        { "predicate": {"custom_model_data": 2 }, "model": "item/filled_map" }
+        ]
+}
