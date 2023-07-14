@@ -1,0 +1,8 @@
+{
+    "parent": "minecraft:block/template_item_frame_map",
+    "textures": {
+        "particle": "block/netherite_block",
+        "wood": "block/map_frame",
+        "back": "block/glow_item_frame"
+    }
+}
