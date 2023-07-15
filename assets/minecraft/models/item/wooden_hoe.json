@@ -104,7 +104,7 @@
         {"predicate": {"custom_model_data":95}, "model": "man10/hat/labybird_bag"},
         {"predicate": {"custom_model_data":96}, "model": "man10/hat/strawberry_beret"},
         {"predicate": {"custom_model_data":97}, "model": "man10/hat/rabbit_mask"},
-        {"predicate": {"custom_model_data":98}, "model": "man10/hat/Straw_hat"},
+        {"predicate": {"custom_model_data":98}, "model": "man10/hat/straw_hat"},
 
         {"predicate": {"custom_model_data":99}, "model": "item/wooden_hoe"}
     ]
