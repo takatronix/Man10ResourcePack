@@ -98,8 +98,9 @@
 	{"predicate": {"custom_model_data":92}, "model": "minecraft:man10/food/bake_sazae"},
 	{"predicate": {"custom_model_data":93}, "model": "minecraft:man10/food/mino"},
 	{"predicate": {"custom_model_data":94}, "model": "minecraft:man10/food/mino2"},
+	{"predicate": {"custom_model_data":95}, "model": "minecraft:man10/food/popcorn"},
 
 	
-	{ "predicate": {"custom_model_data":95}, "model": "item/baked_potato"}
+	{ "predicate": {"custom_model_data":96}, "model": "item/baked_potato"}
     ]
 }
