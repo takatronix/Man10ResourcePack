@@ -59,6 +59,6 @@
         { "predicate": {"custom_model_data": 50 }, "model": "man10/weapon/sword/star_axe"},
         { "predicate": {"custom_model_data": 51 }, "model": "man10/weapon/sword/death_scythe"},
 
-        { "predicate": {"custom_model_data": 521 }, "model": "item/iron_sword" }
+        { "predicate": {"custom_model_data": 52 }, "model": "item/iron_sword" }
         ]
 }
