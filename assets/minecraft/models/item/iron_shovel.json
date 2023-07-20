@@ -51,8 +51,9 @@
 		{"predicate": {"custom_model_data":44}, "model": "man10/weapon/other/holiday_impact"},
 		{"predicate": {"custom_model_data":45}, "model": "man10/weapon/heist/epd_shield_"},
 		{"predicate": {"custom_model_data":46}, "model": "man10/weapon/magic/no_answer_here"},
+		{"predicate": {"custom_model_data":47}, "model": "man10/weapon/wing/dark_wing"},
 
 
-    {"predicate": {"custom_model_data":47}, "model": "item/iron_shovel"}		
+    {"predicate": {"custom_model_data":48}, "model": "item/iron_shovel"}		
   ]
 }
