@@ -427,8 +427,9 @@
     { "predicate": {"custom_model_data": 416 }, "model": "man10/equipment/shaved_ice_machine"},
     { "predicate": {"custom_model_data": 417 }, "model": "man10/equipment/display_frame_right_"},
     { "predicate": {"custom_model_data": 418 }, "model": "man10/equipment/display_frame_left_"},
+    { "predicate": {"custom_model_data": 419 }, "model": "man10/equipment/shooting_target"},
 
-        { "predicate": {"custom_model_data": 419 }, "model": "item/stone_hoe" },
+        { "predicate": {"custom_model_data": 420 }, "model": "item/stone_hoe" },
 
 
 
