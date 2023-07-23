@@ -1,0 +1,82 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "man10/weapon/museum_model/museum_ display_holder",
+		"particle": "man10/weapon/museum_model/museum_ display_holder"
+	},
+	"elements": [
+		{
+			"from": [4.63604, 13.36396, 7.00391],
+			"to": [8.63604, 15.36396, 8.99219],
+			"rotation": {"angle": -45, "axis": "z", "origin": [-0.36396, 13.36396, 0.99609]},
+			"faces": {
+				"north": {"uv": [4, 0, 8, 2], "texture": "#1"},
+				"east": {"uv": [4, 8, 6, 10], "texture": "#1"},
+				"south": {"uv": [4, 2, 8, 4], "texture": "#1"},
+				"west": {"uv": [6, 8, 8, 10], "texture": "#1"},
+				"up": {"uv": [4, 8, 0, 6], "texture": "#1"},
+				"down": {"uv": [8, 6, 4, 8], "texture": "#1"}
+			}
+		},
+		{
+			"from": [6, 7, 7.00781],
+			"to": [10, 9, 8.99609],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1, 7, 0.99609]},
+			"faces": {
+				"north": {"uv": [0, 0, 4, 2], "texture": "#1"},
+				"east": {"uv": [0, 8, 2, 10], "texture": "#1"},
+				"south": {"uv": [0, 2, 4, 4], "texture": "#1"},
+				"west": {"uv": [2, 8, 4, 10], "texture": "#1"},
+				"up": {"uv": [4, 6, 0, 4], "texture": "#1"},
+				"down": {"uv": [8, 4, 4, 6], "texture": "#1"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"translation": [-2, 1, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"translation": [-2, 1, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"ground": {
+			"rotation": [0, 0, 90],
+			"translation": [0, 5, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [-100, 90, 90]
+		},
+		"head": {
+			"rotation": [0, -90, 0],
+			"translation": [0, 16, 0]
+		},
+		"fixed": {
+			"rotation": [-90, -90, -90],
+			"translation": [0, -4.75, 0],
+			"scale": [2, 2, 2]
+		}
+	},
+	"groups": [
+		{
+			"name": "museum_ display_holder",
+			"origin": [8, 8, 8],
+			"children": [
+				{
+					"name": "group",
+					"origin": [1, 7, -0.02734],
+					"children": [0, 1]
+				}
+			]
+		}
+	]
+}
