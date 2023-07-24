@@ -57,6 +57,16 @@
             "type": "directory",
             "source": "mob_effect",
             "prefix": "mob_effect/"
+        },
+        {
+            "type": "directory",
+            "source": "map",
+            "prefix": "map/"
+        },
+        {
+            "type": "directory",
+            "source": "particle",
+            "prefix": "particle/"
         }
     ]
 }
