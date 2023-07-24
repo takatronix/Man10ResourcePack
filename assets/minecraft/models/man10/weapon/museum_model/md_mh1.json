@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "man10/weapon/gun/mh_lv1",
-		"1": "man10/weapon/museum_model/museum_ display_holder",
-		"particle": "man10/weapon/museum_model/museum_ display_holder"
+		"1": "man10/weapon/museum_model/museum_display_holder",
+		"particle": "man10/weapon/museum_model/museum_display_holder"
 	},
 	"elements": [
 		{

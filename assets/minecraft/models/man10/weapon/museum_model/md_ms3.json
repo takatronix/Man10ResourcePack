@@ -4,8 +4,8 @@
 	"textures": {
 		"1": "man10/weapon/gun/ms_lv3",
 		"2": "man10/weapon/gun/reflected_light",
-		"particle": "man10/weapon/museum_model/museum_ display_holder",
-		"1_1": "man10/weapon/museum_model/museum_ display_holder"
+		"particle": "man10/weapon/museum_model/museum_display_holder",
+		"1_1": "man10/weapon/museum_model/museum_display_holder"
 	},
 	"elements": [
 		{
