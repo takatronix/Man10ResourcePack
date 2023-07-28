@@ -95,7 +95,10 @@
 		{"predicate": {"custom_model_data":99},  "model": "man10/weapon/other/snowball_canon"},
 		{"predicate": {"custom_model_data":100},  "model": "man10/weapon/gun/future_gun_2"},
 		{"predicate": {"custom_model_data":101},  "model": "man10/weapon/gun/iseki_gun"},
+		{"predicate": {"custom_model_data":102},  "model": "man10/weapon/gun/artillery_shield"},
+		{"predicate": {"custom_model_data":103},  "model": "man10/weapon/gun/artillery_shield_open"},
+		{"predicate": {"custom_model_data":104},  "model": "man10/weapon/gun/artillery_shield_reload"},
 
-		{"predicate": {"custom_model_data":102}, "model": "item/iron_hoe"}
+		{"predicate": {"custom_model_data":105}, "model": "item/iron_hoe"}
     ]
 }
