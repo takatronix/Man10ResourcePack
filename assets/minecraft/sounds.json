@@ -341,6 +341,18 @@
       "man10/tetsudou"
     ]
   },
+  "slot.battakuji_reel": {
+    "category": "master",
+    "sounds": [
+      "man10/battakuji_reel"
+    ]
+  },
+  "slot.battakuji_result": {
+    "category": "master",
+    "sounds": [
+      "man10/battakuji_result"
+    ]
+  },
   "slot.ichinensei": {
     "category": "master",
     "sounds": [
