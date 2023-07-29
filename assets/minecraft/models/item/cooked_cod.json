@@ -12,7 +12,8 @@
 	{ "predicate": {"custom_model_data":6}, "model": "man10/food/hanpen"},
 	{ "predicate": {"custom_model_data":7}, "model": "man10/food/satsuma_age"},
     { "predicate": {"custom_model_data":8}, "model": "man10/food/fish_hamburger"},
+    { "predicate": {"custom_model_data":9}, "model": "man10/food/unagi_kabayaki"},
 
-	{ "predicate": {"custom_model_data":9}, "model": "item/cooked_chicken"}
+	{ "predicate": {"custom_model_data":10}, "model": "item/cooked_chicken"}
     ]
 }
