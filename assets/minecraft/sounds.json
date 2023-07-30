@@ -471,6 +471,30 @@
     "sounds": [
       "man10/music/vanilla"
     ]
+  } ,
+  "man10.gun_charge": {
+    "category": "master",
+    "sounds": [
+      "man10/gun_charge"
+    ]
+  } ,
+  "man10.reciept": {
+    "category": "master",
+    "sounds": [
+      "man10/reciept"
+    ]
+  } ,
+  "man10.laser_shoot": {
+    "category": "master",
+    "sounds": [
+      "man10/laser_shoot"
+    ]
+  } ,
+  "man10.laser_shoot2": {
+    "category": "master",
+    "sounds": [
+      "man10/laser_shoot2"
+    ]
   } 
     
 }
