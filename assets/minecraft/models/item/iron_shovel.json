@@ -55,6 +55,7 @@
 		{"predicate": {"custom_model_data":48}, "model": "man10/weapon/other/dragon_fist"},
 		{"predicate": {"custom_model_data":49}, "model": "man10/weapon/other/dragon_fist2"},
 		{"predicate": {"custom_model_data":50}, "model": "man10/weapon/other/dragon_effect"},
+		{"predicate": {"custom_model_data":51}, "model": "man10/weapon/magic/barrier_wand"},
 
 
     {"predicate": {"custom_model_data":51}, "model": "item/iron_shovel"}		
