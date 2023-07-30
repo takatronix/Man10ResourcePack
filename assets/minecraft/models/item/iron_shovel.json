@@ -58,6 +58,6 @@
 		{"predicate": {"custom_model_data":51}, "model": "man10/weapon/magic/barrier_wand"},
 
 
-    {"predicate": {"custom_model_data":51}, "model": "item/iron_shovel"}		
+    {"predicate": {"custom_model_data":52}, "model": "item/iron_shovel"}		
   ]
 }
