@@ -465,6 +465,12 @@
     "sounds": [
       "man10/manbo2"
     ]
+  } ,
+  "man10.vanilla": {
+    "category": "master",
+    "sounds": [
+      "man10/music/vanilla"
+    ]
   } 
     
 }
