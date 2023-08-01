@@ -431,8 +431,9 @@
     { "predicate": {"custom_model_data": 420 }, "model": "man10/equipment/shooting_target2"},
     { "predicate": {"custom_model_data": 421 }, "model": "man10/equipment/shooting_gate"},
     { "predicate": {"custom_model_data": 422 }, "model": "man10/equipment/laser_device"},
+    { "predicate": {"custom_model_data": 423 }, "model": "man10/equipment/nretnal"},
 
-        { "predicate": {"custom_model_data": 423 }, "model": "item/stone_hoe" },
+        { "predicate": {"custom_model_data": 424 }, "model": "item/stone_hoe" },
 
 
 
