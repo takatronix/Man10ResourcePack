@@ -770,6 +770,16 @@
 			"rotation": [-85, 0, 4],
 			"translation": [-6.5, 5.25, -29],
 			"scale": [1.64, 1.64, 1.64]
+		},
+		"gui": {
+			"rotation": [0, 89, 0],
+			"translation": [0, 80, 0],
+			"scale": [4, 4, 4]
+		},
+		"fixed": {
+			"rotation": [0, 0, -44],
+			"translation": [54.75, 56.5, 0],
+			"scale": [4, 4, 4]
 		}
 	},
 	"groups": [
