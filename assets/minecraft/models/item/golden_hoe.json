@@ -23,7 +23,8 @@
 		{"predicate": {"custom_model_data":16}, "model": "man10/gadget/exp_creator"},
 		{"predicate": {"custom_model_data":17}, "model": "man10/gadget/lottery_default"},
 		{"predicate": {"custom_model_data":18}, "model": "man10/gadget/lottery_opened"},
+		{"predicate": {"custom_model_data":19}, "model": "man10/gadget/laser_pointer"},
 
-		{"predicate": {"custom_model_data":19}, "model": "item/golden_hoe"}	
+		{"predicate": {"custom_model_data":20}, "model": "item/golden_hoe"}	
     ]
 }
