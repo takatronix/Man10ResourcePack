@@ -138,9 +138,12 @@
         { "predicate": {"custom_model_data":132}, "model": "man10/weapon/heist/m1911_pro"},
         { "predicate": {"custom_model_data":133}, "model": "man10/weapon/heist/m1911_ads_pro"},
         { "predicate": {"custom_model_data":134}, "model": "man10/weapon/heist/m1911_pro_reload"},
+        { "predicate": {"custom_model_data":135}, "model": "man10/equipment/nretnal2"},
+        { "predicate": {"custom_model_data":136}, "model": "man10/equipment/nretnal3"},
+        { "predicate": {"custom_model_data":137}, "model": "man10/equipment/nretnal4"},
 
         
-        { "predicate": {"custom_model_data":135}, "model": "item/music_disc_13"},
+        { "predicate": {"custom_model_data":138}, "model": "item/music_disc_13"},
 
     	{ "predicate": {"custom_model_data":1001}, "model": "man10/weapon/gun/mk47"},
     	{ "predicate": {"custom_model_data":1002}, "model": "man10/weapon/gun/mk47_ads"},
