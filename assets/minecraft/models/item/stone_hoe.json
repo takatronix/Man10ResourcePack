@@ -432,8 +432,11 @@
     { "predicate": {"custom_model_data": 421 }, "model": "man10/equipment/shooting_gate"},
     { "predicate": {"custom_model_data": 422 }, "model": "man10/equipment/laser_device"},
     { "predicate": {"custom_model_data": 423 }, "model": "man10/equipment/nretnal"},
+    { "predicate": {"custom_model_data": 424 }, "model": "man10/equipment/hand_pump"},
+    { "predicate": {"custom_model_data": 425 }, "model": "man10/equipment/sprinkler"},
+    { "predicate": {"custom_model_data": 426 }, "model": "man10/equipment/modern_fan"},
 
-        { "predicate": {"custom_model_data": 424 }, "model": "item/stone_hoe" },
+        { "predicate": {"custom_model_data": 427 }, "model": "item/stone_hoe" },
 
 
 
