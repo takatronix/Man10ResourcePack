@@ -105,7 +105,8 @@
         {"predicate": {"custom_model_data":96}, "model": "man10/hat/strawberry_beret"},
         {"predicate": {"custom_model_data":97}, "model": "man10/hat/rabbit_mask"},
         {"predicate": {"custom_model_data":98}, "model": "man10/hat/straw_hat"},
+        {"predicate": {"custom_model_data":99}, "model": "man10/hat/snowsant_met"},
 
-        {"predicate": {"custom_model_data":99}, "model": "item/wooden_hoe"}
+        {"predicate": {"custom_model_data":100}, "model": "item/wooden_hoe"}
     ]
 }
