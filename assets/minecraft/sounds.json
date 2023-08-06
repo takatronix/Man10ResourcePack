@@ -509,6 +509,12 @@
     "sounds": [
       "man10/laser_shoot2"
     ]
+  },
+  "man10.noise": {
+    "category": "master",
+    "sounds": [
+      "man10/noise"
+    ]
   } 
     
 }
