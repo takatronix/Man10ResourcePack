@@ -336,11 +336,16 @@
       "man10/freeze3"
     ]
   },
-
   "slot.sakibare1": {
     "category": "master",
     "sounds": [
       "man10/sakibare1"
+    ]
+  },
+  "slot.error": {
+    "category": "master",
+    "sounds": [
+      "man10/error"
     ]
   },
   "slot.kyuin1": {
