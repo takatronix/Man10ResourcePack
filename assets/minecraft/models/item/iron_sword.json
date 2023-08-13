@@ -58,7 +58,8 @@
         { "predicate": {"custom_model_data": 49 }, "model": "man10/weapon/magic/curtain_call_5stack"},
         { "predicate": {"custom_model_data": 50 }, "model": "man10/weapon/sword/star_axe"},
         { "predicate": {"custom_model_data": 51 }, "model": "man10/weapon/sword/death_scythe"},
+        { "predicate": {"custom_model_data": 52 }, "model": "man10/weapon/other/hydrangea_scythe_yellow"},
 
-        { "predicate": {"custom_model_data": 52 }, "model": "item/iron_sword" }
+        { "predicate": {"custom_model_data": 53 }, "model": "item/iron_sword" }
         ]
 }
