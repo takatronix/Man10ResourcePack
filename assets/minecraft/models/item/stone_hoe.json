@@ -435,8 +435,9 @@
     { "predicate": {"custom_model_data": 424 }, "model": "man10/equipment/hand_pump"},
     { "predicate": {"custom_model_data": 425 }, "model": "man10/equipment/sprinkler"},
     { "predicate": {"custom_model_data": 426 }, "model": "man10/equipment/modern_fan"},
+    { "predicate": {"custom_model_data": 427 }, "model": "man10/equipment/manking_kikiippatsu"},
 
-        { "predicate": {"custom_model_data": 427 }, "model": "item/stone_hoe" },
+        { "predicate": {"custom_model_data": 428 }, "model": "item/stone_hoe" },
 
 
 
