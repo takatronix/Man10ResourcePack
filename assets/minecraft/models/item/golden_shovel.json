@@ -19,7 +19,11 @@
     {"predicate": {"custom_model_data":12}, "model": "man10/vehicle/tractor"},
     {"predicate": {"custom_model_data":13}, "model": "man10/vehicle/farmdrone"},
     {"predicate": {"custom_model_data":14}, "model": "man10/vehicle/retro_car"},
+    {"predicate": {"custom_model_data":15}, "model": "man10/vehicle/ad_truck"},
+    {"predicate": {"custom_model_data":16}, "model": "man10/vehicle/ad_truck2"},
 
-		{"predicate": {"custom_model_data":15}, "model": "item/golden_shovel"}
+
+
+		{"predicate": {"custom_model_data":17}, "model": "item/golden_shovel"}
     ]
 }
