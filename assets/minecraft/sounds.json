@@ -515,6 +515,24 @@
       "man10/laser_shoot2"
     ]
   },
+  "gun.railgun": {
+    "category": "master",
+    "sounds": [
+      "gun/railgun"
+    ]
+  },
+  "gun.railgun_fire": {
+    "category": "master",
+    "sounds": [
+      "gun/railgun_fire"
+    ]
+  },
+  "gun.railgun_charge": {
+    "category": "master",
+    "sounds": [
+      "gun/railgun_charge"
+    ]
+  },
   "man10.noise": {
     "category": "master",
     "sounds": [
