@@ -147,7 +147,9 @@
         {"predicate": {"custom_model_data":133}, "model": "man10/slot/summer_event/purple_sazae"},
         {"predicate": {"custom_model_data":134}, "model": "man10/slot/summer_event/yellow_sazae"},
         {"predicate": {"custom_model_data":135}, "model": "man10/slot/summer_event/orange_sazae"},
+        {"predicate": {"custom_model_data":136}, "model": "man10/slot/god/god_0"},
+        {"predicate": {"custom_model_data":137}, "model": "man10/slot/god/god_s"},
 
-	{"predicate": {"custom_model_data":136}, "model": "item/iron_nugget"}
+	{"predicate": {"custom_model_data":138}, "model": "item/iron_nugget"}
     ]
 }
