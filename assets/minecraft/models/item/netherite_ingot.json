@@ -9,6 +9,7 @@
         {"predicate": {"custom_model_data":2}, "model": "man10/currency/rainbow_ticket"},
         {"predicate": {"custom_model_data":3}, "model": "man10/currency/100m_currency"},
         {"predicate": {"custom_model_data":4}, "model": "man10/currency/weapon_ticket"},
-        {"predicate": {"custom_model_data":5}, "model": "man10/currency/bit_item"}	
+        {"predicate": {"custom_model_data":5}, "model": "man10/currency/bit_item"},
+        {"predicate": {"custom_model_data":6}, "model": "man10/currency/golden_ticket"}	
     ]
 }
