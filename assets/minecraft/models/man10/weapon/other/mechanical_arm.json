@@ -501,12 +501,21 @@
 			}
 		}
 	],
+	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
 			"translation": [0, -2.5, 0]
 		},
 		"thirdperson_lefthand": {
 			"translation": [0, -2.25, 0]
+		},
+		"gui": {
+			"rotation": [50, 140, -36],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"fixed": {
+			"rotation": [87, -137, 90],
+			"translation": [0, 1, -4.25]
 		}
 	},
 	"groups": [
