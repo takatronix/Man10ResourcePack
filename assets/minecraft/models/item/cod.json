@@ -121,7 +121,7 @@
       {"predicate": {"custom_model_data":112}, "model": "man10/fish/koridorasu"},
       {"predicate": {"custom_model_data":113}, "model": "man10/fish/kuhliloach"},
       {"predicate": {"custom_model_data":114}, "model": "man10/fish/macropinna"},
-      {"predicate": {"custom_model_data":115}, "model": "man10/fish/masu"},
+      {"predicate": {"custom_model_data":115}, "model": "man10/fish/kunimasu"},
       {"predicate": {"custom_model_data":116}, "model": "man10/fish/mategai"},
       {"predicate": {"custom_model_data":117}, "model": "man10/fish/minamiisuzumi"},
       {"predicate": {"custom_model_data":118}, "model": "man10/fish/mizuuodamashi"},
