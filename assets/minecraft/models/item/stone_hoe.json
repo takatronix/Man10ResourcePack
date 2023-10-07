@@ -436,8 +436,15 @@
     { "predicate": {"custom_model_data": 425 }, "model": "man10/equipment/sprinkler"},
     { "predicate": {"custom_model_data": 426 }, "model": "man10/equipment/modern_fan"},
     { "predicate": {"custom_model_data": 427 }, "model": "man10/equipment/manking_kikiippatsu"},
+    { "predicate": {"custom_model_data": 428 }, "model": "man10/equipment/pumpkin_bug"},
+    { "predicate": {"custom_model_data": 429 }, "model": "man10/equipment/jack_o_lantern"},
+    { "predicate": {"custom_model_data": 430 }, "model": "man10/equipment/jack_o_lantern2"},
+    { "predicate": {"custom_model_data": 431 }, "model": "man10/equipment/halloween_sofa"},
+    { "predicate": {"custom_model_data": 432 }, "model": "man10/equipment/pumpkin_table"},
+    { "predicate": {"custom_model_data": 433 }, "model": "man10/equipment/pumpkin_tv"},
+    { "predicate": {"custom_model_data": 434 }, "model": "man10/equipment/pumpkin_rug"},
 
-        { "predicate": {"custom_model_data": 428 }, "model": "item/stone_hoe" },
+        { "predicate": {"custom_model_data": 435 }, "model": "item/stone_hoe" },
 
 
 

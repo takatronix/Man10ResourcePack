@@ -99,8 +99,14 @@
 	{"predicate": {"custom_model_data":93}, "model": "minecraft:man10/food/mino"},
 	{"predicate": {"custom_model_data":94}, "model": "minecraft:man10/food/mino2"},
 	{"predicate": {"custom_model_data":95}, "model": "minecraft:man10/food/popcorn"},
+	{"predicate": {"custom_model_data":96}, "model": "minecraft:man10/food/daigaku_imo"},
+	{"predicate": {"custom_model_data":97}, "model": "minecraft:man10/food/pumpkin_cookie"},
+	{"predicate": {"custom_model_data":98}, "model": "minecraft:man10/food/ghost_cookie"},
+	{"predicate": {"custom_model_data":99}, "model": "minecraft:man10/food/bat_cookie"},
+	{"predicate": {"custom_model_data":100}, "model": "minecraft:man10/food/black_cat_cookie"},
+	{"predicate": {"custom_model_data":101}, "model": "minecraft:man10/food/pumpkin_bug"},
 
 	
-	{ "predicate": {"custom_model_data":96}, "model": "item/baked_potato"}
+	{ "predicate": {"custom_model_data":102}, "model": "item/baked_potato"}
     ]
 }
