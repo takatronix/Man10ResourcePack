@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "man10/pumpkin_table",
-		"particle": "man10/pumpkin_table"
+		"0": "man10/equipment/pumpkin_table/pumpkin_table",
+		"particle": "man10/equipment/pumpkin_table"
 	},
 	"elements": [
 		{
@@ -145,8 +145,9 @@
 			"translation": [0, 14.5, 0]
 		},
 		"fixed": {
-			"translation": [0, 12.45, 19],
-			"scale": [3.56, 3.56, 3.56]
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -30],
+			"scale": [4, 4, 4]
 		}
 	}
 }
