@@ -7,10 +7,11 @@
       
       {"predicate": {"custom_model_data":1}, "model": "man10/fish/subesubemanjuugani"},
       {"predicate": {"custom_model_data":2}, "model": "man10/fish/akakurage"},
-      {"predicate": {"custom_model_data":3}, "model": "man10/fish/umihebi"},
+      {"predicate": {"custom_model_data":3}, "model": "man10/fish/kurogashiraumihebi"},
       {"predicate": {"custom_model_data":4}, "model": "man10/fish/dwarf_pufferfish"},
       {"predicate": {"custom_model_data":5}, "model": "man10/fish/hyoumondako"},
+      {"predicate": {"custom_model_data":6}, "model": "man10/fish/onikamasu"},
 
-      {"predicate": {"custom_model_data":6}, "model": "item/pufferfish"}
+      {"predicate": {"custom_model_data":7}, "model": "item/pufferfish"}
     ]
 }
