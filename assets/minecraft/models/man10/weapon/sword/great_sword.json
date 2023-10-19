@@ -1,0 +1,38 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "man10/weapon/sword/great_sword"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [44, 90, 0],
+			"translation": [0, 10.75, 1.5],
+			"scale": [1.65, 1.64, 1.65]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [44, -90, 0],
+			"translation": [0, 10.75, 1.5],
+			"scale": [1.65, 1.65, 1.65]
+		},
+		"firstperson_righthand": {
+			"rotation": [-6, 97, 70],
+			"translation": [0, 6, 3]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-6, -97, -70],
+			"translation": [0, 6, 3]
+		},
+		"ground": {
+			"translation": [0, 4.75, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"gui": {
+			"scale": [1.16, 1.16, 1.16]
+		},
+		"fixed": {
+			"translation": [0, 0.5, -1],
+			"scale": [1.94, 1.94, 1.94]
+		}
+	}
+}
