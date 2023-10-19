@@ -59,8 +59,9 @@
 		{"predicate": {"custom_model_data":52}, "model": "man10/weapon/gun/water_barrage_ads"},
 		{"predicate": {"custom_model_data":53}, "model": "man10/weapon/other/mechanical_arm"},
 		{"predicate": {"custom_model_data":54}, "model": "man10/weapon/wing/farm_wing"},
+		{"predicate": {"custom_model_data":55}, "model": "man10/weapon/wing/frost_wing"},
 
 
-    {"predicate": {"custom_model_data":55}, "model": "item/iron_shovel"}		
+    {"predicate": {"custom_model_data":56}, "model": "item/iron_shovel"}		
   ]
 }
