@@ -32,7 +32,12 @@
         { "predicate": {"custom_model_data": 25 }, "model": "man10/potion/slash_3" },
         { "predicate": {"custom_model_data": 26 }, "model": "man10/potion/effect_ice" },
         { "predicate": {"custom_model_data": 27 }, "model": "man10/potion/effect_ice_2" },
-
-        { "predicate": {"custom_model_data": 28 }, "model": "item/potion" }
+        { "predicate": {"custom_model_data": 28 }, "model": "man10/potion/unleashed_iceblade_effect1" },
+        { "predicate": {"custom_model_data": 29 }, "model": "man10/potion/unleashed_iceblade_effect2" },
+        { "predicate": {"custom_model_data": 30 }, "model": "man10/potion/unleashed_iceblade_effect3" },
+        { "predicate": {"custom_model_data": 31 }, "model": "man10/potion/unleashed_iceblade_effect4" },
+        { "predicate": {"custom_model_data": 32 }, "model": "man10/potion/unleashed_iceblade_effect5" },
+        { "predicate": {"custom_model_data": 33 }, "model": "man10/potion/unleashed_iceblade_effect6" },
+        { "predicate": {"custom_model_data": 34 }, "model": "item/potion" }
         ]
 }

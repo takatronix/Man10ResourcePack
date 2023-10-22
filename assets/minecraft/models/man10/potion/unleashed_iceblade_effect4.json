@@ -1,0 +1,18 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "man10/potion/unleashed_iceblade_effect4"
+    },
+    "display": {
+      "head": {
+        "rotation": [ 180, 90, 270 ],
+        "translation": [ 0, 0, 0],
+        "scale":[ 4, 4, 0.2]
+      },
+      "thirdperson_righthand": {
+        "rotation": [ 180, 90, 270 ],
+        "translation": [ -6, 0, 20],
+        "scale":[ 4, 4, 1]
+      }
+    }
+}
