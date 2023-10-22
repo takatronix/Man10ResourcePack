@@ -60,8 +60,9 @@
 		{"predicate": {"custom_model_data":53}, "model": "man10/weapon/other/mechanical_arm"},
 		{"predicate": {"custom_model_data":54}, "model": "man10/weapon/wing/farm_wing"},
 		{"predicate": {"custom_model_data":55}, "model": "man10/weapon/wing/frost_wing"},
+		{"predicate": {"custom_model_data":56}, "model": "man10/weapon/other/cold_axe"},
 
 
-    {"predicate": {"custom_model_data":56}, "model": "item/iron_shovel"}		
+    {"predicate": {"custom_model_data":57}, "model": "item/iron_shovel"}		
   ]
 }
