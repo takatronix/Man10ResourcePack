@@ -61,8 +61,13 @@
 		{"predicate": {"custom_model_data":54}, "model": "man10/weapon/wing/farm_wing"},
 		{"predicate": {"custom_model_data":55}, "model": "man10/weapon/wing/frost_wing"},
 		{"predicate": {"custom_model_data":56}, "model": "man10/weapon/other/cold_axe"},
+		{"predicate": {"custom_model_data":57}, "model": "man10/weapon/other/protean_bow"},
+		{"predicate": {"custom_model_data":58}, "model": "man10/weapon/other/protean_shield"},
+		{"predicate": {"custom_model_data":59}, "model": "man10/weapon/other/protean_lance"},
+		{"predicate": {"custom_model_data":60}, "model": "man10/weapon/other/protean_axe"},
+		{"predicate": {"custom_model_data":61}, "model": "man10/weapon/other/protean_wand"},
 
 
-    {"predicate": {"custom_model_data":57}, "model": "item/iron_shovel"}		
+    {"predicate": {"custom_model_data":62}, "model": "item/iron_shovel"}		
   ]
 }
