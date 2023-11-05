@@ -67,8 +67,9 @@
 		{"predicate": {"custom_model_data":60}, "model": "man10/weapon/other/protean_axe"},
 		{"predicate": {"custom_model_data":61}, "model": "man10/weapon/other/protean_wand"},
 		{"predicate": {"custom_model_data":62}, "model": "man10/weapon/wing/enforcer_wing"},
+		{"predicate": {"custom_model_data":63}, "model": "man10/weapon/wing/enforcer_wing_projectile"},
 
 
-    {"predicate": {"custom_model_data":63}, "model": "item/iron_shovel"}		
+    {"predicate": {"custom_model_data":64}, "model": "item/iron_shovel"}		
   ]
 }
