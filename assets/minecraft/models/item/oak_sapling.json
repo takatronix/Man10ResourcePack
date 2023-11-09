@@ -25,8 +25,8 @@
      { "predicate": {"custom_model_data":18}, "model": "man10/virtualblock/dummy_diamond_ore"},
      { "predicate": {"custom_model_data":19}, "model": "man10/virtualblock/dummy_emerald_ore"},
      { "predicate": {"custom_model_data":20}, "model": "man10/virtualblock/dummy_moss_carpet"},
+     { "predicate": {"custom_model_data":21}, "model": "man10/virtualblock/dummy_air"},
 
-
-     {"predicate": {"custom_model_data":21}, "model": "item/oak_sapling"}
+     {"predicate": {"custom_model_data":22}, "model": "item/oak_sapling"}
     ]
 }

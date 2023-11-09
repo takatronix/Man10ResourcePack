@@ -61,7 +61,9 @@
         { "predicate": {"custom_model_data": 52 }, "model": "man10/weapon/other/hydrangea_scythe_yellow"},
         { "predicate": {"custom_model_data": 53 }, "model": "man10/weapon/sword/leashed_iceblade"},
         { "predicate": {"custom_model_data": 54 }, "model": "man10/weapon/sword/unleashed_iceblade"},
+        { "predicate": {"custom_model_data": 55 }, "model": "man10/weapon/sword/rise_of_curtain_0stack"},
+        { "predicate": {"custom_model_data": 56 }, "model": "man10/weapon/sword/rise_of_curtain_5stack"},
 
-        { "predicate": {"custom_model_data": 55 }, "model": "item/iron_sword" }
+        { "predicate": {"custom_model_data": 57 }, "model": "item/iron_sword" }
         ]
 }
