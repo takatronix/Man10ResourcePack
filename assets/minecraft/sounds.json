@@ -530,7 +530,13 @@
   "gun.railgun_charge": {
     "category": "master",
     "sounds": [
-      "gun/railgun_charge"
+      "gun/railgun_charge"    
+    ]
+  },
+  "man10.esrome": {
+    "category": "master",
+    "sounds": [
+      "man10/esrome"    
     ]
   },
   "man10.noise": {
