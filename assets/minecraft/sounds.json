@@ -533,10 +533,10 @@
       "gun/railgun_charge"    
     ]
   },
-  "man10.esrome": {
+  "man10.esrom": {
     "category": "master",
     "sounds": [
-      "man10/esrome"    
+      "man10/esrom"    
     ]
   },
   "man10.noise": {
