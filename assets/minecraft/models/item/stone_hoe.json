@@ -443,8 +443,9 @@
     { "predicate": {"custom_model_data": 432 }, "model": "man10/equipment/pumpkin_table"},
     { "predicate": {"custom_model_data": 433 }, "model": "man10/equipment/pumpkin_tv"},
     { "predicate": {"custom_model_data": 434 }, "model": "man10/equipment/pumpkin_rug"},
+    { "predicate": {"custom_model_data": 435 }, "model": "man10/equipment/plat_trophy"},
 
-        { "predicate": {"custom_model_data": 435 }, "model": "item/stone_hoe" },
+        { "predicate": {"custom_model_data": 436 }, "model": "item/stone_hoe" },
 
 
 
