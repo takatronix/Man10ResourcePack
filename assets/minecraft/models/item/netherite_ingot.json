@@ -11,6 +11,11 @@
         {"predicate": {"custom_model_data":4}, "model": "man10/currency/weapon_ticket"},
         {"predicate": {"custom_model_data":5}, "model": "man10/currency/bit_item"},
         {"predicate": {"custom_model_data":6}, "model": "man10/currency/golden_ticket"},
-        {"predicate": {"custom_model_data":7}, "model": "man10/currency/golden_ticket2"}	
+        {"predicate": {"custom_model_data":7}, "model": "man10/currency/golden_ticket2"},
+        {"predicate": {"custom_model_data":8}, "model": "man10/other/pilgrims_stoneplate0"},
+        {"predicate": {"custom_model_data":9}, "model": "man10/other/pilgrims_stoneplate1"},	
+        {"predicate": {"custom_model_data":10}, "model": "man10/other/pilgrims_stoneplate2"},	
+        {"predicate": {"custom_model_data":11}, "model": "man10/other/pilgrims_stoneplate3"},	
+        {"predicate": {"custom_model_data":12}, "model": "man10/other/pilgrims_stoneplate4"}	
     ]
 }
