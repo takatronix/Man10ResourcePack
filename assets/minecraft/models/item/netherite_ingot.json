@@ -12,14 +12,11 @@
         {"predicate": {"custom_model_data":5}, "model": "man10/currency/bit_item"},
         {"predicate": {"custom_model_data":6}, "model": "man10/currency/golden_ticket"},
         {"predicate": {"custom_model_data":7}, "model": "man10/currency/golden_ticket2"},
-        {"predicate": {"custom_model_data":8}, "model": "man10/other/pilgrims_stoneplate0"},
-        {"predicate": {"custom_model_data":9}, "model": "man10/other/pilgrims_stoneplate1"},	
-        {"predicate": {"custom_model_data":10}, "model": "man10/other/pilgrims_stoneplate2"},	
-        {"predicate": {"custom_model_data":11}, "model": "man10/other/pilgrims_stoneplate3"},	
-        {"predicate": {"custom_model_data":12}, "model": "man10/other/pilgrims_stoneplate4"},
-        {"predicate": {"custom_model_data":13}, "model": "man10/other/pilgrims_stoneplate0_back"},	
-        {"predicate": {"custom_model_data":14}, "model": "man10/other/pilgrims_stoneplate1_back"},	
-        {"predicate": {"custom_model_data":15}, "model": "man10/other/pilgrims_stoneplate2_back"},	
-        {"predicate": {"custom_model_data":16}, "model": "man10/other/pilgrims_stoneplate3_back"}	
+        {"predicate": {"custom_model_data":8}, "model": "man10/other/pilgrims_stoneplate0_nostone"},
+        {"predicate": {"custom_model_data":9}, "model": "man10/other/pilgrims_stoneplate0_back"},
+        {"predicate": {"custom_model_data":10}, "model": "man10/other/pilgrims_stoneplate1_back"},	
+        {"predicate": {"custom_model_data":11}, "model": "man10/other/pilgrims_stoneplate2_back"},	
+        {"predicate": {"custom_model_data":12}, "model": "man10/other/pilgrims_stoneplate3_back"},	
+        {"predicate": {"custom_model_data":13}, "model": "man10/other/pilgrims_stoneplate4_back"}
     ]
 }
