@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"2": "man10/weapon/magic/curtain_call/rise_of_curtain"
+		"2": "man10/weapon/magic/curtain_call/rise_of_curtain",
+		"5": "man10/weapon/magic/curtain_call/rise_of_curtain_anim"
 	},
 	"elements": [
 		{
@@ -6973,6 +6974,54 @@
 				"up": {"uv": [8, 4, 9, 5], "texture": "#2"},
 				"down": {"uv": [8, 4, 9, 5], "texture": "#2"}
 			}
+		},
+		{
+			"from": [8.68137, -14.55, 7.73573],
+			"to": [8.68137, 25.95, 13.73573],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [8.00068, 12.33564, 8.00327]},
+			"faces": {
+				"north": {"uv": [9.76, 0, 7.68, 16], "texture": "#missing"},
+				"east": {"uv": [10.72, 0, 7.68, 16], "texture": "#5"},
+				"south": {"uv": [9.76, 0, 7.68, 16], "texture": "#missing"},
+				"up": {"uv": [9.76, 0, 7.68, 16], "texture": "#missing"},
+				"down": {"uv": [9.76, 0, 7.68, 16], "texture": "#missing"}
+			}
+		},
+		{
+			"from": [7.35552, -14.55, 7.57726],
+			"to": [7.35552, 25.95, 13.57726],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8.41611, 5.7, 8.01677]},
+			"faces": {
+				"north": {"uv": [7.68, 0, 9.76, 16], "texture": "#missing"},
+				"south": {"uv": [7.68, 0, 9.76, 16], "texture": "#missing"},
+				"west": {"uv": [7.68, 0, 10.72, 16], "texture": "#5"},
+				"up": {"uv": [7.68, 0, 9.76, 16], "texture": "#missing"},
+				"down": {"uv": [7.68, 0, 9.76, 16], "texture": "#missing"}
+			}
+		},
+		{
+			"from": [8.67104, -14.55, 2.29576],
+			"to": [8.67104, 25.95, 8.29576],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8.00068, 12.33564, 8.00327]},
+			"faces": {
+				"north": {"uv": [7.68, 0, 5.6, 16], "texture": "#missing"},
+				"east": {"uv": [7.68, 0, 4.8, 16], "texture": "#5"},
+				"south": {"uv": [7.68, 0, 5.6, 16], "texture": "#missing"},
+				"up": {"uv": [7.68, 0, 5.6, 16], "texture": "#missing"},
+				"down": {"uv": [7.68, 0, 5.6, 16], "texture": "#missing"}
+			}
+		},
+		{
+			"from": [7.35552, -14.55, 2.45629],
+			"to": [7.35552, 25.95, 8.45629],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [8.41611, 5.7, 8.01677]},
+			"faces": {
+				"north": {"uv": [5.6, 0, 7.68, 16], "texture": "#missing"},
+				"south": {"uv": [5.6, 0, 7.68, 16], "texture": "#missing"},
+				"west": {"uv": [4.8, 0, 7.68, 16], "texture": "#5"},
+				"up": {"uv": [5.6, 0, 7.68, 16], "texture": "#missing"},
+				"down": {"uv": [5.6, 0, 7.68, 16], "texture": "#missing"}
+			}
 		}
 	],
 	"gui_light": "front",
@@ -7178,6 +7227,5 @@
 			"name": "octagon",
 			"origin": [8, 8, 8],
 			"children": [521, 522, 523, 524]
-		}
-	]
+		}, 525, 526, 527, 528]
 }
