@@ -16,6 +16,10 @@
         {"predicate": {"custom_model_data":9}, "model": "man10/other/pilgrims_stoneplate1"},	
         {"predicate": {"custom_model_data":10}, "model": "man10/other/pilgrims_stoneplate2"},	
         {"predicate": {"custom_model_data":11}, "model": "man10/other/pilgrims_stoneplate3"},	
-        {"predicate": {"custom_model_data":12}, "model": "man10/other/pilgrims_stoneplate4"}	
+        {"predicate": {"custom_model_data":12}, "model": "man10/other/pilgrims_stoneplate4"},
+        {"predicate": {"custom_model_data":13}, "model": "man10/other/pilgrims_stoneplate0_back"},	
+        {"predicate": {"custom_model_data":14}, "model": "man10/other/pilgrims_stoneplate1_back"},	
+        {"predicate": {"custom_model_data":15}, "model": "man10/other/pilgrims_stoneplate2_back"},	
+        {"predicate": {"custom_model_data":16}, "model": "man10/other/pilgrims_stoneplate3_back"}	
     ]
 }
