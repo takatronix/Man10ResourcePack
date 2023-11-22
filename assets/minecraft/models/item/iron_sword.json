@@ -64,7 +64,8 @@
         { "predicate": {"custom_model_data": 55 }, "model": "man10/weapon/sword/rise_of_curtain_0stack"},
         { "predicate": {"custom_model_data": 56 }, "model": "man10/weapon/sword/rise_of_curtain_object"},
         { "predicate": {"custom_model_data": 57 }, "model": "man10/weapon/magic/rise_of_curtain_burning"},
+        { "predicate": {"custom_model_data": 58 }, "model": "man10/weapon/magic/rise_of_curtain_no_hand"},
 
-        { "predicate": {"custom_model_data": 58 }, "model": "item/iron_sword" }
+        { "predicate": {"custom_model_data": 59 }, "model": "item/iron_sword" }
         ]
 }
