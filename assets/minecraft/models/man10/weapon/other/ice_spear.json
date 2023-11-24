@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "man10/weapon/other/ice_spear/winter_contest_spear",
-		"1": "man10/weapon/other/ice_spear/winter_contest_spear2",
-		"2": "man10/weapon/other/ice_spear/winter_contest_spear3",
-		"particle": "man10/weapon/other/ice_spear/winter_contest_spear"
+		"0": "man10/weapon/magic/ice_spear/winter_contest_spear",
+		"1": "man10/weapon/magic/ice_spear/winter_contest_spear2",
+		"2": "man10/weapon/magic/ice_spear/winter_contest_spear3",
+		"particle": "man10/weapon/magic/ice_spear/winter_contest_spear"
 	},
 	"elements": [
 		{
