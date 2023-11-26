@@ -539,6 +539,12 @@
       "man10/esrom"    
     ]
   },
+  "man10.landmark_entry": {
+    "category": "master",
+    "sounds": [
+      "man10/landmark_entry"    
+    ]
+  },
   "man10.noise": {
     "category": "master",
     "sounds": [
