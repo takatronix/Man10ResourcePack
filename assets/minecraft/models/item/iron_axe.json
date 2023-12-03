@@ -4,6 +4,7 @@
         "layer0": "item/iron_axe"
     },
          "overrides": [
+        { "predicate": {"custom_model_data": 1 }, "model": "man10/weapon/sword/long_iron_sword" },
         { "predicate": {"custom_model_data": 1001 }, "model": "man10/attachment/4x_scope" },
         { "predicate": {"custom_model_data": 1002 }, "model": "man10/attachment/ergogrip" },
         { "predicate": {"custom_model_data": 1003 }, "model": "man10/attachment/extendmagazine" },
