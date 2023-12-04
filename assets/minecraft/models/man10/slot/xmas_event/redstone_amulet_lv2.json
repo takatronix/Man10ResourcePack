@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:man10/slot/xmas_event/redstone_amulet_lv2"
+  }
+}

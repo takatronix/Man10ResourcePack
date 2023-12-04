@@ -155,8 +155,20 @@
         {"predicate": {"custom_model_data":141}, "model": "man10/slot/xmas_event/2023_winter_token_redstone"},
         {"predicate": {"custom_model_data":142}, "model": "man10/slot/xmas_event/2023_winter_token_emerald"},
         {"predicate": {"custom_model_data":143}, "model": "man10/slot/xmas_event/2023_winter_token_obsidian"},
+        {"predicate": {"custom_model_data":144}, "model": "man10/slot/xmas_event/emerald_amulet_lv1"},
+        {"predicate": {"custom_model_data":145}, "model": "man10/slot/xmas_event/emerald_amulet_lv2"},
+        {"predicate": {"custom_model_data":146}, "model": "man10/slot/xmas_event/emerald_amulet_lv3"},
+        {"predicate": {"custom_model_data":147}, "model": "man10/slot/xmas_event/gold_amulet_lv1"},
+        {"predicate": {"custom_model_data":148}, "model": "man10/slot/xmas_event/gold_amulet_lv2"},
+        {"predicate": {"custom_model_data":149}, "model": "man10/slot/xmas_event/gold_amulet_lv3"},
+        {"predicate": {"custom_model_data":150}, "model": "man10/slot/xmas_event/redstone_amulet_lv1"},
+        {"predicate": {"custom_model_data":151}, "model": "man10/slot/xmas_event/redstone_amulet_lv2"},
+        {"predicate": {"custom_model_data":152}, "model": "man10/slot/xmas_event/redstone_amulet_lv3"},
+        {"predicate": {"custom_model_data":153}, "model": "man10/slot/xmas_event/obsidian_amulet_lv1"},
+        {"predicate": {"custom_model_data":154}, "model": "man10/slot/xmas_event/obsidian_amulet_lv2"},
+        {"predicate": {"custom_model_data":155}, "model": "man10/slot/xmas_event/obsidian_amulet_lv3"},
 
 
-	{"predicate": {"custom_model_data":144}, "model": "item/iron_nugget"}
+	{"predicate": {"custom_model_data":156}, "model": "item/iron_nugget"}
     ]
 }
