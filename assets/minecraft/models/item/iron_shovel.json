@@ -69,8 +69,9 @@
 		{"predicate": {"custom_model_data":62}, "model": "man10/weapon/wing/enforcer_wing"},
 		{"predicate": {"custom_model_data":63}, "model": "man10/weapon/wing/enforcer_wing_projectile"},
 		{"predicate": {"custom_model_data":64}, "model": "man10/weapon/other/ice_spear"},
+		{"predicate": {"custom_model_data":65}, "model": "man10/weapon/wing/ice_wing"},
 
 
-    {"predicate": {"custom_model_data":65}, "model": "item/iron_shovel"}		
+    {"predicate": {"custom_model_data":66}, "model": "item/iron_shovel"}		
   ]
 }
