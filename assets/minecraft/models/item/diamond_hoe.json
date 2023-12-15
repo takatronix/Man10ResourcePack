@@ -12,8 +12,9 @@
     {"predicate": {"custom_model_data":5}, "model": "man10/mob/2023winter_tokenmob_obsidian"},
     {"predicate": {"custom_model_data":6}, "model": "man10/mob/2023winter_tokenmob_redstone"},
     {"predicate": {"custom_model_data":7}, "model": "man10/mob/2023winter_tokenmob_burning"},
+    {"predicate": {"custom_model_data":8}, "model": "man10/mob/2023winter_tokenmob_ice"},
 
     
-		{"predicate": {"custom_model_data":8}, "model": "item/diamond_hoe"}
+		{"predicate": {"custom_model_data":9}, "model": "item/diamond_hoe"}
     ]
 }
