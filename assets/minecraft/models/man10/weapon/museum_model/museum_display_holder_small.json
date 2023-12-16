@@ -1,0 +1,77 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"texture_size": [64, 64],
+	"textures": {
+		"particle": "man10/weapon/museum_model/museum_display_holder",
+		"1_1": "man10/weapon/museum_model/museum_display_holder"
+	},
+	"elements": [
+		{
+			"from": [7.62745, 11.55459, 24.15235],
+			"to": [9.62745, 12.55459, 25.14063],
+			"rotation": {"angle": -45, "axis": "z", "origin": [0.62745, 11.55459, 18.14453]},
+			"faces": {
+				"north": {"uv": [4, 0, 8, 2], "texture": "#1_1"},
+				"east": {"uv": [4, 8, 6, 10], "texture": "#1_1"},
+				"south": {"uv": [4, 2, 8, 4], "texture": "#1_1"},
+				"west": {"uv": [6, 8, 8, 10], "texture": "#1_1"},
+				"up": {"uv": [4, 8, 0, 6], "texture": "#1_1"},
+				"down": {"uv": [8, 6, 4, 8], "texture": "#1_1"}
+			}
+		},
+		{
+			"from": [6.99141, 5.19063, 24.15625],
+			"to": [10.99141, 6.19063, 25.14453],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1.99141, 5.19063, 18.14453]},
+			"faces": {
+				"north": {"uv": [0, 0, 4, 2], "texture": "#1_1"},
+				"east": {"uv": [0, 8, 2, 10], "texture": "#1_1"},
+				"south": {"uv": [0, 2, 4, 4], "texture": "#1_1"},
+				"west": {"uv": [2, 8, 4, 10], "texture": "#1_1"},
+				"up": {"uv": [4, 6, 0, 4], "texture": "#1_1"},
+				"down": {"uv": [8, 4, 4, 6], "texture": "#1_1"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 8, -0.5]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 8, -0.5]
+		},
+		"firstperson_righthand": {
+			"translation": [-4.5, 19, 1],
+			"scale": [2, 2, 2]
+		},
+		"firstperson_lefthand": {
+			"translation": [-4.5, 19, 1],
+			"scale": [2.01, 2.01, 2.01]
+		},
+		"ground": {
+			"translation": [0, 8.25, -0.25]
+		},
+		"gui": {
+			"rotation": [90, 45, -90],
+			"translation": [8, 6.5, 0],
+			"scale": [1.29, 1.29, 1.29]
+		},
+		"head": {
+			"scale": [0, 0, 0]
+		},
+		"fixed": {
+			"rotation": [90, -90, 88],
+			"translation": [2, 6, -1.5],
+			"scale": [4, 4, 4]
+		}
+	},
+	"groups": [
+		{
+			"name": "group",
+			"origin": [1, 7, -0.02734],
+			"children": [0, 1]
+		}
+	]
+}

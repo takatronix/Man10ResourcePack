@@ -20,6 +20,8 @@
         { "predicate": {"custom_model_data":14}, "model": "man10/weapon/museum_model/md_mr2"},
         { "predicate": {"custom_model_data":15}, "model": "man10/weapon/museum_model/md_mr3"},
         { "predicate": {"custom_model_data":16}, "model": "man10/weapon/museum_model/md_mr4"},
+        { "predicate": {"custom_model_data":17}, "model": "man10/weapon/museum_model/mk47"},
+        { "predicate": {"custom_model_data":18}, "model": "man10/weapon/museum_model/mlock18"},
 
     	{ "predicate": {"custom_model_data":1001}, "model": "man10/weapon/gun/mlock18"},
     	{ "predicate": {"custom_model_data":1002}, "model": "man10/weapon/gun/mlock18_ads"},
