@@ -445,8 +445,11 @@
     { "predicate": {"custom_model_data": 434 }, "model": "man10/equipment/pumpkin_rug"},
     { "predicate": {"custom_model_data": 435 }, "model": "man10/equipment/plat_trophy"},
     { "predicate": {"custom_model_data": 436 }, "model": "man10/equipment/cauldron_soup" },
+    { "predicate": {"custom_model_data": 437 }, "model": "man10/equipment/snack_house" },
+    { "predicate": {"custom_model_data": 438 }, "model": "man10/equipment/snow_man_clock" },
+    { "predicate": {"custom_model_data": 439 }, "model": "man10/equipment/snow_dome2" },
 
-        { "predicate": {"custom_model_data": 437 }, "model": "item/stone_hoe" },
+        { "predicate": {"custom_model_data": 440 }, "model": "item/stone_hoe" },
 
 
 
