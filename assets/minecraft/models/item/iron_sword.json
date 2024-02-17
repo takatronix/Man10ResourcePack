@@ -68,7 +68,8 @@
         { "predicate": {"custom_model_data": 59 }, "model": "man10/weapon/other/ice_spear"},
         { "predicate": {"custom_model_data": 60 }, "model": "man10/weapon/other/ice_spear_prop"},
         { "predicate": {"custom_model_data": 61 }, "model": "man10/weapon/other/ice_spear_blade"},
+        { "predicate": {"custom_model_data": 62 }, "model": "man10/weapon/sword/blue_blade"},
 
-        { "predicate": {"custom_model_data": 62 }, "model": "item/iron_sword" }
+        { "predicate": {"custom_model_data": 63 }, "model": "item/iron_sword" }
         ]
 }
