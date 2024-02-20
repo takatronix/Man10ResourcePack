@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "man10/weapon/wand/mahou_stick/mahou_stick",
-		"particle": "man10/weapon/wand//mahou_stick/mahou_stick"
+		"0": "man10/weapon/magic/star_wand/star_wand",
+		"particle": "man10/weapon/magic/star_wand/star_wand"
 	},
 	"elements": [
 		{
