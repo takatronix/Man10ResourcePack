@@ -14,6 +14,36 @@
     { "predicate": {"custom_model_data":8}, "model": "man10/food/fish_hamburger"},
     { "predicate": {"custom_model_data":9}, "model": "man10/food/unagi_kabayaki"},
 
-	{ "predicate": {"custom_model_data":10}, "model": "item/cooked_chicken"}
+    { "predicate": {"custom_model_data":10}, "model": "man10/food/fish_cooked_food/aji_no_hiraki"},
+    { "predicate": {"custom_model_data":11}, "model": "man10/food/fish_cooked_food/ayu_no_shioyaki"},
+    { "predicate": {"custom_model_data":12}, "model": "man10/food/fish_cooked_food/buriteri"},
+    { "predicate": {"custom_model_data":13}, "model": "man10/food/fish_cooked_food/fukahire_soup"},
+    { "predicate": {"custom_model_data":14}, "model": "man10/food/fish_cooked_food/hokke_no_hiraki"},
+    { "predicate": {"custom_model_data":15}, "model": "man10/food/fish_cooked_food/hotate_no_batayaki"},
+    { "predicate": {"custom_model_data":16}, "model": "man10/food/fish_cooked_food/ikayaki"},
+    { "predicate": {"custom_model_data":17}, "model": "man10/food/fish_cooked_food/jinbeezame_no_nitsuke"},
+    { "predicate": {"custom_model_data":18}, "model": "man10/food/fish_cooked_food/kareiraisu"},
+    { "predicate": {"custom_model_data":19}, "model": "man10/food/fish_cooked_food/katsuo_no_tataki"},
+    { "predicate": {"custom_model_data":20}, "model": "man10/food/fish_cooked_food/kinki_no_nitsuke"},
+    { "predicate": {"custom_model_data":21}, "model": "man10/food/fish_cooked_food/maguro_no_3kan_nigiri"},
+    { "predicate": {"custom_model_data":22}, "model": "man10/food/fish_cooked_food/maguro_no_sashimi"},
+    { "predicate": {"custom_model_data":23}, "model": "man10/food/fish_cooked_food/maguro_steak"},
+    { "predicate": {"custom_model_data":24}, "model": "man10/food/fish_cooked_food/narezushi"},
+    { "predicate": {"custom_model_data":25}, "model": "man10/food/fish_cooked_food/paella"},
+    { "predicate": {"custom_model_data":26}, "model": "man10/food/fish_cooked_food/sabakan"},
+    { "predicate": {"custom_model_data":27}, "model": "man10/food/fish_cooked_food/sawara_no_shioyaki"},
+    { "predicate": {"custom_model_data":28}, "model": "man10/food/fish_cooked_food/stargazy_pei"},
+    { "predicate": {"custom_model_data":29}, "model": "man10/food/fish_cooked_food/tai_no_arajiru"},
+    { "predicate": {"custom_model_data":30}, "model": "man10/food/fish_cooked_food/tako_no_kirimi"},
+    { "predicate": {"custom_model_data":31}, "model": "man10/food/fish_cooked_food/tropical_plate"},
+    { "predicate": {"custom_model_data":32}, "model": "man10/food/fish_cooked_food/tsubugai_no_nitsuke"},
+    { "predicate": {"custom_model_data":33}, "model": "man10/food/fish_cooked_food/unajuu"},
+    { "predicate": {"custom_model_data":34}, "model": "man10/food/fish_cooked_food/wakasagi_no_tenpura"},
+    { "predicate": {"custom_model_data":35}, "model": "man10/food/fish_cooked_food/whale_sashimi"},
+    { "predicate": {"custom_model_data":36}, "model": "man10/food/fish_cooked_food/yakigaki"},
+    { "predicate": {"custom_model_data":37}, "model": "man10/food/fish_cooked_food/yakishake"},
+    { "predicate": {"custom_model_data":38}, "model": "man10/food/fish_cooked_food/yamamori_shirasudon"},
+
+	{ "predicate": {"custom_model_data":39}, "model": "item/cooked_cod"}
     ]
 }
