@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "man10/weapon/magic/magicbook_star/magicbook_star_2",
 		"3": "man10/weapon/magic/magicbook_star/stella_book",
-		"5": "font/unicode_page_12"
+		"5": "man10/weapon/magic/unicode/unicode_page_12"
 	},
 	"elements": [
 		{

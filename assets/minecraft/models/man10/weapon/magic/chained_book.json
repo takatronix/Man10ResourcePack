@@ -6,7 +6,7 @@
 		"2": "block/bedrock",
 		"3": "block/anvil",
 		"4": "block/birch_door_top",
-		"5": "font/unicode_page_07",
+		"5": "man10/weapon/magic/unicode/unicode_page_07",
 		"particle": "block/stone"
 	},
 	"elements": [
