@@ -462,6 +462,17 @@
 	{ "predicate": {"custom_model_data": 2256 }, "model": "man10/private/tebasaki511_2024-02-22_portable_record_player" },
 	{ "predicate": {"custom_model_data": 2257 }, "model": "man10/private/chonbo7003_2024-02-22_foxdoll" },
 	{ "predicate": {"custom_model_data": 2258 }, "model": "man10/private/mottyi_2024-02-22_modern_bookshelf" },
-        { "predicate": {"custom_model_data": 2259 }, "model": "item/stone_hoe" }
+	{ "predicate": {"custom_model_data": 2259 }, "model": "man10/private/pencraft7obu_2024-02-29_pirate_wooden_box" },
+	{ "predicate": {"custom_model_data": 2260 }, "model": "man10/private/tebasaki511_2024-02-29_retro_telephone" },
+	{ "predicate": {"custom_model_data": 2261 }, "model": "man10/private/rakletmole_2024-02-29_wooden_shelf" },
+	{ "predicate": {"custom_model_data": 2262 }, "model": "man10/private/sweetdoremy_2024-02-29_refrigerator" },
+	{ "predicate": {"custom_model_data": 2263 }, "model": "man10/private/rakletmole_2024-02-29_white_rug" },
+	{ "predicate": {"custom_model_data": 2264 }, "model": "man10/private/chonbo7003_2024-02-29_pandadoll" },
+	{ "predicate": {"custom_model_data": 2265 }, "model": "man10/private/chonbo7003_2024-02-29_shirokumadoll" },
+	{ "predicate": {"custom_model_data": 2266 }, "model": "man10/private/pencraft7obu_2024-02-29_soccertable" },
+	{ "predicate": {"custom_model_data": 2267 }, "model": "man10/private/baselessknot856_2024-02-29_microwave_oven" },
+	{ "predicate": {"custom_model_data": 2268 }, "model": "man10/private/sweetdoremy_2024-02-29_tubetv" },
+	{ "predicate": {"custom_model_data": 2269 }, "model": "man10/private/baselessknot856_2024-02-29_old_clock" },
+        { "predicate": {"custom_model_data": 2270 }, "model": "item/stone_hoe" }
         ]
 }
