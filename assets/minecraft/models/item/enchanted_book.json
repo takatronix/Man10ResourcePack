@@ -1,0 +1,10 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/enchanted_book"
+    },
+    "overrides": [
+	{ "predicate": {"custom_model_data":1}, "model": "man10/slot/diamond_pickaxe"},
+    	{ "predicate": {"custom_model_data":2}, "model": "item/enchanted_book"}
+    ]
+}
