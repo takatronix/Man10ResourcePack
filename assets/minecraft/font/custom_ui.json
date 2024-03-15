@@ -1,0 +1,438 @@
+{
+    "providers": [
+        {
+            "type": "space",
+            "advances": {
+                "«": -4,
+                "»": -2,
+                "¬": -1,
+                "¢": 1,
+                "¡": 2,
+                " ": 4
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/cursor_2.png",
+            "height": 100,
+            "ascent": -45,
+            "chars": [
+                "\uE000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/cursor_2.png",
+            "height": 100,
+            "ascent": -42.5,
+            "chars": [
+                "\uE001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/cursor_2.png",
+            "height": 100,
+            "ascent": -40,
+            "chars": [
+                "\uE002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/cursor_2.png",
+            "height": 100,
+            "ascent": -37.5,
+            "chars": [
+                "\uE003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/cursor_2.png",
+            "height": 100,
+            "ascent": -35,
+            "chars": [
+                "\uE004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/cursor_2.png",
+            "height": 100,
+            "ascent": -32.5,
+            "chars": [
+                "\uE005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/cursor_2.png",
+            "height": 100,
+            "ascent": -30,
+            "chars": [
+                "\uE006"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/cursor_2.png",
+            "height": 100,
+            "ascent": -27.5,
+            "chars": [
+                "\uE007"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/cursor_2.png",
+            "height": 100,
+            "ascent": -25,
+            "chars": [
+                "\uE008"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/cursor_2.png",
+            "height": 100,
+            "ascent": -22.5,
+            "chars": [
+                "\uE009"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/cursor_2.png",
+            "height": 100,
+            "ascent": -20,
+            "chars": [
+                "\uE00A"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/cursor_2.png",
+            "height": 100,
+            "ascent": -17.5,
+            "chars": [
+                "\uE00B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/cursor_2.png",
+            "height": 100,
+            "ascent": -15,
+            "chars": [
+                "\uE00C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/cursor_2.png",
+            "height": 100,
+            "ascent": -12.5,
+            "chars": [
+                "\uE00D"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/cursor_2.png",
+            "height": 100,
+            "ascent": -10,
+            "chars": [
+                "\uE00E"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/cursor_2.png",
+            "height": 100,
+            "ascent": -7.5,
+            "chars": [
+                "\uE00F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/cursor_2.png",
+            "height": 100,
+            "ascent": -5,
+            "chars": [
+                "\uE010"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/cursor_2.png",
+            "height": 100,
+            "ascent": -2.5,
+            "chars": [
+                "\uE011"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/cursor_2.png",
+            "height": 100,
+            "ascent": 0,
+            "chars": [
+                "\uE012"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/cursor_2.png",
+            "height": 100,
+            "ascent": 2.5,
+            "chars": [
+                "\uE013"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/cursor_2.png",
+            "height": 100,
+            "ascent": 5,
+            "chars": [
+                "\uE014"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/cursor_2.png",
+            "height": 100,
+            "ascent": 7.5,
+            "chars": [
+                "\uE015"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/cursor_2.png",
+            "height": 100,
+            "ascent": 10,
+            "chars": [
+                "\uE016"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/cursor_2.png",
+            "height": 100,
+            "ascent": 12.5,
+            "chars": [
+                "\uE017"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/cursor_2.png",
+            "height": 100,
+            "ascent": 15,
+            "chars": [
+                "\uE018"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/cursor_2.png",
+            "height": 100,
+            "ascent": 17.5,
+            "chars": [
+                "\uE019"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/cursor_2.png",
+            "height": 100,
+            "ascent": 20,
+            "chars": [
+                "\uE01A"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/cursor_2.png",
+            "height": 100,
+            "ascent": 22.5,
+            "chars": [
+                "\uE01B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/cursor_2.png",
+            "height": 100,
+            "ascent": 25,
+            "chars": [
+                "\uE01C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/cursor_2.png",
+            "height": 100,
+            "ascent": 27.5,
+            "chars": [
+                "\uE01D"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/cursor_2.png",
+            "height": 100,
+            "ascent": 30,
+            "chars": [
+                "\uE01E"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/cursor_2.png",
+            "height": 100,
+            "ascent": 32.5,
+            "chars": [
+                "\uE01F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/cursor_2.png",
+            "height": 100,
+            "ascent": 35,
+            "chars": [
+                "\uE020"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/cursor_2.png",
+            "height": 100,
+            "ascent": 37.5,
+            "chars": [
+                "\uE021"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/cursor_2.png",
+            "height": 100,
+            "ascent": 40.0,
+            "chars": [
+                "\uE022"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/cursor_2.png",
+            "height": 100,
+            "ascent": 42.5,
+            "chars": [
+                "\uE023"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/cursor_2.png",
+            "height": 100,
+            "ascent": 45,
+            "chars": [
+                "\uE024"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/pve_runes_convenience_background.png",
+            "height": 200,
+            "ascent": 200,
+            "chars": [
+                "\uE028"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/convenience_large_rune_1.png",
+            "height": 210,
+            "ascent": 174,
+            "chars": [
+                "\uE029"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/convenience_large_rune_2.png",
+            "height": 210,
+            "ascent": 174,
+            "chars": [
+                "\uE02A"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/convenience_middle_rune_1.png",
+            "height": 210,
+            "ascent": 122,
+            "chars": [
+                "\uE02B"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/convenience_middle_rune_2.png",
+            "height": 210,
+            "ascent": 122,
+            "chars": [
+                "\uE02C"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/convenience_middle_rune_3.png",
+            "height": 210,
+            "ascent": 122,
+            "chars": [
+                "\uE02D"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/convenience_small_rune_1.png",
+            "height": 219,
+            "ascent": 110,
+            "chars": [
+                "\uE02E"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/convenience_small_rune_1.png",
+            "height": 219,
+            "ascent": 78,
+            "chars": [
+                "\uE02F"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/convenience_small_rune_1.png",
+            "height": 219,
+            "ascent": 72,
+            "chars": [
+                "\uE030"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "custom_ui:misc/pve_runes_convenience_background.png",
+            "height": 100,
+            "ascent": 10,
+            "chars": [
+                "\uE031"
+            ]
+        }
+    ]
+}
