@@ -43,7 +43,30 @@
     { "predicate": {"custom_model_data":36}, "model": "man10/food/fish_cooked_food/yakigaki"},
     { "predicate": {"custom_model_data":37}, "model": "man10/food/fish_cooked_food/yakishake"},
     { "predicate": {"custom_model_data":38}, "model": "man10/food/fish_cooked_food/yamamori_shirasudon"},
+    { "predicate": {"custom_model_data":39}, "model": "man10/food/fish_cooked_food/angler_fish_dish"},
+    { "predicate": {"custom_model_data":40}, "model": "man10/food/fish_cooked_food/ankounabe"},
+    { "predicate": {"custom_model_data":41}, "model": "man10/food/fish_cooked_food/baked_foil_suzuki"},
+    { "predicate": {"custom_model_data":42}, "model": "man10/food/fish_cooked_food/chikuwa"},
+    { "predicate": {"custom_model_data":43}, "model": "man10/food/fish_cooked_food/ebifurai"},
+    { "predicate": {"custom_model_data":44}, "model": "man10/food/fish_cooked_food/harako_meshi"},
+    { "predicate": {"custom_model_data":45}, "model": "man10/food/fish_cooked_food/ika_no_batayaki"},
+    { "predicate": {"custom_model_data":46}, "model": "man10/food/fish_cooked_food/irabu_jiru"},
+    { "predicate": {"custom_model_data":47}, "model": "man10/food/fish_cooked_food/iseebi_sugatamori"},
+    { "predicate": {"custom_model_data":48}, "model": "man10/food/fish_cooked_food/ishidai_no_nitsuke"},
+    { "predicate": {"custom_model_data":49}, "model": "man10/food/fish_cooked_food/kaki_no_hazushi"},
+    { "predicate": {"custom_model_data":50}, "model": "man10/food/fish_cooked_food/kamaboko"},
+    { "predicate": {"custom_model_data":51}, "model": "man10/food/fish_cooked_food/kanikan"},
+    { "predicate": {"custom_model_data":52}, "model": "man10/food/fish_cooked_food/katsuo_no_furikake"},
+    { "predicate": {"custom_model_data":53}, "model": "man10/food/fish_cooked_food/kingyo_no_nitsuke"},
+    { "predicate": {"custom_model_data":54}, "model": "man10/food/fish_cooked_food/kinmedai_no_nitsuke"},
+    { "predicate": {"custom_model_data":55}, "model": "man10/food/fish_cooked_food/poison_pot"},
+    { "predicate": {"custom_model_data":56}, "model": "man10/food/fish_cooked_food/sanshouo_skewers"},
+    { "predicate": {"custom_model_data":57}, "model": "man10/food/fish_cooked_food/sasakamaboko"},
+    { "predicate": {"custom_model_data":58}, "model": "man10/food/fish_cooked_food/supponnabe"},
+    { "predicate": {"custom_model_data":59}, "model": "man10/food/fish_cooked_food/surstromming"},
+    { "predicate": {"custom_model_data":60}, "model": "man10/food/fish_cooked_food/switch_cake"},
+    { "predicate": {"custom_model_data":61}, "model": "man10/food/fish_cooked_food/unigunkan"},
 
-	{ "predicate": {"custom_model_data":39}, "model": "item/cooked_cod"}
+	{ "predicate": {"custom_model_data":62}, "model": "item/cooked_cod"}
     ]
 }
