@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/poisonous_potato"
+  },
+  "overrides": [
+    { "predicate": {"custom_model_data":1}, "model": "man10/food/fish_cooked_food/poison_pot"},
+
+    { "predicate": {"custom_model_data":2}, "model": "item/poisonous_potato"}
+  ]
+}

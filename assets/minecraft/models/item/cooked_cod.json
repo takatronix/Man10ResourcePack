@@ -59,14 +59,13 @@
     { "predicate": {"custom_model_data":52}, "model": "man10/food/fish_cooked_food/katsuo_no_furikake"},
     { "predicate": {"custom_model_data":53}, "model": "man10/food/fish_cooked_food/kingyo_no_nitsuke"},
     { "predicate": {"custom_model_data":54}, "model": "man10/food/fish_cooked_food/kinmedai_no_nitsuke"},
-    { "predicate": {"custom_model_data":55}, "model": "man10/food/fish_cooked_food/poison_pot"},
-    { "predicate": {"custom_model_data":56}, "model": "man10/food/fish_cooked_food/sanshouo_skewers"},
-    { "predicate": {"custom_model_data":57}, "model": "man10/food/fish_cooked_food/sasakamaboko"},
-    { "predicate": {"custom_model_data":58}, "model": "man10/food/fish_cooked_food/supponnabe"},
-    { "predicate": {"custom_model_data":59}, "model": "man10/food/fish_cooked_food/surstromming"},
-    { "predicate": {"custom_model_data":60}, "model": "man10/food/fish_cooked_food/switch_cake"},
-    { "predicate": {"custom_model_data":61}, "model": "man10/food/fish_cooked_food/unigunkan"},
+    { "predicate": {"custom_model_data":55}, "model": "man10/food/fish_cooked_food/sanshouo_skewers"},
+    { "predicate": {"custom_model_data":56}, "model": "man10/food/fish_cooked_food/sasakamaboko"},
+    { "predicate": {"custom_model_data":57}, "model": "man10/food/fish_cooked_food/supponnabe"},
+    { "predicate": {"custom_model_data":58}, "model": "man10/food/fish_cooked_food/surstromming"},
+    { "predicate": {"custom_model_data":59}, "model": "man10/food/fish_cooked_food/switch_cake"},
+    { "predicate": {"custom_model_data":60}, "model": "man10/food/fish_cooked_food/unigunkan"},
 
-	{ "predicate": {"custom_model_data":62}, "model": "item/cooked_cod"}
+	{ "predicate": {"custom_model_data":61}, "model": "item/cooked_cod"}
     ]
 }
