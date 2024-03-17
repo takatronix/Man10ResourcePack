@@ -100,7 +100,8 @@
 		{"predicate": {"custom_model_data":104},  "model": "man10/weapon/gun/artillery_shield_reload"},
 		{"predicate": {"custom_model_data":105},  "model": "man10/weapon/gun/rorsch_mk1"},
 		{"predicate": {"custom_model_data":106},  "model": "man10/weapon/gun/rorsch_mk1_ads"},
+		{"predicate": {"custom_model_data":107},  "model": "man10/weapon/gun/eldorado"},
 
-		{"predicate": {"custom_model_data":107}, "model": "item/iron_hoe"}
+		{"predicate": {"custom_model_data":108}, "model": "item/iron_hoe"}
     ]
 }
