@@ -71,8 +71,9 @@
 		{"predicate": {"custom_model_data":64}, "model": "man10/weapon/other/ice_spear"},
 		{"predicate": {"custom_model_data":65}, "model": "man10/weapon/wing/ice_wing"},
 		{"predicate": {"custom_model_data":66}, "model": "man10/weapon/magic/star_wand"},
+		{"predicate": {"custom_model_data":67}, "model": "man10/weapon/other/eldorado_cross"},
 
 
-    {"predicate": {"custom_model_data":67}, "model": "item/iron_shovel"}		
+    {"predicate": {"custom_model_data":68}, "model": "item/iron_shovel"}		
   ]
 }
