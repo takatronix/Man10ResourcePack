@@ -3,8 +3,7 @@
 	"textures": {
 		"2": "man10/weapon/gun/el_dorado/edcolor",
 		"3": "man10/weapon/gun/el_dorado/edcolor2",
-		"4": "man10/weapon/gun/el_dorado/color3",
-		"particle": "texture/edcolor"
+		"4": "man10/weapon/gun/el_dorado/color3"
 	},
 	"elements": [
 		{
@@ -4589,9 +4588,9 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [7.47536, 3.25024, 4.07001]},
 			"faces": {
 				"north": {"uv": [15, 15.5, 13.1, 16], "rotation": 180, "texture": "#3"},
-				"east": {"uv": [16, 12.5, 16, 14], "rotation": 270, "texture": "#3"},
+				"east": {"uv": [16, 12.5, 13, 14], "rotation": 270, "texture": "#3"},
 				"south": {"uv": [15, 14, 13.1, 13.5], "rotation": 180, "texture": "#3"},
-				"west": {"uv": [16, 15.5, 16, 16], "rotation": 180, "texture": "#3"},
+				"west": {"uv": [16, 12.5, 13, 16], "rotation": 180, "texture": "#3"},
 				"up": {"uv": [15, 14, 13.1, 11.5], "texture": "#3"},
 				"down": {"uv": [14, 12.5, 13.1, 14], "texture": "#3"}
 			}
@@ -7411,12 +7410,12 @@
 			"to": [7.93738, 3.70693, 5.28473],
 			"rotation": {"angle": 0, "axis": "y", "origin": [7.56996, 3.51985, 5.5287]},
 			"faces": {
-				"north": {"uv": [14, 16, 14.1, 16], "texture": "#2"},
-				"east": {"uv": [14, 16, 16, 16], "texture": "#2"},
-				"south": {"uv": [14, 16, 16, 16], "texture": "#2"},
-				"west": {"uv": [14, 16, 16, 16], "texture": "#2"},
-				"up": {"uv": [15.9, 16, 16, 16], "texture": "#2"},
-				"down": {"uv": [14, 16, 14.1, 16], "texture": "#2"}
+				"north": {"uv": [14, 10.66667, 16, 16], "texture": "#2"},
+				"east": {"uv": [14, 16, 16, 10.66667], "texture": "#2"},
+				"south": {"uv": [14, 16, 16, 10.66667], "texture": "#2"},
+				"west": {"uv": [14, 16, 16, 10.66667], "texture": "#2"},
+				"up": {"uv": [15.9, 16, 10.66667, 10.66667], "texture": "#2"},
+				"down": {"uv": [14, 16, 16, 10.66667], "texture": "#2"}
 			}
 		},
 		{
