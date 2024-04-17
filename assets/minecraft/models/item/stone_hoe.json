@@ -478,7 +478,7 @@
 	{ "predicate": {"custom_model_data": 2268 }, "model": "man10/private/sweetdoremy_2024-02-29_tubetv" },
 	{ "predicate": {"custom_model_data": 2269 }, "model": "man10/private/baselessknot856_2024-02-29_old_clock" },
 
-    { "predicate": {"custom_model_data": 2270 }, "model": "man10/private/rinchan0302_2024-04-18_flat-screen_tv" },
+    { "predicate": {"custom_model_data": 2270 }, "model": "man10/private/rinchan0302_2024-04-18_flat_screen_tv" },
     { "predicate": {"custom_model_data": 2271 }, "model": "man10/private/akina1217_2024-04-18_small_gravestone" },
     { "predicate": {"custom_model_data": 2272 }, "model": "man10/private/mottyi_2024-04-18_slot_machine" },
     { "predicate": {"custom_model_data": 2273 }, "model": "man10/private/match_bou_2024-04-18_gas_and_oven" },
@@ -492,6 +492,7 @@
     { "predicate": {"custom_model_data": 2281 }, "model": "man10/private/mabow_doufu_2024-04-18_printer" },
     { "predicate": {"custom_model_data": 2282 }, "model": "man10/private/rakletmole_2024-04-18_wooden_stand_post" },
     { "predicate": {"custom_model_data": 2283 }, "model": "man10/private/mitsupapa_2024-04-18_gargoyle" },
+    { "predicate": {"custom_model_data": 2284 }, "model": "man10/private/mitsupapa_2024-04-18_wash_basin" },
         { "predicate": {"custom_model_data": 2285 }, "model": "item/stone_hoe" }
         ]
 }
