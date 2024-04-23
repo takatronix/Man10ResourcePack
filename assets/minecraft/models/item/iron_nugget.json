@@ -167,8 +167,9 @@
         {"predicate": {"custom_model_data":153}, "model": "man10/slot/xmas_event/obsidian_amulet_lv1"},
         {"predicate": {"custom_model_data":154}, "model": "man10/slot/xmas_event/obsidian_amulet_lv2"},
         {"predicate": {"custom_model_data":155}, "model": "man10/slot/xmas_event/obsidian_amulet_lv3"},
+        {"predicate": {"custom_model_data":156}, "model": "man10/food/sakuramochi"},
 
 
-	{"predicate": {"custom_model_data":156}, "model": "item/iron_nugget"}
+	{"predicate": {"custom_model_data":157}, "model": "item/iron_nugget"}
     ]
 }
