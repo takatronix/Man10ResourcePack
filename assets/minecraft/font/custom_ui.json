@@ -13,7 +13,7 @@
         },
         {
             "type": "bitmap",
-            "file": "custom_ui:misc/cursor_2.png",
+            "file": "custom_ui:misc/cursor.png",
             "height": 100,
             "ascent": -45,
             "chars": [
@@ -22,7 +22,7 @@
         },
         {
             "type": "bitmap",
-            "file": "custom_ui:misc/cursor_2.png",
+            "file": "custom_ui:misc/cursor.png",
             "height": 100,
             "ascent": -42.5,
             "chars": [
@@ -31,7 +31,7 @@
         },
         {
             "type": "bitmap",
-            "file": "custom_ui:misc/cursor_2.png",
+            "file": "custom_ui:misc/cursor.png",
             "height": 100,
             "ascent": -40,
             "chars": [
@@ -40,7 +40,7 @@
         },
         {
             "type": "bitmap",
-            "file": "custom_ui:misc/cursor_2.png",
+            "file": "custom_ui:misc/cursor.png",
             "height": 100,
             "ascent": -37.5,
             "chars": [
@@ -49,7 +49,7 @@
         },
         {
             "type": "bitmap",
-            "file": "custom_ui:misc/cursor_2.png",
+            "file": "custom_ui:misc/cursor.png",
             "height": 100,
             "ascent": -35,
             "chars": [
@@ -58,7 +58,7 @@
         },
         {
             "type": "bitmap",
-            "file": "custom_ui:misc/cursor_2.png",
+            "file": "custom_ui:misc/cursor.png",
             "height": 100,
             "ascent": -32.5,
             "chars": [
@@ -67,7 +67,7 @@
         },
         {
             "type": "bitmap",
-            "file": "custom_ui:misc/cursor_2.png",
+            "file": "custom_ui:misc/cursor.png",
             "height": 100,
             "ascent": -30,
             "chars": [
@@ -76,7 +76,7 @@
         },
         {
             "type": "bitmap",
-            "file": "custom_ui:misc/cursor_2.png",
+            "file": "custom_ui:misc/cursor.png",
             "height": 100,
             "ascent": -27.5,
             "chars": [
@@ -85,7 +85,7 @@
         },
         {
             "type": "bitmap",
-            "file": "custom_ui:misc/cursor_2.png",
+            "file": "custom_ui:misc/cursor.png",
             "height": 100,
             "ascent": -25,
             "chars": [
@@ -94,7 +94,7 @@
         },
         {
             "type": "bitmap",
-            "file": "custom_ui:misc/cursor_2.png",
+            "file": "custom_ui:misc/cursor.png",
             "height": 100,
             "ascent": -22.5,
             "chars": [
@@ -103,7 +103,7 @@
         },
         {
             "type": "bitmap",
-            "file": "custom_ui:misc/cursor_2.png",
+            "file": "custom_ui:misc/cursor.png",
             "height": 100,
             "ascent": -20,
             "chars": [
@@ -112,7 +112,7 @@
         },
         {
             "type": "bitmap",
-            "file": "custom_ui:misc/cursor_2.png",
+            "file": "custom_ui:misc/cursor.png",
             "height": 100,
             "ascent": -17.5,
             "chars": [
@@ -121,7 +121,7 @@
         },
         {
             "type": "bitmap",
-            "file": "custom_ui:misc/cursor_2.png",
+            "file": "custom_ui:misc/cursor.png",
             "height": 100,
             "ascent": -15,
             "chars": [
@@ -130,7 +130,7 @@
         },
         {
             "type": "bitmap",
-            "file": "custom_ui:misc/cursor_2.png",
+            "file": "custom_ui:misc/cursor.png",
             "height": 100,
             "ascent": -12.5,
             "chars": [
@@ -139,7 +139,7 @@
         },
         {
             "type": "bitmap",
-            "file": "custom_ui:misc/cursor_2.png",
+            "file": "custom_ui:misc/cursor.png",
             "height": 100,
             "ascent": -10,
             "chars": [
@@ -148,7 +148,7 @@
         },
         {
             "type": "bitmap",
-            "file": "custom_ui:misc/cursor_2.png",
+            "file": "custom_ui:misc/cursor.png",
             "height": 100,
             "ascent": -7.5,
             "chars": [
@@ -157,7 +157,7 @@
         },
         {
             "type": "bitmap",
-            "file": "custom_ui:misc/cursor_2.png",
+            "file": "custom_ui:misc/cursor.png",
             "height": 100,
             "ascent": -5,
             "chars": [
@@ -166,7 +166,7 @@
         },
         {
             "type": "bitmap",
-            "file": "custom_ui:misc/cursor_2.png",
+            "file": "custom_ui:misc/cursor.png",
             "height": 100,
             "ascent": -2.5,
             "chars": [
@@ -175,7 +175,7 @@
         },
         {
             "type": "bitmap",
-            "file": "custom_ui:misc/cursor_2.png",
+            "file": "custom_ui:misc/cursor.png",
             "height": 100,
             "ascent": 0,
             "chars": [
@@ -184,7 +184,7 @@
         },
         {
             "type": "bitmap",
-            "file": "custom_ui:misc/cursor_2.png",
+            "file": "custom_ui:misc/cursor.png",
             "height": 100,
             "ascent": 2.5,
             "chars": [
@@ -193,7 +193,7 @@
         },
         {
             "type": "bitmap",
-            "file": "custom_ui:misc/cursor_2.png",
+            "file": "custom_ui:misc/cursor.png",
             "height": 100,
             "ascent": 5,
             "chars": [
@@ -202,7 +202,7 @@
         },
         {
             "type": "bitmap",
-            "file": "custom_ui:misc/cursor_2.png",
+            "file": "custom_ui:misc/cursor.png",
             "height": 100,
             "ascent": 7.5,
             "chars": [
@@ -211,7 +211,7 @@
         },
         {
             "type": "bitmap",
-            "file": "custom_ui:misc/cursor_2.png",
+            "file": "custom_ui:misc/cursor.png",
             "height": 100,
             "ascent": 10,
             "chars": [
@@ -220,7 +220,7 @@
         },
         {
             "type": "bitmap",
-            "file": "custom_ui:misc/cursor_2.png",
+            "file": "custom_ui:misc/cursor.png",
             "height": 100,
             "ascent": 12.5,
             "chars": [
@@ -229,7 +229,7 @@
         },
         {
             "type": "bitmap",
-            "file": "custom_ui:misc/cursor_2.png",
+            "file": "custom_ui:misc/cursor.png",
             "height": 100,
             "ascent": 15,
             "chars": [
@@ -238,7 +238,7 @@
         },
         {
             "type": "bitmap",
-            "file": "custom_ui:misc/cursor_2.png",
+            "file": "custom_ui:misc/cursor.png",
             "height": 100,
             "ascent": 17.5,
             "chars": [
@@ -247,7 +247,7 @@
         },
         {
             "type": "bitmap",
-            "file": "custom_ui:misc/cursor_2.png",
+            "file": "custom_ui:misc/cursor.png",
             "height": 100,
             "ascent": 20,
             "chars": [
@@ -256,7 +256,7 @@
         },
         {
             "type": "bitmap",
-            "file": "custom_ui:misc/cursor_2.png",
+            "file": "custom_ui:misc/cursor.png",
             "height": 100,
             "ascent": 22.5,
             "chars": [
@@ -265,7 +265,7 @@
         },
         {
             "type": "bitmap",
-            "file": "custom_ui:misc/cursor_2.png",
+            "file": "custom_ui:misc/cursor.png",
             "height": 100,
             "ascent": 25,
             "chars": [
@@ -274,7 +274,7 @@
         },
         {
             "type": "bitmap",
-            "file": "custom_ui:misc/cursor_2.png",
+            "file": "custom_ui:misc/cursor.png",
             "height": 100,
             "ascent": 27.5,
             "chars": [
@@ -283,7 +283,7 @@
         },
         {
             "type": "bitmap",
-            "file": "custom_ui:misc/cursor_2.png",
+            "file": "custom_ui:misc/cursor.png",
             "height": 100,
             "ascent": 30,
             "chars": [
@@ -292,7 +292,7 @@
         },
         {
             "type": "bitmap",
-            "file": "custom_ui:misc/cursor_2.png",
+            "file": "custom_ui:misc/cursor.png",
             "height": 100,
             "ascent": 32.5,
             "chars": [
@@ -301,7 +301,7 @@
         },
         {
             "type": "bitmap",
-            "file": "custom_ui:misc/cursor_2.png",
+            "file": "custom_ui:misc/cursor.png",
             "height": 100,
             "ascent": 35,
             "chars": [
@@ -310,7 +310,7 @@
         },
         {
             "type": "bitmap",
-            "file": "custom_ui:misc/cursor_2.png",
+            "file": "custom_ui:misc/cursor.png",
             "height": 100,
             "ascent": 37.5,
             "chars": [
@@ -319,7 +319,7 @@
         },
         {
             "type": "bitmap",
-            "file": "custom_ui:misc/cursor_2.png",
+            "file": "custom_ui:misc/cursor.png",
             "height": 100,
             "ascent": 40.0,
             "chars": [
@@ -328,7 +328,7 @@
         },
         {
             "type": "bitmap",
-            "file": "custom_ui:misc/cursor_2.png",
+            "file": "custom_ui:misc/cursor.png",
             "height": 100,
             "ascent": 42.5,
             "chars": [
@@ -337,7 +337,7 @@
         },
         {
             "type": "bitmap",
-            "file": "custom_ui:misc/cursor_2.png",
+            "file": "custom_ui:misc/cursor.png",
             "height": 100,
             "ascent": 45,
             "chars": [
