@@ -101,7 +101,10 @@
 		{"predicate": {"custom_model_data":105},  "model": "man10/weapon/gun/rorsch_mk1"},
 		{"predicate": {"custom_model_data":106},  "model": "man10/weapon/gun/rorsch_mk1_ads"},
 		{"predicate": {"custom_model_data":107},  "model": "man10/weapon/gun/eldorado2000"},
+		{"predicate": {"custom_model_data":108},  "model": "man10/weapon/gun/enfslug"},
+		{"predicate": {"custom_model_data":109},  "model": "man10/weapon/gun/enfslug_black"},
+		{"predicate": {"custom_model_data":110},  "model": "man10/weapon/gun/enfslug_aim"},
 
-		{"predicate": {"custom_model_data":108}, "model": "item/iron_hoe"}
+		{"predicate": {"custom_model_data":111}, "model": "item/iron_hoe"}
     ]
 }
