@@ -1,10 +1,10 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "man10/weapon/other/enf_slugshotgun/color",
-		"2": "man10/weapon/other/enf_slugshotgun/slaglaser",
+		"1": "man10/weapon/gun/enf_slugshotgun/color",
+		"2": "man10/weapon/gun/enf_slugshotgun/slaglaser",
 		"3": "man10/equipment/antique_piano/texture2",
-		"4": "man10/weapon/other/enf_slugshotgun/font"
+		"4": "man10/weapon/gun/enf_slugshotgun/font"
 	},
 	"elements": [
 		{
