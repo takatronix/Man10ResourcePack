@@ -171,6 +171,47 @@
         {"predicate": {"custom_model_data":157}, "model": "man10/slot/spring_event/sakura_gem"},
 
 
-	{"predicate": {"custom_model_data":158}, "model": "item/iron_nugget"}
+	{"predicate": {"custom_model_data":158}, "model": "item/iron_nugget"},
+
+
+    {"predicate": {"custom_model_data":200}, "model": "minecraft:item/heavenssky_normal_go"},
+    {"predicate": {"custom_model_data":201}, "model": "minecraft:item/heavenssky_rainbow_go"},
+    {"predicate": {"custom_model_data":202}, "model": "minecraft:item/heavenssky_infinite_go"},
+    {"predicate": {"custom_model_data":203}, "model": "minecraft:item/heavenssky_critical_go"},
+    {"predicate": {"custom_model_data":204}, "model": "minecraft:item/heavenssky_heavens_go"},
+    {"predicate": {"custom_model_data":205}, "model": "minecraft:item/heavenssky_final_go"},
+    {"predicate": {"custom_model_data":206}, "model": "minecraft:item/heavenssky_rainbow_continue"},
+    {"predicate": {"custom_model_data":207}, "model": "minecraft:item/heavenssky_supernova_continue"},
+    {"predicate": {"custom_model_data":208}, "model": "minecraft:item/heavenssky_infinity_continue"},
+    {"predicate": {"custom_model_data":209}, "model": "minecraft:item/heavenssky_bar"},
+    {"predicate": {"custom_model_data":210}, "model": "minecraft:item/heavenssky_300jp"},
+    {"predicate": {"custom_model_data":211}, "model": "minecraft:item/heavenssky_500jp"},
+    {"predicate": {"custom_model_data":212}, "model": "minecraft:item/heavenssky_777jp"},
+    {"predicate": {"custom_model_data":213}, "model": "minecraft:item/heavenssky_1000jp"},
+    {"predicate": {"custom_model_data":214}, "model": "minecraft:item/heavenssky_1500jp"},
+    {"predicate": {"custom_model_data":215}, "model": "minecraft:item/heavenssky_2000jp"},
+    {"predicate": {"custom_model_data":216}, "model": "minecraft:item/heavenssky_2500jp"},
+    {"predicate": {"custom_model_data":217}, "model": "minecraft:item/heavenssky_3000jp"},
+    {"predicate": {"custom_model_data":218}, "model": "minecraft:item/heavenssky_x"},
+    {"predicate": {"custom_model_data":219}, "model": "minecraft:item/heavenssky_sword"},
+    {"predicate": {"custom_model_data":220}, "model": "minecraft:item/heavenssky_armor"},
+    {"predicate": {"custom_model_data":221}, "model": "minecraft:item/heavenssky_book"},
+    {"predicate": {"custom_model_data":222}, "model": "minecraft:item/heavenssky_shard"},
+    {"predicate": {"custom_model_data":223}, "model": "minecraft:item/heavenssky_heart"},
+    {"predicate": {"custom_model_data":224}, "model": "minecraft:item/heavenssky_eye"},
+    {"predicate": {"custom_model_data":225}, "model": "minecraft:item/heavenssky_compass"},
+    {"predicate": {"custom_model_data":226}, "model": "minecraft:item/heavenssky_bottle"},
+    {"predicate": {"custom_model_data":227}, "model": "minecraft:item/heavenssky_star"},
+    {"predicate": {"custom_model_data":228}, "model": "minecraft:item/heavenssky_wing"},
+    {"predicate": {"custom_model_data":229}, "model": "minecraft:item/heavenssky_totem"},
+    {"predicate": {"custom_model_data":230}, "model": "minecraft:item/heavenssky_candle"},
+    {"predicate": {"custom_model_data":231}, "model": "minecraft:item/heavenssky_redx"},
+    {"predicate": {"custom_model_data":232}, "model": "minecraft:item/heavenssky_bow"},
+    {"predicate": {"custom_model_data":233}, "model": "minecraft:item/heavenssky_boots"},
+    {"predicate": {"custom_model_data":234}, "model": "minecraft:item/heavenssky_supernova_go"},
+    {"predicate": {"custom_model_data":235}, "model": "minecraft:item/heavenssky_crystal"}, 
+
+    
+    {"predicate": {"custom_model_data":236}, "model": "item/iron_nugget"}
     ]
 }
