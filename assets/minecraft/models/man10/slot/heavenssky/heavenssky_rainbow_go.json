@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/heavenssky_rainbow_go"
+    "layer0": "minecraft:man10/slot/heavenssky/heavenssky_rainbow_go"
   }
 }

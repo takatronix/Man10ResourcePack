@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/heavenssky_compass"
+    "layer0": "minecraft:man10/slot/heavenssky/heavenssky_compass"
   }
 }
