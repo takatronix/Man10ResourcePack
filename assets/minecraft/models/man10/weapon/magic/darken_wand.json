@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "man10/weapon/magic/darken_wand_color",
-		"1": "man10/weapon/other/hell_axe_color_2_g",
-		"particle": "man10/weapon/magic/darken_wand_color"
+		"0": "man10/weapon/magic/darken_wand/darken_wand_color",
+		"1": "man10/weapon/other/hell_spear/hell_axe_color_2_g",
+		"particle": "man10/weapon/magic/darken_wand/darken_wand_color"
 	},
 	"elements": [
 		{
