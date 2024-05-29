@@ -494,6 +494,22 @@
     { "predicate": {"custom_model_data": 2282 }, "model": "man10/private/rakletmole_2024-04-18_wooden_stand_post" },
     { "predicate": {"custom_model_data": 2283 }, "model": "man10/private/mitsupapa_2024-04-18_gargoyle" },
     { "predicate": {"custom_model_data": 2284 }, "model": "man10/private/mitsupapa_2024-04-18_wash_basin" },
-        { "predicate": {"custom_model_data": 2285 }, "model": "item/stone_hoe" }
+    { "predicate": {"custom_model_data": 2285 }, "model": "man10/private/mitsupapa_2024-05-30_garbage_can_burnable_waste" },
+    { "predicate": {"custom_model_data": 2286 }, "model": "man10/private/yassy1008_2024-05-30_landline_telephone_handset" },
+    { "predicate": {"custom_model_data": 2287 }, "model": "man10/private/matoyoi_2024-05-30_camping_with_chair" },
+    { "predicate": {"custom_model_data": 2288 }, "model": "man10/private/baselessknot856_2024-05-30_liquor_bottle" },
+    { "predicate": {"custom_model_data": 2289 }, "model": "man10/private/tokerobata_2024-05-30_retro_vending_machine_toast" },
+    { "predicate": {"custom_model_data": 2290 }, "model": "man10/private/rakletmole_2024-05-30_frog_ornament" },
+    { "predicate": {"custom_model_data": 2291 }, "model": "man10/private/kabosu014_2024-05-30_fireworksbox" },
+    { "predicate": {"custom_model_data": 2292 }, "model": "man10/private/mitsupapa_2024-05-30_sideboard" },
+    { "predicate": {"custom_model_data": 2293 }, "model": "man10/private/himari_7_2024-05-30_closet" },
+    { "predicate": {"custom_model_data": 2294 }, "model": "man10/private/akagin775_2024-05-30_man10_hanging_scroll" },
+    { "predicate": {"custom_model_data": 2295 }, "model": "man10/private/tmkknst423_2024-05-30_gamingchair" },
+    { "predicate": {"custom_model_data": 2296 }, "model": "man10/private/baselessknot856_2024-05-30_drink_bar" },
+    { "predicate": {"custom_model_data": 2297 }, "model": "man10/private/match_bou_2024-05-30_shop_sign_corkboard" },
+    { "predicate": {"custom_model_data": 2298 }, "model": "man10/private/match_bou_2024-05-30_shop_sign_blackboard" },
+    { "predicate": {"custom_model_data": 2299 }, "model": "man10/private/mabow_doufu_2024-05-30_stone_statue_of_villager" },
+    { "predicate": {"custom_model_data": 2300 }, "model": "man10/private/rakletmole_2024-05-30_signboard_decoration" },
+        { "predicate": {"custom_model_data": 2301 }, "model": "item/stone_hoe" }
         ]
 }
