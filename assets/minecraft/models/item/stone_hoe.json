@@ -510,6 +510,7 @@
     { "predicate": {"custom_model_data": 2298 }, "model": "man10/private/match_bou_2024-05-30_shop_sign_blackboard" },
     { "predicate": {"custom_model_data": 2299 }, "model": "man10/private/mabow_doufu_2024-05-30_stone_statue_of_villager" },
     { "predicate": {"custom_model_data": 2300 }, "model": "man10/private/rakletmole_2024-05-30_signboard_decoration" },
-        { "predicate": {"custom_model_data": 2301 }, "model": "item/stone_hoe" }
+    { "predicate": {"custom_model_data": 2301 }, "model": "man10/private/mabow_doufu_2024-05-30_wifi_router" },
+        { "predicate": {"custom_model_data": 2302 }, "model": "item/stone_hoe" }
         ]
 }

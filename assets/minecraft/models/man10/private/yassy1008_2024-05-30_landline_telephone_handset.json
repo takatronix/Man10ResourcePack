@@ -335,11 +335,18 @@
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [0.22, -7.41, 3.01],
-			"translation": [0, 6, 0]
+			"translation": [0, 8.5, 0.5],
+			"scale": [1.34961, 1.34961, 1.34961]
 		},
 		"head": {
-			"rotation": [180, -0.25, 180],
-			"translation": [0, 14.5, -2.25]
+			"rotation": [180, 0.25, 180],
+			"translation": [0, 15.25, -2.5],
+			"scale": [1.24219, 1.24219, 1.24219]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0.75, 4.5, -22],
+			"scale": [2.88281, 2.88281, 2.88281]
 		}
 	},
 	"groups": [
