@@ -1,0 +1,18 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/wheat"
+    },
+    "overrides": [
+    	{ "predicate": {"custom_model_data":1}, "model": "man10/farm/rice/rice_stage0" },
+        { "predicate": {"custom_model_data":2}, "model": "man10/farm/rice/rice_stage1" },
+        { "predicate": {"custom_model_data":3}, "model": "man10/farm/rice/rice_stage2" },
+        { "predicate": {"custom_model_data":4}, "model": "man10/farm/rice/rice_stage3" },
+        { "predicate": {"custom_model_data":5}, "model": "man10/farm/rice/rice_stage4" },
+        { "predicate": {"custom_model_data":6}, "model": "man10/farm/rice/rice_stage5" },
+        { "predicate": {"custom_model_data":7}, "model": "man10/farm/rice/rice_stage6" },
+        { "predicate": {"custom_model_data":8}, "model": "man10/farm/rice/rice_stage7" },
+
+    	{ "predicate": {"custom_model_data":9}, "model": "item/wheat" }
+    ]
+}
