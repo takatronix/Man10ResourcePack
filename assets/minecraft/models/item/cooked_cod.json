@@ -65,7 +65,12 @@
     { "predicate": {"custom_model_data":58}, "model": "man10/food/fish_cooked_food/surstromming"},
     { "predicate": {"custom_model_data":59}, "model": "man10/food/fish_cooked_food/switch_cake"},
     { "predicate": {"custom_model_data":60}, "model": "man10/food/fish_cooked_food/unigunkan"},
+    { "predicate": {"custom_model_data":61}, "model": "man10/food/fish_cooked_food/gorgeous_kaisendon"},
+    { "predicate": {"custom_model_data":62}, "model": "man10/food/fish_cooked_food/oyakodon"},
+    { "predicate": {"custom_model_data":63}, "model": "man10/food/fish_cooked_food/shiira_sashimi"},
+    { "predicate": {"custom_model_data":64}, "model": "man10/food/fish_cooked_food/sushi_shako"},
+    { "predicate": {"custom_model_data":65}, "model": "man10/food/fish_cooked_food/touzayori_no_misoshiru"},
 
-	{ "predicate": {"custom_model_data":61}, "model": "item/cooked_cod"}
+	{ "predicate": {"custom_model_data":66}, "model": "item/cooked_cod"}
     ]
 }
