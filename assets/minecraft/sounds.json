@@ -251,6 +251,36 @@
       "man10/ooatari5"
     ]
   },
+  "slot.ooatari6": {
+    "category": "master",
+    "sounds": [
+      "man10/ooatari6"
+    ]
+  },
+  "slot.millionchance1": {
+    "category": "master",
+    "sounds": [
+      "man10/millionchance1"
+    ]
+  },
+  "slot.millionchance2": {
+    "category": "master",
+    "sounds": [
+      "man10/millionchance2"
+    ]
+  },
+  "slot.millionchance3": {
+    "category": "master",
+    "sounds": [
+      "man10/millionchance3"
+    ]
+  },
+  "slot.millionchance4": {
+    "category": "master",
+    "sounds": [
+      "man10/millionchance4"
+    ]
+  },
     "slot.chance1": {
     "category": "master",
     "sounds": [
