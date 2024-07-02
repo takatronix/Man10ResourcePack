@@ -77,7 +77,8 @@
         { "predicate": {"custom_model_data": 68 }, "model": "man10/weapon/sword/fire_sword"},
         { "predicate": {"custom_model_data": 69 }, "model": "man10/weapon/other/hell_axe"},
         { "predicate": {"custom_model_data": 70 }, "model": "man10/weapon/other/hell_axe2"},
+        { "predicate": {"custom_model_data": 71 }, "model": "man10/weapon/sword/newdorado"},
 
-        { "predicate": {"custom_model_data": 71 }, "model": "item/iron_sword" }
+        { "predicate": {"custom_model_data": 72 }, "model": "item/iron_sword" }
         ]
 }
