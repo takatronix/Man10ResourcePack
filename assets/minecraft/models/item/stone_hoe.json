@@ -453,8 +453,10 @@
     { "predicate": {"custom_model_data": 442 }, "model": "man10/equipment/sakura_clock" },
     { "predicate": {"custom_model_data": 443 }, "model": "man10/equipment/sakura_bed" },
     { "predicate": {"custom_model_data": 444 }, "model": "man10/equipment/enforcer_trophy" },
+    { "predicate": {"custom_model_data": 445 }, "model": "man10/equipment/water_melon_umbrella_open" },
+    { "predicate": {"custom_model_data": 446 }, "model": "man10/equipment/water_melon_umbrella_close" },
 
-        { "predicate": {"custom_model_data": 445 }, "model": "item/stone_hoe" },
+        { "predicate": {"custom_model_data": 447 }, "model": "item/stone_hoe" },
 
 
 
