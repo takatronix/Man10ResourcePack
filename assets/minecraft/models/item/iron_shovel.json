@@ -77,7 +77,8 @@
 		{"predicate": {"custom_model_data":70}, "model": "man10/weapon/magic/darken_wand"},
 		{"predicate": {"custom_model_data":71}, "model": "man10/weapon/other/thortex"},
 		{"predicate": {"custom_model_data":72}, "model": "man10/weapon/other/thortex"},
+		{"predicate": {"custom_model_data":73}, "model": "man10/weapon/other/fan_rain"},
 
-    {"predicate": {"custom_model_data":73}, "model": "item/iron_shovel"}		
+    {"predicate": {"custom_model_data":74}, "model": "item/iron_shovel"}		
   ]
 }
