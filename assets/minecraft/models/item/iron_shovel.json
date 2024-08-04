@@ -76,7 +76,7 @@
 		{"predicate": {"custom_model_data":69}, "model": "man10/weapon/magic/water_wand"},
 		{"predicate": {"custom_model_data":70}, "model": "man10/weapon/magic/darken_wand"},
 		{"predicate": {"custom_model_data":71}, "model": "man10/weapon/other/thortex"},
-		{"predicate": {"custom_model_data":72}, "model": "man10/weapon/other/thortex"},
+		{"predicate": {"custom_model_data":72}, "model": "man10/weapon/other/summer_guitar"},
 		{"predicate": {"custom_model_data":73}, "model": "man10/weapon/other/fan_rain"},
 		{"predicate": {"custom_model_data":74}, "model": "man10/weapon/wing/summer_wing"},
 

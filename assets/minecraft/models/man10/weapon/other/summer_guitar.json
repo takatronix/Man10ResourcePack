@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "man10/other/summar_guitar/guitar_summer_color1__chonbo7003",
-		"1": "man10/other/summar_guitar/guitar_summer_color2__chonbo7003",
-		"particle": "man10/other/summar_guitar/guitar_summer_color1__chonbo7003"
+		"0": "man10/weapon/other/summer_guitar/guitar_summer_color1__chonbo7003",
+		"1": "man10/weapon/other/summer_guitar/guitar_summer_color2__chonbo7003",
+		"particle": "man10/weapon/other/summer_guitar/guitar_summer_color1__chonbo7003"
 	},
 	"elements": [
 		{
@@ -2953,12 +2953,12 @@
 			"scale": [0.8, 0.8, 0.8]
 		},
 		"firstperson_righthand": {
-			"rotation": [125.47, -48.98, 92.27],
-			"translation": [-23.5, 6, -20.5]
+			"rotation": [125.47, 33, 92.27],
+			"translation": [9.25, 4.75, -17.25]
 		},
 		"firstperson_lefthand": {
-			"rotation": [133.11, 52.71, -97.47],
-			"translation": [4.5, 7.25, -19]
+			"rotation": [143, -35, 84],
+			"translation": [2.75, 5.5, -4.75]
 		},
 		"ground": {
 			"rotation": [89.37, 0.56, 52.19],
