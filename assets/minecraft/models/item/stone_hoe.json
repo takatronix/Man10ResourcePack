@@ -455,8 +455,14 @@
     { "predicate": {"custom_model_data": 444 }, "model": "man10/equipment/enforcer_trophy" },
     { "predicate": {"custom_model_data": 445 }, "model": "man10/equipment/water_melon_umbrella_open" },
     { "predicate": {"custom_model_data": 446 }, "model": "man10/equipment/water_melon_umbrella_close" },
+    { "predicate": {"custom_model_data": 447 }, "model": "man10/equipment/childrens_pool" },
+    { "predicate": {"custom_model_data": 448 }, "model": "man10/equipment/dolphin_clock" },
+    { "predicate": {"custom_model_data": 449 }, "model": "man10/equipment/summer_shaved_ice_machine" },
+    { "predicate": {"custom_model_data": 450 }, "model": "man10/equipment/shell_sofa" },
+    { "predicate": {"custom_model_data": 451 }, "model": "man10/equipment/shell_chest_of_drawers" },
+    { "predicate": {"custom_model_data": 452 }, "model": "man10/equipment/surfboard_stand" },
 
-        { "predicate": {"custom_model_data": 447 }, "model": "item/stone_hoe" },
+        { "predicate": {"custom_model_data": 453 }, "model": "item/stone_hoe" },
 
 
 
