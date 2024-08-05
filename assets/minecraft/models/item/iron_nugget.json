@@ -240,6 +240,6 @@
     {"predicate": {"custom_model_data":263}, "model": "man10/slot/summer_event/summer_2024slot29"}, 
 
 
-    {"predicate": {"custom_model_data":263}, "model": "item/iron_nugget"}
+    {"predicate": {"custom_model_data":264}, "model": "item/iron_nugget"}
     ]
 }
