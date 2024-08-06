@@ -462,8 +462,9 @@
     { "predicate": {"custom_model_data": 451 }, "model": "man10/equipment/shell_chest_of_drawers" },
     { "predicate": {"custom_model_data": 452 }, "model": "man10/equipment/surfboard_stand" },
     { "predicate": {"custom_model_data": 453 }, "model": "man10/equipment/morning_glory" },
+    { "predicate": {"custom_model_data": 454 }, "model": "man10/equipment/coffin" },
 
-        { "predicate": {"custom_model_data": 454 }, "model": "item/stone_hoe" },
+        { "predicate": {"custom_model_data": 455 }, "model": "item/stone_hoe" },
 
 
 
