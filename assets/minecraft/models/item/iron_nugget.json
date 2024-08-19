@@ -171,7 +171,13 @@
         {"predicate": {"custom_model_data":157}, "model": "man10/slot/spring_event/sakura_gem"},
 
 
-	{"predicate": {"custom_model_data":158}, "model": "item/iron_nugget"},
+	{"predicate": {"custom_model_data":158}, "model": "man10/slot/slot_flame/light_blue_slot_flame"},
+    {"predicate": {"custom_model_data":159}, "model": "man10/slot/slot_flame/green_slot_flame"},
+    {"predicate": {"custom_model_data":160}, "model": "man10/slot/slot_flame/purple_slot_flame"},
+    {"predicate": {"custom_model_data":161}, "model": "man10/slot/slot_flame/red_slot_flame"},
+    {"predicate": {"custom_model_data":162}, "model": "man10/slot/slot_flame/yellow_slot_flame"},
+    {"predicate": {"custom_model_data":163}, "model": "man10/slot/slot_flame/rainbow_slot_flame"},
+    {"predicate": {"custom_model_data":164}, "model": "item/iron_nugget"},
 
 
     {"predicate": {"custom_model_data":200}, "model": "man10/slot/heavenssky/heavenssky_normal_go"},
