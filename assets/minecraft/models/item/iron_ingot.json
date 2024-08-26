@@ -43,8 +43,10 @@
         {"predicate": {"custom_model_data":35}, "model": "man10/currency/fishing_coin"},
         {"predicate": {"custom_model_data":36}, "model": "man10/currency/casino_2f_anniversary_coin"},
         {"predicate": {"custom_model_data":37}, "model": "man10/currency/fishing_king_coin"},
+        {"predicate": {"custom_model_data":38}, "model": "man10/currency/glow_fishing_coin"},
+        {"predicate": {"custom_model_data":39}, "model": "man10/currency/glow_fishing_king_coin"},
 
 
-        {"predicate": {"custom_model_data":38}, "model": "item/iron_ingot"}
+        {"predicate": {"custom_model_data":40}, "model": "item/iron_ingot"}
     ]
 }
