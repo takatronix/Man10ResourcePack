@@ -257,6 +257,12 @@
       "man10/ooatari6"
     ]
   },
+  "slot.ooatari7": {
+    "category": "master",
+    "sounds": [
+      "man10/ooatari7"
+    ]
+  },
   "slot.millionchance1": {
     "category": "master",
     "sounds": [
@@ -382,6 +388,12 @@
     "category": "master",
     "sounds": [
       "man10/kyuin1"
+    ]
+  },
+  "slot.kyuin2": {
+    "category": "master",
+    "sounds": [
+      "man10/kyuin2"
     ]
   },
   "slot.tetsudou": {
