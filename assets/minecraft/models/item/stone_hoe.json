@@ -521,6 +521,27 @@
     { "predicate": {"custom_model_data": 2299 }, "model": "man10/private/mabow_doufu_2024-05-30_stone_statue_of_villager" },
     { "predicate": {"custom_model_data": 2300 }, "model": "man10/private/rakletmole_2024-05-30_signboard_decoration" },
     { "predicate": {"custom_model_data": 2301 }, "model": "man10/private/mabow_doufu_2024-05-30_wifi_router" },
-        { "predicate": {"custom_model_data": 2302 }, "model": "item/stone_hoe" }
+    { "predicate": {"custom_model_data": 2302 }, "model": "man10/private/rakletmole_2024-08-30_miner_skeleton" },
+    { "predicate": {"custom_model_data": 2303 }, "model": "man10/private/rinkun2570_2024-08-30_globe" },
+    { "predicate": {"custom_model_data": 2304 }, "model": "man10/private/yassy1008_2024-08-30_mysterious_desk" },
+    { "predicate": {"custom_model_data": 2305 }, "model": "man10/private/kenchan15_2024-08-30_sleeping_fox_display" },
+    { "predicate": {"custom_model_data": 2306 }, "model": "man10/private/kenchan15_2024-08-30_sleeping_winterfox_display" },
+    { "predicate": {"custom_model_data": 2307 }, "model": "man10/private/p_0reoparty_2024-08-30_pig_cup" },
+    { "predicate": {"custom_model_data": 2308 }, "model": "man10/private/soratobu_kame_2024-08-30_vegetable_box" },
+    { "predicate": {"custom_model_data": 2309 }, "model": "man10/private/toonblast_2024-08-30_luxury_rugs" },
+    { "predicate": {"custom_model_data": 2310 }, "model": "man10/private/toonblast_2024-08-30_stuffed_deer" },
+    { "predicate": {"custom_model_data": 2311 }, "model": "man10/private/tokerobata_2024-08-30_retro_vending_machine_hamburger" },
+    { "predicate": {"custom_model_data": 2312 }, "model": "man10/private/yoshitaka2008_2024-08-30_mlexa" },
+    { "predicate": {"custom_model_data": 2313 }, "model": "man10/private/chikuwaaan_2024-08-30_cotton_candy_machine" },
+    { "predicate": {"custom_model_data": 2314 }, "model": "man10/private/sweetdoremy_2024-08-30_doghouse" },
+    { "predicate": {"custom_model_data": 2315 }, "model": "man10/private/minto0032_2024-08-30_test_tube_stand" },
+    { "predicate": {"custom_model_data": 2316 }, "model": "man10/private/mabow_doufu_2024-08-30_gaming_keyboard" },
+    { "predicate": {"custom_model_data": 2317 }, "model": "man10/private/chikuwaaan_2024-08-30_air_hockey" },
+    { "predicate": {"custom_model_data": 2318 }, "model": "man10/private/rinkun2570_2024-08-30_astronomical_telescope" },
+    { "predicate": {"custom_model_data": 2319 }, "model": "man10/private/sei2031_2024-08-30_warden_clock" },
+    { "predicate": {"custom_model_data": 2320 }, "model": "man10/private/roz_62_2024-08-30_cat_tower" },
+
+    
+        { "predicate": {"custom_model_data": 2321 }, "model": "item/stone_hoe" }
         ]
 }
