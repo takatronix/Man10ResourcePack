@@ -79,7 +79,8 @@
 		{"predicate": {"custom_model_data":72}, "model": "man10/weapon/other/summer_guitar"},
 		{"predicate": {"custom_model_data":73}, "model": "man10/weapon/other/fan_rain"},
 		{"predicate": {"custom_model_data":74}, "model": "man10/weapon/wing/summer_wing"},
+		{"predicate": {"custom_model_data":75}, "model": "man10/weapon/magic/jellyfish_wand"},
 
-    {"predicate": {"custom_model_data":75}, "model": "item/iron_shovel"}		
+    {"predicate": {"custom_model_data":76}, "model": "item/iron_shovel"}		
   ]
 }

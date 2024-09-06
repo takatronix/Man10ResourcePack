@@ -82,8 +82,9 @@
         { "predicate": {"custom_model_data": 73 }, "model": "man10/weapon/sword/watermelon_sword_empty"},
         { "predicate": {"custom_model_data": 74 }, "model": "man10/weapon/sword/meteor_tachi"},
         { "predicate": {"custom_model_data": 75 }, "model": "man10/weapon/sword/electiricty_axe"},
+        { "predicate": {"custom_model_data": 76 }, "model": "man10/weapon/sword/shark_sword"},
 
 
-        { "predicate": {"custom_model_data": 76 }, "model": "item/iron_sword" }
+        { "predicate": {"custom_model_data": 77 }, "model": "item/iron_sword" }
         ]
 }

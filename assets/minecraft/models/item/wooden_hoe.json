@@ -107,7 +107,9 @@
         {"predicate": {"custom_model_data":98}, "model": "man10/hat/straw_hat"},
         {"predicate": {"custom_model_data":99}, "model": "man10/hat/snowsant_met"},
         {"predicate": {"custom_model_data":100}, "model": "man10/hat/summer_fox"},
+        {"predicate": {"custom_model_data":101}, "model": "man10/hat/clownfish_hat"},
+        {"predicate": {"custom_model_data":102}, "model": "man10/hat/shark_hat"},
 
-        {"predicate": {"custom_model_data":101}, "model": "item/wooden_hoe"}
+        {"predicate": {"custom_model_data":103}, "model": "item/wooden_hoe"}
     ]
 }
