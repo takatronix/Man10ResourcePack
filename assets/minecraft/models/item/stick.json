@@ -16,7 +16,14 @@
       { "predicate": {"custom_model_data": 10 }, "model" : "man10/heist/tier_3"},
       { "predicate": {"custom_model_data": 11 }, "model" : "man10/heist/tier_4"},
       { "predicate": {"custom_model_data": 12 }, "model" : "man10/heist/tier_5"},
+      { "predicate": {"custom_model_data":13}, "model": "man10/fish/food/fishfood_black"},
+      { "predicate": {"custom_model_data":14}, "model": "man10/fish/food/fishfood_gray"},
+      { "predicate": {"custom_model_data":15}, "model": "man10/fish/food/fishfood_green"},
+      { "predicate": {"custom_model_data":16}, "model": "man10/fish/food/fishfood_maroon"},
+      { "predicate": {"custom_model_data":17}, "model": "man10/fish/food/fishfood_orange"},
+      { "predicate": {"custom_model_data":18}, "model": "man10/fish/food/fishfood_silver"},
+      { "predicate": {"custom_model_data":19}, "model": "man10/fish/food/fishfood_yellow"},
 
-      { "predicate": {"custom_model_data":13}, "model": "item/stick"}
+      { "predicate": {"custom_model_data":20}, "model": "item/stick"}
   ]
 }
