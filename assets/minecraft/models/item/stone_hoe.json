@@ -467,8 +467,10 @@
     { "predicate": {"custom_model_data": 456 }, "model": "man10/equipment/fishing_rods_and_tar" },
     { "predicate": {"custom_model_data": 457 }, "model": "man10/equipment/jellyfish_lamp" },
     { "predicate": {"custom_model_data": 458 }, "model": "man10/equipment/octopus_chandelier" },
+    { "predicate": {"custom_model_data": 459 }, "model": "man10/equipment/coolerbox_open"},
+    { "predicate": {"custom_model_data": 460}, "model": "man10/equipment/coolerbox_close"},
 
-        { "predicate": {"custom_model_data": 459 }, "model": "item/stone_hoe" },
+        { "predicate": {"custom_model_data": 461 }, "model": "item/stone_hoe" },
 
 
 
