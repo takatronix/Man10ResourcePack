@@ -469,8 +469,13 @@
     { "predicate": {"custom_model_data": 458 }, "model": "man10/equipment/octopus_chandelier" },
     { "predicate": {"custom_model_data": 459 }, "model": "man10/equipment/coolerbox_open"},
     { "predicate": {"custom_model_data": 460}, "model": "man10/equipment/coolerbox_close"},
+    { "predicate": {"custom_model_data": 461}, "model": "man10/equipment/man10_crystal_trophy"},
+    { "predicate": {"custom_model_data": 462}, "model": "man10/equipment/shield_trophy"},
+    { "predicate": {"custom_model_data": 463}, "model": "man10/equipment/mdice_monument"},
+    { "predicate": {"custom_model_data": 464}, "model": "man10/equipment/pvp_trophy"},
+    { "predicate": {"custom_model_data": 465}, "model": "man10/equipment/madiva"},
 
-        { "predicate": {"custom_model_data": 461 }, "model": "item/stone_hoe" },
+        { "predicate": {"custom_model_data": 466 }, "model": "item/stone_hoe" },
 
 
 
