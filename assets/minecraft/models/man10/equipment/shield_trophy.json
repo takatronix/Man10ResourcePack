@@ -631,6 +631,7 @@
 			}
 		}
 	],
+	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [160.17, 89.46, -158.36],
