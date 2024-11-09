@@ -604,6 +604,12 @@
     "sounds": [
       "man10/dodon"
     ]
+  },
+  "man10.wind": {
+    "category": "master",
+    "sounds": [
+      "man10/wind_sound"
+    ]
   } 
     
 }
