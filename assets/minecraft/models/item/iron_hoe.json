@@ -105,8 +105,8 @@
 		{"predicate": {"custom_model_data":109},  "model": "man10/weapon/gun/enfslug_black"},
 		{"predicate": {"custom_model_data":110},  "model": "man10/weapon/gun/enfslug_aim"},
 		{"predicate": {"custom_model_data":111},  "model": "man10/weapon/bow/summer_bow"},
-		{"predicate": {"custom_model_data":111},  "model": "man10/weapon/other/penguin"},
+		{"predicate": {"custom_model_data":112},  "model": "man10/weapon/other/penguin"},
 
-		{"predicate": {"custom_model_data":112}, "model": "item/iron_hoe"}
+		{"predicate": {"custom_model_data":113}, "model": "item/iron_hoe"}
     ]
 }
