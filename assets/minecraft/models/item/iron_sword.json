@@ -83,8 +83,13 @@
         { "predicate": {"custom_model_data": 74 }, "model": "man10/weapon/sword/meteor_tachi"},
         { "predicate": {"custom_model_data": 75 }, "model": "man10/weapon/sword/electiricty_axe"},
         { "predicate": {"custom_model_data": 76 }, "model": "man10/weapon/sword/shark_sword"},
+        { "predicate": {"custom_model_data": 77 }, "model": "man10/weapon/sword/salmon"},
+        { "predicate": {"custom_model_data": 78 }, "model": "man10/weapon/sword/salmon_eaten"},
+        { "predicate": {"custom_model_data": 79 }, "model": "man10/weapon/other/frozen_spear/bw_spear"},
+        { "predicate": {"custom_model_data": 80 }, "model": "man10/weapon/other/frozen_spear/bw_spear_core"},
+        { "predicate": {"custom_model_data": 81 }, "model": "man10/weapon/other/frozen_spear/bw_spear_core2"},
 
 
-        { "predicate": {"custom_model_data": 77 }, "model": "item/iron_sword" }
+        { "predicate": {"custom_model_data": 82 }, "model": "item/iron_sword" }
         ]
 }

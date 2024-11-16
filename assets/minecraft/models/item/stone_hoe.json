@@ -474,8 +474,9 @@
     { "predicate": {"custom_model_data": 463}, "model": "man10/equipment/mdice_monument"},
     { "predicate": {"custom_model_data": 464}, "model": "man10/equipment/pvp_trophy"},
     { "predicate": {"custom_model_data": 465}, "model": "man10/equipment/madiva"},
+    { "predicate": {"custom_model_data": 466}, "model": "man10/equipment/squirrel"},
 
-        { "predicate": {"custom_model_data": 466 }, "model": "item/stone_hoe" },
+        { "predicate": {"custom_model_data": 467 }, "model": "item/stone_hoe" },
 
 
 
