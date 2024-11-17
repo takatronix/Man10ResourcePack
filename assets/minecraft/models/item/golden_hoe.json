@@ -39,7 +39,8 @@
 		{"predicate": {"custom_model_data":32}, "model": "man10/gadget/laser_pointer_pink"},
 		{"predicate": {"custom_model_data":33}, "model": "man10/gadget/laser_pointer_yellow"},
 		{"predicate": {"custom_model_data":34}, "model": "man10/gadget/laser_pointer_white"},
+		{"predicate": {"custom_model_data":35}, "model": "man10/gadget/xmas_key"},
 
-		{"predicate": {"custom_model_data":35}, "model": "item/golden_hoe"}	
+		{"predicate": {"custom_model_data":36}, "model": "item/golden_hoe"}	
     ]
 }
