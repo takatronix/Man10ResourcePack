@@ -1,0 +1,6 @@
+{
+    "parent": "item/fishing_rod",
+    "textures": {
+        "layer0": "man10/fish/fishing_rod/mossy_metal_fishing_rod_cast"
+    }
+}
