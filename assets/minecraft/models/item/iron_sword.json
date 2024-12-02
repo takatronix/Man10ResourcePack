@@ -92,8 +92,10 @@
         { "predicate": {"custom_model_data": 83 }, "model": "man10/weapon/other/holy_sword_effect"},
         { "predicate": {"custom_model_data": 84 }, "model": "man10/weapon/sword/holy_axe"},
         { "predicate": {"custom_model_data": 85 }, "model": "man10/weapon/sword/holy_sword"},
+        { "predicate": {"custom_model_data": 86 }, "model": "man10/weapon/sword/frozen_marlin"},
+        { "predicate": {"custom_model_data": 87 }, "model": "man10/weapon/sword/frozen_marlin_broken"},
 
 
-        { "predicate": {"custom_model_data": 86 }, "model": "item/iron_sword" }
+        { "predicate": {"custom_model_data": 88 }, "model": "item/iron_sword" }
         ]
 }
