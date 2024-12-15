@@ -287,6 +287,24 @@
       "man10/millionchance4"
     ]
   },
+    "slot.bonus1": {
+    "category": "master",
+    "sounds": [
+      "man10/bonusbgm1"
+    ]
+  },
+    "slot.bonus2": {
+    "category": "master",
+    "sounds": [
+      "man10/bonusbgm2"
+    ]
+  },
+    "slot.bonus3": {
+    "category": "master",
+    "sounds": [
+      "man10/bonusbgm3"
+    ]
+  },
     "slot.chance1": {
     "category": "master",
     "sounds": [
