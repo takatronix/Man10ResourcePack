@@ -305,6 +305,18 @@
       "man10/bonusbgm3"
     ]
   },
+    "slot.bonus4god": {
+    "category": "master",
+    "sounds": [
+      "man10/bonusbgm4god"
+    ]
+  },
+    "slot.bonus5": {
+    "category": "master",
+    "sounds": [
+      "man10/bonusbgm5"
+    ]
+  },
     "slot.chance1": {
     "category": "master",
     "sounds": [
