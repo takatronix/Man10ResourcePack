@@ -480,8 +480,9 @@
     { "predicate": {"custom_model_data": 469}, "model": "man10/equipment/utility_pole"},
     { "predicate": {"custom_model_data": 470}, "model": "man10/equipment/orange_backet"},
     { "predicate": {"custom_model_data": 471}, "model": "man10/equipment/xmas_tree"},
+    { "predicate": {"custom_model_data": 472}, "model": "man10/equipment/oseti"},
 
-        { "predicate": {"custom_model_data": 472 }, "model": "item/stone_hoe" },
+        { "predicate": {"custom_model_data": 473 }, "model": "item/stone_hoe" },
 
 
 
