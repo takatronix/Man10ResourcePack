@@ -117,7 +117,8 @@
 		{ "predicate": {"custom_model_data": 121 }, "model": "man10/weapon/gun/gamble_gun_9"},
 		{ "predicate": {"custom_model_data": 122 }, "model": "man10/weapon/gun/gamble_gun_10" },
 		{ "predicate": {"custom_model_data": 123 }, "model": "man10/weapon/gun/gamble_gun_dan5" },
+		{ "predicate": {"custom_model_data": 124 }, "model": "man10/weapon/gun/happy_newyear_bazooka" },
 
-		{"predicate": {"custom_model_data":124}, "model": "item/iron_hoe"}
+		{"predicate": {"custom_model_data":125}, "model": "item/iron_hoe"}
     ]
 }
