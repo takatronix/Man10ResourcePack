@@ -81,7 +81,8 @@
 		{"predicate": {"custom_model_data":74}, "model": "man10/weapon/wing/summer_wing"},
 		{"predicate": {"custom_model_data":75}, "model": "man10/weapon/magic/jellyfish_wand"},
 		{"predicate": {"custom_model_data":76}, "model": "man10/weapon/other/frost_fan"},
+		{"predicate": {"custom_model_data":77}, "model": "man10/weapon/wing/newyear_wing"},
 
-    {"predicate": {"custom_model_data":77}, "model": "item/iron_shovel"}		
+    {"predicate": {"custom_model_data":78}, "model": "item/iron_shovel"}		
   ]
 }
