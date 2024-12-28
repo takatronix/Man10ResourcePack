@@ -287,6 +287,42 @@
       "man10/millionchance4"
     ]
   },
+    "slot.bonus1": {
+    "category": "master",
+    "sounds": [
+      "man10/bonusbgm1"
+    ]
+  },
+    "slot.bonus2": {
+    "category": "master",
+    "sounds": [
+      "man10/bonusbgm2"
+    ]
+  },
+    "slot.bonus3": {
+    "category": "master",
+    "sounds": [
+      "man10/bonusbgm3"
+    ]
+  },
+    "slot.bonus4god": {
+    "category": "master",
+    "sounds": [
+      "man10/bonusbgm4god"
+    ]
+  },
+    "slot.bonus5": {
+    "category": "master",
+    "sounds": [
+      "man10/bonusbgm5"
+    ]
+  },
+    "slot.bonus6": {
+    "category": "master",
+    "sounds": [
+      "man10/bonusbgm6"
+    ]
+  },
     "slot.chance1": {
     "category": "master",
     "sounds": [
@@ -603,6 +639,12 @@
     "category": "master",
     "sounds": [
       "man10/dodon"
+    ]
+  },
+  "man10.wind": {
+    "category": "master",
+    "sounds": [
+      "man10/wind_sound"
     ]
   } 
     

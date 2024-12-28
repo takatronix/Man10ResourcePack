@@ -83,8 +83,19 @@
         { "predicate": {"custom_model_data": 74 }, "model": "man10/weapon/sword/meteor_tachi"},
         { "predicate": {"custom_model_data": 75 }, "model": "man10/weapon/sword/electiricty_axe"},
         { "predicate": {"custom_model_data": 76 }, "model": "man10/weapon/sword/shark_sword"},
+        { "predicate": {"custom_model_data": 77 }, "model": "man10/weapon/sword/salmon"},
+        { "predicate": {"custom_model_data": 78 }, "model": "man10/weapon/sword/salmon_eaten"},
+        { "predicate": {"custom_model_data": 79 }, "model": "man10/weapon/other/frozen_spear/bw_spear"},
+        { "predicate": {"custom_model_data": 80 }, "model": "man10/weapon/other/frozen_spear/bw_spear_core"},
+        { "predicate": {"custom_model_data": 81 }, "model": "man10/weapon/other/frozen_spear/bw_spear_core2"},
+        { "predicate": {"custom_model_data": 82 }, "model": "man10/weapon/magic/holy_wand"},
+        { "predicate": {"custom_model_data": 83 }, "model": "man10/weapon/other/holy_sword_effect"},
+        { "predicate": {"custom_model_data": 84 }, "model": "man10/weapon/sword/holy_axe"},
+        { "predicate": {"custom_model_data": 85 }, "model": "man10/weapon/sword/holy_sword"},
+        { "predicate": {"custom_model_data": 86 }, "model": "man10/weapon/sword/frozen_marlin"},
+        { "predicate": {"custom_model_data": 87 }, "model": "man10/weapon/sword/frozen_marlin_broken"},
 
 
-        { "predicate": {"custom_model_data": 77 }, "model": "item/iron_sword" }
+        { "predicate": {"custom_model_data": 88 }, "model": "item/iron_sword" }
         ]
 }

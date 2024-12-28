@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "man10/fish/fishing_rod/cherry_blossom_fishing_rod_cast"
+    }
+}

@@ -105,7 +105,20 @@
 		{"predicate": {"custom_model_data":109},  "model": "man10/weapon/gun/enfslug_black"},
 		{"predicate": {"custom_model_data":110},  "model": "man10/weapon/gun/enfslug_aim"},
 		{"predicate": {"custom_model_data":111},  "model": "man10/weapon/bow/summer_bow"},
+		{"predicate": {"custom_model_data":112},  "model": "man10/weapon/other/penguin"},
+		{ "predicate": {"custom_model_data": 113 }, "model": "man10/weapon/gun/gamble_gun_basemodel"},
+		{ "predicate": {"custom_model_data": 114 }, "model": "man10/weapon/gun/gamble_gun_1"},
+		{ "predicate": {"custom_model_data": 115 }, "model": "man10/weapon/gun/gamble_gun_2" },
+		{ "predicate": {"custom_model_data": 116 }, "model": "man10/weapon/gun/gamble_gun_3" },
+		{ "predicate": {"custom_model_data": 117 }, "model": "man10/weapon/gun/gamble_gun_5"},
+		{ "predicate": {"custom_model_data": 118 }, "model": "man10/weapon/gun/gamble_gun_6" },
+		{ "predicate": {"custom_model_data": 119 }, "model": "man10/weapon/gun/gamble_gun_7" },
+		{ "predicate": {"custom_model_data": 120 }, "model": "man10/weapon/gun/gamble_gun_8" },
+		{ "predicate": {"custom_model_data": 121 }, "model": "man10/weapon/gun/gamble_gun_9"},
+		{ "predicate": {"custom_model_data": 122 }, "model": "man10/weapon/gun/gamble_gun_10" },
+		{ "predicate": {"custom_model_data": 123 }, "model": "man10/weapon/gun/gamble_gun_dan5" },
+		{ "predicate": {"custom_model_data": 124 }, "model": "man10/weapon/gun/happy_newyear_bazooka" },
 
-		{"predicate": {"custom_model_data":112}, "model": "item/iron_hoe"}
+		{"predicate": {"custom_model_data":125}, "model": "item/iron_hoe"}
     ]
 }

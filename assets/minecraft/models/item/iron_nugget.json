@@ -244,8 +244,14 @@
     {"predicate": {"custom_model_data":261}, "model": "man10/slot/summer_event/summer_2024slot27"}, 
     {"predicate": {"custom_model_data":262}, "model": "man10/slot/summer_event/summer_2024slot28"}, 
     {"predicate": {"custom_model_data":263}, "model": "man10/slot/summer_event/summer_2024slot29"}, 
+    {"predicate": {"custom_model_data":264}, "model": "man10/slot/xmas_event/2024_winter_token"}, 
+    {"predicate": {"custom_model_data":265}, "model": "man10/slot/xmas_event/2024_xmas_wreath"}, 
+    {"predicate": {"custom_model_data":266}, "model": "man10/slot/xmas_event/2024_winter_glassball_green"}, 
+    {"predicate": {"custom_model_data":267}, "model": "man10/slot/xmas_event/2024_winter_glassball_red"}, 
+    {"predicate": {"custom_model_data":268}, "model": "man10/food/mochi"},
+    {"predicate": {"custom_model_data":269}, "model": "man10/food/mochi_dan5"},
+    {"predicate": {"custom_model_data":270}, "model": "man10/slot/newyear/suzu"}, 
 
-
-    {"predicate": {"custom_model_data":264}, "model": "item/iron_nugget"}
+    {"predicate": {"custom_model_data":271}, "model": "item/iron_nugget"}
     ]
 }
