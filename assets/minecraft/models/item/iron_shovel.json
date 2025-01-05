@@ -85,6 +85,7 @@
 		{"predicate": {"custom_model_data":78}, "model": "man10/weapon/magic/abyss_book_closed"},
 		{"predicate": {"custom_model_data":79}, "model": "man10/weapon/magic/abyss_book_opend"},
 		{"predicate": {"custom_model_data":80}, "model": "man10/weapon/magic/magic_scroll"},
-    {"predicate": {"custom_model_data":81}, "model": "item/iron_shovel"}		
+		{"predicate": {"custom_model_data":81}, "model": "man10/weapon/magic/emerald_wand"},
+    {"predicate": {"custom_model_data":82}, "model": "item/iron_shovel"}		
   ]
 }
