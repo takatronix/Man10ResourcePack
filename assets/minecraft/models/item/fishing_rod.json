@@ -38,8 +38,29 @@
 
         { "predicate":{"custom_model_data":11},"model": "man10/fish/fishing_rod/diamond_fishing_rod" },
         { "predicate":{"custom_model_data":11,"cast":1},"model": "man10/fish/fishing_rod/diamond_fishing_rod_cast"},
+
+        { "predicate":{"custom_model_data":12},"model": "man10/fish/fishing_rod/deep_sea_fishing_rod" },
+        { "predicate":{"custom_model_data":12,"cast":1},"model": "man10/fish/fishing_rod/deep_sea_fishing_rod_cast"},
+
+        { "predicate":{"custom_model_data":13},"model": "man10/fish/fishing_rod/dragon_fishing_rod" },
+        { "predicate":{"custom_model_data":13,"cast":1},"model": "man10/fish/fishing_rod/dragon_fishing_rod_cast"},
+
+        { "predicate":{"custom_model_data":14},"model": "man10/fish/fishing_rod/end_fishing_rod" },
+        { "predicate":{"custom_model_data":14,"cast":1},"model": "man10/fish/fishing_rod/end_fishing_rod_cast"},
+
+        { "predicate":{"custom_model_data":15},"model": "man10/fish/fishing_rod/fire_fishing_rod" },
+        { "predicate":{"custom_model_data":15,"cast":1},"model": "man10/fish/fishing_rod/fire_fishing_rod_cast"},
+
+        { "predicate":{"custom_model_data":16},"model": "man10/fish/fishing_rod/nether_fishing_rod" },
+        { "predicate":{"custom_model_data":16,"cast":1},"model": "man10/fish/fishing_rod/nether_fishing_rod_cast"},
+
+        { "predicate":{"custom_model_data":17},"model": "man10/fish/fishing_rod/phantom_ship_fishing_rod" },
+        { "predicate":{"custom_model_data":17,"cast":1},"model": "man10/fish/fishing_rod/phantom_ship_fishing_rod_cast"},
+
+        { "predicate":{"custom_model_data":18},"model": "man10/fish/fishing_rod/snow_fishing_rod" },
+        { "predicate":{"custom_model_data":18,"cast":1},"model": "man10/fish/fishing_rod/snow_fishing_rod_cast"},
         
-        { "predicate":{"custom_model_data":12},"model": "item/fishing_rod" },
-        { "predicate":{"custom_model_data":12,"cast":1},"model": "item/fishing_rod_cast"}
+        { "predicate":{"custom_model_data":19},"model": "item/fishing_rod" },
+        { "predicate":{"custom_model_data":19,"cast":1},"model": "item/fishing_rod_cast"}
         ]
 }
