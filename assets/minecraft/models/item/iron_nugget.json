@@ -255,7 +255,24 @@
     {"predicate": {"custom_model_data":272}, "model": "man10/slot/slot_effects/mirror"}, 
     {"predicate": {"custom_model_data":273}, "model": "man10/slot/slot_effects/pushbutton2"}, 
     {"predicate": {"custom_model_data":274}, "model": "man10/slot/slot_effects/pushbutton3"}, 
+    {"predicate": {"custom_model_data":275}, "model": "man10/slot/slot_effects/pushbutton4"}, 
+    {"predicate": {"custom_model_data":276}, "model": "man10/slot/slot_effects/pushbutton5"}, 
+    {"predicate": {"custom_model_data":277}, "model": "man10/slot/slot_effects/pushbutton6"}, 
+    {"predicate": {"custom_model_data":278}, "model": "man10/slot/slot_effects/pushbutton7"}, 
+    {"predicate": {"custom_model_data":279}, "model": "man10/slot/slot_effects/pushbutton8"}, 
+    {"predicate": {"custom_model_data":280}, "model": "man10/slot/slot_effects/pushbutton9"}, 
+    {"predicate": {"custom_model_data":281}, "model": "man10/slot/slot_effects/pushbutton10"}, 
+    {"predicate": {"custom_model_data":282}, "model": "man10/slot/slot_effects/pushbutton11"}, 
+    {"predicate": {"custom_model_data":283}, "model": "man10/slot/slot_effects/pushbutton12"}, 
+    {"predicate": {"custom_model_data":284}, "model": "man10/slot/slot_effects/pushbutton13"}, 
+    {"predicate": {"custom_model_data":285}, "model": "man10/slot/slot_effects/pushbutton14"}, 
+    {"predicate": {"custom_model_data":286}, "model": "man10/slot/slot_effects/pushbutton15"}, 
+    {"predicate": {"custom_model_data":287}, "model": "man10/slot/slot_effects/pushbutton16"}, 
+    {"predicate": {"custom_model_data":288}, "model": "man10/slot/slot_effects/pushbutton17"}, 
+    {"predicate": {"custom_model_data":289}, "model": "man10/slot/slot_effects/pushbutton18"}, 
+    {"predicate": {"custom_model_data":290}, "model": "man10/slot/slot_effects/pushbutton19"}, 
+    {"predicate": {"custom_model_data":291}, "model": "man10/slot/slot_effects/pushbutton20"}, 
 
-    {"predicate": {"custom_model_data":275}, "model": "item/iron_nugget"}
+    {"predicate": {"custom_model_data":292}, "model": "item/iron_nugget"}
     ]
 }
