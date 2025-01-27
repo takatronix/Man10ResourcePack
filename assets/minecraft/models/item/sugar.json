@@ -19,7 +19,8 @@
         { "predicate": {"custom_model_data":13}, "model": "man10/food/collage"},
         { "predicate": {"custom_model_data":14}, "model": "man10/shigen/pearl_powder"},
         { "predicate": {"custom_model_data":15}, "model": "man10/food/paddy"},
+        { "predicate": {"custom_model_data":16}, "model": "man10/food/paddy"},
 
-    	{ "predicate": {"custom_model_data":16}, "model": "item/sugar"}
+    	{ "predicate": {"custom_model_data":17}, "model": "item/sugar"}
     ]
 }
