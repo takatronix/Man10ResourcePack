@@ -1,0 +1,12 @@
+{
+	"credit": "Made with Rakletmole",
+	"parent": "man10/weapon/gun/gamble_gun_basemodel",
+	"textures": {
+		"0": "man10/weapon/gun/gamble_gun/g_gun9",
+		"1": "man10/weapon/gun/gamble_gun/g_gun8",
+		"2": "man10/weapon/gun/gamble_gun/g_gun7",
+		"3": "man10/weapon/gun/gamble_gun/gamble_gun_base",
+		"particle": "man10/weapon/gun/gamble_gun/g_gun3"
+	}
+
+}

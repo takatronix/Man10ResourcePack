@@ -108,7 +108,9 @@
 	{ "predicate": {"custom_model_data":98}, "model": "man10/food/easter_egg_red"},
 	{ "predicate": {"custom_model_data":99}, "model": "man10/food/easter_egg_rainbow"},
 	{ "predicate": {"custom_model_data":100}, "model": "man10/food/rice"},
+	{ "predicate": {"custom_model_data":101}, "model": "man10/food/brown_rice"},
+	{ "predicate": {"custom_model_data":102}, "model": "man10/food/white_rice"},
 
-	{ "predicate": {"custom_model_data":101}, "model": "item/beetroot"}
+	{ "predicate": {"custom_model_data":103}, "model": "item/beetroot"}
     ]
 }

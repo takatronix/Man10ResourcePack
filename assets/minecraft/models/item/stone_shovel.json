@@ -10,7 +10,10 @@
         { "predicate": {"custom_model_data": 4 }, "model": "man10/toy/mallet_of_luck" },
         { "predicate": {"custom_model_data": 5 }, "model": "man10/toy/hagoita" },
         { "predicate": {"custom_model_data": 6 }, "model": "man10/toy/hane" },
+        { "predicate": {"custom_model_data": 7 }, "model": "man10/toy/cigarette" },
+        { "predicate": {"custom_model_data": 8 }, "model": "man10/toy/xmas_bell" },
+        { "predicate": {"custom_model_data": 9 }, "model": "man10/toy/winter_decoration" },
 
-        { "predicate": {"custom_model_data": 7 }, "model": "item/stone_shovel" }
+        { "predicate": {"custom_model_data": 10 }, "model": "item/stone_shovel" }
         ]
 }

@@ -1,0 +1,6 @@
+{
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "man10/slot/slot_effects/pushbutton12"
+	}
+}

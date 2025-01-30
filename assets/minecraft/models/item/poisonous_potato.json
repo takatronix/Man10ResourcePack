@@ -5,7 +5,8 @@
   },
   "overrides": [
     { "predicate": {"custom_model_data":1}, "model": "man10/food/fish_cooked_food/poison_pot"},
+    { "predicate": {"custom_model_data":2}, "model": "man10/food/fish_cooked_food/manjuugani_no_maruyaki"},
 
-    { "predicate": {"custom_model_data":2}, "model": "item/poisonous_potato"}
+    { "predicate": {"custom_model_data":3}, "model": "item/poisonous_potato"}
   ]
 }

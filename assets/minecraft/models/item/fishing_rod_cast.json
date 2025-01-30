@@ -1,0 +1,65 @@
+{
+    "parent": "item/fishing_rod",
+    "textures": {
+        "layer0": "item/fishing_rod_cast"
+    },
+    "overrides": [
+        { "predicate":
+             {"custom_model_data": 1}, "model": "man10/fish/fishing_rod/cherry_blossom_fishing_rod_cast"
+        },
+        { "predicate":
+             {"custom_model_data": 2}, "model": "man10/fish/fishing_rod/christmas_fishing_rod_cast"
+        },
+        { "predicate":
+             {"custom_model_data": 3}, "model": "man10/fish/fishing_rod/halloween_fishing_rod_cast"
+        },
+        { "predicate":
+             {"custom_model_data": 4}, "model": "man10/fish/fishing_rod/tropical_fishing_rod_cast"
+        },
+        { "predicate":
+             {"custom_model_data": 5}, "model": "man10/fish/fishing_rod/long_fishing_rod_cast"
+        },
+        { "predicate":
+             {"custom_model_data": 6}, "model": "man10/fish/fishing_rod/rotting_fishing_rod_cast"
+        },
+        { "predicate":
+             {"custom_model_data": 7}, "model": "man10/fish/fishing_rod/mossy_metal_fishing_rod_cast"
+        },
+        { "predicate":
+             {"custom_model_data": 8}, "model": "man10/fish/fishing_rod/bronze_fishing_rod_cast"
+        },
+        { "predicate":
+             {"custom_model_data": 9}, "model": "man10/fish/fishing_rod/steel_fishing_rod_cast"
+        },
+        { "predicate":
+             {"custom_model_data": 10}, "model": "man10/fish/fishing_rod/golden_fishing_rod_cast"
+        },
+        { "predicate":
+             {"custom_model_data": 11}, "model": "man10/fish/fishing_rod/diamond_fishing_rod_cast"
+        },
+        { "predicate":
+             {"custom_model_data": 11}, "model": "man10/fish/fishing_rod/deep_sea_fishing_rod_cast"
+        },
+        { "predicate":
+             {"custom_model_data": 12}, "model": "man10/fish/fishing_rod/dragon_fishing_rod_cast"
+        },
+        { "predicate":
+             {"custom_model_data": 13}, "model": "man10/fish/fishing_rod/end_fishing_rod_cast"
+        },
+        { "predicate":
+             {"custom_model_data": 14}, "model": "man10/fish/fishing_rod/fire_fishing_rod_cast"
+        },
+        { "predicate":
+             {"custom_model_data": 15}, "model": "man10/fish/fishing_rod/nether_fishing_rod_cast"
+        },
+        { "predicate":
+             {"custom_model_data": 16}, "model": "man10/fish/fishing_rod/phantom_ship_fishing_rod_cast"
+        },
+        { "predicate":
+             {"custom_model_data": 17}, "model": "man10/fish/fishing_rod/snow_fishing_rod_cast"
+        },
+        { "predicate":
+             {"custom_model_data": 18}, "model": "item/fishing_rod_cast"
+        }
+    ]
+}

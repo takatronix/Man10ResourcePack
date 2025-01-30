@@ -59,7 +59,12 @@
       {"predicate": {"custom_model_data":52}, "model": "man10/final_card/y_draw2_uno"},
       {"predicate": {"custom_model_data":53}, "model": "man10/final_card/y_reverse_uno"},
       {"predicate": {"custom_model_data":54}, "model": "man10/final_card/y_skip_uno"},
+      {"predicate": {"custom_model_data":55}, "model": "man10/final_card/r_draw4_uno"},
+      {"predicate": {"custom_model_data":56}, "model": "man10/final_card/y_draw4_uno"},
+      {"predicate": {"custom_model_data":57}, "model": "man10/final_card/g_draw4_uno"},
+      {"predicate": {"custom_model_data":58}, "model": "man10/final_card/b_draw4_uno"},
+      {"predicate": {"custom_model_data":59}, "model": "man10/final_card/special_shuffle_uno"},
 
-      {"predicate": {"custom_model_data":55}, "model": "item/prismarine_shard"}
+      {"predicate": {"custom_model_data":60}, "model": "item/prismarine_shard"}
     ]
 }

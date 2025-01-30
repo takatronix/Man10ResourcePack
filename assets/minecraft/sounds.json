@@ -251,6 +251,102 @@
       "man10/ooatari5"
     ]
   },
+  "slot.ooatari6": {
+    "category": "master",
+    "sounds": [
+      "man10/ooatari6"
+    ]
+  },
+  "slot.ooatari7": {
+    "category": "master",
+    "sounds": [
+      "man10/ooatari7"
+    ]
+  },
+  "slot.ooatari8": {
+    "category": "master",
+    "sounds": [
+      "man10/ooatari8"
+    ]
+  },
+  "slot.millionchance1": {
+    "category": "master",
+    "sounds": [
+      "man10/millionchance1"
+    ]
+  },
+  "slot.millionchance2": {
+    "category": "master",
+    "sounds": [
+      "man10/millionchance2"
+    ]
+  },
+  "slot.millionchance3": {
+    "category": "master",
+    "sounds": [
+      "man10/millionchance3"
+    ]
+  },
+  "slot.millionchance4": {
+    "category": "master",
+    "sounds": [
+      "man10/millionchance4"
+    ]
+  },
+    "slot.bonus1": {
+    "category": "master",
+    "sounds": [
+      "man10/bonusbgm1"
+    ]
+  },
+    "slot.bonus2": {
+    "category": "master",
+    "sounds": [
+      "man10/bonusbgm2"
+    ]
+  },
+    "slot.bonus3": {
+    "category": "master",
+    "sounds": [
+      "man10/bonusbgm3"
+    ]
+  },
+    "slot.bonus4god": {
+    "category": "master",
+    "sounds": [
+      "man10/bonusbgm4god"
+    ]
+  },
+    "slot.bonus5": {
+    "category": "master",
+    "sounds": [
+      "man10/bonusbgm5"
+    ]
+  },
+    "slot.bonus6": {
+    "category": "master",
+    "sounds": [
+      "man10/bonusbgm6"
+    ]
+  },
+    "slot.bonus7": {
+    "category": "master",
+    "sounds": [
+      "man10/bonusbgm7"
+    ]
+  },
+    "slot.bonus8": {
+    "category": "master",
+    "sounds": [
+      "man10/bonusbgm8"
+    ]
+  },
+    "slot.bonus9": {
+    "category": "master",
+    "sounds": [
+      "man10/bonusbgm9"
+    ]
+  },
     "slot.chance1": {
     "category": "master",
     "sounds": [
@@ -352,6 +448,12 @@
     "category": "master",
     "sounds": [
       "man10/kyuin1"
+    ]
+  },
+  "slot.kyuin2": {
+    "category": "master",
+    "sounds": [
+      "man10/kyuin2"
     ]
   },
   "slot.tetsudou": {
@@ -561,6 +663,12 @@
     "category": "master",
     "sounds": [
       "man10/dodon"
+    ]
+  },
+  "man10.wind": {
+    "category": "master",
+    "sounds": [
+      "man10/wind_sound"
     ]
   } 
     

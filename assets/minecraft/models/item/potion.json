@@ -38,6 +38,7 @@
         { "predicate": {"custom_model_data": 31 }, "model": "man10/potion/unleashed_iceblade_effect4" },
         { "predicate": {"custom_model_data": 32 }, "model": "man10/potion/unleashed_iceblade_effect5" },
         { "predicate": {"custom_model_data": 33 }, "model": "man10/potion/unleashed_iceblade_effect6" },
-        { "predicate": {"custom_model_data": 34 }, "model": "item/potion" }
+        { "predicate": {"custom_model_data": 34 }, "model": "man10/drink/ramune" },
+        { "predicate": {"custom_model_data": 35 }, "model": "item/potion" }
         ]
 }
