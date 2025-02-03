@@ -148,7 +148,7 @@
         {"predicate": {"custom_model_data":134}, "model": "man10/slot/summer_event/yellow_sazae"},
         {"predicate": {"custom_model_data":135}, "model": "man10/slot/summer_event/orange_sazae"},
         {"predicate": {"custom_model_data":136}, "model": "man10/slot/god/god_0"},
-        {"predicate": {"custom_model_data":137}, "model": "man10/slot/god/god_s"},
+        {"predicate": {"custom_model_data":137}, "model": "man10/slot/god/god_ss"},
         {"predicate": {"custom_model_data":138}, "model": "man10/slot/xmas_event/2023_winter_minitoken"},
         {"predicate": {"custom_model_data":139}, "model": "man10/slot/xmas_event/2023_winter_token"},
         {"predicate": {"custom_model_data":140}, "model": "man10/slot/xmas_event/2023_winter_token_gold"},
