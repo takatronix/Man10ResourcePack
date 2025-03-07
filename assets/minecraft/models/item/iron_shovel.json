@@ -87,6 +87,7 @@
 		{"predicate": {"custom_model_data":80}, "model": "man10/weapon/magic/magic_scroll"},
 		{"predicate": {"custom_model_data":81}, "model": "man10/weapon/magic/frost_wand"},
 		{"predicate": {"custom_model_data":82}, "model": "man10/weapon/magic/frost_wand_ball"},
-    {"predicate": {"custom_model_data":83}, "model": "item/iron_shovel"}		
+    {"predicate": {"custom_model_data":83}, "model": "man10/weapon/magic/emerald_wand"},
+    {"predicate": {"custom_model_data":84}, "model": "item/iron_shovel"}		
   ]
 }
