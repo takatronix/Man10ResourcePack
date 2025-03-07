@@ -263,6 +263,12 @@
       "man10/ooatari7"
     ]
   },
+  "slot.ooatari8": {
+    "category": "master",
+    "sounds": [
+      "man10/ooatari8"
+    ]
+  },
   "slot.millionchance1": {
     "category": "master",
     "sounds": [
@@ -339,6 +345,18 @@
     "category": "master",
     "sounds": [
       "man10/bonusbgm9"
+    ]
+  },
+    "slot.bonus10": {
+    "category": "master",
+    "sounds": [
+      "man10/bonusbgm10"
+    ]
+  },
+    "slot.bonus11": {
+    "category": "master",
+    "sounds": [
+      "man10/bonusbgm11"
     ]
   },
     "slot.chance1": {

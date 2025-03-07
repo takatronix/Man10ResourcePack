@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "man10/fish/fishing_rod/dragon_fishing_rod"
+    }
+}
