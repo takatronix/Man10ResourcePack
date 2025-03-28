@@ -271,8 +271,10 @@
     {"predicate": {"custom_model_data":288}, "model": "man10/slot/slot_effects/pushbutton17"}, 
     {"predicate": {"custom_model_data":289}, "model": "man10/slot/slot_effects/pushbutton18"}, 
     {"predicate": {"custom_model_data":290}, "model": "man10/slot/slot_effects/pushbutton19"}, 
-    {"predicate": {"custom_model_data":291}, "model": "man10/slot/slot_effects/pushbutton20"}, 
+    {"predicate": {"custom_model_data":291}, "model": "man10/slot/slot_effects/pushbutton20"},
+    {"predicate": {"custom_model_data":292}, "model": "man10/slot/purgatory/purgatory_black"},
+    {"predicate": {"custom_model_data":293}, "model": "man10/slot/purgatory/red_eye"},
 
-    {"predicate": {"custom_model_data":292}, "model": "item/iron_nugget"}
+    {"predicate": {"custom_model_data":294}, "model": "item/iron_nugget"}
     ]
 }
