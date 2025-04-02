@@ -5,7 +5,7 @@
   },
   "overrides": [
       { "predicate": {"custom_model_data": 1 }, "model" : "man10/misc/recipe_book"},
-      { "predicate": {"custom_model_data": 2 }, "model" : "man10/misc/erohon"},
+      { "predicate": {"custom_model_data": 2 }, "model" : "man10/fish/joke/erohon"},
       {"predicate": {"custom_model_data":3}, "model": "item/book"}		
   ]
 }
