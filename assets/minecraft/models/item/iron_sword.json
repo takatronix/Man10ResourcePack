@@ -96,7 +96,10 @@
         { "predicate": {"custom_model_data": 87 }, "model": "man10/weapon/sword/frozen_marlin_broken"},
         { "predicate": {"custom_model_data": 88 }, "model": "man10/weapon/sword/hadou_tachi_on"},
         { "predicate": {"custom_model_data": 89 }, "model": "man10/weapon/sword/hadou_tachi_off"},
+        { "predicate": {"custom_model_data": 90 }, "model": "man10/weapon/sword/alloy_sword_pattern"},
+        { "predicate": {"custom_model_data": 91 }, "model": "man10/weapon/sword/alloy_sword_before"},
+        { "predicate": {"custom_model_data": 92 }, "model": "man10/weapon/sword/alloy_sword"},
 
-    { "predicate": {"custom_model_data": 90 }, "model": "item/iron_sword" }
+    { "predicate": {"custom_model_data": 93 }, "model": "item/iron_sword" }
   ]
 }
