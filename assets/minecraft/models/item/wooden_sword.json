@@ -4,6 +4,9 @@
     "layer0": "minecraft:item/wooden_sword"
   },
   "overrides": [
-      { "predicate": {"custom_model_data": 10 }, "model" : "man10/tool/copper/copper_sword"}
+    { "predicate": {"custom_model_data": 1 }, "model" : "man10/tool/spanner"},
+    { "predicate": {"custom_model_data": 2 }, "model": "item/wooden_sword" },
+      { "predicate": {"custom_model_data": 10 }, "model" : "man10/tool/copper/copper_sword"},
+      { "predicate": {"custom_model_data": 11 }, "model": "item/wooden_sword" }
   ]
 }
