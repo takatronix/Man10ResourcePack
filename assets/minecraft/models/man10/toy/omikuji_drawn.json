@@ -2,8 +2,8 @@
 	"credit": "Made with Rakletmole",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "man10/toy/omikuzi/omikuzi",
-		"particle": "man10/toy/omikuzi/omikuzi"
+		"0": "man10/toy/omikuji/omikuji",
+		"particle": "man10/toy/omikuji/omikuji"
 	},
 	"elements": [
 		{
@@ -112,8 +112,9 @@
 			"translation": [0, 3.25, 0]
 		},
 		"gui": {
-			"rotation": [-3, 148, 28],
-			"translation": [2.5, 0, 0]
+			"rotation": [0, 155, 38],
+			"translation": [1.5, 1.75, 0],
+			"scale": [1.49, 1.49, 1.49]
 		},
 		"head": {
 			"translation": [0, 13, 0]

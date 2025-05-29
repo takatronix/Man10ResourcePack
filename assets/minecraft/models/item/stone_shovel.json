@@ -15,7 +15,9 @@
         { "predicate": {"custom_model_data": 9 }, "model": "man10/toy/winter_decoration" },
         { "predicate": {"custom_model_data": 10 }, "model": "man10/toy/ban_hammer" },
         { "predicate": {"custom_model_data": 11 }, "model": "man10/toy/death_button" },
+        { "predicate": {"custom_model_data": 12 }, "model": "man10/toy/omikuji" },
+        { "predicate": {"custom_model_data": 13 }, "model": "man10/toy/omikuji_drawn" },
 
-        { "predicate": {"custom_model_data": 12 }, "model": "item/stone_shovel" }
+        { "predicate": {"custom_model_data": 14 }, "model": "item/stone_shovel" }
         ]
 }
