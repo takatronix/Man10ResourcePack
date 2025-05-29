@@ -43,7 +43,7 @@
 		{"predicate": {"custom_model_data":36}, "model": "man10/weapon/magic/bookpickaxe"},
 		{"predicate": {"custom_model_data":37}, "model": "man10/weapon/magic/booksand"},
 		{"predicate": {"custom_model_data":38}, "model": "man10/weapon/magic/easter_wand"},
-		{"predicate": {"custom_model_data":39}, "model": "man10/weapon/wing/normal_wing"},
+		{"predicate": {"custom_model_data":39}, "model": "man10/weapon/wing/normal_wing/normal_wing"},
 		{"predicate": {"custom_model_data":40}, "model": "man10/weapon/wing/man10_jetpack"},
 		{"predicate": {"custom_model_data":41}, "model": "man10/weapon/magic/shark_rod"},
 		{"predicate": {"custom_model_data":42}, "model": "man10/weapon/magic/shark_rod_bullet"},
@@ -90,7 +90,11 @@
     {"predicate": {"custom_model_data":83}, "model": "man10/weapon/magic/emerald_wand"},
 		{"predicate": {"custom_model_data":84}, "model": "man10/weapon/magic/galaxy_wand"},
 		{"predicate": {"custom_model_data":85}, "model": "man10/weapon/magic/galaxy_wand_eden"},
+		{"predicate": {"custom_model_data":86}, "model": "man10/weapon/wing/normal_wing/red_normal_wing"},
+		{"predicate": {"custom_model_data":87}, "model": "man10/weapon/wing/normal_wing/blue_normal_wing"},
+		{"predicate": {"custom_model_data":88}, "model": "man10/weapon/wing/normal_wing/yellow_normal_wing"},
+		{"predicate": {"custom_model_data":89}, "model": "man10/weapon/wing/normal_wing/green_normal_wing"},
 
-    {"predicate": {"custom_model_data":86}, "model": "item/iron_shovel"}
+    {"predicate": {"custom_model_data":90}, "model": "item/iron_shovel"}
   ]
 }
