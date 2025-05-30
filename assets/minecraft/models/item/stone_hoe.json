@@ -482,8 +482,14 @@
     { "predicate": {"custom_model_data": 471}, "model": "man10/equipment/xmas_tree"},
     { "predicate": {"custom_model_data": 472}, "model": "man10/equipment/oseti"},
     { "predicate": {"custom_model_data": 473}, "model": "man10/equipment/bite_crafting_table"},
+    { "predicate": {"custom_model_data": 474}, "model": "man10/equipment/connect_four_stand_blue"},
+    { "predicate": {"custom_model_data": 475}, "model": "man10/equipment/connect_four_stand_cyan"},
+    { "predicate": {"custom_model_data": 476}, "model": "man10/equipment/connect_four_stand_gray"},
+    { "predicate": {"custom_model_data": 477}, "model": "man10/equipment/connect_four_stand_lightblue"},
+    { "predicate": {"custom_model_data": 478}, "model": "man10/equipment/connect_four_pieces_red"},
+    { "predicate": {"custom_model_data": 479}, "model": "man10/equipment/connect_four_pieces_yellow"},
 
-        { "predicate": {"custom_model_data": 474 }, "model": "item/stone_hoe" },
+        { "predicate": {"custom_model_data": 480 }, "model": "item/stone_hoe" },
 
 
 
