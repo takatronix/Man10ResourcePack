@@ -9,7 +9,7 @@
 			"name": "octagon",
 			"from": [7.46981, 0.608, 6.72],
 			"to": [8.53019, 1.312, 9.28],
-			"rotation": {"angle": 45, "axis": "y", "origin": [8, 1, 8]},
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 0.96, 8]},
 			"faces": {
 				"north": {"uv": [3, 15, 6, 13], "texture": "#0"},
 				"east": {"uv": [3, 5, 6, 13], "texture": "#0"},
@@ -23,7 +23,7 @@
 			"name": "octagon",
 			"from": [7.46981, 0.6, 6.72],
 			"to": [8.53019, 1.32, 9.28],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 1, 8]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0.96, 8]},
 			"faces": {
 				"north": {"uv": [0, 13, 3, 15], "texture": "#0"},
 				"east": {"uv": [2, 5, 3, 13], "rotation": 90, "texture": "#0"},
@@ -37,7 +37,7 @@
 			"name": "octagon",
 			"from": [7.12, 0.592, 7.12],
 			"to": [8.88, 1.328, 8.88],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 1, 8]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0.96, 8]},
 			"faces": {
 				"north": {"uv": [5, 0, 0, 1], "texture": "#0"},
 				"east": {"uv": [4, 0, 5, 5], "rotation": 90, "texture": "#0"},
@@ -51,7 +51,7 @@
 			"name": "octagon",
 			"from": [6.72, 0.608, 7.46981],
 			"to": [9.28, 1.312, 8.53019],
-			"rotation": {"angle": 45, "axis": "y", "origin": [8, 1, 8]},
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 0.96, 8]},
 			"faces": {
 				"north": {"uv": [6, 5, 9, 13], "texture": "#0"},
 				"east": {"uv": [9, 13, 6, 15], "texture": "#0"},
@@ -65,7 +65,7 @@
 			"name": "octagon",
 			"from": [6.72, 0.6, 7.46981],
 			"to": [9.28, 1.32, 8.53019],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, 1, 8]},
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0.96, 8]},
 			"faces": {
 				"north": {"uv": [0, 5, 1, 13], "rotation": 90, "texture": "#0"},
 				"east": {"uv": [9, 3, 6, 5], "rotation": 180, "texture": "#0"},
@@ -111,8 +111,9 @@
 			"scale": [1.8, 1.8, 1.8]
 		},
 		"fixed": {
-			"translation": [0, 28.25, -8],
-			"scale": [4, 4, 4]
+			"rotation": [90, 0, 0],
+			"translation": [0, 0, 4],
+			"scale": [0.58, 0.58, 0.58]
 		}
 	},
 	"groups": [
