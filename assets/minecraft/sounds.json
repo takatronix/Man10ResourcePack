@@ -359,6 +359,12 @@
       "man10/bonusbgm11"
     ]
   },
+    "slot.bonus12": {
+    "category": "master",
+    "sounds": [
+      "man10/bonusbgm12"
+    ]
+  },
     "slot.chance1": {
     "category": "master",
     "sounds": [
