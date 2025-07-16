@@ -99,7 +99,7 @@
         { "predicate": {"custom_model_data": 90 }, "model": "man10/weapon/sword/four-horned_staff"},
         { "predicate": {"custom_model_data": 91 }, "model": "item/iron_sword"},
         { "predicate": {"custom_model_data": 92 }, "model": "item/iron_sword"},
-        { "predicate": {"custom_model_data": 93 }, "model": "item/iron_sword"},
+        { "predicate": {"custom_model_data": 93 }, "model": "man10/weapon/magic/dark_scythe"},
 
     { "predicate": {"custom_model_data": 94 }, "model": "item/iron_sword" }
   ]
