@@ -100,7 +100,7 @@
         { "predicate": {"custom_model_data": 91 }, "model": "item/iron_sword"},
         { "predicate": {"custom_model_data": 92 }, "model": "item/iron_sword"},
         { "predicate": {"custom_model_data": 93 }, "model": "man10/weapon/magic/dark_scythe"},
-        { "predicate": {"custom_model_data": 94 }, "model": "man10/weapon/magic/rotating_blade"},
+        { "predicate": {"custom_model_data": 94 }, "model": "man10/weapon/sword/rotating_blade"},
 
     { "predicate": {"custom_model_data": 95 }, "model": "item/iron_sword" }
   ]
