@@ -17,7 +17,9 @@
         { "predicate": {"custom_model_data": 11 }, "model": "man10/toy/death_button" },
         { "predicate": {"custom_model_data": 12 }, "model": "man10/toy/omikuji" },
         { "predicate": {"custom_model_data": 13 }, "model": "man10/toy/omikuji_drawn" },
+        { "predicate": {"custom_model_data": 14 }, "model": "man10/toy/sparklers" },
+        { "predicate": {"custom_model_data": 15 }, "model": "man10/toy/sparklers_ignited" },
 
-        { "predicate": {"custom_model_data": 14 }, "model": "item/stone_shovel" }
+        { "predicate": {"custom_model_data": 16 }, "model": "item/stone_shovel" }
         ]
 }
