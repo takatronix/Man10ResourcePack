@@ -489,8 +489,9 @@
     { "predicate": {"custom_model_data": 478}, "model": "man10/equipment/connect_four_pieces_red"},
     { "predicate": {"custom_model_data": 479}, "model": "man10/equipment/connect_four_pieces_yellow"},
     { "predicate": {"custom_model_data": 480}, "model": "man10/equipment/star_desk"},
+    { "predicate": {"custom_model_data": 481}, "model": "man10/equipment/summer_piano"},
 
-    { "predicate": {"custom_model_data": 481 }, "model": "item/stone_hoe" },
+    { "predicate": {"custom_model_data": 482 }, "model": "item/stone_hoe" },
 
 
 
