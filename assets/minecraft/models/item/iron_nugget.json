@@ -275,6 +275,12 @@
     {"predicate": {"custom_model_data":292}, "model": "man10/slot/purgatory/purgatory_black"},
     {"predicate": {"custom_model_data":293}, "model": "man10/slot/purgatory/red_eye"},
 
-    {"predicate": {"custom_model_data":294}, "model": "item/iron_nugget"}
+    {"predicate": {"custom_model_data":294}, "model": "man10/slot/summer_event/suika_7"},
+    {"predicate": {"custom_model_data":295}, "model": "man10/slot/summer_event/golden_suika_7"},
+    {"predicate": {"custom_model_data":296}, "model": "man10/slot/summer_event/golden_suika_tane"},
+    {"predicate": {"custom_model_data":297}, "model": "man10/slot/summer_event/suika_bar"},
+    {"predicate": {"custom_model_data":298}, "model": "man10/slot/summer_event/golden_melon"},
+
+    {"predicate": {"custom_model_data":299}, "model": "item/iron_nugget"}
     ]
 }
