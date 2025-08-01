@@ -97,7 +97,9 @@
 		{"predicate": {"custom_model_data":90}, "model": "man10/weapon/magic/star_story_book1"},
 		{"predicate": {"custom_model_data":91}, "model": "man10/weapon/magic/star_story_book2"},
 		{"predicate": {"custom_model_data":92}, "model": "man10/weapon/wing/scale_wing"},
+		{"predicate": {"custom_model_data":93}, "model": "man10/weapon/magic/summer_dark_wand"},
+		{"predicate": {"custom_model_data":94}, "model": "man10/weapon/magic/summer_dark_wand_shot_effect"},
 
-    {"predicate": {"custom_model_data":93}, "model": "item/iron_shovel"}
+    {"predicate": {"custom_model_data":95}, "model": "item/iron_shovel"}
   ]
 }

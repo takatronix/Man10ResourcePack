@@ -3,8 +3,8 @@
 	"credit": "Made with Rakletmole",
 	"texture_size": [8, 8],
 	"textures": {
-		"0": "man10/weapon/sword/lumiswell/summer_sword",
-		"particle": "man10/weapon/sword/lumiswell/summer_sword"
+		"0": "man10/weapon/sword/lumiswell/lumiswell",
+		"particle": "man10/weapon/sword/lumiswell/lumiswell"
 	},
 	"elements": [
 		{
