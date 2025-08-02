@@ -99,7 +99,8 @@
 		{"predicate": {"custom_model_data":92}, "model": "man10/weapon/wing/scale_wing"},
 		{"predicate": {"custom_model_data":93}, "model": "man10/weapon/magic/summer_dark_wand"},
 		{"predicate": {"custom_model_data":94}, "model": "man10/weapon/magic/summer_dark_wand_shot_effect"},
+		{"predicate": {"custom_model_data":95}, "model": "man10/weapon/wing/celestia_wing"},
 
-    {"predicate": {"custom_model_data":95}, "model": "item/iron_shovel"}
+    {"predicate": {"custom_model_data":96}, "model": "item/iron_shovel"}
   ]
 }
