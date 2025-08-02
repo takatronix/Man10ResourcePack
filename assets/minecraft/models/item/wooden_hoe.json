@@ -111,7 +111,9 @@
         {"predicate": {"custom_model_data":101}, "model": "man10/hat/clownfish_hat"},
         {"predicate": {"custom_model_data":102}, "model": "man10/hat/shark_hat"},
         {"predicate": {"custom_model_data":103}, "model": "man10/hat/star_lamp"},
+        {"predicate": {"custom_model_data":104}, "model": "man10/hat/kabuto_hat"},
+        {"predicate": {"custom_model_data":105}, "model": "man10/hat/kuwagata_hat"},
 
-        {"predicate": {"custom_model_data":104}, "model": "item/wooden_hoe"}
+        {"predicate": {"custom_model_data":106}, "model": "item/wooden_hoe"}
     ]
 }

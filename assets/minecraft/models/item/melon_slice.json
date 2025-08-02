@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/melon_slice"
+    },
+    "overrides": [
+    	{ "predicate": {"custom_model_data":1}, "model": "man10/food/3d_slice_watermelon"},
+
+    	{ "predicate": {"custom_model_data":2}, "model": "item/melon_slice"}
+    ]
+}
