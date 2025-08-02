@@ -493,8 +493,12 @@
     { "predicate": {"custom_model_data": 482}, "model": "man10/equipment/bbq"},
     { "predicate": {"custom_model_data": 483}, "model": "man10/equipment/cumulonimbus_sofa"},
     { "predicate": {"custom_model_data": 484}, "model": "man10/equipment/firework_carpet"},
+    { "predicate": {"custom_model_data": 485}, "model": "man10/equipment/kingyo_nui"},
+    { "predicate": {"custom_model_data": 486}, "model": "man10/equipment/morning_glory_curtain"},
+    { "predicate": {"custom_model_data": 487}, "model": "man10/equipment/starry_bed"},
+    { "predicate": {"custom_model_data": 488}, "model": "man10/equipment/summer_desk"},
 
-    { "predicate": {"custom_model_data": 485 }, "model": "item/stone_hoe" },
+    { "predicate": {"custom_model_data": 489 }, "model": "item/stone_hoe" },
 
 
 
