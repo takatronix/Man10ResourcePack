@@ -497,8 +497,18 @@
     { "predicate": {"custom_model_data": 486}, "model": "man10/equipment/morning_glory_curtain"},
     { "predicate": {"custom_model_data": 487}, "model": "man10/equipment/starry_bed"},
     { "predicate": {"custom_model_data": 488}, "model": "man10/equipment/summer_desk"},
+    { "predicate": {"custom_model_data": 489}, "model": "man10/equipment/yadokari_nui"},
+    { "predicate": {"custom_model_data": 490}, "model": "man10/equipment/yadokari_nui_coal"},
+    { "predicate": {"custom_model_data": 491}, "model": "man10/equipment/yadokari_nui_copper"},
+    { "predicate": {"custom_model_data": 492}, "model": "man10/equipment/yadokari_nui_diamond"},
+    { "predicate": {"custom_model_data": 493}, "model": "man10/equipment/yadokari_nui_emerald"},
+    { "predicate": {"custom_model_data": 494}, "model": "man10/equipment/yadokari_nui_gold"},
+    { "predicate": {"custom_model_data": 495}, "model": "man10/equipment/yadokari_nui_iron"},
+    { "predicate": {"custom_model_data": 496}, "model": "man10/equipment/yadokari_nui_lapis"},
+    { "predicate": {"custom_model_data": 497}, "model": "man10/equipment/yadokari_nui_netherite"},
+    { "predicate": {"custom_model_data": 498}, "model": "man10/equipment/yadokari_nui_redstone"},
 
-    { "predicate": {"custom_model_data": 489 }, "model": "item/stone_hoe" },
+    { "predicate": {"custom_model_data": 499 }, "model": "item/stone_hoe" },
 
 
 
