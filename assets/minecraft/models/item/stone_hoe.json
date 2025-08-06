@@ -507,8 +507,9 @@
     { "predicate": {"custom_model_data": 496}, "model": "man10/equipment/yadokari_nui_lapis"},
     { "predicate": {"custom_model_data": 497}, "model": "man10/equipment/yadokari_nui_netherite"},
     { "predicate": {"custom_model_data": 498}, "model": "man10/equipment/yadokari_nui_redstone"},
+    { "predicate": {"custom_model_data": 499}, "model": "man10/equipment/juice_table"},
 
-    { "predicate": {"custom_model_data": 499 }, "model": "item/stone_hoe" },
+    { "predicate": {"custom_model_data": 500 }, "model": "item/stone_hoe" },
 
 
 
