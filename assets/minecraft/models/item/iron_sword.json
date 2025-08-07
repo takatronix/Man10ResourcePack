@@ -101,7 +101,8 @@
         { "predicate": {"custom_model_data": 92 }, "model": "man10/weapon/sword/rotating_blade"},
         { "predicate": {"custom_model_data": 93 }, "model": "man10/weapon/sword/lumiswell"},
         { "predicate": {"custom_model_data": 94 }, "model": "man10/weapon/sword/nebula_tide"},
+        { "predicate": {"custom_model_data": 95 }, "model": "man10/weapon/other/lunar_scythe"},
 
-    { "predicate": {"custom_model_data": 95 }, "model": "item/iron_sword" }
+    { "predicate": {"custom_model_data": 96 }, "model": "item/iron_sword" }
   ]
 }
